@@ -1,0 +1,7 @@
+.venv
+myenv
+
+
+FINE-TUNE/fine_tuned_model/
+FINE-TUNE/gemma_merged/
+FINE-TUNE/gemma_finetune/
