@@ -1,0 +1,1555 @@
+ 
+Notes on Demands for Grants, 2025-2026 
+ 
+101 
+ 
+No. 27/Ministry of Electronics and Information Technology 
+ 
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+DEMAND NO. 27 
+Ministry of Electronics and Information Technology 
+ 
+ 
+ 
+(In ` crores) 
+ 
+ 
+ 
+Actual 2023-2024 
+Budget 2024-2025 
+Revised 2024-2025 
+Budget 2025-2026 
+ 
+ 
+ 
+Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gross 
+12457.46 
+389.63 
+12847.09 21355.89 
+581.01 
+21936.90 
+17209.75 
+356.56 
+17566.31 25583.11 
+443.14 26026.25 
+ 
+ 
+ 
+ 
+ 
+ 
+Recoveries 
+-80.75 
+... 
+-80.75 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+ 
+ 
+ 
+ 
+ 
+ 
+Receipts 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+ 
+ 
+ 
+ 
+ 
+ 
+Net 
+12376.71 
+389.63 
+12766.34 21355.89 
+581.01 
+21936.90 
+17209.75 
+356.56 
+17566.31 25583.11 
+443.14 26026.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. The Budget allocations, net of recoveries, are given below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CENTRE'S EXPENDITURE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Establishment Expenditure of the Centre 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+Secretariat 
+ 
+123.80 
+28.93 
+152.73 
+125.80 
+49.20 
+175.00 
+158.85 
+51.15 
+210.00 
+164.97 
+45.28 
+210.25 
+ 
+2. 
+National Informatics Centre 
+ 
+1264.00 
+142.19 
+1406.19 
+1399.94 
+348.70 
+1748.64 
+1399.73 
+138.61 
+1538.34 
+1384.60 
+215.40 
+1600.00 
+ 
+3. 
+Regulatory Authorities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.01 
+Standardization Testing and Quality Certification 
+(STQC) 
+ 
+102.46 
+33.92 
+136.38 
+137.50 
+37.50 
+175.00 
+128.85 
+21.15 
+150.00 
+134.65 
+35.35 
+170.00 
+ 
+ 
+3.02 
+Cyber Security (CERT-In) 
+ 
+65.07 
+184.21 
+249.28 
+93.04 
+144.96 
+238.00 
+96.00 
+145.00 
+241.00 
+109.00 
+146.00 
+255.00 
+ 
+ 
+3.03 
+Controller of Certifying Authorities (CCA) 
+ 
+10.64 
+0.38 
+11.02 
+13.39 
+0.61 
+14.00 
+14.39 
+0.61 
+15.00 
+14.39 
+0.61 
+15.00 
+ 
+ 
+3.04 
+Data Protection Board 
+ 
+... 
+... 
+... 
+1.96 
+0.04 
+2.00 
+1.96 
+0.04 
+2.00 
+4.50 
+0.50 
+5.00 
+ 
+ 
+Total- Regulatory Authorities 
+178.17 
+218.51 
+396.68 
+245.89 
+183.11 
+429.00 
+241.20 
+166.80 
+408.00 
+262.54 
+182.46 
+445.00 
+Total-Establishment Expenditure of the Centre 
+1565.97 
+389.63 
+1955.60 
+1771.63 
+581.01 
+2352.64 
+1799.78 
+356.56 
+2156.34 
+1812.11 
+443.14 
+2255.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Central Sector Schemes/Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIGITAL INDIA Program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. 
+Electronic Governance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.01 
+Program Component 
+ 
+552.86 
+... 
+552.86 
+631.50 
+... 
+631.50 
+631.50 
+... 
+631.50 
+590.00 
+... 
+590.00 
+ 
+ 
+4.02 
+EAP Component 
+ 
+18.78 
+... 
+18.78 
+18.50 
+... 
+18.50 
+24.50 
+... 
+24.50 
+27.00 
+... 
+27.00 
+ 
+ 
+Total- Electronic Governance 
+571.64 
+... 
+571.64 
+650.00 
+... 
+650.00 
+656.00 
+... 
+656.00 
+617.00 
+... 
+617.00 
+ 
+5. 
+National Knowledge Network 
+ 
+581.94 
+... 
+581.94 
+240.26 
+... 
+240.26 
+490.26 
+... 
+490.26 
+0.25 
+... 
+0.25 
+ 
+6. 
+Promotion of Electronics and IT HW Manufacturing  
+(MSIPS, EDF and Manufacturing Clusters) 
+ 
+694.27 
+... 
+694.27 
+750.00 
+... 
+750.00 
+677.68 
+... 
+677.68 
+712.00 
+... 
+712.00 
+ 
+7. 
+Promotion of IT/ITeS Industries 
+ 
+115.76 
+... 
+115.76 
+130.00 
+... 
+130.00 
+128.50 
+... 
+128.50 
+130.00 
+... 
+130.00 
+ 
+8. 
+Cyber Security Projects 
+ 
+316.51 
+... 
+316.51 
+759.00 
+... 
+759.00 
+322.00 
+... 
+322.00 
+782.00 
+... 
+782.00 
+ 
+9. 
+R and D in IT/Electronics/CCBT 
+ 
+877.09 
+... 
+877.09 
+1148.25 
+... 
+1148.25 
+1183.56 
+... 
+1183.56 
+1249.75 
+... 
+1249.75 
+
+ 
+Notes on Demands for Grants, 2025-2026 
+ 
+102 
+ 
+No. 27/Ministry of Electronics and Information Technology 
+ 
+ 
+(In ` crores) 
+ 
+ 
+ 
+Actual 2023-2024 
+Budget 2024-2025 
+Revised 2024-2025 
+Budget 2025-2026 
+ 
+ 
+ 
+Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total 
+ 
+10. 
+Promotion of Digital payment 
+ 
+582.75 
+... 
+582.75 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+ 
+11. 
+Capacity Building and Skill Development Scheme 
+ 
+434.16 
+... 
+434.16 
+537.50 
+... 
+537.50 
+537.50 
+... 
+537.50 
+575.00 
+... 
+575.00 
+ 
+12. 
+Promotion of Digital Transactions (excluding Digital 
+Payments) 
+ 
+... 
+... 
+... 
+1.50 
+... 
+1.50 
+4.50 
+... 
+4.50 
+5.00 
+... 
+5.00 
+ 
+Total-DIGITAL INDIA Program 
+4174.12 
+... 
+4174.12 
+4216.51 
+... 
+4216.51 
+4000.00 
+... 
+4000.00 
+4071.00 
+... 
+4071.00 
+ 
+13. 
+IndiaAI Mission 
+ 
+... 
+... 
+... 
+551.75 
+... 
+551.75 
+173.00 
+... 
+173.00 
+2000.00 
+... 
+2000.00 
+ 
+14. 
+Modified Programme for Development of Semiconductors and Display 
+Manufacturing Ecosystem in India 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.01 
+Modified Scheme for setting up of Compound 
+Semiconducors/Silicon Photonics/Sensors 
+Fab/Discrete Semiconductors Fab and 
+Semiconductor Assembly, Testing, Marking and 
+Packaging (ATMP)/Outsourced Semiconductor 
+Assembly and Test (OSAT) facilities in India 
+ 
+644.32 
+... 
+644.32 
+4203.00 
+... 
+4203.00 
+2500.00 
+... 
+2500.00 
+3900.00 
+... 
+3900.00 
+ 
+ 
+14.02 
+Modified Scheme for Setting up of 
+Semiconductor Fabs in India 
+ 
+... 
+... 
+... 
+1500.00 
+... 
+1500.00 
+1200.00 
+... 
+1200.00 
+2499.96 
+... 
+2499.96 
+ 
+ 
+14.03 
+Modified Scheme for setting up of Display Fabs 
+in India 
+ 
+... 
+... 
+... 
+100.00 
+... 
+100.00 
+0.01 
+... 
+0.01 
+0.04 
+... 
+0.04 
+ 
+ 
+14.04 
+Modernisation of Semi-Conductor Laboratory, 
+Mohali 
+ 
+6.23 
+... 
+6.23 
+900.00 
+... 
+900.00 
+11.00 
+... 
+11.00 
+400.00 
+... 
+400.00 
+ 
+ 
+14.05 
+Design Linked Incentive Scheme 
+ 
+30.56 
+... 
+30.56 
+200.00 
+... 
+200.00 
+105.46 
+... 
+105.46 
+200.00 
+... 
+200.00 
+ 
+ 
+Total- Modified Programme for Development of Semiconductors and 
+Display Manufacturing Ecosystem in India 
+681.11 
+... 
+681.11 
+6903.00 
+... 
+6903.00 
+3816.47 
+... 
+3816.47 
+7000.00 
+... 
+7000.00 
+ 
+15. 
+Production Linked Incentive Scheme (PLI) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.01 
+Production linked Incentive for Large Scale 
+Electronics Manufacturing 
+ 
+4230.30 
+... 
+4230.30 
+6125.00 
+... 
+6125.00 
+5747.00 
+... 
+5747.00 
+8885.00 
+... 
+8885.00 
+ 
+ 
+15.02 
+Production Linked Incentive for IT Hardware 
+ 
+54.10 
+... 
+54.10 
+75.00 
+... 
+75.00 
+30.00 
+... 
+30.00 
+115.00 
+... 
+115.00 
+ 
+ 
+Total- Production Linked Incentive Scheme (PLI) 
+4284.40 
+... 
+4284.40 
+6200.00 
+... 
+6200.00 
+5777.00 
+... 
+5777.00 
+9000.00 
+... 
+9000.00 
+Total-Central Sector Schemes/Projects 
+9139.63 
+... 
+9139.63 
+17871.26 
+... 
+17871.26 
+13766.47 
+... 
+13766.47 
+22071.00 
+... 
+22071.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other Central Sector Expenditure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Autonomous Bodies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16. 
+Centre for Development of Advanced Computing (C-DAC) 
+ 
+270.00 
+... 
+270.00 
+270.00 
+... 
+270.00 
+270.00 
+... 
+270.00 
+275.00 
+... 
+275.00 
+ 
+17. 
+Centre for Materials for Electronics and Information 
+Technology (C-MET) 
+ 
+83.02 
+... 
+83.02 
+110.00 
+... 
+110.00 
+90.00 
+... 
+90.00 
+100.00 
+... 
+100.00 
+ 
+18. 
+Society for Applied Microwave Electronics Engineering 
+and Research (SAMEER) 
+ 
+150.00 
+... 
+150.00 
+160.00 
+... 
+160.00 
+160.00 
+... 
+160.00 
+160.00 
+... 
+160.00 
+ 
+19. 
+Unique Identification Authority of India (UIDAI) 
+ 
+800.00 
+... 
+800.00 
+600.00 
+... 
+600.00 
+600.00 
+... 
+600.00 
+600.00 
+... 
+600.00 
+ 
+20. 
+Bhaskaracharya National Institute for Space Applications 
+and Geo-Information 
+ 
+23.90 
+... 
+23.90 
+20.00 
+... 
+20.00 
+20.00 
+... 
+20.00 
+50.00 
+... 
+50.00 
+ 
+21. 
+Semi Conductor Laboratory (SCL) 
+ 
+409.94 
+... 
+409.94 
+540.00 
+... 
+540.00 
+490.00 
+... 
+490.00 
+500.00 
+... 
+500.00 
+ 
+Total-Autonomous Bodies 
+1736.86 
+... 
+1736.86 
+1700.00 
+... 
+1700.00 
+1630.00 
+... 
+1630.00 
+1685.00 
+... 
+1685.00 
+Others 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22. 
+Digital India Corporation erstwhile Media Lab Asia 
+ 
+15.00 
+... 
+15.00 
+13.00 
+... 
+13.00 
+13.50 
+... 
+13.50 
+15.00 
+... 
+15.00 
+ 
+23. 
+Actual Recoveries 
+ 
+-80.75 
+... 
+-80.75 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+... 
+ 
+Total-Others 
+-65.75 
+... 
+-65.75 
+13.00 
+... 
+13.00 
+13.50 
+... 
+13.50 
+15.00 
+... 
+15.00 
+
+ 
+Notes on Demands for Grants, 2025-2026 
+ 
+103 
+ 
+No. 27/Ministry of Electronics and Information Technology 
+ 
+ 
+(In ` crores) 
+ 
+ 
+ 
+Actual 2023-2024 
+Budget 2024-2025 
+Revised 2024-2025 
+Budget 2025-2026 
+ 
+ 
+ 
+Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total Revenue 
+Capital 
+Total 
+Total-Other Central Sector Expenditure 
+1671.11 
+... 
+1671.11 
+1713.00 
+... 
+1713.00 
+1643.50 
+... 
+1643.50 
+1700.00 
+... 
+1700.00 
+Grand Total 
+12376.71 
+389.63 
+12766.34 
+21355.89 
+581.01 
+21936.90 
+17209.75 
+356.56 
+17566.31 
+25583.11 
+443.14 
+26026.25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. Developmental Heads 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Economic Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+Industries 
+ 
+10190.21 
+... 
+10190.21 
+17443.02 
+... 
+17443.02 
+13674.52 
+... 
+13674.52 
+21226.44 
+... 
+21226.44 
+ 
+2. 
+Secretariat-Economic Services 
+ 
+1386.50 
+... 
+1386.50 
+1525.74 
+... 
+1525.74 
+1558.58 
+... 
+1558.58 
+1549.57 
+... 
+1549.57 
+ 
+3. 
+Census Surveys and Statistics 
+ 
+800.00 
+... 
+800.00 
+600.00 
+... 
+600.00 
+600.00 
+... 
+600.00 
+600.00 
+... 
+600.00 
+ 
+4. 
+Capital Outlay on Telecommunication and Electronic 
+Industries 
+ 
+... 
+218.51 
+218.51 
+... 
+183.11 
+183.11 
+... 
+166.80 
+166.80 
+... 
+182.46 
+182.46 
+ 
+5. 
+Capital Outlay on Other General Economic Services 
+ 
+... 
+171.12 
+171.12 
+... 
+397.90 
+397.90 
+... 
+189.76 
+189.76 
+... 
+260.68 
+260.68 
+Total-Economic Services 
+12376.71 
+389.63 
+12766.34 
+19568.76 
+581.01 
+20149.77 
+15833.10 
+356.56 
+16189.66 
+23376.01 
+443.14 
+23819.15 
+Others 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. 
+North Eastern Areas 
+ 
+... 
+... 
+... 
+1787.13 
+... 
+1787.13 
+1376.65 
+... 
+1376.65 
+2207.10 
+... 
+2207.10 
+Total-Others 
+... 
+... 
+... 
+1787.13 
+... 
+1787.13 
+1376.65 
+... 
+1376.65 
+2207.10 
+... 
+2207.10 
+Grand Total 
+12376.71 
+389.63 
+12766.34 
+21355.89 
+581.01 
+21936.90 
+17209.75 
+356.56 
+17566.31 
+25583.11 
+443.14 
+26026.25 
+ 
+ 
+ 
+ 
+1. 
+Secretariat:..The provision is for establishment related expenditure of MeitY Secretariat. 
+ 
+2. 
+National Informatics Centre:..National Informatics Centre (NIC), an attached office of the 
+Ministry of Electronics & Information Technology (MeitY), is a premier Scientific/Technical organization providing e-
+Governance ICT Infrastructure, applications and services for the delivery of citizen centric services. 
+ 
+3.01. 
+Standardization Testing and Quality Certification (STQC):..Standardisation Testing and 
+Quality Certification (STQC) Directorate, an attached office under MeitY, provides testing, calibration and training 
+services to the industries, PSUs and Government organizations (Centre and State) for assuring quality and reliability of 
+electronics and information technology (IT) products. It also provides process certification services such as Quality 
+Management Systems (ISO 9001), Information security management systems (ISO 27001) and product certification 
+services such as Safety (S mark and CRS), Security (IoT and Biometric Devices) EPS, GIGW etc. Further STQC is 
+also involved in the process audit of CSP and Digital Forensics lab enabling MeitY for empanelment of these 
+organizations. 
+ 
+3.02. 
+Cyber Security (CERT-In):..In accordance with the provisions contained under the IT Act 
+2000, CERT-In has been established. CERT-In serves as the national agency for incident response to perform various 
+functions in the area of cyber security like collection, analysis and dissemination of information on cyber incidents, 
+issue of guidelines, advisories, vulnerability notes and whitepapers relating to information security practices, 
+procedures, prevention, response and reporting of cyber incidents, forecast and alerts of cyber security incidents, 
+emergency measures for handling cyber security incidents, coordination of cyber secuirty incidents, etc. It is also the 
+authorised agency to monitor and collect traffic data or information through any computer resource to enhance cyber 
+security and for identification, analysis and prevention of intrusion or spread of computer contaminant in the country. 
+ 
+3.03. 
+Controller of Certifying Authorities (CCA):..CCA issues licences to Certifying Authorities 
+(CAs) for issue of Digital Signature Certificates (DSC). CCA certifies the Public Keys of CAs, lays down the standards 
+to be maintained by CAs and carries out other functions as included in Section 18 of the IT Act, 2000. 
+ 
+3.04. 
+Data Protection Board:..The Digital Personal Data Protection Act, 2023 has been enacted on 
+11th August 2023. This Act provides for the processing of digital personal data in a manner that recognizes both the 
+rights of the individuals to protect their personal data and the need to process such personal data for lawful purposes 
+and for matters connected therewith or incidental thereto. Chapter V of Digital Personal Data Protection Act, 2023 
+provides for setting up of a Data Protection Board - DPB. The budget provision is towards meeting the salary and other 
+establishment expenses of DPB. 
+ 
+4. 
+Electronic Governance:..The objective of e-Governance, in broader terms, is to deliver all 
+Government services electronically to the citizens in his/her locality through integrated and inter-operable systems via 
+multiple modes, while ensuring efficiency, transparency and reliability of such services at affordable costs. The World 
+Bank supported India: e-Delivery of Public Services project is an externally aided project under Electronic Governance 
+scheme. It visualises Digital Governance as a way ahead and Digital Public Infrastructure as the cornerstone for a 
+robust, dynamic and secure digital ecosystem. 
+ 
+ 
+The allocation includes provision for Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DAJGUA). 
+ 
+5. 
+National Knowledge Network:..The scheme has been initiated for establishing the National 
+Knowledge Network with multiple gigabit bandwidth to connect Knowledge Institutions across the country with research 
+and education focus along with Government network which will help to benefit the Digital ecosystem in India. 
+ 
+6. 
+Promotion of Electronics and IT HW Manufacturing  (MSIPS, EDF and Manufacturing 
+Clusters):..The Government has been taking several initiatives for promotion of electronics manufacturing in the 
+
+ 
+Notes on Demands for Grants, 2025-2026 
+ 
+104 
+ 
+No. 27/Ministry of Electronics and Information Technology 
+country to provide an enabling environment for the industry to compete globally. Electronics manufacturing is one of 
+the important pillars of the Digital India and Make in India Programmes.  Its target to achieve net zero imports is a 
+striking demonstration of intent.  The National Policy on Electronics 2019 (NPE 2019) envisions positioning India as a 
+global hub for Electronics System Design and Manufacturing (ESDM) by encouraging and driving capabilities in the 
+country for developing core components, including chipsets and creating an enabling environment for the industry to 
+compete globally. 
+ 
+7. 
+Promotion of IT/ITeS Industries:..Two schemes (NEBPS and IBPS) under IT for Jobs pillar 
+have been launched under Digital India Programme to incentivize BPO/ITES operations across the country, particularly 
+digitally deficit areas for creation of employment opportunities for the youths and the balanced regional growth of 
+IT/ITES Industry. 
+ 
+8. 
+Cyber Security Projects:..The objective of the scheme is to adopt a holistic approach towards 
+securing the cyber space of the country by pursuing multiple initiatives like Security Policy, Compliance and Assurance, 
+Security, Incident-Early warning & Response, Security Training, Enabling Legal Framework and Collaboration. 
+ 
+9. 
+R and D in IT/Electronics/CCBT:..Proliferation and absorption of emerging technology by 
+supporting R&D is one of the important objectives of this program apart from creating essential R&D infrastructure and 
+scientific & technical human capital. The outcome of these endeavours is expected to increase the start-up base in the 
+country, enhance the IP portfolio, development of indigenous technologies and know-how and its transfer to Indian 
+companies for manufacturing. The focused R&D being supported by the department are classified as R&D in 
+Electronics (Electronics System Design & Application, Microelectronics, Nanoelectronics, Electronic Component & 
+Material Technology, Medical Electronics & Health Informatics, Innovation Promotion & start-ups, National Language 
+Technology Mission (NLTM) under TDIL, High Performance Computing (HPC) including National Supercomputing 
+Mission); R&D in IT  (Blockchain, Quantum Technologies, Artificial Intelligence, Perception Engineering and Data 
+Analytics); R&D in CC&BT (Next Generation Communication-5G & beyond, Cognitive & Software Defined Radio and 
+Networks, Cloud Communications, IoT, Big Data Analytics, Broadband Wireless Technology and Strategic Electronics); 
+and Security Specific R&D. 
+ 
+11. 
+Capacity Building and Skill Development Scheme:..The objective of the program is to 
+ensure the availability of trained human resources for the manufacturing & service sectors of Electronics and IT 
+industry. Initiatives include identifying gaps emerging from the formal sector and planning programmes in non-formal 
+and formal sectors for meeting these gaps. This includes Skill Development in the domain of Electronics & IT and 
+related areas. The PMGDISHA component of this scheme is aimed at empowering the citizens in rural areas by 
+imparting them training to operate computer or digital access devices, especially for digital payments to actively 
+participate in the process of nation-building. 
+ 
+12. 
+Promotion of Digital Transactions (excluding Digital Payments):..The objective of the 
+scheme is to promote overall digitisation for the development of systems, apps for the efficient delivery of citizen centric 
+services and empowerment of citizens which would help in growth of  Digital Transactions in the country which inter-
+alia includes the inter-connected matters having cascading effect for Promotion of Digital Payments scheme including 
+study to estimate and measure digital economy of India, including suggesting a measurement framework, and 
+providing suitable policy recommendations for boosting the size and growth of the digital economy in India by 
+leveraging the Digital technologies. 
+ 
+13. 
+IndiaAI Mission:..The Government of India approved the IndiaAI Mission on 7th March 2024, a 
+comprehensive national level program to democratize and catalyze the AI innovation ecosystem in the country and 
+ensure the global competitiveness of  AI startups and researchers  of India . The Mission aims to establish a robust AI 
+ecosystem through strategic programs and partnerships across the public and private sectors. By democratizing 
+computing access, improving data quality, developing indigenous AI capabilities, attracting top AI talent, enabling 
+industry collaboration, providing startup risk capital, ensuring socially impactful AI projects and bolstering ethical AI, it 
+will drive responsible, inclusive growth of  AI ecosystem of India. The Mission would encompass 7 following 
+components: IndiaAI Compute Capacity, IndiaAI Innovation Centre, IndiaAI Datasets Platform, IndiaAI Application 
+Development Initiative, IndiaAI FutureSkills, IndiaAI Startup Financing, and Safe and Trusted AI. 
+ 
+14. 
+Modified Programme for Development of Semiconductors and Display Manufacturing 
+Ecosystem in India:..In furtherance of the vision of Aatmanirbhar Bharat and positioning India as the global hub for 
+electronic system designing and manufacturing, ESDM, a comprehensive programme for the development of 
+semiconductors and display manufacturing ecosystem in India has been approved by Government of India with an 
+outlay of..`.76,000 crore. The Programme contained various schemes to attract investments in the field of 
+semiconductors and display manufacturing. The programme aims to provide attractive incentive support to companies 
+or consortia that are engaged in Silicon Semiconductor Fabs, Display Fabs, Compound Semiconductors, Silicon 
+Photonics, Sensors, including MEMS, Fabs, Discrete Semiconductor Fabs, Semiconductor Packaging, ATMP or OSAT 
+and Semiconductor Design... 
+ 
+15. 
+Production Linked Incentive Scheme (PLI):..The two Production Linked Incentive (PLI) 
+Schemes offer production linked incentives to boost domestic manufacturing and attract large investments in Mobile 
+Phones & Specified Electronic Components, and IT Hardware respectively. Under the PLI Scheme for Mobile Phones 
+& Specified Electronic Components, incentives of 6% to 3% shall be extended on incremental sales (over the base 
+year 2019-20) of goods manufactured in India and covered under the target segment to eligible companies for a period 
+of five years. The PLI Scheme 2.0 for IT Hardware extends an average incentive of around 5% (based on localization 
+of components/sub-assemblies) on net incremental sales (over base year) of goods manufactured in India and covered 
+under the target segment, to eligible companies, for a period of six years. The target segment includes (i) Laptops (ii) 
+Tablets (iii) All-in-one PCs (iv) Servers and (v) USFF (Ultra Small Form Factor). 
+ 
+16. 
+Centre for Development of Advanced Computing (C-DAC):..Centre for Development of 
+Advanced Computing (C-DAC): It is primarily an R&D institution engaged in the design, development and deployment 
+of electronics and advanced Information Technology (IT) products and solutions. Originally established to carry out 
+research and to develop High Performance Computers, the R&D of C-DAC has expanded to various other technology 
+verticals such Quantum Computing, Artificial Intelligence (AI), Strategic Technology (Including Emergency/Disaster 
+Management), Digital India RISC-V (DIR-V), Software Technology (including Cloud and BOSS), e-Governance, 
+Healthcare & Educational Technologies, Cyber Security, Automotive Technology, Communication Technology, Power 
+Electronics & Renewable Energy and Internet of Things (IoT). Presently, C-DAC has 12 centres spread over the 
+country in the cities of Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, Mohali, Mumbai, Noida, Patna, Pune, Silchar, 
+and Thiruvananthapuram. 
+ 
+17. 
+Centre for Materials for Electronics and Information Technology (C-MET):..It is a 
+registered scientific society of MeitY working in high technology electronic materials which includes LTCC electronic 
+packaging, energy storage materials (Rechargeable battery, super capacitors, hydrogen storage), Renewable energy 
+materials (solar cell, hydrogen and fuel cell), Additive manufacturing with photonics and 2D materials including 
+quantum materials and nanomaterials.  C-MET is also working on Ultrapure electronic materials Compound 
+semiconductors (SiC), electronic waste recycling technologies & RoHS compliance, and, also Microwave dielectrics 
+materials & packaging, Multilayer ceramics for actuators/sensors & plasmonic materials   sensors for biomedical 
+application. 
+ 
+18. 
+Society for Applied Microwave Electronics Engineering and Research (SAMEER):..It is a 
+registered scientific society of MeitY working in high technology areas of microwaves, milli-meterwaves and electro-
+magnetics with the specific goal of developing applications for these technologies with its five centres at Mumbai, 
+Chennai, Kolkata, Visakhapatnam and Guwahati. 
+ 
+19. 
+Unique Identification Authority of India (UIDAI):..Unique Identification Authority of India 
+(UIDAI) has been established' to implement the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits 
+and Services) Act, 2016, to provide for, as good governance, efficient, transparent and targeted delivery of subsidies, 
+benefits and services, the expenditure for which is incurred from the Consolidated Fund of India/ Consolidated Fund of 
+States. Hence, it aims at providing 'good governance', through the fair and just execution of welfare services of the 
+Government. It provides a unique identity to each resident, towards ease of living. 
+ 
+20. 
+Bhaskaracharya National Institute for Space Applications and Geo-Information:..It is an 
+Autonomous Scientific Society, registered under the Societies Registration Act, 1860 under MeitY, to undertake 
+
+ 
+Notes on Demands for Grants, 2025-2026 
+ 
+105 
+ 
+No. 27/Ministry of Electronics and Information Technology 
+technology development and management, research and development, facilitate National and International 
+cooperation, capacity building and support technology transfer and entrepreneurship development in the area of geo-
+spatial technology. 
+ 
+21. 
+Semi Conductor Laboratory (SCL):..It is an Autonomous Body under the Ministry of 
+Electronics & Information Technology and is engaged in Research & Development in the area of Microelectronics to 
+meet the strategic needs of the country. It is also engaged in Fabrication of Hi-Rel Boards, Radio Sonde Systems and 
+indigenization of electronic sub systems. 
+ 
+22. 
+Digital India Corporation erstwhile Media Lab Asia:..Digital India Corporation (DIC) leads 
+and guides in realizing the vision, objectives and goals of the Digital India program. It provides the strategic support to 
+Ministries/ Departments of Centre/ States for carrying forward the mission of Digital India by way of Capacity Building 
+for e-Governance projects, promoting best practices, encouraging Public-Private Partnerships (PPP), nurturing 
+innovations and technologies in various domains. To ensure autonomy and viability of the organization in the long run, 
+DIC also collaborates and mobilises partnerships with the industry, to evolve models for service delivery. 

@@ -1,0 +1,2272 @@
+Mapping the 
+FinTech innovation 
+landscape in India 
+ 
+ 
+
+2   PwC   |  Mapping the FinTech innovation landscape in India
+2 PwC  | Mapping the FinTech innovation landscape in India 
+
+3   PwC   |  Mapping the FinTech innovation landscape in India
+Table of contents 
+Foreword from PwC ..................................................................................................................... 04 
+Executive summary ...................................................................................................................... 05 
+Glossary ........................................................................................................................................ 07 
+Setting the context: Innovation landscape in India and globally ............................................. 08 
+Framework for innovation ......................................................................................................... 08 
+Increasing focus on innovation ................................................................................................. 10 
+Growth drivers ........................................................................................................................... 11 
+Demand-side drivers ............................................................................................................ 11 
+Supply-side drivers .............................................................................................................. 11 
+Innovation trends across the globe ............................................................................................ 16 
+Build vs procure vs partner ....................................................................................................... 21 
+Key drivers of partnerships ....................................................................................................... 26 
+Emerging partnership themes ................................................................................................... 29 
+Way forward .................................................................................................................................. 34 
+Appendix ....................................................................................................................................... 35 
+Methodology ............................................................................................................................. 35 
+3 PwC  | Mapping the FinTech innovation landscape in India 
+
+4   PwC   |  Mapping the FinTech innovation landscape in India
+Foreword from PwC 
+Vivek Belgavi 
+Leader – FinTech and Alliances and Ecosystems 
+PwC India 
+There has been a constant flux within the financial 
+the respondents see partnerships as a crucial level for 
+landscape, which is being driven by advancements 
+driving innovation in a BFSI organisation.1 Partnerships that 
+in technology and evolving customer needs. PwC’s 
+can enhance customer experience through personalised 
+innovation framework highlights the key areas of product 
+acquisition and seamless onboarding process enable better 
+development and distribution with a focus on the key 
+management of risk and compliance, and those that focus 
+dimensions of product, channel, technology and business 
+on specific ecosystems for diversifying service offerings 
+model innovation. This report focuses on identifying some 
+are expected to see increased traction in the industry. The 
+of the critical drivers of innovation such as improved 
+report highlights these and provides more such insights into 
+customer engagement and diversified product propositions, 
+the innovation and partnership landscape. 
+deciphering the view of the BFSI industry on partnerships 
+Despite a few challenges, most of the industry remains 
+for driving innovation, and exploring the impact and 
+optimistic regarding the growth of FinTechs – especially in 
+challenges faced by companies while adopting innovative 
+the areas of risk management, payments and lending – with 
+ways to conduct business. 
+more mature and sustainable business models focused 
+The insights in the report a inferences based on primary 
+on long-term viability. We hope that this report serves as a 
+research inputs from senior members of financial institutions 
+valuable resource for stakeholders navigating innovations in 
+and FinTechs. Most respondents considered diversifying 
+the FinTech ecosystem. 
+and identifying new products as the primary objective 
+We would like to extend our gratitude to the NPCI, PCI and 
+for innovation. Furthermore, meeting evolving customer 
+FCC for organising the GFF 2024 and inviting PwC India to 
+needs emerged as the most prioritised business driver 
+be a knowledge partner. 
+for innovation among organisations. More than 90% of 
+Mihir Gandhi 
+Leader – Payments Transformation 
+PwC India 
+1 PwC survey and analysis 
+4 PwC  | Mapping the FinTech innovation landscape in India 
+
+5   PwC   |  Mapping the FinTech innovation landscape in India
+Executive summary 
+The global FinTech landscape is undergoing a phase of 
+The choice of an organisation’s innovation mode – whether 
+transformation marked by innovation in processes, ideas, 
+to build, procure or partner – depends on several factors, 
+products and services in the financial sector. To this end, 
+including time to market, integration and interaction needs, 
+PwC has developed an innovation framework that explores 
+scalability, revenue generation, cost optimisation and talent 
+the lifecycle of innovation, while emphasising the areas of 
+requirements. Collaborative innovation between established 
+product development and distribution. Innovation, when 
+companies and FinTechs can offer advantages such as 
+looked at through these lenses of product development and 
+access to specialised expertise, faster innovation and 
+distribution, encompasses transformations across the four 
+market entry, alignment with regulatory standards, shared 
+dimensions of technology, product, channel and business 
+risks and costs, and improved customer experience and 
+models. 
+market reach. 
+The primary drivers that catalyse innovations include 
+By conducting primary research in the form of interviews 
+technological advancements, evolving customer 
+with senior management representatives from 31 financial 
+expectations, increasing competitiveness, a focus on 
+institutions and FinTech firms, we’ve identified the factors 
+equitable growth and regulatory reforms. These factors are 
+driving innovation, industry’s perspective on partnerships 
+contributing to a thriving FinTech ecosystem. Some of the 
+to catalyse innovation, and impact and challenges faced by 
+factors driving innovation on the demand and supply sides 
+the industry as it traverses the path to innovation. 
+include changing consumer preferences for value-driven 
+engagement and frictionless experiences, technological 
+advancements, digital public infrastructure, business 
+models shifts, employee-driven initiatives and a competitive 
+market space. 
+5 PwC  | Mapping the FinTech innovation landscape in India 
+-
+Summary of insights from the primary research 
+Figure 1. Summary of insights from the primary research 
+Organisations are prioritising innovation to diversify 
+their product and service offerings to address evolving 
+customer needs and maintain market competitiveness. 
+Innovation initiatives are aimed at enhancing customer 
+experience, optimising risk management and improving 
+operational efficiencies through the establishment of 
+innovation labs, R&D centres, idea generation platforms 
+and strategic partnerships. 
+While innovation initiatives are leading to new product 
+development and enhanced efficiencies, they are 
+facing talent resource constraints and complexities of 
+managing emerging technologies. 
+Source: PwC analysis 
+The FinTech landscape is shifting towards collaborative 
+innovation with partnerships being viewed as the key 
+driver of organisational innovation, with speed-to 
+market being a key factor driving this trend. 
+Partnerships are leading to tangible benefits like 
+increased account opening productivity, new product 
+offerings and reduced operational expenses, while 
+challenges such as API maturity, speed-to-market and 
+system integration remain. 
+Emerging themes for FinTech partnerships include 
+improving risk and compliance, enhancing customer 
+experience through seamless onboarding, embedded 
+finance and ecosystem offerings. 
+
+Imperatives on the research insights 
+Financial institutions and FinTech firms can harness the potential of innovation by considering the following imperatives that 
+have emerged from the insights of the research conducted. 
+Figure 2. Key imperatives from research findings 
+Key imperatives to foster innovation 
+Leverage 
+digital public 
+infrastructure 
+and upgrade 
+organisational 
+infrastructure, 
+such as APIs for 
+partnerships and 
+sandboxes for 
+proof of concepts, 
+to facilitate 
+innovation 
+initiatives. 
+Source: PwC analysis 
+Cultivate an 
+innovation-driven 
+culture through 
+active employee 
+engagement. 
+Establish a 
+dedicated 
+Innovation 
+Management 
+Office and 
+Compliance 
+Management 
+Office to oversee 
+innovation 
+initiatives while 
+ensuring regulatory 
+adherence. 
+Assess and 
+determine 
+the mode for 
+innovation – 
+build, procure or 
+partner – based 
+on strategic 
+considerations. 
+Develop FinTech/ 
+partnership 
+policies with 
+defined roles, 
+responsibilities 
+and a criteria-
+based evaluation 
+process, including 
+established KPIs. 
+Implement a 
+value realisation 
+framework 
+to measure 
+the impact 
+of innovation 
+initiatives and 
+partnerships on 
+the organisation. 
+6   PwC   |  Mapping the FinTech innovation landscape in India
+The BFSI industry is optimistic about the growth of the FinTech ecosystem and is anticipating a growth in solutions – 
+specifically in payment systems, risk management, and expansion into other non-FS sectors such as real estate, retail, 
+and telecom. With the growing awareness on cyber and data risk solutions, FinTechs are also developing solutions 
+independently and through partnerships, with a focus on regulatory compliance and long-term sustainability. 
+6 PwC  | Mapping the FinTech innovation landscape in India 
+
+Glossary 
+7 PwC  | Mapping the FinTech innovation landscape in India 
+Sr. no. 
+Acronym 
+Full form 
+AI 
+Artificial intelligence 
+AMC 
+Asset management company 
+APAC 
+Asia-Pacific 
+API 
+Application programming interface 
+BFSI 
+Banking, financial services and insurance 
+CBDC 
+Central Bank Digital Currency 
+CX 
+Customer experience 
+DeFi 
+Decentralised finance 
+EMEA 
+Europe, Middle-East and Africa 
+ESG 
+Environmental, social and governance 
+FCC 
+FinTech Convergence Council 
+FI 
+Financial institution 
+FS 
+Financial services 
+FY 
+Financial year 
+GenAI 
+Generative AI 
+GRC 
+Governance, risk and compliance 
+JAM 
+Jan-Dhan, Aadhaar and mobile 
+LLM 
+Large language models 
+ML 
+Machine learning 
+MSME 
+Micro, small and medium enterprises 
+NPCI 
+National Payments Corporation of India 
+NTC 
+New-to-credit 
+OCEN 
+Open Network for Digital Commerce 
+ONDC 
+Open Credit Enablement Network 
+PCI 
+Payments Council of India 
+PIDF 
+Payments Infrastructure Development Fund 
+PoS 
+Point of sale 
+RBI 
+Reserve Bank of India 
+RBIH 
+Reserve Bank Innovation Hub 
+RPA 
+Robotic process automation 
+SaaS 
+Software-as a-service 
+SME 
+Small and medium enterprises 
+UPI 
+Unified Payments Interface 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+
+Setting the context: Innovation 
+landscape in India and globally 
+Innovation is the cornerstone of every industry and can be understood as the ability to envision, create, deliver and scale 
+new products, processes and business models to tackle existing challenges or capitalise on emerging opportunities within 
+the industry. 
+Thus, a framework can help organisations to structure their approach to fostering better innovation practices. While 
+there are several existing innovation frameworks based on the product lifecycle or approaching it via a product–process 
+perspective, PwC has developed a framework that merges these approaches, while examining the innovation lifecycle 
+through the product and distribution lens. 
+Framework for innovation 
+Figure 3. Innovation management framework 
+Innovation management framework 
+Product 
+New 
+Existing 
+Distribution 
+New 
+Technological innovation 
+Channel innovation 
+Existing 
+Product innovation 
+Business model innovation 
+Source: PwC analysis 
+1. Technological innovation 
+2. Product innovation 
+Companies are exploring innovative use cases in 
+In this model, companies innovate their products and 
+technology for creating new products or solutions, thereby 
+solutions, while utilising their existing distribution channels 
+enhancing existing product propositions and testing 
+such as retail stores and other customer networks for 
+alternate ways for distributing their products to solve issues 
+a seamless market entry. The innovation cycle involves 
+faced by customers. By integrating these new solutions 
+stages like creating new ideas, developing them into 
+and distribution methods (including retail partnerships, 
+products or solutions, and testing the product in the 
+new-age logistics solutions etc.), companies can potentially 
+market. This is then followed by incorporating the new 
+transform the current innovation landscape. 
+product in the current distribution network for a seamless 
+market entry. 
+Example: A US-based FS company launched a product 
+that can be directly plugged into mobile phones and used 
+Example: The company mentioned previously introduced a 
+to read credit or debit cards. The company distributed this 
+new stand for digital tablets, which helped converting those 
+new product through online sales and retail partnership 
+tablets into ones having PoS capabilities. The company 
+channels. The product was able to help SMEs to accept 
+also leveraged its live partnerships with retail and online 
+payments done through cards without investing in 
+fronts to distribute its new product in the market. 
+comparatively costlier PoS devices. 
+8 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+3. Channel innovation 
+Companies are also exploring new ways of distributing 
+products and solutions that they have already developed. 
+Some of the approaches include collaborations with retail 
+players and e-commerce platforms, or developing new-
+age logistics solutions – such as the emergence of ‘quick 
+commerce’ in India. Companies are also exploring the use 
+of digital public infrastructure – i.e. OCEN, ONDC and UPI 
+– to distribute their product proposition and reach more 
+customers through these platforms. The lifecycle in this 
+form of innovation includes evaluating existing models of 
+distribution, exploring and arriving at new channels, and 
+then integrating existing products into these new channels 
+to reach more customers. 
+Example: The same FS company started offering 
+payment processing services and expanded its reach 
+beyond physical retail stores by partnering with popular 
+e-commerce platforms and online marketplaces, allowing 
+it to integrate seamlessly into a variety of online shopping 
+environments. This strategic move enabled the company 
+to tap a larger customer base and offer its solutions to a 
+broader audience of online sellers and buyers. 
+4. Business model innovation 
+Business model innovation involves rethinking and 
+transforming how an organisation creates, delivers and 
+captures value using existing products and distribution 
+channels – including changing revenue models, optimising 
+operations and altering customer engagement strategies. 
+This innovation lifecycle includes evaluating the current 
+business model, identifying areas for improvement, 
+redesigning processes, and implementing these 
+changes to drive enhanced performance and customer 
+satisfaction without altering the core product or distribution 
+mechanisms. 
+Example: The company also expanded its range of services 
+by launching a lending service that uses transaction data 
+to assess creditworthiness, along with other subscription 
+tools (such as inventory management, marketing tools, 
+cashflow management etc.) tailored for specific industries. 
+This diversification allowed the company to enhance its 
+value within existing channels, offering additional financial 
+solutions without altering its core product lineup, which 
+included card readers and POS terminals. 
+This framework offers an approach for fostering growth 
+and maintaining a competitive edge through strategic 
+advancements in technology, product development, 
+channel exploration and business model adjustments, 
+and underscores the importance of a balanced approach 
+to innovation – where each of those components 
+contribute to the formation of a cohesive innovation 
+strategy. 
+9 PwC  | Mapping the FinTech innovation landscape in India 
+
+10   PwC   |  Mapping the FinTech innovation landscape in India
+Increasing focus on innovation 
+The continuous pace of technological evolution, particularly 
+in areas such as AI, blockchain and data analytics, has 
+been creating new opportunities for re-imagining traditional 
+financial services and processes. Typically, AI and LLMs 
+have been enabling better customer service through 
+interactive chatbots and personalisation, while blockchain 
+is helping enable secure, transparent and efficient 
+transactions. 
+Furthermore, evolving consumer behaviour and 
+expectations – driven by the rise of digital natives 
+and increasing demand for personalised, seamless 
+and convenient financial solutions – is encouraging 
+incumbents and newcomers alike to innovate in order 
+to stay competitive. Additionally, regulatory reforms 
+and initiatives aimed at fostering competition – such 
+as regulatory sandboxes, new licencing norms, digital 
+public infrastructure – promoting financial inclusion and 
+safeguarding data privacy catalyse innovation by creating 
+a conducive environment for experimentation and market 
+entry. An example of innovation in India driven by evolving 
+consumer expectations and supportive regulatory reforms 
+is the CBDC pilot initiated by the RBI. The digital rupee 
+aims to offer a means of transaction that aligns with 
+the growing demand for secure, seamless and efficient 
+digital financial solutions. This initiative benefits from a 
+regulatory environment that encourages experimentation 
+and integration of new technologies into the financial 
+system while addressing the need for modernised payment 
+methods. 
+Additionally, the advent of dynamic FinTech ecosystems 
+comprising start-ups, accelerators, investors and 
+incumbents collaborating and competing is fuelling a 
+culture of innovation, knowledge sharing and ecosystem 
+development. When combined, these factors contribute to 
+the traction towards innovation in the FinTech landscape, 
+driving transformative changes and shaping the future of 
+financial institutions in India and beyond. 
+10 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+ 
+ 
+1  https://www.topcoder.com/blog/generative-ai/
+Growth drivers 
+Demand-side drivers 
+On the demand side, several factors are fuelling the 
+demand for innovation in the FinTech sector. 
+Evolving consumer preferences: India is experiencing 
+a rise in its per capita income, as reflected by the growth 
+in its gross national disposable income (which includes 
+net primary income and other transfers received from the 
+rest of the world), which is expected to expand by 8.9% in 
+FY24.2 Along with this, there is an increase in consumerism, 
+encouraging companies to innovate and capture a greater 
+share of wallet of consumers. Additionally, with internet 
+penetration in India reaching nearly 820 million users in 
+2024,3 the increasing digitisation of day-to-day activities is 
+transforming consumer preferences and thereby increasing 
+the demand for digital products that offer enhanced 
+convenience and accessibility. This is encouraging 
+financial institutions and FinTech companies to offer more 
+personalised products and seamless customer experiences. 
+Companies are responding by adopting omnichannel 
+strategies, leveraging big data and AI for personalisation, 
+and implementing advanced feedback systems to refine 
+services. This focus on improving customer engagement 
+helps in meeting evolving expectations while also 
+maximising customer lifetime value by delivering high-
+quality, competitively priced products and services. 
+Expansion of market base: Indian MSMEs are facing 
+challenges in terms of limited access to credit as reflected 
+by the credit gap of USD 530 billion faced by them as 
+of FY24.4 The lack of credit history, inconsistent salaries 
+and lower credit scores is affecting not only MSMEs but 
+also a few other segments of the society including blue-
+collar workers, migrants and labourers. In addition to this, 
+digital payment solutions are increasingly being adopted 
+by consumers from all backgrounds. Owing to this, digital 
+transactions in India are expected to grow from USD 2 
+trillion to USD 10 trillion by 2026 from 2023.5 Thus, there 
+is a growing demand for innovative solutions that can 
+address the credit needs of the underserved segment and 
+increasing volume of digital payments. 
+2 https://economictimes.indiatimes.com/news/economy/indicators/ 
+data-correction-indias-per-capita-disposable-income-put-at-2-14-l/ 
+articleshow/108147382.cms?from=mdr 
+3 https://economictimes.indiatimes.com/tech/technology/how-india-
+is-using-the-internet/articleshow/108354854.cms?from=mdr 
+4 https://economictimes.indiatimes.com/small-biz/sme-sector/ 
+budget-2024-msme-data-stack-alternative-credit-assessment-
+models-can-bridge-530-bn-credit-gap-says-industry/ 
+articleshow/111745366.cms?from=mdr 
+5 https://www.meity.gov.in/writereaddata/files/Impact-Assessment-
+of-DigiDhan-Mission.pdf 
+11 PwC  | Mapping the FinTech innovation landscape in India 
+Operational efficiency 
+Reducing operational costs and inefficiencies have always 
+been a major goal for companies worldwide, irrespective 
+of the industry/domain. With the growing advancements in 
+technology, companies are increasingly demanding digital 
+solutions that utilise AI/ML, data analytics and automation, 
+which can help them in optimising workflows and support 
+them in their decision making. These solutions can also 
+help companies in cost optimisation by improving their 
+internal efficiencies. 
+Supply-side drivers 
+Technological advancements: Transformations across the 
+value chain in the BFSI industry are potentially being driven 
+by the breakthroughs in technologies such as  
+AI/ML, intelligent automation, blockchain and quantum 
+computing. These technologies are enabling FinTechs and 
+other FS providers to develop new products and services. 
+For instance, blockchain-based smart contracts are being 
+used by InsurTechs to improve the efficiency of automated 
+claims management. GenAI is gaining traction as it has 
+the potential to transform business models across multiple 
+sectors including risk management, fraud detection and 
+customer support. A recent PwC survey indicates that 
+54% of companies have implemented GenAI in a few 
+areas of their businesses.6 Through its capability to analyse 
+large amounts of data, GenAI could potentially be used to 
+personalise FS products and scale customer engagement, 
+while helping reduce operational costs. 
+Digital public infrastructure and regulatory initiatives: 
+The JAM trinity has been a focus of the Indian Government 
+to improve financial inclusion. From the time of its 
+implementation, Aadhaar has been instrumental in helping 
+companies with over 118 billion digital authentications.7  
+The Government is also working on further developing the 
+country’s digital public infrastructure with new initiatives 
+such as API Setu, AgriStack and HealthStack. Furthermore, 
+the RBI is working towards creating a regulatory 
+environment that fosters innovation while focusing on 
+consumer protection through initiatives such as the RBIH 
+and regulatory sandbox. Thus, in times of increasing 
+complexity of financial transactions and rising cybersecurity 
+attacks, innovation in risk management, compliance 
+and security practices will act as key growth drivers for 
+FinTechs. 
+6 https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions. 
+html 
+7 https://uidai.gov.in/aadhaar_dashboard/ 
+
+ 
+Employee-driven innovation: Companies are nurturing a 
+culture of innovation by encouraging employees to think 
+creatively and generate new ideas. Incentive programmes 
+reward innovative contributions, while collaborative tools 
+and continuous learning opportunities help employees 
+attain the skills needed to drive innovation. Additionally, 
+companies can leverage their innovation-centric culture 
+to attract talented individuals who are eager to work on 
+cutting-edge solutions and technologies in the industry. 
+Competition landscape: Healthy competition in any 
+industry fosters a constant flow of innovation by companies 
+to stay ahead and maintain their relevance in the market. 
+While new players in the industry may innovate by creating 
+breakthrough products or business models, or designing 
+distribution methods, established players may try to come 
+up with innovative methods of achieving more process and 
+cost efficiencies in their existing products and distribution 
+channels, and leveraging them to reduce the time-to-
+market of new products. 
+Ecosystem development: The increasing popularity of 
+open banking, platformisation and ecosystem integration 
+is leading to the transformation of traditional business 
+models in finance. APIs are leading the creation of 
+new opportunities for innovation and value creation via 
+partnerships and ecosystem-driven strategies by facilitating 
+easy integration and collaboration between different 
+financial services providers. 
+Therefore, as India’s FinTech landscape matures, it is slowly 
+moving from individual technological breakthroughs and 
+product innovations to a more collaborative approach. 
+This collaborative innovation stems from the synergies 
+created when incumbents offer their resources and financial 
+expertise to tech start-ups which add their agility and 
+technological capabilities to the mix. Moreover, it facilitates 
+the creation of new products and services that are better 
+than the individual capabilities of either of the partners. 
+For this report, we have conducted primary research 
+to identify and understand the various factors that 
+drive innovation within an organisation and explore 
+perspectives on innovations facilitated through 
+partnerships. For this research, we interviewed the 
+senior management representatives from 31 FIs 
+(banks, insurance companies, AMCs) and FinTech 
+companies across the BFSI industry. Both qualitative 
+and quantitative information collected during this 
+process were analysed to identify significant trends 
+in terms of FinTech innovation and understand the 
+partnership landscape. The gathered insights were 
+then used to arrive at key imperatives for FIs to 
+harness the potential of innovation.8 
+8 The sum of all responses collected in some questions may exceed 
+100%. This is due to the respondents being allowed to mark 
+multiple answers. 
+12 PwC  | Mapping the FinTech innovation landscape in India 
+
+Primary research findings 
+Figure 4: What innovation means for different organisations 
+What does innovation mean to your organisation? 
+Diversifying and identifying new products/services 
+New methods of engaging/retaining customers 
+Expansion to new customer segments 
+Simplifying/updating process 
+New means of risk mitigation 
+Streamlining expenses and revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+83.90% 
+61.00% 
+58.10% 
+51.60% 
+45.20% 
+22.60% 
+Other opinions expressed 
+• 
+Identifying the core tasks customers need to accomplish and develop cost-effective, frictionless methods to achieve them
+• 
+Strategising to increase customer engagement and appeal 
+• 
+Focusing on business outcomes like boosting sales, reducing costs, mitigating risks and enhancing customer satisfaction 
+• 
+Exploring and implementing cutting-edge technologies such as GenAI and quantum computing 
+• 
+Developing scalable digital public infrastructure solutions that maintain cost efficiency 
+Source: PwC survey and analysis 
+ 
+In the survey response to what innovation means to their organisations, several key themes emerge. Firstly, 
+diversifying and identifying new products or services is a primary objective for many respondents, with approximately 
+84% of respondents suggesting its significance. This suggests a strategic emphasis on expanding their offerings 
+to cater to evolving market demands and opportunities. Additionally, there is an inclination towards adopting new 
+methods for engaging and retaining customers, indicating a proactive approach to enhancing customer relationships 
+and satisfaction. Furthermore, expansion into new customer segments and the exploration of new means of risk 
+mitigation are recurrent themes, highlighting a strategic intent to broaden market reach while also safeguarding 
+operational resilience. 
+Moreover, many respondents emphasised the importance of streamlining processes and optimising expenses and 
+revenues. This underscores a drive towards operational efficiency and financial sustainability alongside innovation 
+efforts. Some responses also mentioned the integration of advanced technologies, such as GenAI and quantum 
+computing, which suggests a forward-looking approach to leveraging cutting-edge tools for innovation. Overall, 
+these varied responses collectively illustrate a multifaceted understanding of innovation within organisations, 
+encompassing product diversification, customer engagement strategies, operational improvements, risk 
+management, and the strategic adoption of emerging technologies to drive future growth and competitiveness. 
+13 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Primary research findings 
+Figure 5. Key business drivers for innovation within organisations 
+What are the key business drivers that are driving innovation within your organisation? 
+Meeting evolving customer demands 
+Risk mitigation - adapting to changing 
+regulatory landscape 
+Market competitiveness 
+Growth in revenue and cost efficiency 
+Brand differentiation 
+Improving productivity 
+Employee experience 
+Talent attraction 
+84% 
+65% 
+61% 
+55% 
+35% 
+35% 
+13% 
+6% 
+Other opinions expressed 
+• 
+Anticipating and solving for customer needs 
+• 
+Digital innovation for payments 
+• 
+Creating impact in the industry by simplifying and standardising the processes to drive innovation 
+Source: PwC survey and analysis 
+The survey highlighted that 84% of FIs and FinTechs in India prioritise strategies to understand and meet evolving 
+customer demands. Additionally, 65% of organisations consider risk mitigation and adapting to changing regulatory 
+landscapes as critical factors, underscoring the importance of navigating regulatory challenges while innovating. 
+Market competitiveness follows closely as another important factor, cited by approximately 61% of respondents, 
+highlighting a strong focus on maintaining or enhancing market position through innovative practices. 
+The survey revealed that 55% of respondents consider growth in revenue and achieving cost efficiency as important 
+drivers, reflecting a focus on both profitability and operational effectiveness. Additionally, 35% highlighted brand 
+differentiation, while 32% emphasised improving productivity, suggesting that organisations are strategically aiming 
+to distinguish their offerings in the market and optimise internal processes to drive innovation. Overall, the survey 
+illustrates a comprehensive approach to innovation, combining competitive strategies with customer-centricity, 
+financial objectives, regulatory compliance and operational excellence to foster sustainable growth and differentiation 
+in their respective markets. 
+14 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+Figure 6. Organisations’ reliance on in-house initiatives vs external partnerships for innovation 
+Does your organisation prefer to foster innovation in-house or rely on external partnerships? 
+45% 
+3% 
+52% 
+Only in-house 
+Only external 
+Both 
+Source: PwC survey and analysis 
+Primary research findings 
+According to the survey responses, approximately 
+45% of the participants prefer to promote innovation 
+primarily through internal initiatives, indicating a strong 
+preference for using internal resources and expertise 
+to drive innovation. In contrast, only one respondent 
+stated that they rely exclusively on external partnerships 
+to innovate, thereby highlighting a deliberate choice to 
+collaborate with external entities to improve innovation 
+capabilities. Of the organisations surveyed, 52% 
+mentioned adopting a hybrid approach, incorporating 
+both in-house initiatives and external partnerships 
+to promote innovation. This dual strategy reflects a 
+balanced approach where organisations aim to capitalise 
+on internal strengths while utilising external resources 
+and expertise to accelerate innovation efforts and 
+achieve strategic objectives. 
+15 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1. Innovation use cases across the globe 
+Innovation use 
+cases 
+India 
+APAC 
+Americas 
+EMEA 
+Build 
+•
+A real-time payments
+system that enables
+instant money
+transfers between
+bank accounts using
+a mobile interface for
+quick and seamless
+transaction
+•
+Mobile wallets
+that facilitate
+seamless monetary
+transactions and
+integrate various
+financial services
+•
+SuperApps that
+combine multiple
+Technology companies 
+that build economic 
+infrastructure for the 
+internet, providing 
+payment processing and 
+financial services for 
+online businesses 
+•
+Digital banking
+platforms that
+offer a range of
+financial services,
+from savings to
+investments to meet
+evolving customer
+needs
+•
+A licence model for
+online-only banking
+services that offers
+a range of financial
+products without the
+need for physical
+branches, improving
+accessibility to
+customers
+•
+A digital public
+infrastructure that
+companies can
+leverage to build
+their products
+and distribution
+strategies
+services, including
+payments, ride-
+hailing and food
+delivery, into a
+single platform to
+offer customers a
+streamlined digital
+experience
+•
+Mobile-first
+neobanks that
+operate primarily
+through a mobile
+app, focusing on
+user-friendly digital
+services, curated
+for the digital-first
+consumer
+Procure 
+•
+FinTech platforms
+Payment companies
+•
+Payment processing
+Banks across the globe 
+acquiring licences
+acquiring companies
+companies acquiring
+upgrading and acquiring
+through company
+specialising in biomet-
+other payment
+their core banking sys-
+acquisitions
+ric authentication to 
+companies in other
+tems with leading SaaS
+•
+Payment companies
+acquiring technology,
+enhance their security 
+processes 
+countries to expand
+there
+companies 
+risk and capital
+•
+Payment processing
+solutions
+company acquiring a
+rewards platform to
+integrate cashback
+and discount
+features, enhancing
+the value proposition
+for users
+ 
+Innovation trends 
+across the globe 
+Let’s explore a range of global innovations, categorised into three key approaches: build, procure and partner. The ‘build’ 
+section illustrates how companies in different regions are developing new financial technologies – such as real-time 
+payment systems, digital banking platforms and integrated financial services. The ‘procure’ category highlights how firms 
+are enhancing their offerings through acquisitions – including technology, licences and strategic acquisitions – to expand 
+capabilities and integrate new features. Lastly, the ‘partner’ category gives emphasis to collaborative approaches, reflecting 
+how partnerships between FinTechs, banks and other entities are driving innovation and expanding service ecosystems. 
+16 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Partner 
+• 
+FinTech – 
+• 
+Mobile wallets 
+Banks partnering with
+• 
+Banks partnering
+e-commerce 
+partnering with other
+other companies to
+with FinTechs to 
+partnerships to 
+start-ups to expand
+launch integrated credit 
+integrate open
+create their monetary 
+their services and 
+or debit cards 
+banking services,
+ecosystems 
+build a superApp 
+enhancing 
+• 
+FinTech – bank 
+partnerships to
+increase the speed-
+to-market of digital 
+• 
+Tech companies and
+investors partnering
+to foster FinTech 
+innovation and 
+transparency and 
+customer control 
+over financial 
+information 
+products 
+support the growth 
+• 
+Banks launching
+of emerging FinTech 
+their accelerators to 
+start-ups through
+invest in start-ups
+an accelerator 
+and foster innovation 
+programme 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Primary research findings 
+Figure 7. Key areas of focus for innovation initiatives 
+What are the key areas your innovation initiatives are focused on? 
+Customer experience and engagement - acquisition, 
+onboarding and servicing 
+Risk management 
+Operations 
+Product distribution 
+Regulatory compliance 
+45% 
+52% 
+55% 
+61% 
+84% 
+Other opinions expressed 
+• 
+Partner connectedness 
+• 
+Identity and access management 
+• 
+Payments and related services 
+• 
+Employee experience 
+Source: PwC survey and analysis 
+17   PwC   |  Mapping the FinTech innovation landscape in India
+In examining the responses gathered on innovation 
+initiatives within the FinTech sector in India, we 
+identified an increased focus on enhancing customer 
+experience and engagement, with nearly 84% of 
+respondents considering it as one of their primary 
+areas of innovation. Additionally, over 50% of the 
+respondents highlighted product distribution as a 
+key area of innovation. It can also be noted that the 
+frequent references to risk management, operations 
+and regulatory compliance across several responses 
+highlight the sector’s diligence in maintaining 
+robust governance frameworks amidst ongoing 
+technological advancements. 
+17 PwC  | Mapping the FinTech innovation landscape in India 
+
+Primary research findings 
+Figure 8. Key critical emerging technologies enabling innovation initiatives 
+What are the key critical emerging technologies you are focusing as part of your innovation initiatives? 
+AI and GenAI 
+26% 
+32% 
+45% 
+58% 
+74% 
+ 
+ 
+ 
+ 
+ 
+ 
+90% 
+Data analytics 
+Open banking and API solution 
+Digital banking solutions 
+RPA/Intelligent automation 
+Blockchain/DeFi 
+Source: PwC survey and analysis 
+The responses analysed on critical emerging technologies within the FinTech sector in India reveal a strong focus 
+on AI and GenAI, with 90% of the respondents citing them as the primary technology enablers of innovation. Data 
+analytics also continues to emerge prominently across nearly 74% responses, underscoring its integral role in driving 
+insights and decision-making within FS. Open banking and API solutions are highlighted by 58% of the respondents, 
+reflecting efforts to enhance connectivity and interoperability across platforms. 
+Additionally, technologies such as RPA and intelligent automation were recognised by some respondents for their 
+potential in streamlining operations and optimising workflows, while a few of the respondents mentioned blockchain 
+and DeFi, thereby highlighting a growing interest in secure and transparent transaction frameworks that could 
+transform the FS landscape. 
+18 PwC  | Mapping the FinTech innovation landscape in India 
+
+19 PwC  | Mapping the FinTech innovation landscape in India 
+Primary research findings 
+Figure 9. Impact as a result of innovation initiatives 
+What is the kind of impact you have seen as a result of innovation initiatives? 
+65% 
+23% 
+3% 
+19% 
+6% 
+32%
+29% 
+42% 
+39% 
+29% 
+26% 
+48% 
+55% 
+42% 
+42% 
+Enhanced CX 
+Improved efficiencies 
+for existing processes 
+Expanded market 
+New product innovation 
+reach 
+Financial inclusion and 
+societal impact 
+No impact 
+Moderate impact 
+Significant impact 
+Source: PwC survey and analysis 
+According to the analysed responses regarding the impact of innovation initiatives, strong emphasis was placed on 
+new product innovation and enhanced efficiencies in existing processes, with over 93% and 90% of the respondents 
+respectively noting that these two areas have seen substantial positive effects. Additionally, they reported moderate 
+improvements in expanding market reach (80%) and enhancing customer experience (77%). This indicates that while 
+companies are successfully leveraging innovation to optimise their core operations and product offerings, there may 
+be a possibility of using these initiatives to further penetrate markets and elevate customer satisfaction. 
+Apart from this, respondents also stated that their innovation initiatives have enabled more efficient business 
+operations, better customer interactions, simplified processes, cost reductions and positive feedback from regulatory 
+partners. Internal policy initiatives, product differentiation, improved employee engagement and productivity, and 
+better customer engagement and retention were also noted as other impacts of innovation initiatives.  
+
+–
+20 PwC  | Mapping the FinTech innovation landscape in India 
+Primary research findings 
+Figure 10. Key challenges faced during ongoing innovation initiatives 
+What are some key challenges faced when running your innovation initiatives? 
+52% 
+52% 
+52%
+48% 
+13% 
+45% 
+32% 
+29% 
+29% 
+39% 
+42% 
+35% 
+10% 
+35% 
+13% 
+19% 
+35% 
+19% 
+Cultural resistance 
+Resource constraints 
+(talent) 
+Siloed organisation 
+structure 
+Lack of clear strategy 
+before execution 
+Technology 
+complexity 
+Impact 
+measurement 
+Source: PwC survey and analysis 
+No challenge 
+Moderate challenge 
+Significant challenge 
+The primary challenges most companies encountered 
+while running their innovation initiatives were 
+resource constraints – particularly in terms of talent 
+and the technological complexity associated with 
+new technologies, with approximately 35% of the 
+respondents mentioning them as significant challenges 
+and 52% and 35% of the respondents naming the 
+same factors (resource constraints and technology 
+complexity respectively) to be moderate challenges 
+respectively. Additional challenges included measuring 
+the impact of innovation initiatives, absence of a clear 
+strategy prior to initiating innovation and, in some cases, 
+a siloed organisational structure posing moderate 
+difficulty. Notably, cultural resistance was not identified 
+as a significant challenge by over half (52%) of the 
+respondents, indicating that innovation is adopted and 
+promoted within the organisations surveyed. A few 
+other challenges included managing the shift between 
+established and innovative business models, engaging 
+multiple departments towards a common innovation 
+goal, balancing capital allocation for various innovation 
+projects, fostering a culture of experimentation, and 
+adapting to disruptive technologies. 
+
+Build vs procure vs partner 
+In the ever-changing FS landscape, FIs are continually faced with the important decision of whether to develop solutions in-
+house, procure them from third-party vendors or collaborate with specialised firms to leverage the partner’s solution. Each 
+option has its distinct advantages and challenges, which can impact an institution’s ability to innovate, compete and meet 
+regulatory requirements. Understanding the factors influencing the decision to build, procure or partner is thus important 
+for strategic decision-making, enabling financial institutions to leverage technology effectively and deliver enhanced 
+value to their customers. This section explores the key factors that influence these decisions, providing insights into the 
+circumstances under which institutions can opt for each approach. 
+21 PwC  | Mapping the FinTech innovation landscape in India 
+ 
+ 
+ 
+ 
+2 
+3 
+4 
+5 
+Table 2. Factors affecting modes of innovation 
+S No 
+Factors 
+Build 
+Procure 
+Partner 
+1 
+Time to market 
+Higher risk of project 
+delays, scope creep 
+and other potential 
+challenges 
+Typically, better time-to-market 
+than build with ready-made 
+solutions 
+Faster time-to-market with 
+shared resources and expertise 
+Span of control – 
+integrations and 
+interactions 
+Scalability of operation 
+Revenue growth and 
+cost management 
+There is greater control 
+over the development 
+process and 
+intellectual property. 
+There would be 
+minimal dependencies
+on external 
+stakeholders for 
+scalability. 
+Building a solution
+from scratch may 
+require extensive 
+resources if it’s outside 
+of the company’s 
+existing operations. 
+Talent requirement 
+Building innovative 
+solutions typically 
+requires highly 
+specialised knowledge 
+and skills. 
+• 
+There can be integration 
+challenges with existing
+systems and processes. 
+• 
+The procured solution 
+may not fully meet specific 
+institutional requirements 
+without additional 
+customisation. 
+There would be a dependency 
+on external vendors for updates, 
+maintenance and support. 
+Procuring a solution from a 
+vendor may be cost effective 
+but might incur repeated 
+subscription or maintenance 
+costs. 
+Existing vendors in the market 
+can handle the requirement 
+for talent in case of procuring 
+solutions. 
+However, since the solution is 
+already present in the market, 
+it may not be exclusive to the 
+organisation procuring it. 
+Partnerships can pose certain 
+challenges in terms of sharing
+sensitive data or intellectual 
+property in the form of legal 
+and contractual complexities. 
+• 
+There would be 
+dependency on partners 
+for strategic decisions and 
+direction. 
+• 
+There’s potential for 
+misalignment of goals, 
+culture and priorities 
+between partners. 
+Cost of development will be 
+shared in case of partnerships 
+Partnering organisations can 
+merge their specific talent 
+capabilities for the purpose of
+producing innovative solutions. 
+Significant challenge 
+Moderate challenge 
+Advantage 
+Source: PwC analysis 
+
+ 
+ 
+ 
+ 
+Build 
+Building solutions from scratch requires extensive 
+resources, in terms of money as well as talent, but may 
+allow for better customisation and control over the 
+innovation process. FIs can opt for building their own 
+solutions if there aren’t any solutions available in the 
+market, and if they can afford the time, money and talent 
+required to build something in-house. 
+Procure 
+FIs may prefer procuring innovative solutions from external 
+vendors in cases where speed-to-market is a priority. 
+These solutions can be cost-efficient compared to building 
+solutions in-house. However, there could be some trade-
+offs in terms of lack of customisation and integration 
+challenges. Moreover, FIs would have to depend on the 
+service providers for support and maintenance. 
+Partner 
+FIs can partner or collaborate with other players to leverage 
+their emerging technology solutions and resources to 
+collaboratively build or develop innovative solutions. For 
+FIs, this could also involve having a reduced span of control 
+in terms of ownership of their data or customers. 
+FIs often choose between these three forms of 
+innovation based on their strategic needs and 
+requirements. The decision of FIs is dependent on 
+factors such as specific customisation needs, cost 
+consideration, risk management strategies and speed-
+to-market. 
+Compared to the approaches of building solutions 
+in-house and procuring solutions from third-party 
+service providers, partnerships and collaborations offer 
+organisations an option to leverage the expertise and 
+resources from multiple organisations in the FinTech 
+landscape. Partnerships and collaborations are valued 
+for their capability to accelerate innovation timelines, 
+manage and proactively mitigate risks, and provide 
+access to combined resource capabilities which can 
+be difficult to build separately. Partnerships also help 
+combine the financial and regulatory expertise that 
+incumbents might have with the technological tools 
+and innovation culture that start-ups and FinTechs have 
+in a synergistic manner to develop new solutions or 
+enhance existing solutions for engaging better with the 
+customers. 
+Primary research findings 
+The analysis of the data from the survey indicated 
+that most of the organisations (58%) did not have 
+a separate vertical or business unit for managing 
+their innovations. This shows that the organisations 
+focused on their innovation initiatives by leveraging 
+temporary and smaller teams in a decentralised 
+manner. However, traditional and established FIs 
+including banks and insurance companies typically 
+focused on their innovation initiatives in a structured 
+manner through separate innovation teams. 
+22 PwC  | Mapping the FinTech innovation landscape in India 
+Figure 11. Organisations having separate vertical or 
+business unit for managing innovations 
+Does your organisation have a separate vertical/ business
+ 
+unit for managing your innovations? 
+58%
+42% 
+Yes 
+No 
+Source: PwC survey and analysis 
+
+Primary research findings 
+Figure 12. End form factor of innovation initiatives 
+What is the end form factor of your innovation initiatives? 
+Partnerships and collaborations 
+Idea generation platforms - channeling employee inputs 
+Co-creation initiatives 
+Innovation labs and R&D CoE - exploring emerging tech 
+solutions 
+Training and development - for improving employee 
+capability 
+Campus programmes and hackathons 
+Accelerators and incubators 
+32% 
+42% 
+42% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+58% 
+48% 
+23% 
+6% 
+Other opinions expressed 
+• 
+Small and high-quality teams to tackle innovation 
+• 
+AI garage teams 
+• 
+Innovation for internal or external products post 
+• 
+Testing new concepts through prototypes 
+experimentation 
+• 
+Tech development pipeline 
+• 
+Innovation as an essential part of all product initiatives as 
+a culture, rather than separate innovation initiatives 
+Source: PwC survey and analysis 
+The survey responses revealed a few key trends on the end 
+form factors of innovation within organisations. The responses 
+indicated that organisations focused on setting up innovation 
+labs, R&D centres of excellence and idea-generation platforms 
+and used them to develop solutions integrated with cutting-edge 
+technologies. This highlighted the investments from organisations 
+for cultivating internal research capabilities and enabling 
+employees to contribute to the organisation’s innovation initiatives. 
+It can also be noted that the primary end form factor of the 
+innovation initiatives was in the form of partnerships and 
+collaborations, as mentioned by 58% of the respondents. This 
+highlights the importance given by organisations to collaborations 
+as part of their innovation strategy, as these might enable them to 
+leverage external expertise in terms of technologies and insights. 
+These partnerships between FIs and other entities including 
+start-ups, FinTechs and accelerators can improve the pace of 
+innovation and help optimise the cost of innovation by sharing 
+resources. 
+23 PwC  | Mapping the FinTech innovation landscape in India 
+
+Figure 13. Benefits of collaboration between incumbents and FinTech start-ups 
+Incumbents 
+FinTech start-ups 
+FinTech companies provide financial 
+Access to specialised 
+expertise and resources 
+Tech firms gain from financial 
+institutions with cutting-edge tech 
+institutions’ regulatory expertise, 
+skills, avoiding the need for in-house 
+ensuring innovations are compliant 
+development. 
+and effective. 
+Start-ups bring agility and rapid 
+Partnerships speed up product 
+iteration, crucial for staying 
+development and deployment 
+competitive in the fast-evolving 
+by pooling financial and human 
+FinTech space. 
+resources. 
+Collaborating with technology 
+Financial institutions help tech firms 
+partners who understand regulatory 
+Regulatory and compliance 
+alignment 
+navigate regulatory challenges, 
+complexities can promote 
+ensuring scalable, industry-standard 
+innovation with a compliance-
+solutions. 
+focused approach. 
+Collaborative efforts distribute 
+Start-ups benefit from financial 
+risks and costs, reducing individual 
+institutions’ capital and 
+exposure for financial institutions. 
+infrastructure, enabling better 
+scaling of innovations. 
+Combining financial and tech 
+Enhanced customer experience 
+and market penetration 
+Partnerships expand market reach, 
+expertise creates comprehensive, 
+improving penetration and adoption
+user-centric solutions that stand out 
+rates for new FinTech solutions. 
+in the market. 
+Source: PwC analysis 
+Accelerated innovation and 
+time-to-market 
+Risk sharing and cost 
+efficiency 
+ 
+ 
+ 
+ 
+Primary research findings 
+Figure 14. Partnerships as a means to drive innovation within the FS ecosystem 
+Do partnerships act as a means to drive innovation within the FS ecosystem? 
+94% 
+6% 
+Yes 
+No 
+Source: PwC survey and analysis 
+The emphasis on partnerships and collaboration in FinTech innovation may arise from the multiple benefits that 
+leverage the strengths of each party involved. Some of these benefits may include: 
+Analysis of the survey responses highlights the consensus from 94% of the respondents that collaborations 
+and partnerships are fostering innovation within the FS ecosystem. 
+24 PwC  | Mapping the FinTech innovation landscape in India 
+
+Figure 15. Tangible benefits of partnerships 
+What are some of the tangible benefits you have seen as a result of partnerships? 
+58%
+55% 
+55% 
+52% 
+48% 
+45% 
+39% 
+35% 
+32% 
+32% 
+32%
+29% 
+26% 
+26%
+23%23% 
+23% 
+23%
+19%
+16% 
+10% 
+Loan productivity 
+Loan volumes 
+Operational 
+Account opening 
+Account opening 
+expenses 
+productivity 
+volume 
+No impact 
+Moderate impact 
+Significant impact 
+Source: PwC survey and analysis 
+New product 
+Fraud losses 
+offerings 
+Primary research findings 
+The analysis of the data collected on the impact seen from partnerships in the 
+FS sector indicate that the value driven through these partnerships could still be 
+at an early stage, as per the high number of ‘No impact’ in the survey responses. 
+However, it can also be highlighted that the most tangible benefits noticed by 
+respondents were in the areas of new product offerings (71%) and operational 
+expenses (78%). Banks and NBFCs that participated in the survey indicated that 
+they were able to realise improvement in their loan productivity and loan volumes 
+and reduce their fraud losses. The responses from other FS players indicated 
+that partnerships also helped them in managing their operational expenses. 
+Additionally, partnerships have helped manage scaling challenges for payments 
+and MSME loans in the case of some organisations and facilitated co-creation of 
+products with SMEs and experts. 
+25 PwC  | Mapping the FinTech innovation landscape in India 
+
+Key drivers of partnerships 
+By forming collaborative alliances, companies in the FinTech industry can accelerate their time-to-market for innovative 
+solutions while ensuring regulatory compliance. This section explores the key drivers behind partnerships, emphasising 
+how they can drive transformative initiatives and create synergies that reshape the industry’s landscape: 
+Figure 16: Key drivers of partnerships 
+01 Resource-sharing 
+Market access and time-
+Branding and product 
+02 
+03
+to-market 
+differentiation 
+Partnerships can help start-ups 
+gain access to the vast resources 
+that incumbents typically have, 
+while offering their tech expertise 
+and talent capabilities in exchange. 
+This sharing of resources can 
+help create a synergy and enable 
+both entities to come together to 
+foster collaborative innovation that 
+is better than what either of the 
+parties could create on their own, 
+at potentially better operational and 
+cost efficiencies. 
+04 Risk mitigation 
+Partnerships can help companies 
+push new products faster to the 
+consumer as tech start-ups can 
+get access to the incumbents’ 
+established distribution network, 
+and in certain cases, their consumer 
+base too. This may help start-
+ups to offer their culture of agility 
+and flexibility to incumbents and 
+get easier access to their larger 
+customer base, allowing them to 
+jointly build scalable solutions with a 
+better speed-to-market. 
+05 Regulations 
+Partnerships can also help 
+companies to leverage each 
+other’s brand strengths to create 
+and market a product that can be 
+portrayed to have the best of both 
+brands. This can help partnering 
+companies to attain a competitive 
+edge. By combining the financial 
+expertise and consumer data of the 
+established company with cutting-
+edge technologies of start-ups, the 
+partnership can help make products 
+that appeal better to consumers. 
+Partnerships can allow for risk-
+sharing arrangements where both 
+parties share their resources and 
+expertise, reducing individual 
+exposure to financial, operational 
+and technological risks associated 
+with developing and deploying new 
+FinTech solutions. 
+In some cases, licensing and 
+regulations can act as entry barriers 
+for a company. Such companies 
+can then leverage partnerships with 
+established companies within the 
+industry to overcome those entry 
+barriers. 
+Source: PwC analysis 
+26 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Primary research findings 
+Figure 17. Primary reasons behind organisations’ decision to collaborate/partner 
+What are the primary reasons behind your organisation's decision to collaborate/partner? 
+Speed to market 
+Collaborative innovation 
+Ecosystem development 
+Tech expertise and innovation mindset 
+Difficulty to build internally 
+Market expansion 
+26% 
+32% 
+35% 
+42% 
+65% 
+74% 
+Other opinions expressed 
+• 
+Partnered for managing regulatory constraints 
+Source: PwC survey and analysis 
+When observing the most common objective that 
+companies chose for collaborating and partnering, 
+better speed-to-market and collaborative innovation 
+were the top choices as mentioned by 75% and 65% 
+of the respondents respectively. This could be driven 
+by a competitive landscape, rapid tech advancements 
+and organisations’ talent constraints. Some of the other 
+reasons for companies to choose partnerships include 
+ecosystem development, need for tech expertise and 
+innovation, difficulty in building internally and market 
+expansion. 
+27 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Primary research findings 
+Figure 18. Modes of potential partner evaluation 
+How do you evaluate potential partners and ensure alignment with your strategic objectives? 
+29%
+42%
+6%
+23%
+Other opinions expressed 
+• 
+Hybrid between the existing policy and a separate FinTech policy
+• 
+Area of focus of partnership
+• 
+Market opportunities and technical capability of partners
+• 
+Based on impact analysis done for specific needs
+Source: PwC analysis 
+Existing policy for onboarding 
+vendors 
+Separate FinTech policy (criteria 
+based evaluation with established 
+KPIs) 
+NA 
+Other 
+28   PwC   |  Mapping the FinTech innovation landscape in India
+Respondents stated that they have a variety of 
+approaches to evaluate potential partners and ensure 
+alignment with their strategic objectives. Many prioritise 
+a separate FinTech policy with criteria-based evaluations 
+and established KPIs, thus underscoring a structured 
+approach to ensure strategic alignment. Others rely on 
+existing vendor onboarding policies or a hybrid of both. 
+This diversity suggests a nuanced consideration of 
+market opportunities, technical capabilities and regulatory 
+landscapes when forming partnerships. The mention of 
+revenue/risk sharing and specific functional requirements 
+further emphasises the importance of tailored partnerships 
+to achieve strategic objectives effectively. Overall, the 
+respondents highlight a balanced approach within the 
+FinTech innovation landscape, leveraging structured 
+evaluations alongside adaptive strategies to foster 
+collaboration. 
+28 PwC  | Mapping the FinTech innovation landscape in India 
+
+Emerging partnership themes 
+Table 3 illustrates a list of emerging themes that highlight the effort taken by FIs and technology companies to 
+collaboratively work on solutions that are transforming the FS landscape – especially through initiatives focused on 
+sustainability, data-driven insights, ecosystem integrations etc. 
+29 PwC  | Mapping the FinTech innovation landscape in India 
+Table 3. Emerging partnership themes 
+Theme 
+Ecosystem 
+collaboration 
+Description 
+Potential reasons for growth 
+Integrating FS and non-FS solutions 
+These partnerships can support in embedding a broader range 
+into multiple ecosystem enhanced 
+of FS and non-FS solutions at a single point of engagement, 
+engagement 
+thereby enhancing the overall user experience and streamlining 
+operations. 
+Collaboration for 
+Partnerships for leveraging data analytics 
+data and analytics 
+and AI solutions for personalising FS and 
+enabling better decision-making 
+With the growth of data availability, advanced analytics and 
+AI capabilities, these partnerships can help in empowering 
+FIs in leveraging solutions that can help innovate their risk 
+management practices. These solutions can also support FIs to 
+improve their overall customer experience. 
+ESG and 
+Developing solutions on the themes of 
+These partnerships are enabling FIs to develop solutions that 
+sustainability 
+green investments, sustainable finance 
+appeal to the investors who are environmentally conscious. 
+and supporting FIs to adhere to ESG 
+They are also helping FIs to meet specific sustainability 
+standards 
+focused regulatory requirements. 
+Improving financial 
+Development of solutions which can 
+These are partnerships that can augment the expertise of 
+inclusion 
+increase access of FS products to the 
+technology and FS players to develop FS solutions that are 
+underserved 
+inclusive and can reach the underserved segments of the 
+market. 
+Enabling better 
+Partnerships for better protection of 
+These partnerships help FIs to leverage the expertise of 
+security and 
+customer data 
+their counterparts in the domain of cybersecurity to develop 
+privacy 
+solutions that can help defend against cyber threats. These 
+partnerships also help FIs to abide by regulations focused on 
+data protection. 
+RegTech and GRC 
+Solutions for better governance and 
+These partnerships help FIs to track the evolving regulatory 
+compliance management 
+climate and employ solutions that can manage and automate 
+requirements for compliance to complex regulations. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Primary research findings 
+Figure 19. Emerging trends relevant for partnerships 
+Which of these emerging trends do you believe are most relevant for partnerships for your organisation? 
+Niche customer acquisition, seamless customer onboarding and 
+contextual engagement 
+Risk and compliance 
+Embedded finance across the FS and non-FS value chain 
+Ecosystem offerings 
+Payments 
+Sustainable financing 
+Wealth and investment solutions 
+DeFi and tokenisation 
+Cross-border finance 
+16% 
+19% 
+19% 
+26% 
+35% 
+55% 
+55% 
+65% 
+68% 
+Other opinions expressed 
+• 
+Payment innovations 
+• 
+Digital transformation 
+• 
+Data and analytics 
+• 
+Regulatory liaising 
+• 
+Market data collection 
+Source: PwC analysis 
+30   PwC   |  Mapping the FinTech innovation landscape in India
+The survey data analysis indicates that there was a focus on improving 
+customer satisfaction and retaining customers through personalised 
+acquisition methods, frictionless onboarding and contextual engagement. 
+Approximately 68% of the respondents mentioned that as one of the 
+emerging themes for partnerships in the FS landscape. Approximately 65% 
+of the respondents also identified risk and compliance as a key theme to 
+focus on, thereby underscoring the industry’s commitment in navigating the 
+regulatory complexities to stay compliant and bridge the trust gap among 
+customers. With approximately 55% of respondents indicating an interest in 
+embedded finance and ecosystem offering, it can be understood that there 
+is a growing trend towards integrating FS and non-FS value-added services 
+aimed at different ecosystems to offer stakeholders a composite value 
+proposition at their point of consumption to enhance their engagement. 
+Moreover, the focus of 26% of respondents on sustainable financing 
+solutions indicates a growing trend to cater to the environmentally conscious 
+individuals and an organisational shift in focus towards ESG considerations. 
+These insights highlight the versatile approach that FIs are taking in terms of 
+their partnerships, which are driven not just by innovation but also the need 
+to stay compliant and customer-focused. 
+30 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Challenges in partnerships 
+When exploring partnerships in the FinTech sector, several challenges can arise. Here are some of the key challenges: 
+Figure 20. Challenges in partnerships 
+Regulatory 
+Data security and 
+Integration 
+Cultural and operational 
+compliance 
+privacy 
+issues 
+differences 
+FinTech partnerships 
+often involve navigating 
+complex and varied 
+regulatory environments. 
+Different partners might 
+be subject to different 
+regulations, which can 
+lead to compliance 
+challenges and increase 
+the risk of regulatory 
+breaches. 
+Intellectual property and 
+ownership 
+Sharing data between 
+partners raises concerns 
+about data security and 
+privacy. Ensuring that 
+all partners adhere to 
+strict security protocols 
+and comply with data 
+protection regulations 
+is crucial but can be 
+challenging. 
+Alignment of goals and 
+objectives 
+Integrating different 
+technology platforms, 
+systems and processes 
+can be complex and 
+time-consuming. 
+Compatibility issues 
+might arise, potentially 
+leading to inefficiencies or 
+disruptions in service. 
+Trust and 
+transparency 
+Partners may have 
+different corporate 
+cultures, business 
+practices and operational 
+methodologies. These 
+differences can create 
+friction and hinder 
+effective collaboration. 
+Market 
+competition 
+Determining the ownership 
+of intellectual property 
+developed through 
+the partnership can 
+be contentious. Clear 
+agreements are necessary 
+to avoid disputes over 
+intellectual property rights 
+and usage. 
+Scalability and 
+flexibility 
+Ensuring that all partners 
+have aligned goals and 
+objectives is essential for 
+a successful partnership. 
+Misaligned objectives 
+can lead to conflicts and 
+inefficiencies. 
+Customer 
+experience 
+Building and maintaining 
+trust is crucial in 
+partnerships. Lack of 
+transparency or perceived 
+dishonesty can undermine 
+relationships and affect 
+the partnership’s success. 
+Financial risk and 
+revenue sharing 
+Partners in FinTech may 
+also be competitors in 
+certain areas. Balancing 
+collaboration with 
+competition can be tricky, 
+and there is a risk of one 
+partner gaining an unfair 
+advantage. 
+Governance and 
+decision-making 
+Partnerships need to be 
+Ensuring a seamless 
+Agreeing on financial 
+Establishing clear 
+designed with scalability 
+and consistent customer 
+terms, such as revenue 
+governance structures 
+and flexibility in mind. As 
+experience across 
+sharing and cost 
+and decision-making 
+market conditions and 
+different partners can 
+allocation, can be a 
+processes is crucial. 
+business needs evolve, 
+be challenging. Any 
+point of contention. 
+Disagreements over how 
+partners must be able to 
+inconsistencies can lead 
+Misunderstandings or 
+decisions are made and 
+adapt without causing 
+to customer dissatisfaction 
+disagreements over 
+who has authority can 
+disruptions. 
+and harm the partnership’s 
+financial matters can strain 
+lead to inefficiencies and 
+reputation. 
+relationships. 
+conflicts. 
+Source: PwC analysis 
+To proactively manage these challenges, FIs typically develop agreements and MoUs for partnerships that cover 
+areas of compliance to regulatory norms and intellectual property rights, along with clauses on financial terms. These 
+agreements can help FIs to set expectations from the partnership, manage the various stakeholders involved, and 
+help resolve any conflicts that arise from these collaborations. It is also pertinent for FIs to set up robust governance 
+structures that involve both partners to ease integration challenges between the organisations – both in terms of 
+technology and organisational culture – by streamlining channels of communication. 
+31 PwC  | Mapping the FinTech innovation landscape in India 
+
+Primary research findings 
+Figure 21. Challenges faced by organisations during partnerships 
+Challenges faced by organisations during partnerships 
+61% 
+48%
+45% 
+35% 
+23%
+26% 
+32% 
+42% 
+39% 
+23% 
+19% 
+16% 
+42% 
+45% 
+45%
+39% 
+39% 
+39% 
+35% 
+29%
+26% 
+23% 
+16%
+13% 
+Core system 
+Ancillary system 
+API maturity 
+Speed to 
+Vetting potential 
+Back office 
+Finding potential 
+Partner 
+integration 
+integration 
+market 
+vendors 
+constraints 
+partners 
+onboarding and 
+governance 
+No challenge 
+Moderate challenge 
+Significant challenge 
+Source: PwC analysis 
+About 45% and 39% of survey respondents indicated that integration of core and ancillary systems respectively was 
+a significant challenge to partnerships with other organisations. Further analysis of the data also revealed speed-
+to-market to be a moderate challenge for more than 50% of the respondents. For 48% of the respondents, the API 
+maturity of potential partners also posed a moderate challenge. In general, many respondents also expressed that 
+they faced moderate to significant challenges in identifying, vetting and onboarding potential partner(s). Some of 
+the other challenges that respondents faced while traversing their partnership journey included financial stability, 
+business models, funding and accountability of their partners and regulatory uncertainty of their partnerships. 
+32 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 22. Ways to mitigate partnership challenges 
+Ways to mitigate partnership challenges and ensure the smooth execution of partnership initiatives 
+A value realisation framework to assess the impact of 
+innovation and partnerships for the organisation 
+Dedicated team/office to manage innovation 
+and partnerships 
+Updated FinTech/start-up focused policy 
+19% 
+45% 
+52% 
+Other opinions expressed 
+• 
+Clearly delineated roles for each category of partnership 
+• 
+Fostering a culture of technology appreciation in FIs 
+• 
+FIs recognising and understanding challenges faced by FinTech entities 
+• 
+Development and maintenance of a comprehensive developer portal, including a catalogue of all APIs, and the 
+standardisation of these APIs 
+• 
+Capability to navigate and adapt to regulatory uncertainties 
+Primary research findings 
+Source: PwC analysis 
+Organisations were taking up multiple approaches to manage the challenges they faced as a result of 
+their partnerships. Over 50% of the respondents considered setting up a structure value realisation 
+framework for assessing the impact of innovation and partnership for organisations to manage and 
+mitigate their challenges. It was also noted that approximately 45% of the respondents considered 
+that setting up a dedicated internal team for managing their innovations and partnerships could 
+be beneficial. Around 19% of the respondents focused on the need to either develop or update 
+their existing FinTech or start-up policies to better manage their partnerships. A few respondents 
+also mentioned that working towards the development of specialised portals for managing and 
+standardising APIs could help in the overall collaboration between partners. 
+33 PwC  | Mapping the FinTech innovation landscape in India 
+
+ 
+Way forward 
+The inputs received from the industry through our primary research survey highlight a spectrum of perspectives on the 
+future of FinTech, ranging from cautious optimism to strategic foresight. Many respondents were optimistic about the 
+sector’s growth trajectory, anticipating a substantial increase in the adoption of FinTech solutions – particularly in payment 
+systems, risk management, and expansion into new sectors. There is also a strong emphasis on collaborative efforts 
+within the FinTech ecosystem, with expectations that partnerships can increase significantly from current levels to facilitate 
+innovation and market expansion. 
+However, along with these optimistic projections, concerns 
+about challenges such as digital security risks and the 
+imperative of regulatory compliance were also evident. 
+There is an emphasis on the need for FinTech companies 
+to navigate the continuously evolving regulatory landscape 
+and forge compliant partnerships to sustain growth. 
+Additionally, there seems to be a prominent expectation 
+among stakeholders that the industry’s evolution will likely 
+lead to more mature and sustainable growth patterns, 
+focusing on profitability and long-term viability rather than 
+rapid but unstable expansion. 
+Hence, enabling the right approach to innovation, especially 
+collaborative innovation, is important for any company. 
+A few key imperatives that organisations can look at for 
+successfully fostering innovation have therefore been listed 
+as follows: 
+1. Leveraging digital infrastructure 
+Organisations can aim to harness the country’s digital 
+public infrastructure, as well as their own organisational 
+infrastructure, including APIs and testing environments 
+like sandboxes, to streamline and accelerate the creation 
+of innovative products, features and distribution channels. 
+These tools help to facilitate seamless integration with 
+partners and enable iterative testing of new ideas, thus 
+driving innovation and market responsiveness. 
+2. Cultivating a culture driven by innovation 
+Organisations can instil a culture that fosters innovation 
+at all levels, by engaging actively with their employees, by 
+supporting their ideas and incentivising their contributions 
+to the company’s innovation initiatives. Organisations 
+can also inculcate an innovation mindset by regularly 
+conducting brainstorming sessions and workshops. 
+3. Determining the mode of innovation – build, procure 
+or partner 
+Organisations can assess and choose the most effective 
+method for pursuing innovation based on factors 
+such as time-to-market, span of control, scalability of 
+operation, revenue generation and cost optimisation, and 
+talent requirement. This strategic evaluation can help 
+organisations to align their initiatives with business goals 
+and optimise resources. 
+4. Managing innovation and compliance 
+Organisations can create specialised teams, such as an 
+Innovation Management Office to drive and coordinate 
+innovation projects and a Compliance Management Office 
+to oversee regulatory requirements. Such teams can 
+help align the organisations’ innovative efforts with legal 
+and industry standards, while mitigating risks related to 
+compliance. 
+5. Developing clear FinTech/partnership policies 
+Organisations must implement a comprehensive FinTech 
+and partnership policy which outlines roles, responsibilities 
+and evaluation criteria for potential collaborations, along 
+with a well-defined process for onboarding partners and 
+measuring performance through established KPIs to forge 
+effective and accountable partnerships. 
+6. Implementing a value realisation framework 
+Organisation can utilise a value realisation framework 
+to systematically assess the outcomes and benefits of 
+innovation initiatives and partnerships. This framework 
+can help organisations to measure key metrics such as 
+financial returns, market impact and strategic alignment to 
+determine the overall success and value generated from 
+these activities. 
+PwC, through its three-pronged approach of ‘explore’, 
+‘experiment’ and ‘embed’ and its deep entrenchment in the 
+FinTech ecosystem has supported multiple incumbent FIs 
+to institutionalise their partnerships and enhance the impact 
+created through them. Basis our experience, we are seeing 
+considerable evolution of the bank-FinTech partnerships, 
+with more players collaborating for co-creation across 
+areas such as AI, LLM-enabled FS products and ecosystem 
+banking. 
+Overall, the consensus points to a dynamic future for Indian 
+FinTech, driven by technological advancements, strategic 
+collaborations and a proactive regulatory environment 
+aimed at fostering innovation while ensuring consumer 
+protection and financial stability. 
+34 PwC  | Mapping the FinTech innovation landscape in India 
+
+35   PwC   |  Mapping the FinTech innovation landscape in India
+Appendix 
+Methodology 
+firms and FinTechs. In total, 31 FIs participated in the 
+primary research exercise, ensuring a broad representation 
+of the FS landscape. 
+The section below provides a brief context on the 
+methodology followed for conducting the primary research 
+3. Data collection and analysis 
+for deriving insights on the innovation and partnership 
+landscape in the Indian FinTech ecosystem. 
+The following methods were used for collecting data from 
+the respondents. 
+1. Questionnaire design 
+a.  Survey: The questionnaire was shared online to senior 
+For the primary research, a questionnaire was designed with 
+executives of the FIs to gather data on current innovation 
+the objective of collecting both qualitative and quantitative 
+and partnership trends, their impact and challenges. 
+information on two fronts: 
+b.  Virtual and in-person interviews: In-depth interviews 
+• 
+innovation initiatives taken up by organisations, drivers 
+were conducted based on the created questionnaire with 
+behind the initiatives, impacts realised, and challenges 
+a few FIs. 
+faced while institutionalising the same 
+Both qualitative and quantitative information collected were 
+• 
+importance of partnerships and collaborations as part 
+analysed to identify significant trends in terms of FinTech 
+of the innovation journey of organisations, factors 
+innovation and partnership landscape. The gathered 
+driving partnerships, emerging partnership trends, 
+insights were then used to arrive at key imperatives for FIs 
+impacts realised, and challenges faced by organisations 
+to harness the potential of innovation. 
+when institutionalising partnerships. 
+Moreover, in order to extract and analyse insights while 
+The questionnaire had 21 questions in total, distributed 
+maintaining the confidentiality and privacy of the survey 
+between both fronts. 
+respondents, the survey data was aggregated and 
+2. Target participants 
+anonymised, so that the insights drawn are on an aggregate 
+of the sample and not based on individual data points. 
+The primary research conducted as a part of drafting this 
+report involved a range of FIs including banks, insurance 
+35 PwC  | Mapping the FinTech innovation landscape in India 
+
+About PwC 
+At PwC, our purpose is to build trust in society and solve 
+important problems. We’re a network of firms in 151 countries with 
+over 360,000 people who ar
+ 
+ 
+e committed to delivering quality in assurance, 
+advisory and tax services. Find out more and tell us what matters to you by 
+visiting us at www.pwc.com. 
+PwC refers to the PwC network and/or one or more of its member firms, 
+each of which is a separate legal entity. Please see www.pwc.com/ 
+structure for further details. 
+ 
+© 2024 PwC. All rights r
+ 
+ 
+eserved. 
+Contact us 
+Vivek Belgavi 
+Partner and Leader – Alliances and Ecosystems 
+vivek.belgavi@pwc.com 
+Mihir Gandhi 
+Partner and Leader – FinTech and Payments 
+Transformation 
+mihir.gandhi@pwc.com 
+Raghav Aggarwal 
+Associate Director – FinTech and Innovation 
+Strategy 
+raghav.aggarwal@pwc.com 
+Contributors 
+Arham Jain 
+Vignesh Venkataraman 
+Raghav Aggarwal 
+Editor 
+Design 
+Rashi Gupta 
+Shipra Gupta 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pwc.in 
+Data Classification: DC0 (Public) 
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or 
+CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a 
+separate legal entity. 
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed 
+by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. 
+Any opinions or estimates contained in this document represent the judgment of PwCPL at this time and are subject to change without notice. 
+Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are 
+entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this 
+publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take. 
+© 2024 PricewaterhouseCoopers Private Limited. All rights reserved. 
+SG/August 2024-M&C 40153 

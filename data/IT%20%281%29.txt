@@ -1,0 +1,3529 @@
+GOVERNMENT OF KERALA
+KERALA STATE PLANNING BOARD
+FOURTEENTH FIVE-YEAR PLAN 
+(2022-2027)
+WORKING GROUP ON
+INFORMATION TECHNOLOGY 
+REPORT
+Industry and Infrastructure Division
+March 2022
+
+
+FOREWORD
+Kerala is currently the only State in India to formulate and implement Five-Year Plans. The 
+Government of Kerala believes that the planning process is important for promoting eco­
+nomic growth and ensuring social justice in the State. A significant feature of the process of 
+formulation of Plans in the State is its participatory and inclusive nature.
+In September 2021, the State Planning Board initiated a programme of consultation and 
+discussion for the formulation of the 14th Five-Year Plan. The State Planning Board consti­
+tuted 44 Working Groups, with more than 1200 members in order to gain expert opinion 
+on range of social economic issue pertinent to the plan. The members of the Working 
+Groups represented a wide spectrum of society and includes scholars, administrators, social 
+and political activists and other experts. Members of the Working Groups contributed their 
+specialized knowledge in different sectors, best practices in the fields, issues of concern, and 
+future strategies required in these sectors. The Report of each Working Group reflects the 
+collective views of the members of the Group and the content of each Report will contrib­
+ute to the formulation of the 14th Five-Year Plan. Each Report has been finalized after sev­
+eral rounds of discussions and consultations held between September and December 2021.
+This document is the Report of the Working Group on “Information Technology”. The 
+Chairperson of the Working Group is Shri. Biswanath Sinha IAS, Additional Chief Secretary 
+to Govt, Electronics and Information Technology Department.  The Co-Chairpersons of 
+Working Group were Dr. Saji Gopinath, Vice-Chancellor, Kerala University of Digital 
+Sciences, Innovation and Technology, Sri. John M Thomas, Chief Executive Officer, 
+IT Parks, Kerala, Prof. S M Sameer, Professor, NIT Kozhikode and Shri. Snehil Kumar 
+Singh IAS, Director, IT Mission. Shri. V. Namasivayam, Member of the State Planning 
+Board co-ordinated the activities of the Working Group. Shri. Joy N.R, Chief, Industry & 
+Infrastructure Division was the Convenor of the Working Group and Shri. Tomy Joseph, 
+Deputy Director, Industry & Infrastructure Division was Co-Convenor. The terms of ref­
+erence of Working Group and its members are in Appendix I of the Report
+	
+Member Secretary
+
+State Planning Board
+4
+
+5
+Information Technology Report
+PREFACE
+Kerala, the Indian State with highest Human Development Index, was one of the forerun­
+ners in the development of Electronics and IT industry in the country.  The State Public 
+Sector Unit Keltron was a leader in electronics manufacturing in the country during 1980’s. 
+The State also established country’s first and largest IT space- Technopark- way back in 
+1990. The State has a vibrant FOSS community and also considered as a leader in e-gover­
+nance and technology enabled citizen centric service delivery systems. 
+ During the 13th Five-year Plan, State could develop an ecosystem conducive to devel­
+opment of technology startups which made it as the Top Performer State in State Startup 
+Ranking conducted by Government of India during 2018 and 2019. Despite these early 
+strides, the State could not capitalize much on the booming IT and Electronics industry in 
+the country. With State contributing only a very small portion to the IT and Electronics 
+industry today, there is a need to reinvent the sector considering the opportunities that are 
+emerging in these sectors.  There is a need for Kerala to push the boundaries further by 
+adopting “digital” means in various walks of life effectively, to regain the leadership role in 
+the emerging world of digital revolution.  
+As 14th Five-year plan is formulated with a vision of ushering in an inclusive economic 
+growth for the State by applying science, technology and modern skills for sustainable 
+growth of various sectors of the economy, the sunrise sectors of Electronics and IT industry 
+will be playing a crucial role in this transformation.  In order to chart out a plan of develop­
+ment of the sector, a Working Group was formed with eminent members from government, 
+academia and industry by Planning Board. This report presents the recommendations of 
+this working group which outlines a comprehensive approach for the development of the 
+sector during the 14th Five Year Plan.   The working group consists of 3 subgroups fo­
+cussing on three specific aspects namely i) Industry investment and capacity building; ii) 
+Information technology start-ups and iii) Communication and Internet infrastructure.
+                                                                     
+(1)  Dr. Saji Gopinath, Vice-Chancellor,                               Sri. Biswanath Sinha IAS 
+       Kerala University of Digital Sciences,                             Additional Chief Secretary
+        Innovation and   Technology,                                                  Electronics & I T Department
+(2 ) Sri. John M Thomas, CEO, IT Parks, Kerala
+(3 ) Prof. S M Sameer, Professor, NIT Kozhikode  
+(4)  Sri. Snehil Kumar Singh IAS, Director, IT Mission.
+
+State Planning Board
+6
+
+7
+Information Technology Report
+CONTENTS
+SL No
+Title
+Page No
+1
+Abbreviations
+9
+2
+List of Tables
+11
+3
+List of Figures
+13
+4
+Summary
+15
+5
+Chapter 1 Introduction
+17
+Chapter 2 Review of Information Technology – during 13th Plan
+19
+Chapter 3 Industry investment and capacity building
+35
+Chapter 4 Information technology–start ups
+47
+Chapter 5 Communication and Internet Infrastructure
+57
+Chapter 6 Major Challenges/issues
+61
+Chapter 7 Findings & Recommendations
+63
+Chapter 8 Roadmap- Directions for growth
+67
+6
+Appendix
+76
+7
+Annexures
+80
+
+State Planning Board
+8
+
+9
+Information Technology Report
+Abbreviations
+BPL                    
+Below Poverty Line
+CAGR                
+Compound Annual Growth Rate
+CDAC                
+Centre for Development of Advanced Computing
+COE                   
+Centre of Excellence
+CUSAT               
+Cochin University of Science and Technology
+DPIIT                 
+Department for Promotion of Industry and Internal Trade
+GDP                    
+Gross Domestic Product
+GIS                      
+Global Information System
+GOI                    
+Government of India
+GOK                   
+Government of Kerala
+ICFOSS              
+International Centre for Free and Open Source Software
+IOT
+Internet of Things
+ISRO
+Indian Space Research Organization
+IT
+Information Technology
+KFC
+Kerala Financial Corporation
+KFON
+Kerala Fibre Optic Networks
+KKEM
+Kerala Knowledge Economic Mission
+KSIDC                
+Kerala State Industrial Development Corporation Limited
+KTU                    
+Kerala Technical University
+MNC                   
+Multi National Company
+MSME
+Micro, Small and Medium Enterprises
+NEDF
+North East Development Fund
+PPP                      
+Public Private Participation
+SDPK                  
+Skill Delivery Platform Kerala
+TBI                     
+Technology Business Incubator
+TRAI                   
+Telecom Regulatory Authority of India
+USD                    
+US  Dollar
+UNESCO            
+United Nations Educational, Scientific and Cultural Organization
+
+State Planning Board
+10
+
+11
+Information Technology Report
+Sl No
+Title
+Page Number
+1
+Financial Performance of IT sector from 2017-18 to 2021-22
+23
+2
+Details of Akshaya centres in Kerala
+25
+3
+Physical achievements of Technopark
+28
+4
+Physical achievements of Infopark
+28
+5
+Major physical achievements of Cyberpark
+29
+LIST OF TABLES
+
+State Planning Board
+12
+
+13
+Information Technology Report
+Sl No
+Title
+Page Number
+1
+Elements for developing a technology entrepreneurship ecosystem
+55
+2
+Conceptual Roadmap for Electronics and IT sector
+67
+LIST OF FIGURES
+
+State Planning Board
+14
+
+15
+Information Technology Report
+SUMMARY
+As Fourteenth Five Year Plan is formulated with a vision of ushering in an inclusive economic 
+growth for the State by applying science, technology and modern skills for sustainable 
+growth of various sectors of the economy, the sunrise sectors of Electronics and IT industry 
+will be playing a crucial role in this transformation. With State contributing only a very 
+small portion to the IT and Electronics industry today, there is a need to reinvent the 
+sector considering the opportunities that are emerging in these sectors. There is a need 
+for Kerala to push the boundaries further by adopting “:digital” means in various walks 
+of life effectively, to regain the leadership role in the emerging world of digital revolution. 
+In order to chart out a plan of development of the sector a working group was formed 
+with eminent members from government, academia and industry.  The working group 
+consists of 3 subgroups focusing on three specific aspects namely (1) Industry Investment 
+and capacity building (ii) Information technology startups and (iii) communication and 
+internet infrastructure. The three subcommittees of the working group have worked on 
+specific aspects of development.
+Kerala is envisioned as a leading digital destination of the future. A strong innovation 
+ecosystem, IT clusters of product development, availability of electronics manufacturing 
+facilities, creating centres of excellences and innovations, strong R&D linkages between 
+industry and academia, creating seamless digital connectivity throughout the State, 
+creating opportunities by brain gain and attracting the best human talents are essential for 
+the realization of  Kerala as the leading digital destination. The reach of capacity building 
+should be, inclusive to the changing needs and nature of the society. The access to cloud 
+computing and product testing infrastructure could be provided at subsidized rates to 
+encourage entrepreneurs, students and innovators to develop various data intelligence 
+innovations. The State could envision setting up specialized fabs that focus on specific 
+domains like sensors memories on displays. Development of carbon neutral IT solutions 
+important aspect in the future society.
+Startups are economic entities that leverages on knowledge and innovation to create value 
+resulting in exponential growth within a short period of time. As most of the startups 
+depends on technology to build scalable business models, the conventional factors of 
+production like land, labour, capital are of significant and the intellectual property that 
+drives innovation become the key for their growth. During the State startup Ranking 2019, 
+a few areas of improvement of Kerala has been identified. The committee examined the 
+focus of the startup and unicorns, product maturing and quality of startup products, issues 
+regarding funding and investment, support to startups other than IT product startups, 
+capacity building within government for promotion of startups and women led startups 
+and suggested measures to address these issues.
+The committee on communication and internet infrastructure examined the issues and 
+challenges related to Telecommunication and internet. The wired connectivity in terms 
+of Broadband based and Fibre based connections have increased in the urban areas . The 
+
+State Planning Board
+16
+rules pertaining to clearances and permissions need to be made completely online and there 
+should be a time limit to the possible approval on rejection of the application. The use of 
+5G is still under testing and can open doors for development of new technologies and use 
+cases for changing the lives of the citizens. The Tribal colonies and all remote communities 
+in the State need to be provided internet connectivity. The committee also suggests that the 
+BPL families in each of the villages should be provided internet connectivity.
+
+17
+Information Technology Report
+CHAPTER I
+INTRODUCTION
+Information Technology continues to be a sunrise sector for India. Contributing almost 
+10% of GDP, the sector was witnessing a CAGR of 8% employing close to 4.4 Mn people. 
+The Indian IT-BPM sector is the world leader with around 55% of global share and Indian 
+companies have established more than 1000 global delivery centers in 80+ countries. It is 
+expected that the growth in IT sector to continue further as the world is rapidly undergoing 
+a digital transformation to meet the challenges of restricted mobility posed by the pandem­
+ic. Several studies have indicated that Indian IT sector may grow to around USD 350Bn 
+by 2025 from the current level of USD 191 Bn (2019-20), making it one of the fastest 
+growing sector of the economy
+Even though Kerala has the right ingredients for the growth of IT industry, its performance 
+lags when compared to the neighbouring states like Karnataka, Tamil Nadu and Telengana. 
+Kerala has an IT service export of around Rs 25,000 Cr and employs around 150,000 peo­
+ple. Even though the IT work force in Kerala accounts only for around 3% of total work­
+force, the people from Kerala accounts close to 15% of human resources in IT industry, as 
+a large number of IT professionals from Kerala works in the major IT hubs in the country 
+like Bangalore, Hyderabad and NCR.
+Similar trend is visible in the hardware side of digital industry also.  India is estimated to 
+have a market of around USD 350+ Bn in electronics by 2025, growing more substantially 
+from the current level of USD 75 Bn.  The imports which accounts for around 50% of cur­
+rent market is also expected to reduce to 30% by that time due to aggressive policy push on 
+electronics manufacturing for increasing self-reliance. Electronics industry currently con­
+tributes to 3.3% of GDP and is growing at a CAGR of 14%, making it a key growth driver 
+for the economy. Even though Kerala was an early mover in electronics industry with the 
+establishment of the benchmark public sector undertaking M/s Keltron in late 70’s, which 
+crafted a unique de-centralised model of development, the state could not kept in pace with 
+the fast development in the sector during 1990’s and 2000’s. With the presence of national 
+agencies like ISRO, CDAC etc. and with emergence of demand in sectors like space, elec­
+tric mobility etc., there is a huge potential for development of electronics industry from the 
+state in the near future.
+India today boasts of having the third largest startup system in the world. Rapid growth of 
+startups both in number and valuation is visible across various states in India and the latest 
+report of Niti Ayog places Kerala as one among the 6 fastest growing startup locations in the 
+country.  The 100th Unicorn of the country was borne out of Kerala and thanks to favour­
+able policy measures, several start-ups from the State are currently at high growth trajectory. 
+As startups play a key role in development of Electronics and It sector in the country, the 
+State’s focus on supporting fast growing startups through multiple policy interventions will 
+be significant in creating a vibrant inclusive startup ecosystem.
+Communication technologies are undergoing rapid transformation in the recent years. 
+
+State Planning Board
+18
+The migration from 3G to 4G technologies have made significant improvement in the 
+mobile connectivity and brought in significant speed in high volume data transfer.  As a 
+State Kerala is one of the regions with highest mobile penetration. Through the ambitious 
+KFON project,  Kerala is becoming is the State with highest coverage of high speed fiber 
+connectivity.  As country is advancing into the new regime of 5G communication technolo­
+gy, these infrastructure can be leveraged to make Kerala as the State with highest availability 
+of 5G networks. Realsing this, Government of Kerala in the budget of 2022 has announced 
+several measures to drive Kerala into leadership position in 5G.  It is expected that through 
+proactive measures and policies, the 14th Five year plan can focus on realising this goal 
+of making Kerala as a hub of development of industries and startups that leverage on 5G 
+technologies
+The IT and electronics sector are undergoing significant changes all around the world. With 
+the emergence of fourth industrial revolution characterized by convergence of digital, phys­
+ical and biological world, the world is witnessing a digital revolution driven by host of new 
+technologies like Artificial Intelligence, Data Analytics, Blockchains, quantum computing 
+etc.  The key aspect of emergence of these digital technologies is their ubiquitous nature and 
+the pervasive impact they have on multiple sectors of the economy.  These technologies, if 
+used properly can make radical positive transformation on the society, addressing several 
+hitherto unaddressed problems hampering the human development. These technologies 
+can play a vital role in attaining the Sustainable Development Goals and as a State having 
+highest Human Development Index, Kerala could be the forerunner of adoption of digital 
+technologies for societal good. 
+From the above discussions, it is clear that adoption of a comprehensive digital strategy will 
+be highly beneficial for Kerala in its next stage of development and growth. Realizing this, 
+the working group on IT and Electronics put forth two broad recommendations. On the 
+one hand the State has to harness the burgeoning opportunities in both IT and electronic 
+sector both in terms of production, entrepreneurship and employment while on the other 
+hand, State should adopt the technologies in various sectors of the economy to bring in a 
+more equitable inclusive growth. This will hasten the State’s stride towards evolving as a 
+true knowledge society, which as UNESCO (2005) defined is an equitable and democratic 
+society where creation and dissemination of knowledge shall be used for human wellbeing. 
+The three sub committees of the Working group has worked on specific aspects of this de­
+velopment. These are outlined in the Chapter 3,4 and 5. 
+
+19
+Information Technology Report
+CHAPTER 2
+REVIEW OF INFORMATION TECHNOLOGY
+SECTOR DURING 13TH PLAN
+Information and Communication Technology sector has been playing an important role in 
+the development of the State, since the 9th Five Year Plan. Realising its potential and critical 
+importance, the State Government has made earnest efforts to create a sound and world 
+class infrastructure for the sector and to develop the State’s digital technology capacities and 
+resources. This has enabled the State to be at the forefront in implementing information 
+and communication technology projects, e-governance initiatives, e-literacy programmes 
+and in the creation of basic IT infrastructure facilities. 
+Approach for 13th Five Year Plan
+•	 Employment Creation: - Creation of more employment opportunities through gener­
+ating one lakh jobs during XIII Plan. 
+•	 Human Resources: - Making available trained human resources through ensuring skill 
+development activities in all educational institutions. 
+•	 Startups: - Development of an eco-system for startups through the promotion of 
+constant innovation through new startups and thereby developing new products and 
+services.
+•	 Development Missions: - Enabling IT for the management and monitoring of the 
+activities of the 4 Missions of the Government. 
+•	 Public access: - Public access to high speed digital services by providing Wi-Fi hotspots. 
+•	 Data Platform: - Integration of wide variety of data of Government departments, 
+agencies and institutions on a single platform.
+Vision
+The vision of the sector is to establish Kerala as a knowledge-powered digital society by 
+2020 through application of digital technologies within the governing principles of free­
+dom, inclusion, transparency, safety, and security.
+Goals
+Kerala State IT Mission.
+	
+1.	 Enable a harmonised, interoperable, interconnected, and integrated government.
+	
+2.	 World class infrastructure, integrated e-service architecture, digital citizenship.
+IT parks. Establish Kerala as a preferred IT hub for emerging technologies
+Kerala Startup Mission
+	
+1.	 To be a leading knowledge start-up ecosystem in India.
+	
+2.	 Creating a sustainable and inclusive ecosystem for developing knowledge based 
+start-ups through multiple interventions.
+
+State Planning Board
+20
+IIITM-K.
+1.	
+To be an iconic knowledge institution focusing on emerging technologies.
+2.	
+To develop as a sustainable institution with national repute and global recognition.
+ICFOSS. Leverage FOSS for enhancement of quality of life of the people through develop­
+ment of inclusive and assistive technologies.
+KSITIL. Transform KSITIL into a top-class agency for development of physical and elec­
+tronic Infrastructure required for IT sector.
+Hardware Mission. Act as a single point of contact for international connects and enable 
+growth of electronics and hardware industry in the State.
+New initiatives of 13th Plan
+•	
+Skill Delivery Platform Kerala. Skill Delivery Platform Kerala is one of the major ini­
+tiatives taken up in the 13th Plan help the engineering colleges in the State to improve 
+the employability skills. This platform links engineering colleges in the State with IT 
+parks via tele- presence network connecting 150 hi-tech classrooms to deliver skills 
+training to approximately 50,000 students in a year.
+•	
+Kerala Fibre Optic Network (K-FON) is a State-wide optical fibre network for pro­
+viding high-speed internet connectivity to about 30,000 Government and educational 
+institutions (Track 1) and offer free internet to 20 lakh economically backward families 
+and internet services at a lower rate for others (Track 2). Government has accorded Ad­
+ministrative Sanction for the implementation of K-FON project for an estimated cost 
+of ₹1,028.20 crore. Later, revised Administrative Sanction was issued for an estimated 
+cost of ₹1,548.08 crore. It has been decided to implement Track 1 with KIIFB assis­
+tance. A new joint venture company (KFON Limited) was formed in the share holding 
+pattern of 49:49:2 in favour of KSEBL, KSITIL and GoK respectively as the SPV for 
+the project. First phase of the project was launched done on February 18, 2021. The 
+project is scheduled to be completed by April 30, 2022.
+•	
+Digital University. On January18,2020,the Government of Kerala upgraded IIITM-K 
+to make the Kerala  University of Digital Sciences, Innovation and Technology. The 
+University started functioning from the new campus of IIITM-K in Technocity and 
+the new building was inaugurated in February 2021.
+IT Policy 2017
+The IT policy announced by the government in 2017 aims to generate projects which will 
+mould Kerala into knowledge based society. The main objective of the policy is to establish 
+Kerala as a leading IT destination and generate direct and indirect employment opportu­
+nities in the sector, build necessary technological infrastructure for creation of an environ­
+ment favourable to ICT development, enhance the necessary human capital required to 
+both produce and use innovative technologies through education and skill building and 
+establish Kerala as an IT industry destination by attracting investments from within and 
+outside Kerala. The policy aims to:
+•	
+Establish Kerala as a preferred IT and ITeS hub and leverage ICT to contribute signifi­
+cantly to GDP and employment.
+
+21
+Information Technology Report
+•	
+Create schemes to attract the global IT players to the parks.
+•	
+Create 1 crore sq. feet built up space and provide 2.5 lakh employment.
+•	
+Utilize the capabilities of corporative and the capital from NRIs to develop the parks
+•	
+Maintain a steady annual growth of exports in IT and ITeS service and products.
+•	
+Create a science and technology driven eco system for research and development and 
+innovation.
+•	
+Increase the quality and competitiveness of small and medium IT enterprise and con­
+nect them to the international market.
+•	
+Foster technology entrepreneurship culture and create a sustainable start up ecosystem 
+by creating technology hubs.
+•	
+Provide inclusive, affordable and accessible electronic service delivery system for public 
+services.
+•	
+Ensure universal open access to data, information and knowledge resources in a digital 
+domain.
+•	
+Make the State 100 per cent e-literate and utilize ICT in all walks of life to ensure 
+equitable and inclusive development of the society.
+•	
+Give special emphasis to promote research and development in Malayalam language 
+computing and develop tools for the same.
+•	
+Develop a talent pool within the State in skills for sunrise industries and human re­
+sources capabilities for emerging and futuristic technologies.
+•	
+Make IIITM-K and ICFOSS as centres of excellence for research and development 
+and studies in IT sector.
+•	
+Strengthen IT @ school. 
+•	
+Create a safe framework for digital living in terms of cyber security, privacy and free­
+dom of internet conduct training and awareness programmes and promote electronic 
+transactions.
+•	
+Leverage IT in the day to day operations and in the delivery of services in hospitals.
+•	
+Adopt open source and open technologies in public domain and promote the same in 
+SMEs and industry.
+•	
+Manufacturing of electronics goods/components will be made possible among all in­
+cluding house wives.
+•	
+Strengthen the operation of Kenton so as to regain the prominence it had in the past.
+•	
+Research and development institutions shall be established in the area of convergence 
+of IT and bio technology and technologies shall be utilized to improve the quality of 
+exports in fruits and vegetables, fish and spices from Kerala.
+•	
+Create an infrastructure to enable women to work in the IT sector ensuring them safe 
+transportation and secure environment at the work place.
+Impact of Covid-19 on IT sector
+The impact of Covid-19 on the IT sector and the response measures by the sector to the 
+pandemic has been very significant. Due to unprecedented spread of Covid-19 pandemic, 
+daily business operations, project deliveries, and revenue streams of majority of the IT 
+companies have been affected. The companies have opted for Work From Home for all 
+
+State Planning Board
+22
+the employees from the end of March 2020 because of lockdown and containment zone 
+restrictions. The past one and a half years has been critical for most of the business units as 
+they had a challenge of setting up hardware and software systems.
+The revenue losses incurred by the firms are mainly because of losses arising from existing 
+projects put on hold, existing projects being cancelled and project in pipeline being can­
+celled, Internet connectivity, followed by power disruptions, security threads, and hardware 
+issues are the major issues in ‘Work From Home’ mode. There were issues related to clients 
+meetings and client visits getting cancelled.
+Performance of IT Sector in Kerala 
+•	
+According to the ICUBE 2020 report Kerala’s internet penetration is third in the coun­
+try (59%). Maharashtra (61%) ,Goa (60%)  is number one and two 
+•	
+Kerala is the first State to make Internet Access a Basic Right. Kerala Fibre Optic 
+Network (K-FON) project was initiated by Government of Kerala for providing free 
+internet connectivity to 20 lakhs economically backward households.                                             
+•	
+The E district Kerala, a lighthouse project in India, has touched the 4 crore mark with 
+respect to issuing various certificates to the citizens through Akshya Centres.
+•	
+The revamped Kerala Spatial Data Infrastructure Portal was launched in 2017 by the 
+Hon’ble Chief Secretary. Kerala become the first State in the country to start Geo Tag­
+ging of Government Offices. KSDI has more than 300 beneficiaries including users 
+from 39 Government Departments.
+•	
+Public Wi-Fi project established 2,000 Wi-Fi hotspots across the State to provide free 
+internet to the people. The hotspots locations have been identified by the district ad­
+ministration, it includes bus stands, tourist places, parks, public places, janasevanaken­
+dras, and government offices. In addition Public Wi Fi facility has also been made 
+available in 222 fishing villages along the Kerala coast.
+•	
+About 190 lakh sq.ft built up space, ₹4,982.1 crore investment, ₹20,623.6 crore turn­
+over and 1,00,558 employment created through 825 companies operating in the three 
+IT Parks.
+•	
+2,692 Akshaya Centres are functioning across the State giving employment to 7,816 
+persons. 
+•	
+Under the banner of Kerala Start Up Mission and several of its sector-specific partner 
+organisations, there are presently more than 2,200 registered start-ups, more than 4 
+lakh square feet of incubation space and more than 230 Innovation and Entrepreneur­
+ship Development Cells.
+•	
+Kerala ranked as the top performing State in Department for promotion of Industry 
+and Internal Trade’s (DPIIT’s) State Startup ranking.
+•	
+Availability of Resources for Startups is more than ₹1,000 crore through Fund of Fund 
+Scheme.
+•	
+IIITM-K established 10 Research Centres, 65 Research papers published in National/ 
+International Journals. 
+•	
+Completed ten GIS based web application/portal projects for various Departments 
+and six other projects are under development stage.
+
+23
+Information Technology Report
+•	
+Three Android based GIS mobile applications has been developed and deployed.
+•	
+Conducted various GIS based workshops for Government Departments, Schools, 
+Universities and Colleges in addition to provisioning of internship facility for students.
+Table 1 Financial Performance of IT sector from 2017-18 to 2021-22
+13th Plan - Agency wise Plan Outlay and Expenditure in IT Sector   Rs in Crore
+Sl. No Agency
+Annual Plan 
+2017-18
+Annual Plan 
+2018-19
+Annual Plan 
+2019-20
+Annual Plan 
+2020-21
+Annual Plan 
+2021-22
+Outlay 
+Exp.
+Outlay 
+Exp.
+Outlay 
+Exp.
+Outlay 
+Exp.
+Outlay 
+Exp.
+1
+Kerala State IT 
+Mission
+147.48
+43.33
+147.48
+105.86
+144.14
+65.85
+124.14
+87.43
+125.13
+91.17
+2
+Technopark
+84
+67.65
+84
+23.46
+84
+.50
+2
+1.75
+24.05
+21.00
+3
+Infopark
+67.05
+66.01
+67.05
+37.01
+67.05
+20.00
+10
+6.00
+35.55
+34.55
+4
+Cyberpark
+25.69
+33.07
+25.69
+5.81
+22.69
+0.58
+0.01
+0
+12.37
+0
+5
+Digital University
+-
+-
+-
+-
+-
+-
+-
+-
+24
+14
+6
+IIITMK 
+52
+52
+65.5
+6.98
+15.5
+7.75
+64.2
+64.19
+20
+20
+7
+Kerala Startup 
+Mission
+79.99
+31
+80
+44.2
+80
+44.68
+73.5
+52.19
+68.75
+55.77
+8
+Kerala State IT 
+Infrastructure 
+Limited (KSITIL)
+55.6
+20.3
+52.37
+25
+148
+48.12
+212.75
+102.29
+201.90
+87.50
+9
+IIITK. Kottayam
+22.5
+22.5
+24.5
+6.25
+_
+_
+_
+_
+_
+_
+10
+C-Dit
+10
+5
+6
+6
+7
+0
+6
+6.44
+6
+4.60
+11
+ICFOSS
+5
+5
+5
+7.5
+6
+5
+7.5
+4.75
+7.5
+   6.00
+12
+Hardware Mission
+_
+_
+30
+10.19
+_
+_
+_
+_
+      24
+14
+ Total
+549.31
+345.86
+587.59
+278.26
+574.38
+199.15
+500.1
+325.04
+525.25
+334.59
+Source: Plan Space and Accounts
+Performance of IT sector Agencies
+The agencies involved in the implementation and promotion of Information Technology 
+in the State are Kerala State Information Technology Mission (KSITM), Indian Institute 
+of Information Technology and Management–Kerala (IIITM–K), International Centre 
+for Free and Open Source Software (ICFOSS), Technopark, Infopark, Cyberpark, Kerala 
+State Information Technology Infrastructures Limited (KSITIL), Kerala Start Up Mission 
+(KSUM), Indian Institute of Information Technology and Management- Kerala( IIITM- 
+K) and Centre for Development of Imaging Technology(C-DIT).
+1.Kerala State Information Technology Mission (KSITM)
+Kerala State IT Mission is an autonomous nodal IT implementation agency of the 
+Department of Information Technology, Government of Kerala which provides managerial 
+and technical support to various initiatives of the Department. KSITM performs diverse 
+roles including enactment of ICT related policies, development of guidelines and stan­
+dards for e-governance, ICT facilitation for the Government entities, provide end to end 
+support and guidance to State Departments in digitisation efforts, act as a bridge between 
+
+State Planning Board
+24
+Government and industry, undertake Capacity Building initiatives and bridge the digital 
+divide, establish and sustain common IT Infrastructure, and take up various e-Governance 
+initiatives. The main activity is delivering the best of the digital services to the citizens keep­
+ing in mind “Citizen First” approach. As a result of these proactive policies and projects, 
+Kerala achieved major progress in the transformational journey towards “Digital State”. 
+Some of the remarkable achievements are shown below.
+•	
+Kerala declared as the 1st digital State in the country by GoI in 2016
+•	
+Hi-Speed Rural Broadband Network was first commissioned in India at Idukki
+•	
+First State in the country to issue over 4 crore e-Certificates.
+•	
+100 per cent of the Grama Panchayats are connected through optical fibre network
+Key activities of KSITM 
+Kerala has been a forerunner in e-governance and mobile governance by promoting and 
+developing core infrastructure and e-literacy programmes. 
+•	
+K-Fi/Public Wi-Fi: K-Fi is a free Wi-Fi project that aims to establish 2,000 Wi-Fi 
+hotspots across the State to provide free internet to the people. The hotspots locations 
+have been identified by the district administration which includes bus stands, tourist 
+places, parks, public places, janasevanakendras and government offices. In addition 
+Public WI FI  facility has also been made available in 222 fishing villages along the 
+Kerala coast. 
+•	
+E-Office aims to conduct office procedures electronically thereby transforming Gov­
+ernment offices to paperless offices and bringing out the benefits of digital communi­
+cation that ultimately leads to faster decision making. E-office has been implemented 
+in all departments in Secretariat, 66 Directorates/Commissionerate/other Government 
+offices, all Collectorates, 17 Sub-Collectorates/RDOs. The Government has decided to 
+roll out e-office up to grassroot level in Taluks and Village Offices in coming years.
+•	
+Core infrastructure for e-governance in the State consists of Kerala State Wide Area 
+Network (KSWAN), Secretariat wide Area Network (SECWAN), State Data Centre 
+and State Service Delivery Gate way (SSDG). KSWAN is the backbone of the State 
+Information Infrastructure (SII), connecting all districts, 152 Blocks Panchayats, and 
+63 Mini Civil Stations/ revenue towers across the State. Around 4,000 offices of Gov­
+ernment Departments are connected to KSWAN through Wireless and a larger num­
+ber through leased lines and LAN. KSWAN aims to establish a state-of-the-art Optical 
+Fibre Connection (OFC) based network architecture in the Government Secretariat 
+with a vision to improve the quality and availability of ITeS at its administrative head­
+quarters. State Data Centres (SDCs) are at the heart of e-governance framework of 
+the State, hosting various applications and websites of the Government entities and 
+provisioning associated services.
+•	
+e-District, a State Mission Mode project under National e-Governance Plan, targets 
+delivery of high volume citizen services provided by the district administration, at Ta­
+luk or Village level, through back-end computerisation to enable online availability of 
+these services through Common Service Centres (CSC) and State portal. Some of the 
+
+25
+Information Technology Report
+major services availed through e-district project are:
+•	
+Implemented 25 Revenue Certificate Services across the State
+•	
+RTI and Public Grievance Services
+•	
+Online utility bill payment systems enabled in e-District portal
+•	
+Various services of other Departments are also online/getting integrated with the 
+e-District Portal
+•	
+M-Keralam, the unified mobile application which will bring together all the services 
+rendered by different Government Departments under one umbrella. Currently, the 
+app is providing 101 services of 18 Departments of the State.
+•	
+e-Government Procurement (e-GP) is being implemented in the State, 54 Govern­
+ment Departments and 335 PSUs/Autonomous Bodies/Government agencies are util­
+ising the common e-Procurement system. 
+•	
+Friends Janaseva Kendras have been established in all the 14 district headquarters. In 
+2018-19, an amount of ₹148.1 crores revenue for the Government was collected. The 
+Government is also planning to make all services currently available through Akshaya 
+also to be made available to Friends without service charges. It is a single window ‘no 
+queue’ integrated remittance centre, where the citizens have the opportunity to pay 
+all taxes and other dues to the Government, under one roof, at no extra cost. On an 
+average, 1,000-1,050 people visit each centre every day. A new software with enhanced 
+features for FREES (FRIENDS Re-engineered Enterprise Enabled System), was devel­
+oped and introduced in FRIENDS Janasevana  Kendram.
+•	
+Akshaya is an innovative project launched on November 18, 2002 to bridge the digital 
+divide. It works on public private participation mode. In the initial stages, the objective 
+of the project was to make at least one person in a family e-literate. Gradually focus of 
+Akshaya shifted to citizen service centric mode. 
+•	
+2,692 Akshaya Centres are functioning across the State giving employment to 7,816 
+persons. 
+•	
+More than 1,700 Akshaya Centre act as banking Kiosks for different banks.
+•	
+5.5 million citizens got enrolled under UID through Akshaya Centers. 
+•	
+Enrolment under UID through Akshaya is 92.7 per cent against the national average 
+of 62 per cent. Akshaya is also a premier agency in UID enrolment having generated 
+75 per cent of total UIDs in Kerala. 
+Table 2 The details of Akshaya centres in Kerala
+Year
+No of Akshaya Centres 
+(nos)
+No of person employed 
+(nos)
+Turnover (Rs crore)
+2016
+2628
+7476
+46.1
+2017
+2679
+7774
+65.3
+2018
+2906
+7942
+73.6
+2019 
+2716
+7577
+43.4
+2020
+2692
+7816
+41.9
+
+State Planning Board
+26
+•	
+Kerala State Spatial Data Infrastructure (KSDI) is a mechanism to provide geo-spa­
+tial data sharing at all levels of Government, the commercial sector, the non-profit 
+sector, and academia. 
+The major achievements of the project are as follows.
+•	
+KSDI Geo Portal is upgraded using Erdas Apollo 2016 webserver with new features
+•	
+KSDI collected data from 20 departments with more than 400 layers in various file 
+formats and after quality checking, uploaded 59 seamless layers.
+•	
+Presently, KSDI has more than 300 beneficiaries including users from 39 Government 
+Departments.
+Government of Kerala was assigned as the State registrar for Aadhaar enrolment by UIDAI. 
+Electronics and IT Department of Kerala was approved as the nodal Department and 
+KSITM was approved as the nodal agency for Aadhaar enrolment in the State. In addition, 
+UIDAI has approved KSITM as the Authentication User Agency and e-KYC User Agency. 
+Aadhaar based services like Digilocker are also being rolled out to departments. At present, 
+there are about 900 Permanent Enrolment Centres, 500 Child Enrolment Centres and 
+1,450 Update Centres by Akshaya CSCs to facilitate Aadhaar Enrolment and changes to 
+details in Aadhaar. 
+A State Level Workshop on DigiLocker  was conducted by Kerala State IT Mission 
+with the support of National e-Governance Divison, (NeGD) of Ministry of Electronics 
+and Information Technology MeitY for “Achieving Paperless Governance and Rapid 
+Implementation of DigiLocker”.
+2. Indian Institute of Information Technology and Management - Kerala (IIITM-K)
+The Indian Institute of Information Technology and Management – Kerala was set up in 
+2000 as a premier institution of excellence in Science, Technology and Management. It 
+emphasises quality education to students and develops professionals and leaders of high cal­
+ibre imbued with values of entrepreneurship, ethics and social responsibility. The institute 
+focuses on education, research, development and training in basic and applied information 
+technology and management.
+IIITM-K is the implementing agency for the various e-governance initiatives for Govt 
+of Kerala and Govt. of India. It co-ordinates national and international conferences and 
+workshops to provide opportunity to students to interact with world class experts and 
+researchers.
+There are four specialised Post Graduate Programmes (M.Sc.) being offered by the Institute 
+in Computer Science with specialisation in Cyber Security, Machine Intelligence, Data 
+Analytics, and Geospatial Analytics. Along with the above four specialised courses, the 
+Institute also offers M.Phil Ecological Informatics, M.Phil Computer Science, and PG 
+Diploma in E-Governance. The M.Phil and MSc degree are awarded by Cochin University 
+of Science and Technology (CUSAT) and post graduate diploma by Directorate of Technical 
+Education, GoK. The Pass outs from IIITM-K hold commendable positions in internation­
+ally reputed IT companies such as JFWTC General Electric, Accenture, Amdocs, Siemens 
+
+27
+Information Technology Report
+Ernst and Young, ARS Software, Allianz Cornhill, IBM, IBS, Infosys, Tata Elxsi, Tata 
+Consultancy Services, UST Global Technology, and Wipro.
+The new campus of the Institute at Technocity is in completion phase and shall facilitate 
+and promote studies, research and incubation in Information Technology and its applica­
+tion domains. The fully completed campus would have total built up area of 48,161 sq me­
+tre. 95 per cent of works in Academic block and hostel building are completed. It is expect­
+ed that the functioning of IIITM-K will shift from Technopark to new campus in 2020. 
+3. Digital University
+On 18.01.2022, the Government of Kerala upgraded IIITM-K to make the Kerala 
+University of Digital Sciences, Innovation and Technology. The University started func­
+tioning from the new campus of IIITM-K in Technocity and the new building was inau­
+gurated in February2021.The University is envisaged to become a unique centre of excel­
+lence of global repute by conducting education, research and extension activities in areas 
+of digital technologies, science and humanities. The University is aiming to create capacity 
+building in masters  and doctorate programmes in the areas of artificial intelligence and 
+natural language processing, internet of things, electronic systems and automation, imaging 
+technologies, data analytics and big data, cyber security, block chain, ecological informatics 
+and geo spatial analytics. The University will start schools in the areas of computer science 
+and engineering, digital sciences, electronics systems and automation, informatics, digital 
+humanities and liberal arts. The new University will initially create about 200 job opportu­
+nities in academic and research level.
+4.Technopark
+Technopark was set up as an autonomous organisation fully owned by Government of 
+Kerala to create global standard infrastructure and to provide support required for devel­
+opment of information technology industries. It was formally inaugurated on November 
+18, 1995. Since then Technopark has been growing steadily both in size and employees 
+strength. 
+With the commissioning of Phase III, Technopark will become the largest IT Park in India 
+with 380 acres of land and 9.7million sq.ft built up area. The Park is now home to nearly 
+460 companies, employing more than 63,000 IT/ITeS professionals.
+With the launch of Technocity project in Kazhakuttam, the largest integrated IT Township 
+in 424 acres of land, the Kazhakuttam- Kovalam (NH 66) has become the first IT Corridor 
+in Kerala. Technopark has charted out an ambitious target of creating 50,000 new jobs by 
+2021.
+Table 3 Physical achievements of Technopark
+Particulars
+Achievements 
+2017-18
+Achievements    
+2018-19
+Achievements   
+2019-20
+Achievements    
+2020-21
+Total turnover (₹crore.)
+14,000
+14,000
+15,000
+15,000
+Total export (₹crore)
+6,450
+7,000
+7,350
+#
+Total investment (₹crore)
+4,970
+4,979
+4,979
+5,309
+
+State Planning Board
+28
+Total Employment (Nos)
+56,000
+60,000
+62,000
+63,000
+No of Companies      ( Nos)
+400
+410
+450
+460
+Total land (Acres)
+662.54
+662.54
+662.54
+662.54
+Total built up space (Lakh sq.ft). 
+89
+97
+101
+103
+Source: Technopark
+Note: # Audited data yet to receive.
+Technopark currently owns 20 IT buildings within the campus. The built up space in the 
+Technopark has increased from 88.81 lakh sq feet in 2017-18 to 102.7 lakh sq. ft in 2020-
+21. Out of which Technopark has created 34.81 lakh sq.ft area for industrial modules and 
+total built up space completed by companies is 75.7 lakh sq.ft. 
+5 .Infopark
+Infopark, Kochi is the second largest IT hub in Kerala with spokes at Cherthala and 
+Thrissur. The objective of Infopark is creation of state-of-the-art infrastructure facilities 
+such as space for IT/ITeS companies, supply of power, water and connectivity. Since its in­
+ception in 2004, Infopark and its co-developers created over 9 million sq.ft. built up space 
+and have provided employment to over 53,000 IT Professionals through 420 IT companies 
+who have taken space in its Parks.
+Infopark has 5 campuses which is spread over 323 acres under various phases of devel­
+opment. In case of Infopark TBC, a built up partly fitted space of 25,845 sq.ft at Kaloor 
+International Stadium was taken over from KSITM in the year 2013. Infopark undertook 
+necessary balance fit outs, modifications/rectifications in the fitted out space and now the 
+facility is mainly used for providing office space for startup companies.
+Table 4 Physical achievements of Infopark
+Particulars
+Achievements    
+2018-19
+Achievements     
+2019-20
+Achievements    
+2020-21
+Total turnover (₹crore.)
+4,500
+5,200
+5,700
+Total Employment (Nos)
+40,000
+47,000
+53,000
+No of Companies      ( Nos)
+392
+427
+420
+Total land (Acres)
+323
+323
+323
+Total built up space (Million sq.ft). 
+9.0
+10.2
+10.2
+Source: Infopark
+6.Cyberpark
+Cyberpark was established on the lines of Technopark in Trivandrum and Infopark in Kochi 
+based on a hub and spoke model. It was set up to bridge the IT infrastructure gap along 
+the west coast starting from Kochi to Kasaragod. The objective of Cyberpark is to provide 
+cost effective and top of the line infrastructure to the IT/ITeS investors and thereby encour­
+age, promote and boost the export of software/software services and to create employment 
+
+29
+Information Technology Report
+opportunities in Malabar region. It is the responsibility of Cyberpark to interface between 
+Government and Industry interact with potential investors, strengthening the IT/ ITes 
+base, holding promotional campaigns, develop human resources for IT and ITeS. Kerla 
+State IT Infrastructure Limited (KSITIL) holds the ownership of the entire area of 43 acres 
+of land at Kozhikode Cyberpark.
+Major achievements of Cyber Park are:-
+•	
+3 lakh sq.ft built up space with 62 percentage occupancy. Currently 52 companies are 
+operational in SEZ.
+•	
+Earmarked a built up space of 12,391 sq.ft for non- SEZ IT operations. Half of the 
+space is currently allocated to startup companies working under KSUM.
+•	
+Created around 917 direct employment.
+•	
+Export revenue have been reported to be in the tune of ₹26.17 crores. 
+Table 5  Major Physical achievements of Cyberpark
+Particulars
+Achievements 
+2018-19
+Achievements 
+2019-20
+Achievements 
+2020-21
+Achievements      
+2021-22
+(Up to Sep 2021)
+Total turnover (₹crore.)
+8.14
+14.75
+26.16
+14.09
+Total export (₹crore)
+8.14
+14.75
+26.16
+14.09
+Total investment (₹crore)
+0.74
+1.35
+2.47
+1.93
+Total Employment (Nos)
+487
+607
+764
+917
+No of Companies  ( Nos)
+23
+46
+52
+52
+Total land (Acres)
+43
+43
+43
+43
+Total built up space (lakh sq.ft). 
+3.0
+3.0
+3.0
+3.0
+Source: Cyberpark
+7. Kerala State IT Infrastructure Ltd (KSITIL)
+KSITIL is a public limited company formed for the creation of the infrastructure for IT/
+ITeS in the State. The company leverages the valuable land assets owned by the Government 
+and through viable financial models, generates funds for building the IT Infrastructure in 
+the State in a Private Public Participation model. 
+The business model of the company is to acquire land and develop basic infrastructure 
+facilities such as electricity, water, road, and compound wall in the area, obtain SEZ status 
+and other such Government approvals that may be required and then allot land to private 
+developers for development of either IT SEZ or IT parks. 
+Major projects of KSITIL are Kozhikode IT Park, Kannur IT Park, Kasaragod IT Park, Kollam 
+IT Park, Koratty IT Park, Cherthala IT Park, Ambalapuzha IT Park, Infocity Pala, IIIT-Kerala 
+and Technolodges.
+Some of the major projects of KSITIL are as follows:
+1.	
+Skill Delivery Project, Kerala: SDPK is a prestigious project assigned to KSITIL by 
+
+State Planning Board
+30
+Government of Kerala. The objective of the project is to bridge the gap between stu­
+dents and industry. SDPK consists of a virtual platform with teleconferencing system 
+being installed in all the 150 engineering colleges and 3 studios, which are being setup 
+as part of the project. System Integration works in 74 class rooms across Kerala and 3 
+studios in Technopark, Infopark and NIT Calicut has been completed.
+2.	
+Kerala Fibre Optic Network (K-FON): K-FON is a State-wide optical fibre network 
+for providing high-speed internet connectivity to about 30,000 Government and edu­
+cational institutions (Track 1) and offer free internet to 20 lakh economically backward 
+families and internet services at a lower rate for others (Track 2). Government has 
+accorded Administrative Sanction for the implementation of K-FON project for an 
+estimated cost of ₹1,028.20 crore. Later, revised Administrative Sanction was issued for 
+an estimated cost of ₹1,548.08 crore. It has been decided to implement Track 1 with 
+KIIFB assistance. A new joint venture company (KFON Limited) was formed in the 
+share holding pattern of 49:49:2 in favour of KSEBL, KSITIL, and GoK respectively 
+as the SPV for the project. First phase of the project was launched on February 18, 
+2021. The project is scheduled to be completed by April 30, 2022.
+3.	
+Construction of IT building at Technocity: As part of development of Technocity, 
+GoK decided to construct the first IT building at Technocity with a built up area of 2 
+lakh square feet. For this, KSITIL is assigned as SPV and the funding agency is KIIFB. 
+The total project cost is ₹105 crore. 85 percent of physical works has been completed.
+4.	
+Building 1 at Technology Innovation Zone, Kalamassery: As part of startup eco­
+system creation in Kerala, the Government of Kerala has announced the construction 
+of 3.4 lakh square feet building at Kochi Innovation Zone. Accordingly, Government 
+has accorded Administrative Sanction for ₹215.26 crore with financial assistance from 
+KIIFB. KSITIL is designated as the SPV for the execution of the project. The works in­
+cludes construction of three buildings and associated supporting infrastructure works. 
+35 percent of physical works has been completed
+5.	
+Village Knowledge Centres works at Dharmadam LAC and Thalipparambu LAC: 
+KSITIL was engaged as the implementing agency for the construction of Village 
+Knowledge Centres at Kannur. Total estimated cost was ₹5.61 crore. NABARD has 
+sanctioned a loan of ₹5.33 crore. The work involves the construction of Village Knowl­
+edge Centre buildings using Glass Fibre Reinforced Concreate (GFRC) panel in 15 
+panchayat locations. 70 percent of physical work have been completed for Village 
+Knowledge Centres at Dharmadom LAC and 55 percentage of physical works com­
+pleted for Village Knowledge Centres at Thaliparambu LAC.
+6.	
+Space Park: Kerala Space Park is one of the ambitious initiatives of the Government 
+of Kerala to make Kerala a production hub for aerospace products and services. Gov­
+ernment of Kerala appointed KSITIL as the nodal agency of the project. KSITIL has 
+prepared DPR and submitted to Government for approval. The plan focuses mainly to 
+establish aerospace industrial units within the allotted 20 acres of land.
+8 .International Centre for Free and Open Source Software (ICFOSS)
+Government of Kerala established ICFOSS as an international centre in collaboration with 
+
+31
+Information Technology Report
+Free Software Organisations in India and abroad to promote development and applica­
+tion of free software and free knowledge. It is a nodal agency in all matters relating to 
+free and open source software including consultancy, research and development, academ­
+ics, studies and service, training, publishing, certification, and international co-operation 
+and collaboration. ICFOSS has carried out so many FOSS-based Training programmes, 
+Workshops, Seminars, Research Programmes, Projects, Malayalam Computing activities, 
+Student Internships and projects, Summer Camps, Faculty Development Programmes, and 
+Fellowship programmes. 
+The major activities of ICFOSS are the following:
+•	
+20 faculty development programmes for teachers in which 600 teachers participated, 
+25 student training programmes in which 750 students participated, 6 training pro­
+grammes for Professionals and SMEs in which 200 persons participated, 10 Scilab 
+training programmes in which 300 students and teachers participated, Student project 
+works, Internships, and Fellowship programmes are conducted.
+•	
+Launched Assistive Technology products such as T- Slide Mouse, Flip-Mouse and on- 
+Screen Malayalam Keyboard
+•	
+FOSS cell co-ordinators meet up has been conducted and 45 co-ordinators attended.
+•	
+Training to Government Employees on FOSS Solutions and Malayalam Computing 
+in 62 batches and 1700 employees participated
+•	
+International conference Swathanthra 2017 in which 300 students and professionals 
+participated
+9. Kerala Startup Mission (KSUM)
+Kerala Startup Mission (KSUM) is the nodal agency of Government of Kerala for imple­
+menting the entrepreneurship development and incubation activities in the State. Kerala 
+Start up Mission, formerly known as ‘Technopark Technology Business Incubator’ is India’s 
+first successful non- academic business incubator. It started operations in 2007. 
+The objective of the Mission is to identify and develop entrepreneurial talents among youth 
+and students in Kerala, address the technology based entrepreneurship development re­
+quirements in the traditional sectors of Kerala, build appropriate training programmes suit­
+able for Kerala’s socio-economic culture, identify market niche for technology products and 
+services, interfacing and networking among academic, and R&D institutions, industries, 
+and financial institutions, and establishing a platform for speedy commercialisation of the 
+technologies developed in the institutes to reach the end-users. 
+Under the banner of KSUM and several of its sector-specific partner organisations, there are 
+presently more than 3,143 registered start-ups, more than 4 lakh sq.ft. of incubation space, 
+more than 230 Innovation and Entrepreneurship Development Cells (IEDC), all of which are 
+evenly distributed across various districts and cities such as Kochi, Trivandrum and Calicut. 
+Many of these facilities also house advanced labs that focus on sectors such as hardware, bio­
+technology, electronics and advanced computing.
+Achievements of KSUM 
+•	
+Kerala ranked as the top performing State in DPIIT’s State Startup ranking.
+
+State Planning Board
+32
+•	
+Home to one of India’s largest innovation hub of 1.8 lakh sq.ft - the Integrated Startup 
+Complex
+•	
+Established centers of excellence in AR/VR with global tech giant Unity
+•	
+Established the BRINC Hardware Accelerator and  XR Accelerator in collaboration 
+with Unity
+•	
+Incubation infrastructure for niche sectors such as cancer research, spacetech, biotech
+•	
+Established Space Technology Application Development Ecosystem (STADE)
+•	
+Establishing Super Fab Lab at Kochi
+•	
+Conducted 32 fab workshops imparting digital fabrication expertise to more than 250 
+participants. 
+•	
+47 funded Startups in the State, out of which 13 are funded in 2019.
+•	
+316 start ups build through IEDCs.
+•	
+More than 40 incubatorsand 4 accelerators in the State.
+•	
+13 per cent Women Startups in Kerala, 30 Women Startups registered with KSUM
+•	
+Conducted 187 boot camps in Colleges.
+•	
+Distributed 50 Startup Box to startups/incubators.
+•	
+10,000 Raspberry Pi kits distributed.
+•	
+2 Silicon Valley Visit and support to 17 startups for intellectual visit.
+•	
+Established 2 Fab labs and 20 mini fab labs.
+•	
+Conducted 1 Fab Academy Courses.
+•	
+Seed support to 26 Startups. 
+•	
+Supported 35 startups under Performance Linked Support Scheme and 21 startups for 
+Patent Support Scheme, Released patent support to 5 startups
+•	
+Established 24 new Incubation and Entrepreneurship Development Cells (IEDC)
+•	
+Conducted IEDC summit connecting 2,700+ students/nodal officers
+•	
+Associated with 3 paid delegations with a participant size of 24 under International 
+Entrepreneurial Exchange Programme
+•	
+Conducted one Fab Academy Program with a participant size of 14
+•	
+Under Start up Leadership Academy and Training programme, conducted 1 Manage­
+ment Development Programme, 9 Entrepreneurship Awareness Camps with ICT, 4 
+IEDC Co-ordinator’s meet, 1 Product Design and Development Workshop for nodal 
+officers and students, 5 programmes for faculties, 5 community development part­
+ners for delivering entrepreneurship/technical workshops for students/start-ups, 7 Let’s 
+Talk – Future Tech workshops for start ups
+•	
+Established Incubation Centre at Kasaragod under Open Innovation Collaboration 
+Space
+•	
+KSUM launched a Water Innovation Zone with Kerala Water Authority with the ob­
+jective of identifying and promoting Startups working on products which will assist 
+KWA. Manhole cleaning robot by Genrobotics was the first project selected.
+•	
+Supported KRIBS – BIONEST, biotechnology incubator supported by DBT and 
+RGCB,  Kannur Technolodge, Piravom Technolodge and Muvattupuzha Tehnolodg­
+es and support  was  given to Nasscom 10K Warehouse and IAMAI Mobile 10X 
+Incubator
+
+33
+Information Technology Report
+•	
+Conducted 64 hackathons, makeathons, 1,092 startup events at IEDCs and 3 Seeding 
+Kerala Events
+•	
+Supported 62 start ups for national level event participation
+•	
+13 Business Promotion Events held at Kerala
+•	
+Developed Technology Commercialisation Platform
+•	
+Conducted Future Sparks Programme at Kasaragod
+•	
+Maker Village, the largest electronic hardware incubator in the country is a joint ini­
+tiative of Ministry of Electronics and Information Technology (MeitY), Government 
+of India and Government of Kerala with KSUM as the leading partner and IIITMK, 
+Thiruvananthapuram as the implementation agency.
+10.  Centre for Development of Imaging Technology (C-DIT)
+C-DIT has been functioning as an Information and Communication Technologies (ICT) 
+solutions provider in the Government sector. 
+The major programmes undertaken by C-DIT are:
+•	
+Reorganisation of Chief Minister’s Public Grievance Redressal system and Distress Re­
+lief Fund assistance mechanism into an integrated online portal www.cmo.kerala.gov.
+in
+•	
+Design and development of software for conducting online examination and on screen 
+evaluation of written answer sheets for Kerala Public Service Commission
+•	
+Digitisation of old manuscripts and documents for State Archives and Registration 
+departments
+•	
+Design, hosting and maintenance of over 200 Government websites and social media 
+platforms MIS/ERP systems for various Government departments
+•	
+In the wake of the recent flood disaster in the State, C-DIT maintains the online 
+fund collection portal for State Government which is developed and deployed last year 
+during flood disaster in the State.
+•	
+Carried out Hologram embedded Tax Label Production for Kerala State Beverages 
+Corporation for affixing in Indian Made Foreign Liquor bottles. Besides, hologram 
+embedded security documents such as RC Book, driving license were also supplied to 
+Motor Vehicles Department. 
+•	
+The Security Design Lab set up at Lottery Directorate for the designing of lottery tick­
+ets incorporating security features, and  security forensic for preventing counterfeit is 
+being managed by the technical support of C-DIT.
+•	
+As a cross border security measure, the project of fixing high security-registration 
+boards for sea going vessels have been taken up for the Fisheries Department
+•	
+Successfully carried out Facility Management System for all the RT offices under Mo­
+tor Vehicles Department.
+•	
+Completed online examination Software for Entrance Examination Commissionerate, 
+online quiz platform for KSACS, Janajagratha portal for PRD, and  ‘Koode’ the portal 
+for the Covid- 19 affected patients.
+•	
+Produced of 246 episodes of pre-school learning video lessons for Women and Child 
+
+State Planning Board
+34
+Development Department in the context of Covid-19 pandemic and subsequent clo­
+sure of Anganwadies in the State.
+•	
+Facilitated Nammal Namukkai under Rebuild Kerala Initiative and Transgender Ad­
+vocacy Campaign. Creative support offered for the Break the Chain Campaign to 
+prevent spread of Covid-19 pandemic.
+•	
+ Animation video production series for Sampushtakeralam for Women and Child De­
+velopment Department,  Navakeralam weekly television show, sign language bulletin, 
+TV news monitoring project,  social medial campaign of Haritha Keralam Mission, 
+Rebuild Kerala Initiative, GST, Food Safety Commissionerate, Suchitwa Mission, and 
+Arogyakeralam,  live streaming of various programmes of Chief Minister and other 
+Ministers, technical support for the various projects of KIIFB, K-DISK, and KSFE 
+Pravasi Chitty, and technical facilitation of Chief Minister’s Public Grievance Redressal 
+System are the major other projects of C-DIT.
+
+35
+Information Technology Report
+CHAPTER 3
+INDUSTRY INVESTMENT AND CAPACITY BUILDING
+Kerala as a society has thrived to grow in the principle of inclusivity and equality as primary 
+drivers. In modern context, this sets in very well with the ambitious targets worldwide to 
+build a modern Society 5.0.  Society 5.0 is predecessor to the information society (Society 
+4.0), industrial society (Society 3.0), agricultural society (Society 2.0), and hunting soci­
+ety (Society 1.0). By definition, Society 5.0 is “A human-centered society that balances 
+economic advancement with the resolution of social problems by a system that highly in­
+tegrates cyberspace and physical space.” Through the  aim to build such a society, the state 
+which has already achieved high literacy rates, having India’s first IT park, and one of the 
+early electronics manufacturing industries, envisions to be a fully digital enabled state. It is 
+not unrealistic for Kerala to become the top 20 digital destinations in the world and be in 
+the top 5 in India in the next 5 years. 
+Creating a knowledge driven economy that is performance driven yet balancing the social 
+wellbeing of the society at large, requires continued support for relearning and adapting to 
+emerging technologies. The IT jobs of the future would imbibe creativity, innovation and 
+having foresight to reimagine the application and use of high end technologies. Enabling 
+such an environment not only requires creating an innovation ecosystem to support present 
+industries but also supporting those for the future. Creating centres of excellence and new 
+centres of learning throughout the state is essential to widen the adoption, use and reach 
+of innovative digital technologies for social good.  This section on capacity building puts a 
+forward thinking approach to marry the present needs with that of the future IT landscape 
+for Kerala. 
+The impact of climate change can be seen throughout the world. In the recent past, Kerala 
+had to deal with disaster management as a key area of policy development. Creating digital 
+solutions to cut carbon emission, and becoming a climate responsible state is in alignment 
+with the long standing cultural relation the people of Kerala hold with its diverse flora and 
+fauna.  Kerala can show a way forward to future generations, by providing innovative IT 
+solutions to combat climate change. Further, this idea can support the promotion of a range 
+of traditional industries from handloom to that of creating modern manufacturing units.
+Bringing e-Governance as part of skilling and capacity building requires developing frame­
+works for training personnel at all levels. Just like training for new skills, training for main­
+taining the changing e-Governance solutions are equally important. The effectiveness of 
+e-Governance solutions becomes only reliable when the citizens are well aware of the func­
+tionality and use of such solutions. 
+Through this focus on capacity building, Kerala is envisioned as a leading digital destina­
+tion of the future. The synchronization of various sectors to bring digital transformation 
+across the state is essential for building the aforementioned Society 5.0. A strong innovation 
+ecosystem, IT clusters of product development, availability of electronics manufacturing 
+facilities, creating centers of excellences and innovations, strong R&D linkages between 
+
+State Planning Board
+36
+industry and academia, creating seamless digital connectivity throughout the state, creating 
+opportunities by brain gain and attracting the best of human talents are essential for the 
+realisation of Kerala as the leading digital destination. 
+Skilling in an Inclusive Society
+The reach of capacity building should be inclusive to the changing needs and nature of the 
+society. Increase in digital divides in the community can do harm and could have a long 
+term social negative impact on how future industries are shaped in the state.
+1.	
+Reducing the digital divide: The pandemic highlighted the importance of having 
+access to digital technologies, in rural and urban areas. The pandemic affected everyone 
+from students to working professionals. To ensure equality in digital society it becomes 
+essential to make the widespread availability of good communication infrastructure, 
+access to internet, access to computers and access to trained teachers at affordable costs 
+to the citizens.
+2.	
+Train the trainers: Inclusivity requires the trainers to be aware of the challenges in 
+handling crises. Teachers are often untrained and traumatized as a result of the crisis. 
+Proper training and early awareness provides an opportunity for teachers to ensure 
+accessibility for all learners according to their needs.
+3.	
+Diversity and differences: Professional skilling requires to be made accessible to all 
+sections of the society. Persons with disabilities are likely to face increased risks and 
+suffer even more of a disadvantage in terms of access to aid (including food, water, 
+shelter), precisely because they are unable to physically access food distribution points, 
+water points, sanitation facilities, schools, and so on. The differently abled and disabled 
+individuals, as well as those in socially vulnerable situations would need to be given 
+special attention. 
+4.	
+Digitally enabled state: Kerala can aim to see itself within the top 5 digitally enabled 
+states in the next 5 years. Including innovation as the core of skilling programs are 
+essential to build a digitally enabled state. To build society 5.0, it is required to balance 
+economic advancement by solving social problems by a system that highly integrates 
+cyberspace and physical space, where innovation becomes a key driver. This requires 
+developing high end digital infrastructure for the future, including high speed and 
+reach of the internet, creating test beds for driving innovation and creating launch pads 
+to bring in investors.
+Becoming a Digital destination
+It is envisioned to make Kerala the most favoured digital destination of high tech industries 
+in India. It is recommended to create an ecosystem whereby Kerala becomes a top 20 digital 
+destination in the world, and top 5 in India. 
+Digital innovation labs could be set up throughout the state, to drive grassroot innovations. 
+Innovators from all walks of life could be encouraged to work in digital innovation labs, and 
+get the necessary help to realise their ideas. 
+The access to Cloud computing and product testing infrastructure could be provided at 
+
+37
+Information Technology Report
+subsidized rates to encourage entrepreneurs, students and innovators to develop various 
+data intelligence innovations. Such infrastructure could be developed in a public private 
+partnership model, whereby the industries can directly support innovations from its ide­
+ation stages.
+The Kerala state can be a leader in digital education, empowering the school education sec­
+tor to higher education. This requires the widespread use and research on innovative peda­
+gogies at various levels of training. The use of artificial intelligence, virtual reality, robotics, 
+and electronics technologies can enable and improve the effectiveness of a wide range of 
+teaching and learning techniques such as flipped learning, project based learning, problem 
+based learning and research led learning. 
+To take strides in digital technologies, it’s also important to build the related semiconductor 
+industry. The state could envision setting up specialised fabs that focus on specific domains, 
+like sensors, memories or displays. Such fabs are relatively less expensive than having multi­
+billion dollar general purpose foundries. The chip fabrication is capital intensive, however, 
+it is an essential requirement to ensure indigenisation of developing high quality electronics 
+products. 
+Development of carbon neutral IT solutions are an important aspect in the future society. 
+Given the growing scientific evidence that climate change is real, and it will be having 
+significant impact in the future, it is important to adopt a carbon neutral approach in 
+creating products and services. Cross-disciplinary innovations are required to address the 
+growing challenges of domain specific issues in creating carbon neutral products. Almost 
+every product today uses one form of digital technology, which makes it important for the 
+product developers to be aware and be trained on compliance issues and global regulatory 
+requirements of reducing carbon emissions. 
+Future IT professionals
+Information Technology (IT) - encompasses a broader definition of a variety of tech­
+nologies (including sensors, electronics and computing) involved in creating, storing and 
+processing information for meaningful tasks and applications. 
+The future IT professionals are expected to have a growth mindset, which can be summa­
+rized into following six traits:
+a) 	 Ambitious - they will be driven by a purpose to use IT to solve or address an issue that 
+an individual, Government, a firm or society faces
+b) 	 Bold - willing to re-imagine the current reality using the technology that is available or 
+technology that could be created
+c) 	 Capable - knowing the skills they need to acquire and knowing where you acquire 
+these skills just in time for when they are needed
+d) 	 Determined - whilst everyone wants projects to run smoothly, the ever-increasing 
+complexity of technology means that problems are inevitable. Having the trait of being 
+determined and drawing on a trusted network allows the future IT professional
+e) 	 Entrepreneurial - being visionary in seeing the possibilities of future technology and 
+developing communities that will collaborate with them materialising their vision
+
+State Planning Board
+38
+f)  	 Foresighted - having due care and attention for the impacts of actions both in technol­
+ogy and business with emphasis on sustainability (business, personal, team, business, 
+environment)
+Creating an innovation ecosystem around this sector will be a promising opportunity for 
+the development, nurturing and alignment of sustainable startups in the state. 
+Common infrastructure facilities
+Some of the emerging areas where India, Kerala State could emerge as the leading global 
+destination are fabless design centers, embedded architecture, Embedded Systems Design, 
+VLSI design capabilities etc. Hence, it is suggested that Centers of Excellence for com­
+mon core infrastructure facilities be established in key locations on a PPP model led by 
+the Industry and supported by the government up to 49% of the capex and operational 
+expenses that can help IT companies train people to develop skills, ideate, prototype and 
+test solutions in a low cost and time efficient manner. Such a facility to be operational as a 
+commercial enterprise could be housed in academic institution campuses to take advantage 
+of the faculty available and could be used by the entrepreneurs and the academic institu­
+tions as Digital Innovation Labs in the state. Some examples of the common infrastructures 
+incorporated in Centers of Excellences include:
+1.	
+Common computing infrastructure - have low cost sharable HPC facilities with 
+GPU, and FPGA server nodes
+2.	
+IoT/5G product test facility - aim for setting up facilities to cater high frequency 
+testing 
+3.	
+Embedded electronics design labs for entrepreneurs- common labs that offers a 
+range of EDA softwares
+4.	
+Sensor fab, devices and 3D printing - setting up clean room facilities, to experiment 
+on emerging devices and indegenious sensors
+5.	
+PCB manufacturing units - create lab unit that is capable of manufacturing multilay­
+er PCB board, including testing as well as assembly
+6.	
+Green IT and sustainable future  - create labs for studying applications of green en­
+ergy in IT
+7.	
+Common digital libraries - create a common library infrastructure for engaging pro­
+fessionals in lifelong learning
+Criteria for setting up centres of excellence
+1.	
+The CoE should necessarily have participation of Industry, academia and Start ups
+2.	
+Upto 49% of the cost (Capex and Opex) to be supported by Government and balance 
+51% by Industry- Academia consortium
+3.	
+There will be a nominal fees to access the laboratories and managed by the Industry
+4.	
+The funds to be allocated for the CoE would be linked to engagement with Startups 
+and a definitive proto type to be developed within three years
+5.	
+Notwithstanding points 1-4, support any specialized CoE’s funded by central, state 
+and industry through specific schemes/programs of the government.
+6.	
+COE should build interfaces with the Industry and build appropriate internship pro­
+gram 
+
+39
+Information Technology Report
+7.	
+Government to consider reimbursement upto 50% of the cost of the Internship fees to 
+the Industry to build industry skills amongst the students
+Horizontal domains
+There are cross disciplinary themes that are emerging and relevant for the next decade.
+1.	
+Artificial intelligence/ Data Science - algorithms and hardware, edge AI computing, 
+Machine learning, big data etc
+2.	
+Internet of Everything/IoT and Cyber-Physical Systems - smart manufacturing, intel­
+ligent systems, sensors, 5G communications, digital health
+3.	
+Cyber security and Blockchains- algorithms, cryptography, data security, cryptanalysis, 
+law enforcement, trust, privacy  
+4.	
+Unconventional computing - neuromorphic architectures, analog computing, distrib­
+uted computing, DNA computing
+5.	
+Quantum computing - emerging technologies, quantum hardware, algorithms,  quan­
+tum cryptography, quantum imaging, quantum ML
+6.	
+Intelligent automation and additive manufacturing - industry 4.0, society 5.0, indus­
+trial robotics, mass customisations, virtual reality, gaming
+7.	
+Cloud / SaaS - distributed computing, storage, cloud computing, deep learning.
+Vertical domains
+These verticals focus on application areas that could use multiple horizontal domains to 
+implement.
+1.	
+Digital Health - developing technologies and solutions for easy, accessible and afford­
+able high quality health care.  
+2.	
+Change management in IT industries - pandemic induced challenges, market changes, 
+work style changes
+3.	
+E-governance - developing technologies and solutions for efficient governance
+4.	
+Futuristic IT education - identify newer ways to educate youth for being industry 
+ready 
+Collaborations with other departments
+Departments like Agriculture, Health, Coir, Education, Industry and digital manufactur­
+ing should come together to solve grand challenges for the future. When the companies 
+move from the startup phase towards scaleup, they require manufacturing support that 
+requires the support of industrial parks. The collaborations with the industries department 
+in setting up electronics and IT product manufacturing units will be essential. It is recom­
+mended to set up industries liasioning units within each IT park to support the activities 
+of growing companies. The units can act as an interface to get all the necessary information 
+and bureaucratic support with a single window clearance to set up or get access to manu­
+facturing units.
+Grand Challenges
+Programs can be envisioned to support long term vision
+1.	
+Clean and sustainable world - how IT solutions can create a sustainable future, reduce 
+
+State Planning Board
+40
+pollutions, improve energy usage and production, reach targets of zero emission 
+2.	
+Digital health for better quality of life - the acquisition, management, and use of in­
+formation in health - can greatly enhance the quality and efficiency of medical care 
+and the response to widespread public health emergencies. Help in the search for new 
+medicines and treatments.
+3.	
+Technologies for social good - how societies can be made better with IT technologies. 
+New ways of social interaction and connecting the society at large. Way to implement 
+transparency, better governance and citizen participation
+4.	
+Improve IT reach and influence of infrastructure - ways to help improve the quality of 
+IT infrastructure and digital readiness across the state
+5.	
+Disaster Management: Kerala needs ability to predict and manage natural disasters 
+that has become high these years – Technology plays a huge role in both the predic­
+tion and management of natural disasters. Building specialisation centres to promote 
+skills and capacity on Data analytics, IOT, GIS systems , Disaster Management supply 
+chains etc will be needed. Large scale Tech enabled platforms to run awareness sessions 
+to both citizens and volunteers are to be enabled as a regular mechanism. Information 
+updates on ecologically sensitive zones, potential disaster zones etc could be provided 
+to citizens through the same arrangements
+Role of universities
+Universities have an important role to play in the development of innovation and develop­
+ment of the high tech industry in the state. The major roles of universities include:
+1.	
+Research and development: The universities are places where the next breakthroughs 
+in fundamental research occur. However, research that does target the light of practical 
+use is not effective use of taxpayers money. The industry can contribute to the univer­
+sity R&D programs by offering the challenges for researchers to investigate, and also 
+take part in funded research. The universities in the state should aim to  extend the 
+boundaries of fundamental research to more towards applied research that can have 
+immediate impact in the society and industry at large.
+2.	
+Creating creative minds: The higher goal of university in today’s society is to create a 
+culture of innovation among the students. The universities should be a place to exper­
+iment new ideas, discover and invent the future. Towards this the curriculum of the 
+universities should reflect high academic standards and rigor. The students should be 
+made to think beyond grades and studies made activity driven. 
+3.	
+Technology transfers: The universities should add technology transfer to create new 
+products and industries as one of the primary objectives. To help this, faculty should 
+be encouraged to develop companies and products with students, and make it legal for 
+such faculty to take on multiple roles. The employment restriction in taking multiple 
+roles should be abolished. Greater flexibility should be provided to both students and 
+faculty in engaging outside projects that benefit the society at large.
+4.	
+Professional conduct: It is expected that any innovative work environment will in­
+volve developing conflicts of interest between students and faculty. Mechanisms should 
+
+41
+Information Technology Report
+be put in place within the universities to manage conflicts of interests and conflicts of 
+commitment. The students and faculty should be made aware of professional codes of 
+conduct, and practice them on a daily basis.
+5.	
+Community involvement: It is essential to provide a holistic education connecting 
+technology with that of society. The student involvement in community development 
+could be seen as an important aspect of universities. While there are several programs 
+such as NSS, they are not technology intensive, and do not translate to students trans­
+lating their knowledge to socially relevant problems. Programs and curriculum can be 
+designed to instill thoughts of collective growth and community development.
+6.	
+Mainstreaming Skilling through formal diploma and certification programmes: 
+IT and allied industry will require advanced skilling of professionals on a continuous 
+basis depending on the changing demands in the industry. Universities can design 
+such courses and award formal diplomas/certificates thus enabling life-long learning of 
+mid-career professionals. 
+Schemes for promoting research 
+1. Research fellowships
+Innovation is increasingly becoming an important driver of economic growth. Significant 
+investment in R&D, both public and private, is important to create a culture of innova­
+tion. But unfortunately, India’s expenditure in R&D is low compared to other competing 
+economies.
+The report on R&D Expenditure Ecosystem in India, published by the Economic Advisory 
+Council to the Prime Minister, estimates that India spends only 0.6 - 0.7% of GDP on 
+R&D activities, while countries like the US, China, Israel and Korea spend between 2.1% 
+and 4.2 %. Further, it also points out that the Government & Public sector contribute the 
+lion share of this, accounting for about 60% of the total R&D expenditure whereas the 
+private sector contributes only around 40%.
+In this context, it is important to recognise that while industry would invest in R&D proj­
+ects as required in the market, the high-level of risk involved in funding long term research, 
+disincentives companies to commit large capital to such R&D initiatives.
+Further, today, cross-industry collaboration is driving innovation. Collaboration between 
+companies from different sectors and research institutions is often necessary to develop 
+innovative products. However, there are no incentives for these entities to come together.
+Clusters of Innovation (CoI) program: To address these gaps, we suggest that the 
+Government of Kerala consider adopting a Clusters of Innovation (CoI) program that can 
+encourage companies, think tanks and academic/research institutions to undertake joint 
+R&D projects and co-create innovative technologies and products. The primary intent 
+of this program is to catalyze cross industry partnership to build technology leadership 
+in certain pre identified focus areas. Under this program, the Government will incentiv­
+ise industry led consortiums that intend to undertake joint R&D projects by providing 
+matching grants. A government agency, through a committee of experts, will evaluate the 
+
+State Planning Board
+42
+project proposals from consortia, for funding support. This will accelerate objective-driven 
+and ambitious cross-industry and academia partnerships to build & monetize IPs, boost 
+economic growth, promote industrial competitiveness and optimize investment impact and 
+align Industry-academia collaboration and Industry Ph.D. funding programs to these tech­
+nological innovation
+Some of the recommended technical/ business areas for consideration would include 
+Mobility, Energy, Digital Health and Care and Advance Manufacturing and support the 
+concept Make India for India and World through India Stack/ Platformization strategy; 
+create and implement India AIoT stack to facilitate IoT innovation across verticals and 
+perhaps around  5G & Fabless design centers for India.
+2. Industry fellowship
+The wealth of a nation is determined by the technical scholars that produce it. Kerala has 
+always been known as the cultural and arts capital of the world because of its richness in the 
+number of scholars available in the area. In the Techade (Technology in a Decade) era, there 
+is a similar need to create a wealth of Technology scholars from the state who will guide cut­
+ting edge technology solutions for the country. We also have the twin challenge of making 
+our Technology University as a world class one. Unfortunately, as a country, the number 
+of people pursuing higher education in Masters level, P.hD level in advanced technologies 
+(say Aircraft Engine, Battery technologies, Electric Vehicle, Hydrogen energy, Advanced 
+Manufacturing  etc) are not high and those pursuing such courses are not suited for indus­
+try. There are several reasons for the same, one of them being appropriate scholarship and 
+other being availability of Industry projects for testing in real life adoption. 
+CM Fellowship program: Considering the gap in Industry Academia collaboration, it is 
+proposed to announce a CM Fellowship program of giving grant (upto 50% of the total 
+costs)  to Doctoral/ Postdoctoral scholars in few select areas and perhaps around 40- 50 per 
+year to make their salaries nearly on par with the Industry leaders in the space. A virtual 
+fellowship team could be formed and incentivized to solve critical problems thus raising the 
+scientific temper in the country.
+3. Fellowships for industry mentors and scientists
+To promote industry engagement and promote scientific temper in the state, specific 
+schemes can be created to fund the visits of industry fellows and scientists to work across 
+the universities and research labs. Every year, upto 20 chair positions can be funded by the 
+government. These chairs shall receive salaries at par with industry and shall be responsible 
+to set up a large research and development program within the host institution. Such chairs 
+could be provided with funds for hiring industry fellows, PhD students and Postdocs. Such 
+a scheme can be initiated to hire the best talent from around the world, and focus on niche 
+topics that will reflect breakthroughs in the years to come.
+Skilling for e-Governance
+1.	
+Continuing education and re-skilling: Creating awareness and professional develop­
+ment programs for practitioners in local governing bodies of the state government. 
+
+43
+Information Technology Report
+This can be led by larger digital transformation programs coordinated by digital uni­
+versity Kerala.  
+2.	
+Higher education: Creating newer research programs including PhD programs and 
+master programs focussed on various emerging issues of e-governance with respect to 
+newer trends and society 5.0 challenges.
+3.	
+E-governance undergraduate specializations: Introducing dedicated subjects and mi­
+nor specializations in e-governance in undergraduate engineering and science educa­
+tion to empower the graduates to better prepare for future e-governance jobs. KTU can 
+lead in this development.
+4.	
+Reskilling, maintenance training and citizen outreach: It is of primary importance 
+that the end user of the e-Governance platforms are aware of the various functional­
+ities and uses.  Outreach programs to educate and train the users at large from varied 
+backgrounds is widely required to improve the effectiveness of e-Governance services. 
+In addition, there is a continued need to train the personnel for maintenance of e-Gov­
+ernance platforms that keep improving over the period of time. There would also need 
+train manpower to handle legacy systems and those that require continued updates.
+Enhancing the capabilities of Educational institutions
+Skills and Knowledge are inseparable assets of every youngster and the next five years should 
+focus on investments meant for creating responsible and talented youths for the future. 
+Following areas could be considered for investments in the next five year planning   
+1.	
+Augmenting Higher education Institutions as Skill Delivery Centres: By enhancing 
+the infrastructure facilities to Industry-standard and by suitably enabling the faculty 
+members on Industrial domain skills,  higher education institutions could productive­
+ly augment their facilities and human resources for providing skills and knowledge, 
+which will be beneficial for students, faculty, and institution. With the blended learn­
+ing infrastructure additions and Centres of Excellence, the skill centers in higher edu­
+cation institutions can produce substantial value to their stakeholders. Usage of Skills 
+delivery platform Kerala (SDPK) , a unique project connecting 100+ Engineering and 
+polytechnic in the state through a high-end telepresence network, is ready for usage. 
+The facility could be effectively used for augmenting the skilling capabilities of Higher 
+education institutions
+2.	
+Blended Learning infrastructure in Educational Institutions: With the world seeing 
+pandemics such as COVID, the new world order will necessitate the augmentation of 
+classrooms with blended learning infrastructure, where classes could be delivered over 
+both physical and virtual modes. Government shall make investments in implement­
+ing such capabilities in the educational institutions – Learning Management, Virtual 
+classroom equipment, Virtual classroom studios, Connectivity, computing infrastruc­
+ture and digital learning contents created/introduced at the educational institution 
+level and/or at Department / University level.
+3.	
+Upgrading the Labs in Technical, Higher Education, and Research Institutions: To 
+meet the requirements of the industry, the labs in Higher education Institutions would 
+
+State Planning Board
+44
+need an upgrade of the equipment. A comprehensive audit on the lab equipment to as­
+sess industry readiness will help reform the quality of the technical educational experi­
+ence for the students.  The faculty members and instructors should be suitably trained 
+on the usage of modern equipment. These labs could not only be used for teaching and 
+learning activities but be used for the creation of a prototype or MVP for educational 
+Startups or innovation centres.
+4.	
+Industry, Academia and local community Collaboration: Newer models of Industry ac­
+ademia collaboration are emerging where Industry supported collaboration platforms 
+are emerging in the market. Tapping into such platforms, and/or creation of similar 
+collaboration spaces, where teachers, students, industry experts, and local communities 
+can seamlessly collaborate using technology, needs to be promoted. Such collaboration 
+platforms are required to be rigorously audited from time to time for improving overall 
+objectives of outcome-based education. Through such spaces, Industry problems and 
+societal problems could be solved by the students and teachers, thereby improving the 
+quality of education and also enabling the future workforce with the real-life challenges 
+5.	
+Student Gigs: Gig (Freelance) economy is an emerging trend in the workplace all 
+across the world and Kerala will also be soon embracing such models in a big way. 
+To prepare students for such new work models, enabling student participation in Gig 
+platforms and Gig economic activities while they are studying, shall be a focus area for 
+educational institutions. Investments in training and enablement (creating local gig 
+work / assignment) needs to be considered as part of the plans. 
+6.	
+Skill program accreditations: Skill program accreditation body may be formed under 
+department of electronics and IT to annually monitor, rate and approve skill based 
+IT programs offered by industries and institutions. Currently, skills based programs 
+are unregulated and do not follow international quality standards or rigour. There is a 
+growing need to bring in quality evaluations of programs and courses offered through 
+online/mobile applications, industries and institutions offering certifications or tutor­
+ing or short-term programs.
+Skills development in Business Domains of high potential growth
+With the advent of Technology in multiple Industry verticals, the next level Kerala advan­
+tage would be on building a strong Knowledge Industry by twinning the Technology do­
+mains, Functional Domain and our Strength. Attached following are the areas that would 
+help Kerala to grow into the top positions
+1.	
+Medical Devices industry domain: with the plans to make Kerala a hub in the Medical 
+devices Market, there will be huge demand for technical skills in the operations and us­
+age of medical devices domain. The ITI and polytechnics and skills provider networks 
+in the state may be augmented with such skills development programmes.  Typically, 
+establishment of such market domains will lead to colocation of Industrial  R & D 
+Centre in the locations – Knowledge capabilities in Engineering and Technology insti­
+tutions will need to be strengthened to develop deep knowledge in such domains
+2.	
+FinTech Industry: Non-Banking Financial Services is a key Industry sector in Kerala 
+
+45
+Information Technology Report
+and it can take a leadership role in this domain. Building Skill centres in Financial 
+Services and creating a talent pool in this domain alongside technology areas such as 
+AI and Blockchain can make Kerala a unique place for fulfilling the NBFC needs of 
+the state and outside. Kerala could become the talent hub for such domains in the next 
+five years
+3.	
+Space Tech Domain:  With Indian Space industry opening up for private entities and 
+Kerala gearing up to build its own space cluster, skills at across the layers of space 
+tech industry will be in high demand in future – GIS, imaging technology, AI/ML, 
+Mechatronics, Robotics, Hi-Tech Engineering are likely to find talent crunch locally . 
+Partnering with IIST and establishing Space-Tech skill network across the Science and 
+Engineering Institution will be an important area for Kerala’s industry growth 
+4.	
+Creative industry: The relatively high creativity quotient of Keralites are documented 
+in history (artists like Raja Ravi Varma). With the advent of digital media , Kerala has 
+a great potential in exponentially growing its capabilities in this domain. Investments 
+in educational institutions and development of ‘creative spaces’  with  various elements 
+of creative industry (AR/VR labs, studios etc) can significantly improve the talent in 
+creative space, thereby attracting new generation companies to the state.
+5.	
+Transportation, e-mobility and automotive industry: Transportation and automotive 
+industry is one of the growing industries in the world. The means of transportation in 
+the next decade would require changes keeping in mind the climate change and carbon 
+footprints. Innovative solutions to reduce the reliance on fossil fuels and move towards 
+carbon neutral e-mobility solutions will be evidential. 
+Kerala Knowledge Economy Mission and its roles in Aggregation and Creation of Jobs
+Kerala Knowledge Economy Mission (KKEM) is created as a mission mode programme 
+with an ambitious target of providing jobs/work to 20 Lakh youths in the state. The pro­
+gramme has multiple layers of jobseeker mobilisation, jobseeker training/mentoring, and 
+connecting them to the jobs/work across various sectors in the world. The major thrust is 
+on connecting new job  seekers, career break women, and individuals who lost their jobs 
+due to various reasons, to knowledge industry jobs and work. 
+Training and capacity building is a key activity under the initiative and the model is to 
+leverage the existing strengths of educational institutions and Training Service Providers 
+(TSPs) for augmenting the talent of the youths of Kerala. This initiative could be a major 
+opportunity for creating a large talent pipeline in the state and thereby attracting more 
+job opportunities to the state. Clear mechanisms to collaborate and obtain buy-in from 
+the industry fraternity will be key to bringing success for the initiative. With the IT/ITES 
+industry poised to grow faster than all other industry segments, large opportunities exist 
+for Kerala to make it a hub for Digital Talent and thereby attracting large IT/ITES require­
+ments to Kerala 
+Product Development through Open Source Movements
+Open Software: In the changing times, where digital divides are increasing, it’s import­
+ant to make new technologies accessible for all. Open source movements in software had 
+
+State Planning Board
+46
+promoted the growth of technologies and helped both students and professionals to grow 
+much faster in career. Many startups today make use of various open source technologies, 
+which otherwise would have them spend millions of dollars. ICFOSS could take the lead 
+in developing open source technologies in association with students and startups, looking 
+at the needs presented in the community.
+Open Hardware: Hardware development is globally seen in early stages of open source 
+movement. While board-level schematic designs are made available through open hardware 
+movements, the majority of hardware product development do not use open hardware 
+solutions. Open hardware is not a trivial issue, and would require a significant amount of 
+university research. Digital University Kerala could take a leading role in developing open 
+source technologies for hardware and integrated chip development, where researchers and 
+engineers can help provide open source solutions that are otherwise very expensive for the 
+students, and startups to obtain.
+Open Designs: There is also a need to make many fields in technology and engineering, 
+where digital technologies can help make designs open. For example, open source designs 
+can include a design of a new turbine or that of an electrical controller which usually gets 
+patented, with many implementation details kept closed. Open source documentation of 
+the design could be encouraged in the universities and made publicly available. The univer­
+sities such as KTU and CUSAT could take a lead in creating an environment for promot­
+ing open source designs in technology and engineering among undergraduate engineering/
+technology students.
+Entrepreneurship training 
+The existing infrastructure should be expanded to provide practical training in a wide range 
+of IT domains. 
+1.	
+Training by incubators: Special schemes can be envisioned for training the entrepre­
+neurs. The specific schemes for IT incubators under Kerala Startup Mission can be ex­
+panded for software based entrepreneurs, and Maker Village can be used for extending 
+the support for hardware entrepreneurs.
+2.	
+Training by colleges: The incubators in the colleges can be offered specific funds to de­
+velop industry immersion programs to cultivate the growth of entrepreneurship think­
+ing among undergraduate students. 
+3.	
+Training by universities: The universities in the state can help develop curriculum and 
+e-learning resources for inculcating entrepreneurship thinking among staff and stu­
+dents. 
+4.	
+Training by companies: The companies could offer a range of industrial training and 
+internship programs in partnership with universities to train the students and staff in 
+entrepreneurship. 
+All such training programs should be subjected to rigorous peer-review and program ac­
+creditation on an annual basis.  State-wide lists are to be maintained indicating their ac­
+creditation status for such programs so as to meet global standards and to ensure the best 
+experience to the trainees. The training programs should be outcome driven and that reflect 
+the industry needs.
+
+47
+Information Technology Report
+CHAPTER 4
+INFORMATION TECHNOLOGY –START UPS
+Startups are economic entities that are working towards innovation, development or im­
+provement of products/processes/ services and/or have a scalable business model with a 
+high potential of employment generation or wealth creation . India is considered as a hot­
+bed of startups with more than 65,000 startups registered with Department of Industrial 
+Promotion and Internal Trade, Government of India. Kerala is considered to be a fore­
+runner of Startup Movement in the country accounting of around 10% of the country’s 
+registered startups. Over 6500 startups from Kerala are registered with DPIIT, of which 
+around 4000 are registered with Kerala Startup Mission, the apex body under Department 
+of Electronics and IT for promotion of technology startups. Even though the startups can 
+and do exist in different fields of economic activities, technology plays an important role 
+in ensuring scalability and contribute towards their non-linear growth.  This section is to 
+assess the current status of Technology Startups and to suggest policy measures to enhance 
+their growth in the next plan period. Specifically, the group deliberated on following terms 
+of references
+1.	
+Review the growth and achievement of Start-ups in Kerala in the IT sector and assess 
+the adequacies of national and state programs to continuously support the start-ups 
+2.	
+Evaluate the functioning of the Incubation Centres and propose improvement to fa­
+cilitate creating a robust start-up support system with appropriate linkages to research 
+and finance 
+3.	
+Propose policy changes and institutional arrangements for building a technology-driv­
+en start-up ecosystem and encouragement of women entrepreneurs 
+4.	
+Propose policy changes to encourage and deepen the technology-driven start-up eco­
+system in the industrial and information technology sectors in Kerala 
+This report presents the summary of the deliberations and recommendations of the sub­
+group on each of the above items
+Review of the growth of startups and assessment of National and State Programs for 
+supporting Startups
+Startups are economic entities that leverages on knowledge and innovation to create value 
+resulting in exponential growth within a very short period of time. As most of the start­
+ups depends on technology to build scalable business models, the conventional factors of 
+production like land, labour, capital etc. are of  significant  and the intellectual property 
+that drives innovation become the key for their growth.  For a State like Kerala, which has 
+limited availability of land and other conventional factors of production, it is natural that 
+Startups provides an appropriate alternate model for industrial development. Realizing the 
+potential of stratups to drive economic development of the State, Kerala had taken proactive 
+steps in promotion of Startups in the State.  National Institute of Technology Calicut was 
+one of the first Institutions in the country to set up a technology business incubator (TBI) 
+1What qualifies as a startup?  Startup India website startupindia.gov.in
+
+State Planning Board
+48
+to support startups and the first non-academic TBI was set up by Technopark, Trivandrum 
+way back in 2004 itself.  The first TBI in PPP mode, Startup Village, was also set up by 
+Technopark   along with a successful startup from Kerala -Mobme- in 2012 in Kochi and 
+this led to accelerated growth of startup movement in the State. Kerala was the first State 
+to declare a State Startup Policy in 2014 which was later mimicked by various other States 
+in the country. During 2015, Government of India has announced Startup India, under 
+Department for Promotion of Industries and Internal Trade (DPIIT), as the focal body for 
+promotion of Startups in the country. Same year, Government of Kerala also designated 
+Technopark Technology Incubator as an independent society and apex body for promotion 
+of Startups in the State and rechristened same as Kerala Startup Mission, reflecting the larg­
+er role of the agency to create a technology startup ecosystem in the State. 
+Ever since its inception in 2015, Kerala Startup Mission (KSUM) was actively involved 
+in the development of startups in Kerala and in 2017, the Government has announced a 
+comprehensive policy for promotion of technology innovation and entrepreneurship as 
+part of the IT policy 2017.  This policy provides guidelines for comprehensive development 
+of startups in the State and it has reflected in 20 times growth of startups during past 5 
+years. From around 300 startups in 2017, the number of startups grew in excess of 6000 
+by the end of 2021 accounting for around 10% of startups in the country, which was duly 
+acknowledged by Niti Ayog in its latest report by recognizing Kerala as one among the 5 
+regions in the country having the fastest growth in Startups
+The development of startup ecosystem in Kerala is different most of the other fast-grow­
+ing regions in the country like Bengaluru, Mumbai, NCR Region, Hyderabad, Pune etc. 
+While private sector and MNC played the pivotal role in energizing and growing the start­
+up ecosystem in those cities, it was the Government which provided key impetus for the 
+Startup growth in Kerala. Some of these measures include creation of nearly half a million 
+sqft of plug and play infrastructure in various locations in Kerala like Trivandrum, Kochi, 
+Kozhikode, Kannur, Palakkad etc. and creating and/or supporting over 47 incubators and 
+4 accelerators, directly supporting startups through innovation grants, low cost debt funds 
+and channelising angel funds for  their development.  The comprehensive model of Startup 
+development provided by Kerala has been well acknowledged across the country with 
+Government of India recognizing Kerala as a TOP PERFORMER in all the State Startup 
+Ranking conducted by them so far .  Internationally World Incubation Summit in 2019 
+recognised Kerala Startup Mission as the World’s best Public Funded accelerator.
+The key areas of strength of Kerala Startup ecosystem is the availability of high-quality in­
+frastructure facility and proactive support from Government for development of Startups. 
+Rather than a “outside-in” approach, Kerala followed a ground up “inside-out” approach 
+for growing startups through a comprehensive 5 prong strategy which was spelt out in 
+the IT policy 2017 .  These 5 elements that contributes to the development of ecosystem 
+include
+  In 2018 Kerala was ranked among Top 5 States while in 2019 ranking State was ranked among Top 3 States
+
+49
+Information Technology Report
+i.	
+Promotion of a Culture of Innovation and Entrepreneurship
+ii.	 Enhancing Knowledge, Skills and Supporting ideation of innovative startups
+iii.	 Incubation and Acceleration of Technology Startups
+iv.	 Funding and Value Creation for high growth Startups
+v.	
+Achieving sustainability through support for Enterprise Development and Growth
+Kerala Startup Mission and various incubators in the State conducts several programs to 
+promote innovation and culture of entrepreneurship among various sections of the society. 
+Creation of Innovation and Entrepreneurship Development Cells in various Colleges, sup­
+porting Young Innovator Program, focused events like Idea fest, innovation week etc. are 
+some of the activities that help promote the culture of innovation among the masses.  To 
+complement these evangelization activities, several training and capacity building activities 
+in the modern technologies are being implemented by the nodal agency.  Kerala has world’s 
+second largest Fab Lab established in association with MIT, USA which supports digital 
+fabrication efforts and early prototyping of startups. In addition to this, low cost manufac­
+turing infrastructure for developing high quality products are being established by KSUM 
+at different locations in the State. Software bank for high end computing needs of startups 
+are also established. In addition programs in digital fabrication, blockchain, AVR, data ana­
+lytics etc, are also being offered to enhance capacity building of Startups.  The startups and 
+potential innovators are continuously exposed to problems of industry and government so 
+that new innovative products with high market potential can be developed by them. Early 
+stage startups are provided with incubation support to develop their ideas into full-fledged 
+commercial products through incubators and accelerators, established throughout the 
+State. In addition to physical space, these incubators provide technology support, business 
+connect, mentoring support etc.  Kerala has also devised a comprehensive funding scheme 
+to support startups at various stages of its growth. A small idea grant of upto Rs 2 lakhs is 
+available for converting idea to prototype and a scale up grant upto Rs 7 lakhs is provided 
+to convert the same into a viable product.  For products with high IP / research content, a 
+research grant of upto Rs 30 Lakhs is provided by Kerala Startup Mission. KSUM and other 
+funding agencies like KSIDC, KFC etc. provide loans ranging from Rs 15 lakhs to Rs 500 
+lakhs to support the accelerated growth of Startups.  In addition to this, Kerala has created 
+an innovative Fund of Fund of fund model through which it made over Rs 1000 Crores of 
+early stage equity funding available to fast growth startups having high value creation po­
+tential. Kerala also provide subsidized spaces for startups which attains traction and growth 
+in IT and Industry parks to ensure their sustainable growth during their scale up stage. Rent 
+subsidy, international market connect programs and IP filing support etc, are some of the 
+measures provided to support enhanced growth and sustainability of the Startups
+All the above measures have resulted in creating a robust ecosystem for supporting ear­
+ly-stage native startups in the State. Presence of over 300 IEDC cells in colleges has in­
+creased awareness amongst students and resulted in a large number of startups coming out 
+of educational institutions. The support mechanisms provided by Government have also 
+3Sub Policy 7 on technology Innovation and Entrepreneurship Policy
+
+State Planning Board
+50
+helped in lowering the mortality of startups with only less than 30% of startups fail in the 
+State.  While the proactive measures of the Government and the comprehensive model 
+for ecosystem development has resulted in creation of a large number of startups from the 
+State, the State still lacks presence of Unicorns and high value startups.  The startups in 
+Kerala are more profit oriented than value based and, in this regard, they resemble MSME 
+rather than typical startups else where in the world.  Startups requiring high level of invest­
+ment and having aggressive growth plans often leave the State once they reach a stage of 
+maturity. Lack of a vibrant corporate players, startup investment ecosystem and presence of 
+a market validation mechanism, still continues as   major lacuna in the system and have to 
+be addressed to ensure the next stage of growth. Moreover, even though there are over 6000 
+startups, only very few  startups are there with strong IP and research capabilities. Similarly, 
+the issues of inclusivity in gender is also currently poor in startups. There is also a need to 
+enhance social (impact) startups that contribute to Sustainable Development Goals and 
+overall development of the Society.  
+During the State Startup Ranking 2019, a few areas of improvement for Kerala has been 
+identified. Along   with this, the committee examined the experiences of other national in­
+ternational ecosystems and identified following gaps in the Kerala ecosystem. Some of the 
+measures to address the same are also listed below
+i. Focus of the Startup ecosystem 
+Kerala Startup Ecosystem provides only limited support outside IT Product Start-ups  
+This could be addressed through following solutions/ policy perspectives 
+1.	
+Establishing focused accelerators and incubators for non-IT Start-ups in areas such as 
+AgriTech, HealthTech, EduTech, Tourism, Ayurveda, Genomics etc. where Kerala has 
+some existing strength. Involving  reputed research, business and commercial entities 
+in these areas for providing functional and business expertise/support to make this 
+effective 
+2.	
+Promote Digital transformation of non-IT MSME to help them compete globally. 
+Given the fact that Kerala’s MSME’s are largely conventional, the digital transforma­
+tion would enable them to compete globally and scale. Linkage between the MSME 
+and Startup needs to be promoted as part of the policy
+ii. Lack of High Value Startups and Unicorns
+Kerala as a state have been successful in evangelizing concept of entrepreneurship and start­
+ups among students and other stakeholders. This is reflected in the large number of start-
+ups currently registered from karela. However, success or graduation rate of start-ups need 
+to improve. Kerala is home to roughly 6000 start-ups, of which about 4000 are registered 
+with KSUM. However, the state is yet to create a unicorn or major success story from this 
+cohort. 
+Solution Ideas/Policy Perspectives to address this issue: 
+•	
+Identifying of good quality start-ups and providing them with stronger support and 
+management guidance is crucial. KSUM should develop measurement frameworks, 
+
+51
+Information Technology Report
+processes, and expert capacity towards this purpose. The frameworks and processes 
+should support early identification of high potential start-ups, enable early state course 
+correction for start-ups, as well as counsel out ideas that lack merit early, without sink­
+ing lot of time or investment. 
+•	
+KSUM also needs to develop and onboard a network of full time and part time tech­
+nical experts/product managers/business advisors with global exposure. These experts 
+will complement the above-mentioned frameworks and processes, as well as help ma­
+ture organisational capabilities, governance, product innovation etc. and enable start-
+ups to deliver global quality products and offerings. 
+•	
+There is also a need to Invest in curated mentor network. Identify part time mentors 
+(founders, retired business leaders etc.) willing to work with start-ups on pro-bono 
+or sweat equity basis. KSUM to have dedicated professionals to curate and develop 
+such mentor network in multiple verticals of interest. KSUM is already doing this in 
+Fail fast or Succeed (FFS) program, but this needs to be scaled up and match making 
+process (between mentors and startups) need to be improved by dedicated professional 
+support from KSUM. 
+•	
+Facilitate broader market access for Kerala Start-ups. Currently Start-ups are predom­
+inantly Kerala focused. This should be broadened to National & International level 
+via market access partnerships. One way is to have a formal program for international 
+market ambassadors leveraging NRKs/diaspora. KSUM to have a formal drive/pro­
+gram to build a network of market access ambassadors (invite Applications, Screen, 
+Curate by geography/sectors, program launch, bootcamp etc.). Currently this is hap­
+pening on an ad-hoc basis, but KSUM should institutionalise this and run it as a 
+well-designed program with dedicated professional staff coordinating the program and 
+ensuring smooth engagement between the network and start-ups. 
+iii.  Product Maturity and Quality of Startup Products
+Even though bulk of Kerala’s start-ups are in IT product space, they lack of product sophis­
+tication and entrepreneurs often exhibit herd mentality with focus on limited use cases and 
+limited understanding of customer/market needs.  This is affecting the market readiness of 
+many products (especially in national and international markets) 
+This could be addressed through following solutions/ policy perspectives 
+•	
+To aid in product design Kerala has already invested in Design and Prototyping includ­
+ing Fab Labs. We need to extent it to soft capabilities and design specific training in 
+areas such as design thinking, customer experience optimisation, conducting custom­
+er workshops and focus groups, requirements elicitation techniques etc. Identifying 
+trainers in these areas, developing user experience labs etc. are necessary first steps. 
+•	
+Establish incubators/accelerators with vertical or horizontal focus to develop start-ups 
+with specialised/niche expertise and resultant products/services. To set up such focused 
+incubators KSUM to work with established centres of expertise/research/knowledge in 
+the state. KSUM can be the umbrella organisation which brings in part of the budget, 
+VC connects, market access programs, and expertise in setting up incubators/accelera­
+
+State Planning Board
+52
+tors and partner organisations would bring in functional/sector expertise and business 
+knowledge as applicable. Such incubators to be established in  emerging technology 
+areas  like
+1.	
+Cloud Computing
+2.	
+Big Data and AI
+3.	
+IOT and Connected Technologies (like connected cars, smart cities etc.)
+4.	
+Cyber Security
+5.	
+Augmented/Virtual Reality
+Similarly following industry verticals relevant to Kerala may be given renewed focus
+1.	
+AgriTech/Food Tech/ Spice Tech
+2.	
+Health tech/ AyurTech / Genomics
+3.	
+Edutech
+4.	
+Tourism Tech
+5.	
+Space and Defence Technologies
+There is a need to incentivise IP/Patents creation by start-ups more aggressively. E.g. Certain 
+grants/loans available to only IP based start-ups. 
+•	
+There is a need to aggressively identify Industry immersion opportunities (symbiotic 
+relationships, vertical integration opportunities etc.) for start-ups via KSUM. Estab­
+lished businesses may have a problem, a start-up can solve cost effectively and this will 
+help start-ups to mature their products to solve real world problems. KSUM could 
+broker such B2B connects based on a well-established business network. 
+iv. Issues regarding Funding and Investment
+As discussed earlier, Kerala has early funding avenues for the Startups. KSUM itself pro­
+vides grants and loans up to Rs. 30 Lakhs for start-ups. However, there is no mechanism 
+to provide bridge funding to start-ups in the range of 30 lakhs - 2 Crore. Typically, Angel 
+investors fills this gap in a successful ecosystem. This is a weak area of the Kerala Ecosystem. 
+Funding delays is also an issue affecting survival of start-ups. 
+This could be addressed through following solutions/ policy perspectives 
+•	
+Strengthening bridge funding via KFC, KSIDC etc. with startup loan targets for those 
+entities. 
+•	
+Develop stronger angel networks and HNI connects with more purposeful initiatives 
+from KSUM, involving diaspora and other pan India angel networks. 
+•	
+Create a special Startup bridge fund arm under KSUM to provide funding up to the 
+tune of Rs.2 CR in the form of Equity/Debt Financing/Convertible Notes etc. This 
+arm should be set up as a commercially viable entity (without any grants) with exper­
+tise in evaluating and funding start-ups. Funding should be based on stringent criteria 
+and company/project viability assessment. This arm should be able to sustain itself over 
+the long term based on proceeds from eventual exits, sale of equities or payback on 
+debt instruments. This body should have expertise in areas such as financial analysis, 
+firm valuation, business analysis etc. to make appropriate funding decisions, manag­
+
+53
+Information Technology Report
+ing the overall portfolio risk. The successful model of North East Development Fund 
+(NEDF) could be adopted as a model while designing such a funding mechanism
+v. Support to Startups other than IT product startups
+As such startup policies and schemes are only supporting IT product startups. KSUM pro­
+vide little support to service companies and non-IT product companies. The other agencies 
+which support such entities are oriented more towards asset heavy business and is not much 
+of formal support is available for the growth such companies in Kerala
+This could be addressed through the following solutions/ policy perspectives 
+•	
+Expand focus to service start-ups- offering support to start-ups providing IT or non-IT 
+services in B2B or B2C model. The functional and business knowledge gained from 
+services will also help spawn more product start-ups in Kerala. 
+vi. Capacity Building within Government for Promotion of Startups
+As discussed earlier, in contrast to other popular locations of startup growth in India and 
+abroad, the role of Government (KSUM) in promoting startups is extremely crucial in 
+Kerala.  Lack of professional industries to support startups is a major limitation in the sys­
+tem which needs to be filled by KSUM. However at present the  Bandwidth and capability 
+available in  Kerala Startup Mission to give tailored support and guidance to individual 
+start-ups is limited and needs to be enhanced 
+Solution Ideas/Policy Perspectives: 
+•	
+Increase professional depth and breadth of KSUM staff– recruit venture catalysts, ex­
+perienced managers and specialised mentors on full time scale of pay roles guide and 
+mentor start-ups. This should include general management, technical, functional, fi­
+nance, and functional experts, who are willing to give back to society. 
+•	
+There is a need to invest in developing a professional services capability in KSUM with 
+the intent of making it financially independent in 5 years (for administrative costs). 
+This includes project management and program management capabilities that can be 
+offered for a professional fee at both at a national and international level for provid­
+ing services relevant to Startup ecosystem (running hackathons, incubators, engaging 
+start-ups to deliver projects etc.). These services are in high demand with the global 
+focus on start-ups. This will help Kerala’s start-ups in general, in the form of better 
+support and reduce the administrative overhead on Govt. 
+vii. Issues of Inclusivity : very few women led startups
+Despite having a large proportion of women in S&T education, the number of women 
+led startups are very few at around 10-12% in Kerala. This is an important area that needs 
+attention
+Some of the methods to address the same could be
+•	
+Provide grants to social enterprises that run structured programs to train and empower 
+women towards establishing micro enterprises of their own
+•	
+Provide subsidies or special incentives to women led startups in targeted industries
+•	
+Institutionalize recognitions and awards for successful women led startups   
+
+State Planning Board
+54
+Review of Incubation Centres
+Incubation Centres are units that provide handholding support to early stage entrepreneurs 
+to develop and scale up their production. Kerala has around 47 incubators in addition to 
+various tinkering units (ATAL Tinkering labs) in schools and a few themes focused acceler­
+ators.   The various incubation centres can be divided under following categories
+•	
+Academic Incubators funded by GOI:  NITC, IIMK, TIMED, Engineering Colleges 
+etc.
+•	
+Academic Incubators funded by GOK:  KSIDC, KSUM
+•	
+Government Incubators :  KSUM- General & Specialised 
+•	
+Accelerators:  Specialised accelerators and Centres of Excellence like Maker village
+•	
+Tinkering Labs, IEDCs, early incubators
+•	
+Innovation Support Schemes: YIP, IIIC etc.
+•	
+Rural incubators – Technolodges supported by KSITL
+In all these incubators, Government provide direct support in terms of Capital or opera­
+tional support or indirect support to startups operating from them through training, capac­
+ity building, funding etc. 
+While these incubators provide support to early-stage startups, a major limitation in Kerala 
+ecosystem is the lack of corporate incubators which provide direct market connect to enable 
+validation and scaling up of products. Similarly, other than incubators promoted by Rubber 
+Research Institute and Sri Chitra Thirunal Institute of Medical Science and Technology, no 
+major R&D institution also has set up impactful incubators so far.  Thus, the next stage of 
+growth startup ecosystem should focus on promotion of Research Incubators that provide 
+translational research support for Technologies and IPs developed in the laboratories and 
+research centres to help develop the research-intensive start-ups from Kerala. It is also perti­
+nent to note that the share of patents in Startup ecosystem in Kerala is only 1.8% compared 
+Karanatka which hold 24.3% of patents  amongst startups in India
+Policy Changes 
+Kerala already has a comprehensive policy for promotion of technology startups. Some of 
+the areas of improvement in the policy is already presented in the earlier sections. To un­
+derstand the areas which require improvement, performance on Kerala on various elements 
+for developing a technology entrepreneurship ecosystem is assessed and is presented in the 
+figure 1.
+ Sharma R and Dhanora, M (2021) Shifting Orbits Ed Rajan T et. al. page18, Universities Press
+
+55
+Information Technology Report
+Figure 1 Various elements for developing a technology entrepreneurship ecosystem
+As seen from the figure, the existing policy framework was successful in creating innovation 
+infrastructure and to stimulate the climate and culture of innovation.  There is a need to 
+have policy measures to support other elements like Increasing R&D intensity, technology 
+commecialisation (technology incubation), creating tied ups with SMEs, enhance pre-com­
+mercialisation funding (in the range f Rs 30 lakh-Rs 3 Crores) and provide fiscal support 
+or production incentives.  It is also important to explore the possibility of usng technology 
+to build further on traditional industries to achieve a more vibrant and inclusive ecosystem
+
+State Planning Board
+56
+
+57
+Information Technology Report
+CHAPTER 5
+COMMUNICATION AND INTERNET INFRASTRUCTURE
+Kerala is moving as a digital economy. The communication and Internet infrastructure is 
+going to be the enabling agent in the future to establish the next era of growth. 
+Terms of Reference
+1.	
+Benchmark Kerala with other leading States on availability, access and quality of com­
+munication and internet infrastructure. Evaluate the progress of the State-driven as 
+well as market -led (private sector) infrastructure creation
+2.	
+Estimate the investments required to create a national best communication and in­
+ternet infrastructure keeping in view the ambitions of Digital Transformation Mision 
+timelines
+3.	
+Assess the access levels of BPL and other vulnerable population for this critical infra­
+structure and propose program and policies to provide free access Kerala is having one 
+of the highest penetration of Internet in the country, even more so than the national 
+average. It is due to various factors such as demand, high population density and also 
+telecom infrastructure build up. Due to High literacy in the state, there has been fairly 
+easier acceptance of technology and the push from the Government for digitising re­
+cords, and government processes. 
+The use of Internet and telecommunication has also been growing with the advent of 3G 
+and 4G data infrastructure. The use of wireless communications is far higher than the wired 
+communication across the State. The other distinction which is vital for understanding 
+of the communication and internet infrastructure is divide of the Rural and Urban users. 
+Kerala has round 44% of total subscribers coming  from the Rural population. It is vital to 
+understand this since it has direct implications on the expansion of the growth of users and 
+also penetration of the Internet infrastructure. 
+Kerala and Country
+The data from the TRAI - The Indian Telecom Service performance indicators (January-
+March 2021) gives important insights from the perspective of the country and performance 
+of the State. (Annexure I)
+Important Observation points:
+1.	
+Kerala Rate of growth of total subscribers is only 0.15% against the national average of 
+2.33%
+2.	
+Out of total subscribers Kerala has 44.32% subscribers coming from rural areas against 
+the national average of 44.74%.
+3.	
+Kerala has one of the highest Tele-density of 129.47% against the national tele-density 
+of 88.17%
+4.	
+In terms of wireless scubscribers the growth in Kerala is only a meagre 0.36% against 
+the national average of 2.36%
+It would be essential to understand the above observation points in relation to the geo­
+graphic and the socio-cultural aspects of the State of Kerala
+
+State Planning Board
+58
+There is a stagnation in terms of new subscribers, this could be the already high tele-den­
+sity in the State. This is established by the fact that Kerala has total of 46.1 million total 
+subscribers.
+The rural and urban spread of the subscribers is fairly uniform in the state, with the share 
+of rural subscribers coming at par with the National average. 
+Kerala tele-density of 129.47% tells that the penetration of use of communication devices, 
+internet has reached optimum levels spread. There are not major differences of users in 
+terms of rural and urban population divide.
+Challenges for Tele-communications
+Even though there has been high tele-density in Kerala, it doesn’t imply that the quality of 
+the connectivity is at par with what is required for bringing in the next digital revolution. At 
+present there are various pockets of colonies where the Communication networks has not 
+been established for high end data exchange. There are pockets of areas where the wireless 
+connectivity is not at par with the 4G or 3G speeds. This puts a major limitations on the 
+possible expansions of markets and economy in terms of data exchanges. 
+The pockets of land not having telecom connectivity in terms of Mobile coverage are still a 
+major concern along with pockets of land in urban areas where the quality of coverage has 
+still not reached 4G standards. 
+The wired connectivity in terms of Broadband based and Fibre based connections have 
+increased in the urban areas and local operators have taken these connections to further 
+many households.
+NEXT- Generation Connectivity
+The future of connevtivty is based on Optical Fibre cabling and 5G infrastructure. The 
+expansion of next generation connectivity can only be established if the State creates con­
+ducive and simpler mechanism for private and state players to establish Optical fibres and 
+telecom infrastructure. 
+Kerala’s present system of Single Window clearance system needs further refinement and 
+to make it trule easier for businesses to setup infrastructure. Present, the telecom providers 
+have to give a proposal for laying of OFC cabling to the Goverment and then through a 
+physicall process, a Government order is issued. The entire process has to be made online 
+and simpler for management and regulation. 
+The establishment of Telecom towers is the next target for the expansion of the communi­
+cation infrastructure. The telecom infrastructure has to be approved by the local self govern­
+ments and has to be in tandem with the Building rules established by the State.
+According to the ‘Making India 5G Ready’ report developed in August 2018, by the 5G 
+High-Level forum constituted by DoT:
+“5G will require massive addition of both above and below the ground infrastructure, both in 
+
+59
+Information Technology Report
+passive and active categories. These include backhaul radios, antennas, towers, street furniture, 
+and ducts, etc. In the long term, 5G infrastructure densification can exceed 1,000 Base Stations 
+per Sq. Km.”
+The challenges on both the above issues can be summarised as follows:
+Legal Issues 
+The government regulatory function should be limited to giving permissions for the infra­
+structure of OFC and Telecom towers.
+The rules pertaining to clearances and permissions need to be made completely online and 
+there should be a time limit to the possible approval or rejection of the application
+The permissions should be truly single window and the applicant for setting up of new 
+towers or OFC should not be going to multiple agencies for getting a permission
+Socio-Cultural Issues
+In terms of expansion of 4G to 5G the telecom infrastructure would be expanded almost 
+100 times the present. This can only be done with the support of the citizens and creating 
+demand for higher speeds of connectivity. 
+The mis-information on part of telecom towers need to be dispensed with and clear science 
+based information needs to be told to the factions of society having fear towards the tele­
+com towers in terms of EMF radiation and alleged health affects of living near the Telecom 
+towers.
+Technical Issues
+The expansion of the telecom infrastructure would be based on the use cases of the estab­
+lished new connectivity avenues.
+The use of 5G is still under testing and can open doors for development of new technologies 
+and use cases for changing the lives of the citizens. 
+The expansion and provisioning of higher connectivity speeds would allow the private and 
+public sector to use and establish new applications and physical devices for use of public.
+There has to be established take-up of the new technology from the private sector as well 
+as citizens. 
+Government should incentivise companies working in the sector and ensure that the take 
+up of the established products is by the government and other private companies alike. 
+The incentivising structure could be based not just on monetary compensations and sup­
+ports but also on take ups and integration with the existing public infrastructure such as use 
+of KFON network and also government buildings
+Providing Connectivity to untouched and BPL areas
+The Government has already provisioned various schemes for providing internet for the 
+public use. The Public use internet scheme need to be expanded for covering the colonies/
+locations that do not have multiple TSP and ISPs providing cheap internet connections. 
+
+State Planning Board
+60
+1.	
+The Tribal colonies in the states need to be ensured to be provided internet connectiv­
+ity. 
+2.	
+The BPL families in each of the villages should be provided internet connectivity.
+The identification of the families eligible for the free internet connectivity should be pre­
+pared at the local self government level. 
+The eligible list of beneficiaries should be verified by the District Collectors. The free inter­
+net connection should be provided at the state level and the finalisation of the prices and 
+agency should be done at state level. 
+
+61
+Information Technology Report
+CHAPTER 6
+MAJOR CHALLENGES/ISSUES
+Industry Investment and Capacity Building
+1. Programs can be envisioned to support long term vision.
+1.	
+Clean and sustainable world-how IT solutions can create a sustainable future, reduce 
+pollutions, improve energy usage and production and reach targets of zero emission.
+2.	
+Digital health for better quality of life-the acquisition, management, and use of infor­
+mation in health can greatly enhance the quality and efficiency of medical care and the 
+response to widespread public health emergencies.
+3.	
+Technologies for social good-how societies can be made better with IT Technologies. 
+New ways of social interaction and connecting the society at large
+4.	
+Improve IT reach and influence of infrastructure- ways to help improve the quality of 
+IT infrastructure and digital readiness across the State.
+5.	
+Disaster Management-Kerala needs ability to predict and manage natural disasters that 
+has become high these years-Technology plays a huge role in both the prediction and 
+management of natural disasters. Building specialization centres to promote skills and 
+capacity on Data Analytics, IOT, GIS systems, Disaster Management supply chains etc 
+will be needed.  
+II. Information Technology startups
+1.	
+Focus of the startup ecosystem-Kerala startup ecosystem provides only limited support 
+outside IT product startups.
+2.	
+Lack of High value startups and Unicorns-Kerla as a State have been successful in evan­
+gelizing concept of entrepreneurship and startups among students and other stake­
+holders.  This is reflected in the large number of startups currently registered from Ker­
+ala. However success on graduation rate of startups needs to improve. Kerala is home 
+to roughly 6000 startups, of which about 4000 are registered with KSUM. However 
+the State is yet to create a unicorn or major success story from this cohort.
+3.	
+Product Maturity and quality of startup products-Even though bulk of Kerala’s start­
+ups are in IT product space, they lack of product  sophistication and entrepreneurs 
+often exhibit herd mentality with focus on limited use cases and limited understanding 
+of customer/market needs. This is affecting the market readiness of many products.
+4.	
+Issues regarding funding and investment-Kerala has early funding avenues for the start­
+ups. KSUM itself provides grants and loans up to Rs 30 lakh for startups. However 
+there is no mechanism to provide bridge funding to startups in the range of 30 lakhs-
+2crore. Typically Angel investors fill this gap in a successful ecosystem. This is a weak 
+area of the Kerala Ecosystem. Funding delay is also an issue affecting survival of start­
+ups.
+5.	
+Support to startups other than IT product startups-As such startup policies and 
+schemes are only supporting IT product startups. KSUM provide little support to 
+
+State Planning Board
+62
+service companies and non IT product companies. The other agencies which support 
+such entities are oriented more towards asset heavy business and is not much of formal 
+support is available for the growth of such companies in Kerala.
+6.	
+Capacity building within Government for promotion startups- At present the Band­
+width and capability available in Kerala startup Mission to give tailored support and 
+guidance to individual startups is limited and needs to be enhanced.
+7.	
+Issues of inclusivity-very few women led startups. Despite having a large proportion of 
+women in Science and Technology education, the number of women led startups are 
+very few at around 10-12% in Kerala. This is an important area that needs attention.
+III. Communication and Internet Infrastructure
+1.	
+Challenges for Tele-communications-Even though there has been high tele-density in 
+Kerala, it doesn’t imply that the quality of the connectivity is at par with what is re­
+quired for brining in the next digital revolution. At present there are various pockets 
+of colonies where the communication networks has not been established for high data 
+exchange. There are pockets of areas where the wireless connection is not at par with 
+the 4G or 3G speeds.
+2.	
+The pockets of land not having telecom connectivity in terms of Mobile coverage are 
+still a major concern along with pockets of land in urban areas where the quality of 
+coverage has still not reached 4G standards.
+3.	
+Legal issues-The government regulatory function should be limited to giving permis­
+sions for the infrastructure of OFC and Telecom towers..
+4.	
+Socio cultural issues-In terms of expansion of 4G to 5G, the telecom infrastructure 
+would be expanded almost 100 times the present. This can only be done with the sup­
+port of the citizens and creating demand for higher speeds of connectivity.
+5.	
+Technical issues-The expansion of the telecom infrastructure would be based on the 
+use cases of the established new connectivity avenues. The use of 5G is still under 
+testing and can open doors for development of new technologies and use cases for 
+changing the lives of the citizens.
+
+63
+Information Technology Report
+CHAPTER 7
+FINDINGS AND RECOMMENDATIONS
+I Industry Investment and Capacity Building
+1.	
+To ensure equality in digital society, it becomes essential to make the widespread avail­
+ability of good communication infrastructure, access to internet, access to computers 
+and access to trained teachers at affordable costs to the citizens. 
+2.	
+Proper training and early awareness provides an opportunity for teachers to ensure 
+accessibility for all learners according to their needs.
+3.	
+The differently abled and disabled individuals as well as those in socially vulnerable 
+situations would need to be given special attention.
+4.	
+Digital innovation labs could be set up throughout the State, to drive grassroot inno­
+vations.
+5.	
+The access to cloud computing and product testing infrastructure could be provided 
+at subsidized rates to encourage entrepreneurs, students and innovators to develop 
+various data intelligence innovations.
+6.	
+The use of artificial intelligence, virtual reality, robotics and electronics technologies 
+can enable and improve the effectiveness of a wide range of teaching and learning 
+techniques such as flipped learning, project based learning problem based learning and 
+research led learning.
+7.	
+The State could envision setting up specialized fabs that focus on specific domains like 
+sensors, memories or displays. The chip fabrication is capital intensive, however, it is an 
+essential requirement to ensure indigenization of developing high quality electronics 
+products.
+8.	
+Development of carbon neutral IT solutions are an important aspect in the future 
+society.
+9.	
+Some of the emerging areas where India, Kerala State could emerge as the leading glob­
+al destination are fabless design centres, embedded architecture, embedded systems de­
+sign, VLSI design capabilities etc. Hence it is suggested that Centres of Excellence for 
+common core infrastructure facilities be established in key locations on a PPP model 
+led by the industry and supported by the Government up to 49% of the capex and 
+operational expense that can help IT companies train people to develop skills, ideate, 
+prototype and test solutions in a low cost and time efficient manner. 
+10.	 The universities in the state should aim to extend the boundaries of fundamental re­
+search to more towards applied research that can have immediate impact in the society 
+and industry at large.
+11.	 The universities should add technology transfer to create new products and industries 
+as one of the primary objectives. To help this, faculty should be encourage to develop 
+companies and products with students and make it legal for such faculty to take on 
+multiple roles. The employment restriction in taking multiple roles should be abol­
+ished.
+12.	 The students and faculty should be made aware of professional codes of conduct and 
+practice them on a daily basis.
+
+State Planning Board
+64
+1.	
+The government of Kerala consider adopting a cluster of Innovation program that can 
+encourage companies, think tanks and academic/research institutions to undertake 
+joint R&D projects and co-create innovative technologies and products.
+2.	
+Some of the recommended technical/business areas for consideration  would include 
+Mobility, Energy, Digital, Health and Advance Manufacturing and support the con­
+cept  Make India for India and world through India stack /platformization strategy.
+3.	
+Considering the gap in Industry Academia collaboration, it is proposed to announce 
+a CM Fellowship program of giving grant (up to 50% of the total costs) to Doctoral/
+postdoctoral scholars in few selected areas. A virtual fellowship team could be formed 
+and incentivized to solve critical problems.
+4.	
+To promote industry engagement and promote scientific temper in the State, specific 
+schemes can be created to fund the visits of industry fellows and scientists to work 
+across the universities and research labs.
+5.	
+By enhancing the infrastructure facilities to Industry standard and by suitably enabling 
+the faculty members on industrial domain skills, higher education institutions could 
+productively augment their facilities and human resources for providing skills and 
+knowledge, which will be beneficial for students, faculty and institution.
+6.	
+Government shall make investments in implementing such capabilities in the educa­
+tional institutions for Learning Management, Virtual classroom equipment, Virtual 
+classroom studies, connectivity and computing infrastructure.
+7.	
+To meet the requirements of the industry, the labs in Higher education institutions 
+would need an upgrade of the equipment.
+8.	
+Gig economy is an emerging trend in the workplace all across the world. To prepare 
+students for such new work models enabling student participation in Gig platforms 
+and Gig economic activities while they are studying shall be a focus area for education­
+al institutions.
+9.	
+Skill program accreditation body may be formed under development of electronics and 
+IT to annually monitor, rate and approve skill based IT programs offered by Industries 
+and institutions.
+10.	 Knowledge capabilities in Engineering and Technology institutions will need to be 
+strengthened to develop deep knowledge in medical devices industry domain.
+11.	 Building skill centres in financial services and creating a talent pool in this domain 
+alongside, technology areas such as Block chain can make Kerala a unique place for 
+fulfilling the Non-Banking Financial centre needs of the State and outside.
+12.	 Investments in educational institutions and development of “creative spaces” with var­
+ious elements of creative industry can significantly improve the talent in creative space, 
+thereby attracting new generation companies to the state.
+13.	 ICFOSS could take the lead in developing open source technologies in association 
+with students and startups, looking at the needs presented in the community
+14.	 Digital University Kerala could take a leading role in developing open source technolo­
+gies for hardware and integrated chip development where researches and engineers can 
+help to provide open source solutions.
+
+65
+Information Technology Report
+15.	 Universities such as Digital University, KTU and CUSAT could take a lead in creat­
+ing an environment for promoting open source design in technology and engineering 
+among undergraduate engineering/technology students.
+16.	 Special schemes can be envisioned for training the entrepreneurs. The specific schemes 
+for IT incubators under Kerala startup Mission can be expanded for software based 
+entrepreneurs and Maker village can be used for extending the support for hardware 
+entrepreneurs.
+17.	 The incubators in the colleges can be offered specific funds to develop industry    inner 
+vision programs to cultivate the growth of entrepreneurship thinking among under­
+graduate students.
+18.	 The universities in the State can   help to develop curriculum and e-learning resources 
+for inculcating entrepreneurship thinking among staff and students.
+19.	 The companies could offer a range of industrial training and internship programs in 
+partnership with universities to train the students and staff in entrepreneurship.
+II. Information Technology Startups
+1.	
+Kerala startup Ecosystem provides only limited support outside IT product startups. 
+This could be addressed through the following solutions. Establishing focused accel­
+erators and incubators for non-IT startups in areas such as AgriTech, HealthTech, 
+EduTech, Tourism Ayurveda, Genomics etc where Kerala has some existing strength. 
+Involving reputed research, business and commercial entities in these areas for provid­
+ing functional and business expertise/support to make this effective. Promote Digital 
+transformation of non-IT MSME to help them compete globally. Linkage between the 
+MSME and startup needs to be promoted as part of the policy.
+2.	
+Lack of High value startups and unicoms this could be addressed through the fol­
+lowing solutions. Kerala Startup Mission should develop measurement frameworks, 
+processes and expert capacity towards this purpose. Kerala Startup Mission also needs 
+to develop and onboard a network of fulltime and part time technical experts/product 
+managers/business advisors with global exposure. The experts will complement the 
+above mentioned frameworks and process as well as help mature organizational capa­
+bilities, governance, product innovation etc. Facilitate broader market access for Kerala 
+Startups.
+3.	
+Product Maturity and quality of startup products-This could be addressed through 
+following solutions. Kerala has already invested in Design and Prototyping including 
+Fab Labs. We need to extent it to soft capabilities and design specific training in ar­
+eas such as design thinking, customer experience optimization, conducting customer 
+workshops and focus group requirements, elicitation techniques etc. Establish incuba­
+tors/accelerators with vertical or horizontal focus to develop startups with specialized/
+niche expertise and resultant products/services. Such incubators to be established in 
+cloud computing, Big Data and AI, IOT and connected Technologies, Cyber Security 
+and Augmented/virtual Reality. There is a need to incentivise IP/Patents creation by 
+startups more aggressively. There is a need to aggressively identify industry immersion 
+opportunities for startups via KSUM.
+
+State Planning Board
+66
+1.	
+Funding and Investment-Strengthening bridge funding via KFC, KSIDC etc with 
+startup loan targets for those entities. Develop stronger angel networks and HNI con­
+nects with more purposeful initiatives from KSUM.  Create a special startup bridge 
+fund are under KSUM to provide funding up to the tune of ₹2 crore in the form of 
+equity/Debit Financing/convertible notes etc.
+2.	
+Support to startups other than IT product startups-Expand focus to service startups 
+offering support to startups providing IT or non IT service in B2B on B2C model.
+3.	
+Capacity building within Government for promotion of startups-Increase professional 
+depth and breadth of KSUM staff-recruit venture catalysts experienced managers and 
+specialized mentors on full time scale of pay roles guide and mentor startups. There is a 
+need to invest in developing a professional services capability in KSUM with the intent 
+of making it financially independent in 5 years.
+4.	
+Issues of inclusivity-very few women led startups. Provide grants to social enterprises 
+that run structured programs to train and empower women towards establishing micro 
+enterprises of their own. Provide subsides on special incentives to women led startups 
+in targeted industries. Institutionalize recognitions and awards for successful women 
+led startups.
+III Communication and Internet infrastructure
+1.	
+Legal issues-The rules pertaining to clearances and permissions need to be made com­
+pletely online and there should be a time limit to the possible approval or rejection. 
+2.	
+Social cultural issues-   The mis-information on part of telecom towers need to be 
+dispersed with and clear  science based information needs to be told to the factions  of 
+society having fear towards the telecom towers in terms of EMF radiation and alleged 
+health affects of living near the Telecom towers.
+3.	
+Technical issues-The use of 5G is still under testing and can open doors for develop­
+ment of new technologies and use cases for changing the lives of the citizens.
+4.	
+The expansion and provisioning of higher connectivity speeds would allow the private 
+and public sector to use and establish new applications and physical devices for use of 
+public.
+5.	
+Government should incentivize companies working in the sector and ensure that the 
+take up of the established products is by the government and other private companies 
+alike.
+6.	
+The Tribal colonies in the State need to be ensured to be provided internet connectiv­
+ity.
+7.	
+The BPL families in each of the villages should be provided internet connectivity.
+8.	
+The identification of the families eligible for the free internet connectivity should be 
+prepared at the local self-government level.
+9.	
+The eligible list of beneficiaries should be verified by the District collectors.
+	
+
+67
+Information Technology Report
+CHAPTER 8
+ROADMAP- DIRECTIONS FOR GROWTH
+The primary purpose of the road map   is to act as a blue print for the State in its resolve 
+to use technology to develop, improve and enhance the wellbeing of its people. As Kerala 
+is transforming itself into a knowledge economy, its forward progress has to be sustained 
+through  modernizing and developing all productive sectors of the Kerala economy. This 
+forms the agenda for the next decade of growth. The impressive performance of the State 
+with respect to human development indices needs to be leveraged for economic growth of 
+the region by moving up in the value chain. The use of technologies for improving gov­
+ernance and delivery of services to citizen will also be a key consideration.   Keeping this 
+in mind, the future focus of the Electronics and IT sector of the State is divided into two, 
+the economic development and social development respectively. This is captured in Fig 2. 
+As shown in Figure, the economic growth can be specific while the social growth can be 
+targeted on the attainment of Sustainable Development Goals through digital transforma­
+tion by leveraging on technology. In order to achieve the same, as discussed in the report, 
+there is a need to enhance the infrastructure- both physical and human-, create ecosystems 
+for fostering innovation, entrepreneurship and startups and improve the governance by 
+adopting smart governance principles. To strengthen these enablers, there is a need to have 
+specific policy interventions and investments in some infrastructure by the Government. 
+Additionally, to foster innovation, to support entrepreneurship and to facilitate digital 
+transformation for social good, fiscal incentives may have to be designed, from time to 
+time. These are explained in the next few sections
+ 
+ 
+ 
+ 
+ 
+ 
+Economic Growth 
+Kerala to contribute to 10% of 
+Indian IT & Electronics Industry in 
+next 5 years 
+Social Growth 
+Attainment of sustainable 
+Development Goals through 
+Digital Technologies 
+Infrastructure Development/Augmentation  
+Human resource Development  
+Innovation, Startups and Entrepreneurship ecosystem
+E-Governance and Smart Government   
+Out
+put 
+Ena
+ble
+rs 
+Po
+lic
+y 
+ 
+Su
+pp
+ort 
+In
+ve
+st
+m
+en
+t 
+Fis
+cal 
+Inc
+en
+tiv
+es 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 2. Conceptual Roadmap for Electronics and IT sector 
+
+State Planning Board
+68
+Roadmap- The outcomes
+The overall outcome of the Strategy is to transform Kerala as an inclusive Knowledge 
+Society.  To achieve this, the State has to focus both on social and economic dimensions. As 
+discussed earlier, Kerala could not gain much from the information technology growth so 
+far and the State’s share of the industry is abysmally low when compared to its immediate 
+neighbours. One of the key targets for the next five year plan is to address this. The trend 
+towards decentralized development in IT as against current model where growth is concen­
+trated on a few centralized hubs can be a major advantage for the State, which has state wide 
+urban continuum with good civil facilities. Keeping this in mind, it is proposed that Kerala 
+should target garnering 10% of IT market share of the country in next 5 years. With IT 
+sector estimated to reach around USD 350 Bn, this translate to around USD 35Bn. This is 
+almost 10 times growth from the current level of around USD 4Bn. Similar growth may be 
+targeted for Electronics industry also.  
+To make Kerala, a true knowledge society, the ambitious target in economic growth of IT 
+industry have to be supplemented by focusing on the power of digital technologies in over­
+all societal growth also. This involves adoption of digital technologies for rapid transfor­
+mation of several basic sectors that affect human development. The attainment of various 
+Sustainable Development Goals by leveraging on technology could be a good way forward 
+in this direction. Technology could be used to minimize wastage, enhance the reach and 
+facilitate several inclusive models of growth. Designing specific schemes towards this form 
+the other aspect of the outcome expected during the next plan period.
+The enablers
+The digital strategy for the Kerala should build on its existing strengths. Some of the el­
+ements of which form the base of next stage of growth of IT sector in the state are given 
+below  
+Infrastructure Development and Augmentation
+The infrastructure forms a key element of development of any industry. Kerala was one of 
+the first states in India to create a Wide Area Network (WAN) and later pursued innovative 
+initiatives like Kerala Optic Fiber Network (KFON Project) which envisions providing 
+high quality bandwidth connectivity across the State.  Once KFON become fully function­
+al within a year, Kerala will be the first State in India with seamless giga fiber connectivity 
+across the State. State should plan to build its strategy for next stage of growth on this 
+Information Highway to achieve technology led economic and social growth
+One such opportunity is brought in by the global pandemic Covid-19 which created un­
+precedented disruptions in the work and life of people all around the globe. With uncon­
+trolled spread of pandemic across the world, several countries have adopted lock down of 
+normal activities of different durations. Many countries in Europe, Americas, Asian and 
+African regions have drastically altered the conventional way of working of office spaces, 
+factories, education institutions, entertainment and trade zones. Many of the service in­
+dustries have adopted Work From Home practice where in the digitally controlled work in 
+remote locations at individual or small group level is increasingly replacing the centralized 
+
+69
+Information Technology Report
+way of working prevalent till the onset of Covid-19 in early 2020.  With the centralised 
+nature of operation of IT industry getting altered to decentralised dispersed workspaces, 
+Kerala can create a unique model of creating small work spaces throughout the length and 
+breadth of the State which can bring in work from across the globe. This can facilitate State 
+to convert itself as a global hub of developers and IT professionals working in small cohorts 
+near their home and exotic locations throughout the State connected through a strong in­
+ternet backbone provided through KFON. State should incentivize private entrepreneurs to 
+set up small world class Work Near Home (WNH) centres which provides safe and secure 
+workspaces.  Specifically, dedicated development corridors have to identified to establish 
+WNH centres to support decentralised growth in IT.  The corridors between Trivandrum 
+Technopark and Kollan IT Park,  Chertala IT Park to Korallty IT park covering Inforpark 
+region, Cyberpark Kozhikode to Kannur and Malappuram etc. can be developed as model 
+IT corridors for decentalised growth
+The third element of infrastructure that may enable the growth of the sector is establish­
+ment of common facilities for facilitating growth. This is relevant both for electronics and 
+IT industries. In case of electronic industry, common testing facilities for various ESDM 
+companies can prove to be a major factor for attracting SMEs in this sector.  Similarly, in IT 
+industry, State should strive to develop itself as a hub for IT product development. Success 
+of IT product companies from Kerala like IBS, SunTec etc. is indicative of this potential.  As 
+next stage of growth of IT will be driven by product companies, State could create a policy 
+framework that facilitate development of domestic IT product companies.  Product testing 
+facilities, mechanisms for early adoption of product, support for certifications, government 
+run/ supported program on product development, fiscal incentives to support marketing, 
+quality management etc. could be some of the factors that can facilitate this development.
+Human Resource Development
+The key resource that drives growth in IT and Electronics industry is the availability of 
+quality human resources. The success of Kerala in providing educated resources for the 
+development of Middle East region in 70’s& 80’s is a good example of how good quality 
+resource could bring unprecedented growth in a region. The next stage of growth of IT 
+industry require people at all levels specialized in several new technologies like Big Data, 
+artificial intelligence, cloud computing, and other industry 4.0 technologies etc.  Many of 
+the conventional sectors, which had very limited adoption of IT so far, have started a rapid 
+digital transformation move, primarily to address the challenges posed by the pandemic. In 
+order to drive this transformation, resources at all levels of the growth pyramid are neces­
+sary. As discussed earlier in this report, proper interventions in developing human resourc­
+es, combined with development of decentralized workspaces, can transform Kerala as a 
+global software development hub or application development hub. During the next 5 years, 
+it is expected that more than 10 Million jobs are getting created in this sector. By focus­
+ing on the aspects of Digital software engineering and application engineering, distributed 
+computing, and DevOps and continuous integration, the State could harness a substantial 
+portion of this demand.  This can be done by creating a three tier digital curriculum which 
+encompasses ITI, Diploma and Engineering/Post graduation, which would provide ample 
+manpower with appropriate skill sets.
+
+State Planning Board
+70
+Another key element that could foster the industry is the development of resources capable 
+of leading the knowledge industries from the State. As the new areas of IR 4.0 namely AI, 
+Big Data, Blockchain, Quantum Computing, Cyber security, Space science etc. require 
+knowledge intensive workers specializing in several application domains. The development 
+of this talent forms a key mandate for the Universities and Higher Education Institutions 
+of the State. The State should set up specialized centers of excellence in specific areas like 
+Fintech, Health informatics, Digital tourism etc. to drive the growth in such areas.  This 
+will also enable the growth of conventional sectors of growth in the State along with the 
+IT industry. Kerala University of Digital Sciences, Innovation and Technology (Digital 
+University) needs to drive this transformation by setting up such CoEs which can act as 
+catalysts for growth of High technology industry ecosystem in the State
+Innovation, startups and entrepreneurship ecosystem
+The IT industry in Kerala is primarily driven by homegrown companies as against the invest­
+ment made by MNCs in other major hubs in the country like Bangalore and Hyderabad. 
+Even though State has presence of a few global majors, the scale of operation of them is 
+very low compared to the performance of domestic IT companies. There are several small 
+IT companies and startups who are working on niche technologies and products and have 
+potential to grow as large corporations, if right ecosystem support is extended to them. In 
+the next stage of growth of IT and Electronics industries, the State should focus on these 
+companies and create an ecosystem to facilitate their accelerated growth.  Kerala was the 
+first state in India to develop a startup policy that would help build various projects both in 
+software and hardware. Though, the support from the Government for creation of startup 
+ecosystem provided during the 13th Five year plan period is considered best in the country, 
+there are several areas of improvement which needs to be addressed during the next phase of 
+development. Support for innovative startups, provision for supporting R&D, testing facil­
+ities for electronics startups, fiscal incentives for IT and ITES service startups for expanding 
+their business etc. could be some of them. Direct support from Government to adopt in­
+novative products from startups by setting up innovation zones in all development line de­
+partments could prove to be very beneficial to the ecosystem. Similarly fiscal incentives for 
+startups and companies that provide innovative solutions for rapid digital transformation 
+of conventional sectors could be another right step in supporting an inclusive ecosystem for 
+development of next generation SMEs and startups with exponential growth potential. As 
+many of the homegrown startups are in the early stages of their accelerated growth, creation 
+of venture capital fund for supporting their growth needs to be a key priority during the 
+next plan period. 
+E-Governance and smart Government
+As discussed earlier, Kerala is one of the top players in E-Governance in the country.  Several 
+initiatives from Kerala had become national models. The  Akshaya Kendras, started in 2002 
+to provide citizen centric services have paved way for nationwide deployment of CSCs 
+and the KITE (formerly IT@School) which stewards IT infrastructure and education in 
+schools has proven to be invaluable during Covid times to ensure delivery of uninterrupted 
+education all across the State.  While State had made great strides in E-Governance at the 
+
+71
+Information Technology Report
+transaction level, there is a huge scope in developing it further to support creation of “Smart 
+Government”. The adoption of enterprise architecture similar to IndEA to provide seam­
+less access to various services, creation of intelligence from the unified data to proactively 
+bring about welfare measures, enhancing spend efficiency, increasing responsiveness to de­
+mand etc. are some of the areas to be focused in the next stage of accelerated growth. The 
+e-governance today is focusing more on providing existing services to citizens over a digital 
+platform and to enhance speed of operation within the Government. However, the next 
+stage of e-governance needs to be transformative focusing on business intelligence that can 
+be extracted from vast quantity of data dispersed within various departments. This should 
+form a key agenda for the next stage development of e-government in Kerala. This could be 
+developed with the support of startups and SMEs in the State. 
+The roadmap  presented in fig 2 above provides three key elements of intervention to stim­
+ulate the enablers explained so far to achieve the stretched targets of social and economic 
+development. These are explained in the next section
+Interventions and Action Points
+The key interventions which are required for supporting the exponential growth IT, ITES 
+and electronic industry in the State could be broadly divided into three namely Policy 
+Support, Investment Support and Fiscal incentives.
+Policy Support
+Kerala has an IT policy formulated in 2017 with 9 sub policies including one covering 
+ESDM (hardware). Additionally, the EV policy of the State also overlaps with the devel­
+opment of electronics industry in the State. Together, these policies provide a very com­
+prehensive model for development of the industry in Kerala. However, several elements 
+of these exhaustive polices needs to be implemented effectively. It is necessary to revisit 
+the policies to have a realistic assessment of areas which needs improvement in the present 
+context and create a five-year roadmap for implementation. A key missing element in the 
+current policy framework is the use of Data.  A futuristic data policy which could provide 
+right framework for extracting value from the data while ensuring the highest levels of pro­
+tection of privacy and security of personal information should be an immediate priority. 
+Similarly, there is a need to provide a clear and unambiguous framework for adoption of 
+Industry 4.0 technologies. As a progressive State, Kerala should be a pioneer in bringing 
+about policy prescriptions for adoption of AI, Blockchain, Cloud computing etc. in various 
+aspects of governance and shall provide policy support for curating a right ecosystem for 
+innovative startups and SMEs in these emerging areas. The State should also have a prop­
+er e-waste management policy. As workforce will increasingly shift to platform-based gig 
+works, Kerala should bring policy support to facilitate the same while ensuring the welfare 
+of the gig worker through appropriate social security measures.  
+Investment and Infrastructure
+In order to facilitate the exponential growth of industry, there is a need for State to make 
+substantial investment in augmenting physical and intellectual resources. In addition to 
+the Rs 1500 Crore KFON network, State should invest partially in creating decentralised 
+
+State Planning Board
+72
+work spaces (Work near Homes). The State should also plan to invest in common infra­
+structure to support the growth of IT product companies, electronics manufacturing units 
+etc. Common testing infrastructure, IP support centres, common facility centres (like com­
+mon cloud computing space, software banks, component procurement support system etc.) 
+needs to be established in different parts of the State, perhaps with the support of private 
+sector.  As 5G rollout is expected across the nation by end of 2022, another key area of 
+focus for next plan period will be to create an environment conducive for development of 
+5G industries in Kerala, Towards this, the KFON infrastructure have to be supplemented 
+with a tower and dense antenna infrastructure so that Kerala can take a leadership role in 
+5G.  Innovative policy and incentive measures have to be developed to make the State as 
+the fully 5G enabled State within next plan period of 5 years.  Rather than leveraging 5G 
+for improving communication speed, the State should make investments in 5G enabling 
+infrastructure with a view to leverage extensive 5G network for supporting industries that 
+develop 5G products and services as well as  to enhance the efficiency and productivity of 
+existing business concerns and Government units by adopting smart technologies based 
+on faster communication offered by 5G.  The adoption of 5G should be viewed as way of 
+transitioning Kerala into a “smart state” during the next plan period. Another key area of 
+investment will be in augmenting the intellectual infrastructure of the State. Establishment 
+of Centres of excellence in Universities and HEIs, introduction of new programs, mass 
+skilling programs in new technologies etc. form part of this.  Depending on the resource 
+availability, State could also venture into developing a full-fledged fab facility for electronic 
+chip making which can help State to leap forward in electronics manufacturing or leverage 
+on the fab ecosystem growing elsewhere in the country by creating a supply chain compo­
+nent ecosystem for electronic industries.  Using defence offset for facilitating such growth 
+shall be a key priority during the next plan period.
+Incentives
+Incentives for players and facilitating agencies that support achievement of economic and 
+social goals form the third key element of the Strategy.  With limited geographical re­
+sources, Kerala has a competitive disadvantage when compared with neighboring States, in 
+providing physical incentives like low cost land, built up space etc.  However, this vulner­
+ability can be negated by crafting innovative incentive systems that support startups, early 
+stage companies and growth oriented SMEs.  The incentives could be low cost access to 
+common facilities, government procurement of products, low cost funding through various 
+government financial institutions, performance linked incentives like employment linked 
+reduction in State share of GST, amortization of land cost over a longer period, support 
+for day 1 operations, incentives for upgradation of skills of the resources etc. A comparison 
+of incentives provided by various States of Indian Union needs to be made while finalizing 
+the incentive structure for the future. In addition to the incentives to support startups and 
+SMEs, innovative incentive schemes to be developed to make Kerala as hotbed of new 
+technology industries.  As discussed in Chapter 3, the sectors like Medical devices, Space, 
+innovative materials, 5G etc. are to be prioritised and comprehensive development plans for 
+supporting the growth of industries in such areas needs to be developed and implemented 
+during the next plan period.
+
+73
+Information Technology Report
+Creation of an industrial ecosystem based on 5G networks (5G Leadership)
+As discussed earlier, 5G primarily provides two distinct advantages 
+i) Faster access to mobile internet and data services
+ii) Better connectivity for smart devices (like IOT)
+As per IAMAI, Kerala ranks top in the country, just after Delhi with respect to internet 
+mobile penetration. Even in 2019, 56% of Keralites have smart phones to access mobile 
+internet and almost 100% of the State is covered by mobile networks.  With the commis­
+sioning of KFON, Kerala will become the State with highest high-speed fiber data con­
+nectivity coverage. The State has also leveraged on network connections effectively during 
+the pandemic by delivering on-line education (ranked No.1 in the country) and health­
+care (telemedicine). With KFON expected to provide a stable backbone for current LTE 
+networks, State is expected to have reliable, low cost and accessible internet even without 
+having 5G.  The high bandwidth backbone will also aid high speed and high capacity data 
+services in the current network itself
+However, on the other hand, the capability of 5G to support smart network can actually 
+may prove to be a boon to the State’s industrial development. Even though the lack of 
+smart cities and factories (potential customers of IR 4.0) may be a demerit to create de­
+mand for 5G, the State can make best use of 5G if proactive measures are taken to develop 
+an ecosystem of companies and startups that could develop5G solutions for the country. 
+The State wide network availability (riding on the KFON backbone) could enable cheaper 
+development of 5G solutions in a decentralized manner and provide opportunities to test 
+them at different demographic and geographic conditions. This should complement the 
+already established Centre for IIOT under Digital University,   to develop such an ecosys­
+tem. A model for creating “Smart Keralam” by deploying connected devices in various fields 
+like agriculture, utility management etc. can prove to help traditional sectors in their rapid 
+digital transformation   It is important that a very clear and feasible plan for developing an 
+ecosystem that support IIOT companies needs to be developed by Government, if the State 
+plans to adopt early rollout of 5G
+The factors may prove to be advantageous for a service provider to rollout 5G in the State 
+are
+a)	
+Availability of low cost fibre backbone from KFON (this, however, depends on the 
+policy on competitive and innovative pricing of this infrastructure.  This is important 
+given the limited success of other physical infrastructure providers like KINFRA in 
+promoting industrial development due to the polices followed so far in infrastructure 
+allotment)
+b)	 High mobile internet penetration and use of smart devices even in rural areas
+c)	
+Low cost power and high availability and reliability even in remote areas (especially 
+during peak network consumption hours) (Again there is a necessity for rationalizing 
+the tariff to support faster adoption)
+d)	 Good quality public infrastructure spread throughout the State. This is a very import­
+ant advantage as all these buildings can host small cell antennas. This will enable faster 
+roll out
+
+State Planning Board
+74
+e)	
+Emphasis on hardware startups and a highly favourable government policy to support 
+startups including state run investment funds, highly subsidized infrastructure, test 
+beds etc.
+f)	
+Presence of potential consumers.  The presence of current and potential consumers of 
+5G network like Smart Hospitals, smart classrooms, telemedicine, smart utilities etc. 
+can be an advantage (however, as noted in next section, there is a strong need to aug­
+ment “smartness” in most of the fields when compared to other States)
+g)	 Support of Government to experiment new solutions within Government and outside 
+(KDISC, a government agency and Kerala Startup Mission provide ecosystem for sup­
+porting such early experimentation)
+While the above factors make Kerala, ideal for 5G roll out, the following points needs to be 
+addressed, as they may delay if not inhibit the 5G rollout in the State
+i)	
+Lack of concentrated demand.  As against other States having a higher density urban 
+conglomerate which provides economy of scale and easiness of deployment, the geo­
+graphical spread of population may prove to be too costly for 5 G service provides in 
+their attempt to sweat their investment
+ii)	 Limited amount of digitalization Even though Kerala was an early over in e-gover­
+nance, the digitalization of services is very poor and “smart” operations needs to be 
+augmented substantially to justify use of 5G
+iii)	 Lack of Smart cities, commercial applications and smart factories.  The absence of large 
+factories, smart cities, utilities who uses smart devices etc. can be a show spoiler as the 
+demand for smart services is limited in the State currently. There is a need for measures 
+to support the adoption of such devices and practices
+iv)	 Lack of Visionary polices and turf wars between government agencies.  This can be 
+the major limiting factor.  From the discussion so far, it is clear that 5G roll out need 
+coordinated effort of multiple departments and has to be treated as a major shift for in­
+dustrial growth in the State.  However, prior experience shows that the myopic policies 
+of different stakeholders may prove detrimental in implementing such a comprehen­
+sive vision. There is a need to sensitise the larger benefits of 5G for the State (especially 
+in creating Knowledge industry ecosystem) and proper policies have to be rolled out 
+cutting across departmental silos 
+v)	
+Public resistance and mass campaign for social change.  It is known that the roll out of 
+5G require densification of mobile antennas. This maybe lead to public ire as
+	
+ an ill-informed media may misguide public against 5G. Moreover, 5G rollout being 
+done primarily by private sector (and that too by leveraging on public infrastructure 
+like KFON), the common anti-corporate rhetoric may gain momentum leading to roll 
+out challenges.  There is a need to address this proactively
+If these issues can be addressed comprehensively through appropriate policy interventions 
+and innovative schemes, Kerala can create a unique leadership position in new generation 
+industries by leveraging on 5G
+
+75
+Information Technology Report
+Closure
+The   roadmap outlined in this document is prepared by keeping the vision of Kerala to 
+emerge as an inclusive knowledge society. As digital economy is radically re-defining the 
+business landscape, there is a need to relook at the entire strategy of IT and electronics 
+industry development keeping into account of internal and external forces of change.  It 
+is proposed that Digital Technology may be moved as a central element of   strategy and 
+be harnessed to realize the vision faster. By focusing on development of decentralized work 
+spaces, muti-tier talent development, support to startups and SME units  by creating com­
+mon testing facilities, Kerala could develop the IT and Electronics industry in the State to 
+realise both economic and social gains in next 5 years.
+
+State Planning Board
+76
+PROCEEDINGS OF THE MEMBER SECRETARY STATE PLANNING BOARD 
+(Present: Sri Teeka Ram Meena IAS) 
+ 
+Sub:- Formulation of Fourteenth Five Year Plan (2022-27) – Constitution of Working  
+                     Groups on Information Technology reg. 
+Read: -1. Note No.297/2021/PCD/SPB dated: 27/08/2021 
+ 
+2. Guidelines on Working Groups 
+ORDER No. 951/2021/SPB/I & I/DD   Dated   14 /9/2021 
+ 
+ 
+As part of the formulation of Fourteenth Five Year Plan, it has been decided to 
+constitute various Working Groups under the priority sectors.  Accordingly, the Working 
+Groups on Information Technology is here by constituted with the following members. The 
+structure of the working group is in the form of a Core Group which encompasses three sub 
+groups focusing different thematic areas. The Working Group shall also take into consideration 
+the guidelines read 2nd above in fulfilling the tasks outlined in the ToR for the Group. 
+Chairperson (Core Group) 
+  Sri.Biswanath Sinha,IAS, Principal Secretary, Department of Information Technology, 
+Government of Kerala email- secy.itd@kerala.gov.in  9895122282 
+Members 
+1. Prof. S. M. Sameer, Professor, NIT Kozhikode email- sameer@nitc.ac.in 0495-2286720 
+2.  Dr.Saji Gopinath, Vice Chancellor,Kerala University of  Digital Sciences, Innovation &       
+   Technology email- vc@duk.ac.in  9400050850 
+3. Sri. Snehil Kumar Singh IAS  Director, Kerala State IT Mission email-  
+     director.ksitm@kerala.gov.in 0471-2773100 
+4. Sri. John M Thomas, CEO, IT Parks email- ceotechnopark.org 0471-2700222 
+    Chief Executive Officer, Kerala Startup Mission, Technopark campus,   
+    Thiruvananthapuram. Email- ceotechnopark.org 0471-2700270 
+Convener 
+ Sri Er Joy N R, Chief, Industry and Infrastructure Division, State Planning Board,    
+chiefindustry@gmail.com, joynr_spb.ker@nic.in, chiefindustry.spb@kerala.gov.in, Mob: 
+9447000868 
+ 
+Co-Convener 
+Sri.Tomy Joseph, Deputy Director, Industry and Infrastructure Division State Planning 
+Board. Mob:9846365394 
+Terms of Reference 
+  To examine the reports of sub groups and bring out a consolidated report 
+Sub Group  1 
+i. Information Technology: Industry Investment and Capacity Building 
+Co-Chairperson 
+1 Sri. John M Thomas, CEO, IT Parks email- ceotechnopark.org 0471-2700222 
+Members 
+Appendix 1
+
+77
+Information Technology Report
+1. Dr. Rajasree MS Vice-Chancellor, Kerala Technological University email- 
+vc@ktu.edu.in      0471-2598222 
+2.  Sri.Alexander Varghese, Centre Head,UST Global email- 
+      alexander.varghese@ustglobal.com 
+3. Sri. Dinesh P Thampi, Vice President and Delivery Centre Head for TCS Kerala.  
+     Email- dineshthampi@tcs.com  9895399771 
+4.  Sri. Sunil Jose, Centre Head, Infosys, Keralaemail- sunij@infosys.com  9895442319 
+5. Sri. K  S Viswanathan, Vice President (industry initiatives), NASSCOM 
+6. Sri. Santhosh Kurup, CEO, ICT Academy Kerala email- ceoictkerala.org 8592994200 
+7. Prof. Alex James, IIITM-K, email- a.james@iiitmk.ac.in  9946710691 
+8. Sri. Sreekanth Arimanithaya Global Talent Head, Ernst & Young  
+     sreekanth.arimanithaya@gds.ey.com 
+9. Sri. Deepu S Nath, MD, TECHFAYA Innovations Pvt Ltd. Email- deepu@fiausa.com   
+     9995710101 
+10. Sri. Binu Jacob,   MD and CEO, Experion Technologies India pvt. Ltd. Email- 
+binujacob@experionglobal.com   9846755567 
+Convener 
+ Sri Er Joy N R, Chief, Industry and Infrastructure Division, State Planning Board,    
+chiefindustry@gmail.com, joynr_spb.ker@nic.in, chiefindustry.spb@kerala.gov.in, Mob: 
+9447000868 
+Co-Convener 
+Sri.Tomy Joseph, Deputy Director, Industry and Infrastructure Division State Planning 
+Board. Mob:9846365394 
+Terms of Reference 
+1. Review the current status, achievements and challenges of attracting global and national 
+IT players to Kerala 
+2. Assess the adequacies of current policies, park infrastructure, technological skills 
+availability 
+3. Recommend policy changes quality of infrastructure and different models for 
+infrastructure creation keeping in view other national centres of excellence. 
+4. Propose a promotional strategy based on benchmarking Kerala with other leading 
+States in the IT sector 
+5. Assess the current programmes and initiatives for creating cutting edge technological 
+capabilities within Kerala.  Recommend areas of improvement for the 14th Five Year 
+Plan 
+6. Evaluate the current University-Industry collaboration models and assess their 
+effectiveness in capacity building based on measurable outcomes. 
+7. Provide recommendations for enhancing the impact of Digital Transformation Mission 
+of Kerala 
+8. Recommend the role of Digital University Kerala (DUK) in capacity building of 
+departments in e-governance 
+ 
+Sub Group 2 
+ii. Information Technology Start-ups 
+Co-Chairpersons 
+1 Dr. Saji Gopinath, Vice-chanceloor, Kerala University of Digital Sciences, Innovation 
+and Technology email- vc@duk.ac.in  9400050850 
+ 
+2 Sri. John M Thomas ,Chief Executive Officer, Kerala Start-up Mission, Techno park    
+campus, Thiruvananthapuram. Email- ceotechnopark.org 0471-2700270 
+Members 
+1. Prof. Rakesh Basanth, IIM, Ahemmadabad Incubation Centre email- rakesh@iima.ac.in 
+
+State Planning Board
+78
+2. Sri.Prahlad Vadekkapat, National University of Singapore email-  
+    dr.vadakkepat@gmail.com  +919074620684 
+3. Dr.V Madhsudanan Pillai  Dean, Research & Consultancy, NIT Calicut   
+   email :deanrc@nitc.ac.i n  049 5-2286172,2286144 
+4. Mr Joy Sebastian, CEO, Techgentsia Software Technologies (Vconsole video conference      
+app) email- reachjoy@gmail.com  94478896851 
+5. Ms. Teena James, CEO Revyire Global, Representative from Women IT  email-  
+      tina@revyrieglobal.com  9847267857 
+6. Sri. Shilen Suganan Ex Kerala Head Arbitron, CEO, SS Consultancy Services and    
+     Malabar  Angels Founding Member. Email shilen@ssconsult.in  9995868880 
+7. Sri.  K.Joseph, Venture Capital 
+8 . Sri.Suresh Bhagavatula, IIM, Bangalore email-sureshbh@iimb.ac.in 
+9. Sri Sasi Kant Vallepalli. CEO, Quality Matrix kant@quality-matrix.com  
+     +91(40)-3827-1188 
+10 Sri. Arun Sathyan ,CEO Whitecloud  Infotech  
+Convener 
+ Sri Er Joy N R, Chief, Industry and Infrastructure Division, State Planning Board,    
+chiefindustry@gmail.com, joynr_spb.ker@nic.in, chiefindustry.spb@kerala.gov.in, Mob: 
+9447000868 
+ 
+Co-Convener 
+Sri. Tomy Joseph, Deputy Director, Industry and Infrastructure Division State Planning 
+Board.mob:9846365394 
+ 
+Terms of Reference   
+1. Review the growth and achievement of Start-ups in Kerala in the IT sector and assess the 
+adequacies of national and state programs to continuously support the start-ups 
+2. Evaluate the functioning of the Incubation Centres and propose improvement to facilitate 
+creating a robust start-up support system with appropriate linkages to research and 
+finance 
+3. Propose policy changes and institutional arrangements for building a technology-driven 
+start-up ecosystem and encouragement of women entrepreneurs 
+4. Propose policy changes to encourage and deepen the technology-driven start-up 
+ecosystem in the industrial and information technology sectors in Kerala 
+Sub Group 3 
+iii. Communication and Internet Infrastructure 
+Co-Chairpersons 
+1    Prof. S. M. Sameer, Professor, NIT Kozhikode email-sameer@nitc.ac.in 0495-2286720 
+2.  Sri. Snehil Kumar Singh IAS  Director, IT Mission, Kerala .  Email-  
+   director.ksitm@kevala.gov.in  0471-2525444 
+.  
+Members 
+1. Sri.John M  Thomas, Chief Executive Officer, Techno Park, Thiruvananthapuram 
+  .   Email- ceotechnopark.org  0471-2700222 
+2 Sri. Seeram Sambasiva Rao IAS, Managing Director, Kerala State Information  
+Technology Infrastructure Limited (KSITIL) email- md@ksitil.org  0471-4068006 
+ 
+3 Sri. Magesh Ethirajan, Director, CDAC Thiruvananthapuram email-magesh@cdac.in   
+  0471-2723333  
+4 Sri. Suresh Kumar C  Chief Engineer (IT, CR & CAPS) KSEB  
+email:ceit@kseb.in  9496011747 
+    5. Sri.C K Prasad  RGM, Railtel   email : arunnaduvattom @gmail.com   mob:  
+    9701387171 
+ 
+
+79
+Information Technology Report
+Convener 
+ 
+Sri Er Joy N R, Chief, Industry and Infrastructure Division, State Planning Board,    
+chiefindustry@gmail.com, joynr_spb.ker@nic.in, chiefindustry.spb@kerala.gov.in, Mob: 
+9447000868 
+ 
+Co-Convener 
+Sri. Tomy Joseph, Deputy Director, Industry and Infrastructure Division State Planning 
+Board. Mob:9846365394 
+ 
+Terms of Reference  
+ 
+1. Benchmark Kerala with other leading States on availability, access and quality of 
+communication and internet infrastructure.  Evaluate the progress of the State-driven as 
+well as market-led (private sector) infrastructure creation.  
+2. Estimate the investments required to create a national best communication and internet 
+infrastructure keeping in view the ambitions of Digital Transformation Mission timelines 
+3. Asses the access levels of BPL and other vulnerable population for this critical 
+infrastructure and propose program and policies to provide free access 
+ 
+ 
+Terms of Reference (General) 
+1. The non-official members (and invitees) of the Working Group will be entitled to 
+travelling allowances as per existing government norms.  The Class I Officers of GoI 
+will be entitled to travelling allowance as per rules if reimbursement is not allowed 
+from Departments. 
+2. The expenditure towards TA, DA and Honorarium will be met from the following 
+Head of account of the State Planning Board ‘3451-00-101-93’- Preparation of Plans 
+and Conduct of Surveys and Studies. 
+ 
+Sd/- 
+                     Member Secretary 
+ 
+To 
+ 
+The Members concerned 
+Copy to 
+ 
+PS to VC 
+ 
+PA to MS 
+ 
+CA to Member (V Namasivayam) 
+ 
+Sr. A.O, SPB 
+ 
+The Accountant General, Kerala 
+ 
+Finance Officer, SPB 
+ 
+Sub Treasury, Vellayambalam 
+ 
+Accounts Section 
+ 
+File/Stock File 
+ 
+                                                                                              Forwarded/By Order 
+ 
+ 
+                                                                                         Sd/- 
+ 
+ 
+Chief Industry & Infrastructure Division 
+ 
+                                                                                                                Convener 
+
+State Planning Board
+80
+Annexure I 
+Service Area Wise Access(Wireless+Wireline) Subsriber base 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+81
+Information Technology Report
+ 
+Annexure II 
+Service Area wise Rural- Urban subscribers at Quarter Ending March 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+State Planning Board
+82
+Annexure III 
+State/UT wise Total Tele density 
+ 
+ 
+
+83
+Information Technology Report
+Annexure IV 
+Service Area wise Wireless subscriber base 
+ 
+ 
+ 

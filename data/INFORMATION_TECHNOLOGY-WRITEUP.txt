@@ -1,0 +1,422 @@
+CHAPTER 13 
+ 
+INFORMATION TECHNOLOGY 
+ 
+13.1 India as Knowledge Power : In less than two decades, advances in information 
+technologies have revolutionized government, scientific, educational, and commercial 
+infrastructures. Powerful personal computers, high-bandwidth and wireless networking 
+technologies, and the widespread use of the Internet have transformed stand-alone 
+systems and predominantly closed networks into a virtually seamless fabric of 
+interconnectivity. During this period, Indian IT industry has also built up an enormous 
+confidence for itself in the global markets. The IT and IT enabled services (ITeS) sector 
+are giving India the image of a young and resilient global knowledge power. The IT-ITeS 
+industry has four major sub-components: IT services, business process outsourcing 
+(BPO), engineering services and research and development (R&D), and software 
+products. 
+ 
+13.2 India is considered as a pioneer in software development and a favorite 
+destination for IT-enabled services. The Indian IT-BPO sector including the domestic 
+and exports segments continue to grow from strength to strength, witnessing high levels 
+of activity both onshore as well as offshore. The companies continue to move up the 
+value-chain to offer higher end research and analytics services to their clients. India's 
+leadership position in the global IT and BPO industries are based primarily on the 
+following advantages. India accounts for around 28 per cent of IT and BPO talent 
+among 28 low-cost countries. It has a rapidly growing urban infrastructure fostering 
+several IT centres in the country. Offshore service centres are spawning in the country 
+due to operational excellence with low delivery cost, quality leadership and a conducive 
+business environment. Favorable policy interventions, enabling infrastructure and 
+augmenting a wide skill base from the government has further enhanced India’s brand 
+image.  
+ 
+13.3 However, there is a real need to measure the digital divide in the country, 
+including the urban-rural and gender divides, and the use of community Internet access 
+centers by low-income users. 
+ 
+ 
+India’s progress in ICT related indicators : 
+ 
+13.4 As per Millennium Development Goals (MDGs), India Country Report 2011 
+three indicators related to ICT under Goal 8 (Develop a Global Partnership for 
+Development), target 18 (In cooperation with the private sector, make available the 
+benefits of new technologies, especially information and communication) are being 
+monitored in case of India. They are as under : 
+   
+  Indicator No.       
+ 
+Indicator Description 
+47 
+Telephone lines and cellular subscribers per 100 population 
+48A 
+Internet subscribers per 100 population 
+
+48B 
+Personal computers  per 100 population 
+ 
+Indicator: Internet subscribers per 100 population 
+13.5 Over a period of 12 years, internet subscriber base has increased from 0.21 
+million in 1999 to 20.99 million in 2011.  The 20.99 million Internet subscribers at the 
+end of Sep-2011 as compared to 19.67 million at the end of March-2011 registered a 
+growth of 6.71% within a period of six months.   
+ 
+ 
+*As on 30th September 2011; for other years, the figures are as on 31st March. 
+Source: Telecom Regulatory Authority of India 
+ 
+13.6 Indicator: Personal computers  per 100 population : Use of Personal 
+Computers has also increased from 5.4 million PCs in 2001 to 19.6 million in 2006.  
+Sale of Personal Computers recorded a growth of 12% in 2010-11 touching 9.7 million.  
+The Notebook sales were estimated to be 3.5 million in 2010-11 against 2.5 million in 
+2009-10, registering a growth of 40%.  This shows that Notebooks have caught the 
+fancy of the consumers. Desktop sales were estimated as 6.2 million in 2010-11 against 
+5.5 million in 2009-10 with a growth of 12.7%. 
+ 
+13.7 As per the World Millennium Development Goals Report 2012, the rapidly 
+increasing number of internet users in developing countries  has increased the overall 
+share of developing countries to 63 % in 2011 vis a vis 44% in 2004.  
+ 
+
+ 
+ 
+ 
+13.8 The penetration levels in the developing countries have also increased to 26% by 
+end of 2011.The penetration level in India, as revealed by Census 2011 ,  however, is 
+lower . 
+ 
+13.9 As per Census 2011, about 20 per cent households, out of total of 246,692,667 
+households, in urban areas and 5 per cent households in rural areas had 
+computers/laptops.  
+(Households in percent ) 
+Assets  
+Total  
+Rural  
+Urban  
+Computer:  
+9.5  
+5.2  
+18.7  
+Computer/Laptop - With Internet 
+3.1  
+0.7  
+8.3  
+Computer/Laptop - Without Internet 
+6.4  
+4.5  
+10.4  
+ 
+13.10 State wise distribution of the households having computers with internet facility , 
+as per Census 2011 , shows that Kerala, Maharashtra, Haryana & Punjab have highest 
+penetration with more than 5 percent of households having the facility. On the other 
+hand, amongst the major  states, Madhya Pradesh, Chhatisgarh, Jharkhand, Odisha & 
+Bihar have lowest penetration with less than 1.5 per cent of households having 
+computers with internet facility. 
+
+ 
+13.11  
+Digital Divide : Expansion in internet use and tele –connectivity depends 
+on increase in PC penetration and wireless telephony, particularly in rural areas. The 
+high rate of growth in the IT and Communication sector is still urban centric and highly 
+skewed over States. The problems in the backward States continue to remain in the 
+back- burner, while real benefit of connectivity is required the most in these areas. 
+Similar digital divide is visible between developed & developing countries as well.  
+
+ 
+As per World MDG Report 2012, in the 
+developing regions, mobile broadband 
+penetration stood at 8.5 per cent at the 
+close of 2011, compared with 4.8 per cent 
+fixed broadband penetration. 
+ 
+Mobile technology and services have 
+helped to overcome major infrastructure 
+barriers and brought more people online. 
+But there is an important broadband 
+divide, between regions and between 
+developed and developing countries, in 
+terms of capacity, quality and speed. While 
+in developed economies an increasing 
+number of fixed broadband subscriptions 
+provide speeds  of above 10 Mbit/s, many 
+subscriptions in developing countries are 
+slower than 2 Mbit/s. Slow delivery limits 
+the type and quality of applications and 
+services that can be accessed over the 
+Internet. 
+ 
+ Number of Broadband subscribers in India 
+increased from 11.89 million at the end of 
+March-2011 to 12.83 million at the end of 
+Sep-2011, registering a half-yearly growth 
+of 7.90% and Y-O-Y growth of 24.44%. 
+Apart from this, 373.84 million wireless 
+subscribers have subscribed to data 
+services, as reported by the wireless 
+service providers. 
+ 
+ 
+Production, Earnings & Exports - IT Sector :  
+ 
+13.12  
+As per the estimates of NASSCOM, India’s IT and BPO sector (excluding 
+hardware) revenues were US$ 87.6 billion in 2011-12, generating direct employment for 
+nearly 2.8 million persons and indirect employment of around 8.9 million. As a 
+proportion of national GDP, IT and ITeS sector revenues have grown from 1.2 per cent 
+in 1997-8 to an estimated 7.5 per cent in 2011-12. 
+ 
+13.13  
+Software exports in 2011-12 are estimated at US$69 billion compared to 
+US$59 billion in 201011. While exports continue to dominate the IT-ITeS industry and 
+constitute about 78.4 per cent of total Industry revenue, the CAGR of the domestic 
+sector has also been high at 12.8 per cent compared to the 14.2 per cent for exports 
+during the Eleventh Five Year Plan period. The growth rate of the domestic Sector in 
+
+2010-11 was 20.6 per cent as compared to 18.8 per cent for the export sector; in 2011-
+12 it was 9.7 per cent for domestic sector and 16.4 per cent for export sector. In 2012-
+13, as per NASSCOM estimates, export revenues are expected to grow by 11-14 per 
+cent and domestic revenues by 13-16 per cent. These estimates are a pointer to the 
+possibilities of making further forays into the untapped domestic sector for IT and ITeS . 
+ 
+ 
+ 
+13.14  
+Consistent demand from the US, which increased its share in total exports 
+of India's IT and ITeS services from 61.5 per cent to 62 per cent, characterized 2011-12. 
+Emerging markets of Asia Pacific and the rest of the world also  contributed to overall 
+growth. While the industry’s vertical market mix is well balanced across several mature 
+and emerging sectors, there was broad-based demand not only across traditional 
+segments such as banking, financial services, and insurance (BFSI), but also new 
+emerging verticals of retail, health care, media, and utilities. Sub-sector-wise in 2011-12, 
+as per the provisional estimates of NASSCOM, in the export sector, IT services were the 
+major component with a 58 per cent share and CAGR of 15.7 per cent for the Eleventh 
+Plan period; followed by BPO with a 23.1 per cent share and 12.5 per cent CAGR; and 
+software products / engineering with a 18.9 per cent share and 11.8 per cent CAGR. 
+Indian IT service offerings have evolved from application development and maintenance 
+to emerge as full service players providing testing and infrastructure services, 
+consulting, and system integration. The year also witnessed the next phase of BPO-
+sector evolution, characterized by greater breadth and depth of services, process re-
+engineering across the value chain, increased delivery of analytics and knowledge 
+based services through platforms, strong domestic market focus, and Small and 
+Medium-sized Business (SMB) centric delivery models. In the engineering design and 
+products development segments, there was increasing use of electronics, adoption of 
+fuel efficiency norms, convergence of local markets, and use of localized products. 
+Increasing confidence between customers and service providers successfully executing 
+a variety of activities across low-medium-high complexity projects has led to increasingly 
+larger sizes of projects being sourced from India. In the domestic sector, the major 
+component is IT services with 64.2 per cent share, followed by software products/ 
+engineering with 19.6 per cent share and BPO with 16.2 per cent share. The CAGRs of 
+these sectors were 11.5 per cent, 13.6 per cent, and 18.1 per cent respectively. Strong 
+economic growth, rapid advancement in technology infrastructure, increasingly 
+competitive Indian organizations, enhanced focus by the government and emergence of 
+business models that help provide IT to new customer segments are the key drivers for 
+increased technology adoption in India. The IT and ITeS sector is also a generator of 
+
+skilled employment with direct employment expected to reach 2.8 million in 201112 
+compared to 2.5 million in 2010-11. 
+ 
+13.15  
+As per  Annual Report 2011-12 of Department of Electronics & 
+Information Technology , Electronics & IT Production (consumer electronics, industrial 
+& strategic electronics , electronics components , computer hardware, communication & 
+broadcast equipments ) recorded 361% increase in production since 2000-01 whereas 
+software production (both for export & domestic use) an increase of 1024 per cent , 
+taking the overall increase to about 724 per cent (Rs 68,850 to 5,67,510 Crores). The 
+increase in production of Software for domestic use was about 876 % compared to 1073 
+per cent increase observed in case of software for export. During the period, the share 
+of software for domestic consumption has declined (from 25 to 22 per cent ) in the total 
+software production because production  of export related software has increased more 
+rapidly.  
+ 
+ 
+ 
+Production in 
+Rs Crores 
+ 2000-01 
+ 2011-12 
+Percent 
+increase 
+Electronics & 
+IT (Hardware) 
+31,100
+143,300
+361% 
+Software  
+37,750
+424,210
+1024% 
+Total 
+68,850
+567,510
+724% 
+                  
+13.16  
+Similarly, Exports of electronics & IT (hardware) recorded an increase 827 
+% (Rs 4788- 44400 Crores) during 2000-01 to 2011-12 whereas the growth in total 
+export including software was more impressive at 1037 %(Rs 33,138- 3,76,845 Crores) 
+because of much better performance in case of software export. 
+ 
+
+ 
+ 
+13.17 Challenges Faced by IT & ITeS Sector : Some of the challenges faced by the IT 
+and ITeS sector include increasing competition from other countries with incentivized 
+low costs, rising costs in India with wage-push inflation, increasing costs of relevant 
+talent and skilled personnel, infrastructure constraints with over 90 per cent of total 
+revenue generated from seven Tier-1 locations, risks like currency fluctuations and 
+security, both physical and data related, and rising protectionist sentiments in key 
+markets.  
+ 
+Government Initiatives:  
+National Knowledge Network  
+13.18  
+The National Knowledge Network is being implemented by 
+Department of Information Technology to bring together all the stakeholders in 
+Science, Technology, Higher Education, Research & Development and 
+Governance. The application areas envisaged under the National Knowledge 
+Network cover Agriculture, Education, Health, e-governance, Grid Computing (High 
+Performance Computing).  The output of the National Knowledge Network project 
+will be a high capacity countrywide Infrastructure at education & research Institute 
+level, to support education and research applications, and other application as 
+envisaged by these institutions which require very high bandwidth. A high speed 
+data communication network would be established, which would interconnect 
+Institutions of higher learning.  
+ 
+Capacity Building Scheme 
+13.19  
+Government of India has approved the National e-Governance Plan 
+(NeGP) in pursuance of its policy of introducing e-Governance on a massive scale. 
+The NeGP vision is to “Make all Government Services accessible to the common 
+man in his locality, through common service delivery outlets and ensure efficiency, 
+
+transparency and reliability of such services at affordable costs to realize the basic 
+needs of the common man”.  Capacity Building Scheme for an outlay of Rs 313 
+Crores for all the States/UTs for taking National e-Governance Plan (NeGP) 
+forward across the country has been approved by the Cabinet Committee on 
+Economic Affairs (CCEA) on 10th January 2008. The scheme is mainly for 
+providing technical & professional support to State level policy & decision-making 
+bodies and to develop specialized skills for e-governance.  
+State Wide Area Network (SWAN) 
+13.20 Wide Area Network is an advanced telecommunication infrastructure, which 
+is used now-a-days extensively, for exchange of data and other types of 
+information between two or more locations, separated by significant geographical 
+distances. The medium of connectivity can be copper, optical fibre cable or 
+wireless, as may be found feasible. Such wide area networks, in a way, create a 
+highway for electronic transfer of information in the form of voice, video and data. 
+Department of IT in Government of India is implementing an approved Scheme 
+known as State Wide Area Network (SWAN) Scheme, envisaged to create such a 
+connectivity in each State / UT, to bring speed, efficiency, reliability and 
+accountability in overall system of Government-to-Government (G2G) functioning. 
+When fully implemented, SWAN would work as a converged backbone network for 
+voice, video and data communications across States / UTs. SWAN is designed to 
+cater to the governance information and communication requirements of all the 
+State / UT Departments. When fully implemented, SWANs across the country are 
+expected to cover at least 50000 departmental offices through 1 million (10 lacs) 
+route kilometres of communication links.   Implementation of the SWAN Scheme is 
+in full swing in 33 States/ UTs. 
+IT for Masses 
+13.21  
+ “IT for Masses” is a Plan Scheme of Department of Information 
+Technology (DIT). It was introduced in the Tenth Five Year Plan and continuing in the 
+Eleventh Five Year Plan with the objective to provide financial assistance to various 
+project proposals from States/UT’s and Autonomous Societies for implementing ICT 
+projects for development of Gender, SC & ST.  The ultimate goal of “IT For Masses” 
+scheme has been “Inclusive Growth” and this can only be achieved through skill 
+development, capacity building exercises, creating IT Infrastructure for empowering 
+Women and SC/ST communities 
+ 
+13.22  
+The Draft National Policy on Information Technology 2011 seeks to 
+bring ICT within the reach of the whole of India while at the same time harnessing the 
+immense human resource potential in the country to enable it to emerge as the global 
+
+hub and destination for IT-ITeS Services by 2020. The NeGP comprises mission mode 
+projects (MMPs) and core e-infrastructure. Significant progress has been made in laying 
+down core e-infrastructure and in most of the MMPs. More than 97,000 common service 
+centres (CSCs) have been established across the country as web enabled service 
+access points for making public services available to citizens on anytime, anywhere 
+basis. Initiatives under the NeGP also include online services related to income tax, 
+Ministry of Corporate Affairs (MCA) 21, passports, and central excise. The government 
+has also initiated new e-Governance projects for education, health, public distribution 
+system and postal services. This will ensure the common man access to quality 
+education, cost efficient and quality health care and postal services at affordable costs. 
+The number of public services available to citizens in electronic mode will be expanded 
+through the Electronic  delivery of Services (EDS) Bill, approved by the union cabinet on 
+20th December 2011. In order to leverage the rapid growth in penetration of mobile 
+technology and connectivity and also to ensure accessibility to all services to the 
+common man, public services under all eGovernance projects will be delivered through 
+mobile devices like mobile phones and Aakash tablets. Further, basic banking services, 
+i.e. cash withdrawal, cash deposit, balance inquiry, and transfer of money from one 
+account to another, will be extended to every panchayat through the CSCs and money 
+transfer facility to every village by December 2013, leveraging ICT and mobile 
+technology. This will help make financial inclusion a reality with the help of IT.  
+ 
+13.23  
+Sources of information for IT Sector : Certain data, in particular, data on 
+the telecommunication sector, the IT industry and business process outsourcing (BPO) 
+and data on the information society at large, are produced on a regular basis. A 
+significant amount of data exists on the IT service industry, collected by National 
+Association of Software and Services Companies (NASSCOM), reflecting their 
+members’ data. In India, the indicators related to workforce, value added, imports & 
+exports respectively are not strictly measured as per the International Standard 
+Industrial Classification (ISIC). However, the information related to workforce & exports 
+for this sector is maintained in National Association of Software and Services 
+Companies (NASSCOM) for the IT-BPO sector. Similarly, data on IT manufacturing is 
+captured by another private body, the Communication and Manufacturing Association of 
+India (CMAI). 
+ 
+• NASSCOM is a premier trade body as well as the Chamber of Commerce of IT-
+BPO sector in India. It is a not-for-profit organization and has emerged as an 
+authentic voice of this industry in India. It publishes an annual edition of its 
+strategic review to disseminate the latest status of the industry based on the 
+survey of large companies of this sector. 
+ 
+• The data related to production, exports and imports of this sector is also 
+maintained by the Ministry of Communication and Technology.  
+ 
+• Telecom Regulatory Authority of India (TRAI) maintains information on 
+teledensity , number of internet subscribers etc.  
+ 
+
+• National Sample Survey Office (NSSO) of the Ministry of Statistics and 
+Programme Implementation, which conducts multi-subject integrated sample 
+surveys all over the country, will conduct survey on the basis of a 10 year time 
+frame on the number of household using computers (HH5). NSSO has been 
+conducting , Annual Survey of Industries (ASI), regularly whereby  information 
+related to the use of ICT is also collected. 
+ 
+• Recently Govt. of India, Ministry of Statistics and Programme Implementation 
+(MOSPI) has signed an MOU to participate in the project on “Statistical 
+Compilation of IT Sector and Policy Analysis” undertaken by Orbicom, the 
+network of UNESCO Chairs in Communication. In this project an attempt has 
+been made to compile data on the contribution of IT sector to the Gross Domestic 
+Product (GDP) and employment to the Indian economy following internationally 
+accepted and harmonized definitions and concepts emerging from the OECD and 
+United Nations. The value added has been compiled from the existing data 
+holdings of the MOSPI. 
+ 
+• Office of Registrar General of India, MHA also collects some information on 
+availability of computers/laptops with/without internet connection, telephone 
+connection etc. as a part of household amenities in households all over India 
+during its decennial Census exercise. 
+ 
+ 
+ 
+References:  
+• Economic Survey 2012. 
+• Millennium Development Goals, India Country Report 2011 
+• World Millennium Development Goals Report , 2012  
+• Annual Report 2011-12 of Department of Electronics & Information Technology 
+• Census of India 2011 Website  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

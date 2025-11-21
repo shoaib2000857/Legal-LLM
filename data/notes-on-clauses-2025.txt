@@ -1,0 +1,2483 @@
+130 
+ 
+ 
+ 
+ 
+ 
+Notes on Clauses 
+Clause 2 read with the First Schedule to the Bill, seeks to specify the rates at which 
+income-tax is to be levied on income chargeable to tax for the assessment year 2025-2026. 
+Further, it lays down the rates at which tax is to be deducted at source during the financial 
+year under the Income-tax Act; and the rates at which “advance tax” is to be paid, tax is to 
+be deducted at source from, or paid on, income chargeable under the head “Salaries” or 
+deducted under section 194P of the Income-tax Act and tax is to be calculated and charged 
+in special cases for the financial year 2025-2026. 
+Clause 3 of the Bill seeks to amend section 2 of the Income-tax Act relating to definitions. 
+ 
+Clause (14) of the said section provides in sub-clause (b) that “capital asset”, means any 
+securities held by a Foreign Institutional Investor which has invested in such securities in 
+accordance with the regulations made under the Securities and Exchange Board of India Act, 
+1992. Further, sub-clause (c) of the said clause, provides that capital asset means any unit 
+linked insurance policy to which exemption under clause (10D) of section 10 does not apply 
+on account of the applicability of the fourth and fifth provisos thereof. 
+ 
+It is proposed to amend sub-clause (b) of the said clause so as to insert the expression “or 
+held by an investment fund specified in clause (a) of Explanation 1 to section 115UB” after 
+the words “Foreign Institutional Investor”. 
+ 
+It is further proposed to amend sub-clause (c) of clause (14) of the said section so as to 
+make it applicable for unit linked insurance policy to which exemption under clause (10D) 
+of section 10 does not apply. 
+ 
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+ 
+Clause (22) of the said section provides the definition of dividend. Sub-clause (e) of the 
+said clause, inter alia, provides that any payment by a company, not being a company in 
+which the public are substantially interested, of any sum, by way of advance or loan to a 
+shareholder, being a person who is the beneficial owner of shares (not being shares entitled 
+to a fixed rate of dividend whether with or without a right to participate in profits) holding 
+not less than ten per cent. of the voting power, or to any concern in which such shareholder 
+is a member or a partner and in which he has a substantial interest (hereafter in this clause 
+referred to as the said concern) or any payment by any such company on behalf, or for the 
+individual benefit, of any such shareholder, to the extent to which the company in either case 
+possesses accumulated profits. 
+ 
+It is proposed to insert a new sub-clause (iia) in the said clause so as to provide that 
+dividend does not include–– 
+ 
+(iia) any advance or loan between two group entities, where,––  
+ 
+(A) one of the group entity is a “Finance company” or a “Finance unit”; and 
+
+131 
+ 
+ 
+ 
+(B) the parent entity or principal entity of such group is listed on stock exchange 
+in a country or territory outside India other than the country or territory outside 
+India as may be specified by the Board in this behalf;  
+ 
+It is further proposed to define the expressions “Finance company” or a “Finance unit”, 
+and “group entity”, “parent entity” and “principal entity” in the Explanation to the said 
+clause.  
+ 
+These amendments will take effect from 1st April, 2025. 
+ 
+It is also proposed to amend the clause (47A) of the said section to provide that the 
+definition of virtual digital asset includes any crypto-asset being a digital representation of 
+value that relies on a cryptographically secured distributed ledger or a similar technology to 
+validate and secure transactions, whether or not already included in the definition of virtual 
+digital asset. 
+ 
+This amendment will take effect from 1st April, 2026. 
+Clause 4 of the Bill seeks to amend section 9 of the Income-tax Act relating to income 
+deemed to accrue or arise in India. 
+ 
+Clause (a) of Explanation 2A to sub-clause (i) of sub-section (1) of the said section 
+provides that “significant economic presence” in India shall, inter alia, mean transaction in 
+respect of any goods, services or property carried out by a non-resident with any person in 
+India. 
+ 
+It is proposed to insert a proviso after the first proviso to the said Explanation so as to 
+provide that the transactions or activities which are confined to the purchase of goods in 
+India for the purpose of export shall not constitute significant economic presence in India 
+and make consequential amendments thereto. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 5 of the Bill seeks to amend section 9A of the Income-tax Act relating to certain 
+activities not to constitute business connection in India. 
+ 
+Clause (c) of sub-section (3) of the said section, inter alia, provides that the eligible 
+investment fund referred to in sub-section (1), means a fund established or incorporated or 
+registered outside India, which collects funds from its members for investing it for their 
+benefit and fulfils the condition that the aggregate participation or investment in the fund, 
+directly or indirectly, by persons resident in India does not exceed five per cent. of the corpus 
+of the fund. 
+ 
+It is proposed to amend the said clause so as to provide that the aggregate participation 
+or investment in the fund, directly or indirectly, by persons resident in India does not exceed 
+five per cent of the corpus of the fund, as on the 1st day of April and the 1st day of October 
+of the previous year. 
+
+132 
+ 
+ 
+ 
+It is further proposed to insert a proviso to said clause so as to provide that where the 
+aforesaid aggregate participation or investment in the fund exceeds five per cent on the 1st 
+day of April or the 1st day of October of the previous year, the condition mentioned in this 
+clause shall be deemed to be satisfied, if it is satisfied, within four months of the 1st day of 
+April or the 1st day of October of such previous year, as the case may be. 
+ 
+Sub-section (8A) of the said section provides that the Central Government may, by 
+notification, specify that any one or more of the conditions specified in clauses (a) to (m) of 
+sub-section (3) or clauses (a) to (d) of sub-section (4) shall not apply or shall apply with such 
+modifications, as may be specified in such notification, in case of an eligible investment fund 
+and its eligible fund manager, if such fund manager is located in an International Financial 
+Services Centre, and has commenced its operations on or before 31st March, 2024. 
+ 
+It is proposed to amend sub-section (8A) of the said section so as to extend the date of 
+commencement of operations from 31st day of March, 2024 to 31st day of March, 2030.  
+ 
+It is further proposed to amend the said sub-section to provide that the Central 
+Government may not relax condition in clause (c) of sub-section (3). 
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 6 of the Bill seeks to amend section 10 of the Income-tax Act relating to incomes 
+not included in total income. 
+ 
+It is proposed to amend clause (aa) of Explanation to clause (4D) of the said section so 
+as to extend the date of commencement of operations specified therein from 31st March, 
+2025 to 31st March, 2030. 
+ 
+This amendment will take effect from 1st April, 2025. 
+ 
+Clause (4E) of the said section provides that in computing the total income of a previous 
+year of any person, any income accrued or arisen to, or received by a non-resident as a result 
+of transfer of non-deliverable forward contracts or offshore derivative instruments or over 
+the-counter derivatives, or distribution of income on offshore derivative instruments, entered 
+into with an offshore banking unit of an International Financial Services Centre referred to 
+in sub-section (1A) of section 80LA, and fulfilling the conditions as may be provided by 
+rules, shall not be included. 
+ 
+It is proposed to amend the said clause to insert “or any Foreign Portfolio Investor being 
+a unit of an International Financial Services Centre” so as to bring it within the ambit of the 
+said clause.   
+ 
+It is further proposed to insert an Explanation to the said clause to define the expression 
+“Foreign Portfolio Investor” to mean a person registered as per the provisions of the 
+Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2019 
+made under the Securities and Exchange Board of India Act, 1992. 
+ 
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+
+133 
+ 
+ 
+ 
+It is also proposed to amend clause (4F) of the said section so as to extend the date of 
+commencement of operations specified therein from 31st March, 2025 to 31st March, 2030. 
+ 
+It is also proposed to amend clause (4H) of the said section so as to extend the date of 
+commencement of operations specified therein from 31st March, 2026 to 31st March, 2030. 
+ 
+It is also proposed to amend the said clause to also provide that income by way of capital 
+gains arising from the transfer of equity shares of domestic company, being a Unit of an 
+International Financial Services Centre, as referred to in sub-section (1A) of section 80LA, 
+engaged primarily in the business of leasing of a ship shall not be included in computing the 
+total income of a non-resident or a Unit of an International Financial Services Centre, as 
+referred to in sub-section (1A) of section 80LA, engaged primarily in the business of leasing 
+of a ship. 
+ 
+It is also proposed to amend the said clause to provide the meaning of “ship” as a ship or 
+an ocean vessel, engine of a ship or ocean vessel, or any part thereof. 
+ 
+It is also proposed to amend the eighth proviso to clause (10D) so as to provide that the 
+provisions of the fourth, fifth, sixth and seventh provisos shall not apply to any sum 
+received,– 
+    
+(i) on the death of a person; or 
+   
+(ii) under a life insurance policy issued by International Financial Services Centre 
+insurance intermediary office, including     the sum allocated by way of bonus on such 
+policy. 
+ 
+It is also proposed to insert an Explanation to the eighth proviso to the said clause to 
+provide that “International Financial Services Centre insurance intermediary office” shall 
+have the same meaning as assigned to it in clause (s) of sub-regulation (1) of regulation 3 of 
+the International Financial Services Centres Authority (Insurance Intermediary) Regulations, 
+2021, made under the International Financial Services Centres Authority Act, 2019. 
+ 
+These amendments will take effect from 1st April, 2025. 
+ 
+It is also proposed to insert a new clause (12BA) in the said section so as to provide that 
+any payment from the National Pension System Trust to an assessee, being the parent or 
+guardian of a minor, under the pension scheme referred to in section 80CCD, on partial 
+withdrawal made out of the account of the minor, as per the terms and conditions, specified 
+under the Pension Fund Regulatory and Development Authority Act, 2013 and the 
+regulations made thereunder, to the extent it does not exceed twenty-five per cent. of the 
+amount of contributions made by such guardian. 
+ 
+Clause (23FE) of the said section, inter alia, provides that income of the nature of 
+dividend, interest, any sum referred to in clause (xii) of sub-section (2) of section 56, or long-
+term capital gains arising from an investment made in India, shall not be included in 
+computing the total income of a specified person. Sub-clause (i) of the said clause provides 
+that the investment is to be made on or after 1st April, 2020 but on or before 31st March, 
+2025. 
+
+134 
+ 
+ 
+ 
+It is proposed to amend the opening portion of the said clause so as to provide that 
+income in the nature of long-term capital gains (whether or not such capital gains are deemed 
+as short-term capital gains under section 50AA), shall not be included in computing the total 
+income of a specified person. 
+ 
+It is further proposed to amend sub-clause (i) of the said clause so as to extend the date 
+of investment from 31st March, 2025 to 31st March, 2030. 
+ 
+These amendments will take effect from 1st April, 2025.  
+ 
+It is also proposed to amend clause (34B) so as to also provide that income by way of 
+dividends from a company being a Unit of any International Financial Services Centre 
+primarily engaged in the business of leasing of a ship, shall not be included in computing the 
+total income of a Unit of any International Financial Services Centre, primarily engaged in 
+the business of leasing of a ship. 
+ 
+It is also proposed to amend the Explanation of the said clause so as to define the 
+expression “aircraft”, “International Financial Services Centre” and “ship”. 
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 7 of the Bill seeks to amend section 12AB of the Income-tax Act relating to 
+procedure for fresh registration.  
+ 
+Sub-section (1) of the said section, inter alia, provides for the procedure for registration 
+or cancellation of registration of trust or institution by the Principal Commissioner or 
+Commissioner, on receipt of an application made under clause (ac) of sub-section (1) of 
+section 12A. 
+ 
+It is proposed to insert a proviso to the said sub-section to provide that where an 
+application is made under sub-clause (i) to (v) of the said clause, and the total income of such 
+trust or institution, without giving effect to the provisions of sections 11 and 12, does not 
+exceed rupees five crores during each of the two previous year, preceding to the previous 
+year in which such application is made, the provisions of this sub-section shall have effect 
+as if for the words “five years”, the words “ten years” had been substituted. 
+ 
+Sub-section (4) of the said section, inter alia, provides that where registration or 
+provisional registration of a trust or an institution has been granted and subsequently, the 
+Principal Commissioner or Commissioner has noticed occurrence of one or more specified 
+violations during any previous year, the Principal Commissioner or Commissioner shall, 
+inter alia,— 
+ 
+(i) call for such documents or information from the trust or institution, or make such 
+inquiry as he thinks necessary in order to satisfy himself about the occurrence or 
+otherwise of any specified violation; 
+ 
+(ii) pass an order in writing, cancelling the registration of such trust or institution, 
+after affording a reasonable opportunity of being heard, for such previous year and all 
+subsequent previous years, if he is satisfied that one or more specified violations have 
+taken place;
+
+135 
+ 
+ 
+ 
+ 
+Explanation to sub-section (4) of the said section provides that “specified violation”, 
+inter alia, means the application referred to in clause (ac) of sub-section (1) of section 12A 
+is not complete or it contains false or incorrect information. 
+ 
+It is further proposed to amend the Explanation to the said sub-section so as to omit the 
+words “is not complete or it” so that the incomplete application referred to in clause (ac) of 
+sub-section (1) of section 12A, is not treated as a specified violation. 
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 8 of the Bill seeks to amend section 13 of the Income-tax Act relating to section 
+11 not to apply in certain cases. 
+ 
+Sub-section (3) of section 13 specifies as to the persons referred to in clause (c) of sub-
+section (1) and sub-section (2) of the said section. 
+ 
+It is proposed to amend clause (b) of the said sub-section so as to provide that specified 
+person would be any person whose total contribution to the trust or institution, during the 
+relevant previous year exceeds one lakh rupees, or, in aggregate up to the end of the relevant 
+previous year exceeds ten lakh rupees, as the case may be.  
+ 
+It is further proposed to amend clause (d) of the said sub-section so as to provide that 
+any relative of person referred to in clause (b) shall not be treated as specified person for the 
+purposes of the said sub-section. 
+ 
+It is also proposed to amend clause (e) of the said sub-section so as to provide that any 
+concern in which the person referred to in clause (b) has substantial interest shall not be 
+treated as specified person for the purposes of the said sub-section.  
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 9 of the Bill seeks to amend section 17 of the Income-tax Act relating to “salary”, 
+“perquisite” and “profits in lieu of salary” defined.  
+ 
+The existing provisions of clause (2) of section 17, inter alia, provide that for the 
+purposes of section 15 and section 16 of the Income-tax Act, “perquisite” includes the value 
+of any benefit or amenity granted or provided free of cost or at concessional rate by any 
+employer (including a company) to an employee who is not a director of the company or has 
+a substantial interest in the company, and whose income under the head “Salaries”, whether 
+due from, or paid or allowed by, one or more employers, other than the value of all non-
+monetary benefits or amenities, exceeds fifty thousand rupees. 
+ 
+Further, the Proviso to the said clause provides that any expenditure incurred by the 
+employer on medical treatment of an employee or any member of the family of such 
+employee, outside India, travel and stay abroad of the employee or any member of the family 
+of such employee for medical treatment, or travel and stay abroad of one attendant who 
+accompanies the patient, shall not be included in “perquisite”, subject to the condition, 
+among others, that the expenditure on travel shall be excluded only in the case of an 
+
+136 
+ 
+ 
+ 
+employee whose gross total income, as computed before including the said expenditure, does 
+not exceed two lakh rupees. 
+ 
+It is proposed to amend the provisions of the said section so as to provide that “perquisite” 
+includes the value of any benefit or amenity granted or provided free of cost or at 
+concessional rate by any employer, including a company to an employee who is not a director 
+of the company or has a substantial interest in the company, and whose income under the 
+head “Salaries”, whether due from, or paid or allowed by, one or more employers, other than 
+the value of all non-monetary benefits or amenities, exceeds such amount as may be provided 
+by rules. 
+ 
+It is further proposed to provide that the expenditure on travel incurred by the employer 
+on medical treatment of an employee shall be excluded from perquisite only in the case of 
+an employee whose gross total income, as computed before including the said expenditure, 
+does not exceed such amount as may be provided by rules.  
+ 
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply 
+in relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 10 of the Bill seeks to amend section 23 of the Income-tax Act, relating to 
+annual value how determined. 
+ 
+Sub-section (2) of said section provides that where house property is in the occupation 
+of the owner for the purposes of his residence or owner cannot actually occupy it due to his 
+employment, business or profession carried on at any other place, in such cases, the annual 
+value of such house or part of the house shall be taken to be nil. Further, sub-section (4) of 
+the said section provides that provisions of sub-section (2) of the Act will be applicable in 
+respect of 2 houses only.   
+ 
+It is proposed to substitute the sub-section (2) of the said section so as to provide that 
+the annual value of the property consisting of a house or any part thereof shall be taken as 
+nil, if the owner occupies it for his own residence or cannot actually occupy it due to any 
+reason.  
+ 
+This amendment will take effect from 1st April, 2025 and shall apply to assessment 
+year 2025-26 onwards. 
+Clause 11 of the Bill seeks to insert a new section 44BBD in the Income-tax Act 
+relating to special provision for computing profits and gains of non-residents engaged in 
+business of providing services or technology, for setting up an electronics manufacturing 
+facility or in connection with manufacturing or production of electronic goods, article or 
+thing in India. 
+ 
+Sub-section (1) of the proposed section seeks to provide that notwithstanding 
+anything to the contrary contained in sections 28 to 43A, where an assessee, being a non-
+resident, engaged in the business of providing of services or technology in India, for the 
+purposes of setting up an electronics manufacturing facility or in connection with 
+manufacturing or production of electronic goods, article or thing in India,– 
+
+137 
+ 
+ 
+ 
+(a) to a resident company which is establishing or operating electronics 
+manufacturing facility or a connected facility for manufacturing or production of 
+electronic goods, article or thing in India, under a scheme notified by the Central 
+Government in the Ministry of Electronics and Information Technology; and 
+ 
+(b) the resident company satisfies the conditions prescribed in this behalf, 
+ 
+a sum equal to 25% of the aggregate of the amounts specified in sub-section (2) shall be 
+deemed to be the profits and gains of such business of the non-resident assessee chargeable 
+to tax under the head “Profits and gains of business or profession”. 
+ 
+Sub-section (2) of the proposed section seeks to provides that the amounts referred 
+to in sub-section (1) shall be the following:–– 
+ 
+(a) the amount paid or payable to the non-resident assessee or to any person on 
+his behalf on account of providing services or technology; and   
+ 
+(b) the amount received or deemed to be received by the non-resident assessee or 
+on behalf of non-resident assessee on account of providing services or technology. 
+ 
+Sub-section (3) of the proposed section seeks to provides that notwithstanding 
+anything in sub-section (2) of section 32 and sub-section (1) of section 72, where a non-
+resident assessee declares profits and gains of business for any previous year under sub-
+section (1), no set off of unabsorbed depreciation and brought forward loss shall be allowed 
+to the assesse for such previous year. 
+ 
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 12 of the Bill seeks to amend section 45 of the Income-tax Act relating to capital 
+gains. 
+ 
+Sub-section (1B) of the said section, inter alia, provides that where any person receives 
+at any time during any previous year any amount under a unit linked insurance policy, to 
+which exemption under clause (10D) of section 10 does not apply on account of the 
+applicability of the fourth and fifth provisos thereof, including the amount allocated by way 
+of bonus on such policy, then, any profits or gains arising from receipt of such amount by 
+such person shall be chargeable to income-tax under the head "Capital gains" and shall be 
+deemed to be the income of such person of the previous year in which such amount was 
+received and the income taxable shall be calculated in such manner as may be prescribed. 
+ 
+It is proposed to amend the said sub-section so as to make it applicable for an unit 
+linked insurance policy to which exemption under clause (10D) of section 10 does not apply. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 13 of the Bill seeks to amend section 47 of the Income-tax Act relating to 
+Transactions not regarded as transfer. 
+
+138 
+ 
+ 
+ 
+Clause (viiad) of the said section provides that any transfer by a shareholder or unit holder 
+or interest holder, in a relocation, of a capital asset being a share or unit or interest held by 
+him in the original fund in consideration for the share or unit or interest in the resultant fund, 
+shall not be regarded as transfer for the purposes of section 45. The Explanation to the said 
+clause provides, inter alia, the meaning of “resultant fund” for the purposes of the said 
+clause. 
+ 
+It is proposed to substitute the said definition of the expression “resultant fund” to mean 
+a fund established or incorporated in India in the form of a trust or a company or a limited 
+liability partnership, which is located in an International Financial Services Centre as 
+referred to in sub-section (1A) of section 80LA, and has been granted–– 
+ 
+(i) a certificate of registration as a Category I or Category II or Category III 
+Alternative Investment Fund, and is regulated under the Securities and Exchange 
+Board of India (Alternative Investment Funds) Regulations, 2012 made under the 
+Securities and Exchange Board of India Act, 1992 or regulated under the International 
+Financial Services Centres Authority (Fund Management) Regulations, 2022, made 
+under the International Financial Services Centres Authority Act, 2019; or 
+ 
+(ii) a certificate as a retail scheme or an Exchange Traded Fund and which fulfils 
+the conditions specified in clause (4D) of section 10;” 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+ 
+Clause (b) of the said Explanation provides that "relocation" means transfer of assets of 
+the original fund, or of its wholly owned special purpose vehicle, to a resultant fund on or 
+before the 31st day of March, 2025, where consideration for such transfer is discharged in 
+the form of share or unit or interest in the resulting fund. 
+ 
+It is proposed to amend clause (b) of the Explanation to said clause so as to extend the 
+date of transfer of assets of the original fund, or of its wholly owned special purpose vehicle, 
+to a resultant fund, from 31st March, 2025 to 31st March, 2030. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 14 of the Bill seeks to amend section 72A of the Income-tax Act relating to carry 
+forward and set off of accumulated loss and unabsorbed depreciation allowance in 
+amalgamation or demerger, etc. 
+ 
+Section 72A of the Act states that accumulated loss and unabsorbed depreciation of the 
+amalgamating companies or firm or proprietary concern or private company or unlisted 
+private company, as the case maybe, shall be deemed to be accumulated loss and unabsorbed 
+depreciation of the amalgamated company or successor company or successor limited 
+liability partnership, as the case may be, for the previous year in which the business 
+reorganisation was effected, to the extent of amount of accumulated loss and unabsorbed 
+depreciation and as per conditions as  specified therein. 
+ 
+It is proposed to insert sub-section (6B) in the section to state that where any 
+amalgamation or business reorganisation, is effected on or after 1st April, 2025, any loss 
+
+139 
+ 
+ 
+ 
+forming part of the accumulated loss of the predecessor entity, being the amalgamating 
+company or firm or proprietary concern; or private company or unlisted public company, as 
+the case maybe, which is deemed to be the loss of the successor entity, being the 
+amalgamated company or successor company or successor limited liability partnership, as 
+the case maybe, shall be carried forward in the hands of the successor entity for not more 
+than eight assessment years immediately succeeding the assessment year for which such loss 
+was first computed for original predecessor entity. 
+ 
+It is further proposed to state that “original predecessor entity” means predecessor entity 
+in respect of the first amalgamation under sub-section (1) or first business reorganisation for 
+sub-section (6) or (6A). 
+ 
+This amendment will take effect from 1st April, 2026. 
+Clause 15 of the Bill seeks to amend section 72AA of the Income-tax Act relating to 
+carry forward and set off of accumulated loss and unabsorbed depreciation allowance in 
+scheme of amalgamation in certain cases. 
+ 
+Section 72AA of the Act states that accumulated loss and unabsorbed depreciation of the 
+amalgamating company shall be deemed to be the loss and unabsorbed depreciation of the 
+amalgamated companies, for the previous year in which the scheme of amalgamation was 
+brought into force.  
+ 
+It is proposed to insert a proviso to the said section to provide that where any scheme of 
+such amalgamation is brought into force on or after 1st April, 2025, any loss forming part of 
+the accumulated loss of the predecessor entity, being the banking company or companies, 
+amalgamating corresponding new bank or banks or amalgamating Government company or 
+companies, as the case maybe, which is deemed to be the loss of the successor entity, being 
+the banking institution or company, amalgamated corresponding new bank or banks or 
+amalgamated Government company or companies, as the case may be, shall be carried 
+forward in the hands of the successor entity for not more than eight assessment years 
+immediately succeeding the assessment year for which such loss was first computed for 
+original predecessor entity.   
+ 
+It is further proposed to state that “original predecessor entity” means predecessor entity 
+in respect of the first amalgamation. 
+ 
+This amendment will take effect from 1st April, 2026. 
+Clause 16 of the Bill seeks to amend section 80CCA of the Income-tax Act, relating to 
+deduction, inter alia, in respect of deposits under National Savings Scheme. 
+ 
+Sub-section (1) of the said section, inter alia, provides that a deduction of the whole of 
+the amount deposited or paid (excluding interest or bonus accrued or credited to the 
+assessee’s account, if any) as does not exceed the amount of twenty thousand rupees in the 
+previous year. 
+ 
+Sub-section (2) of the said section, inter alia, deems the withdrawals of amounts together 
+with the interest accrued on such amount, as income chargeable to tax in the previous year 
+when these amounts (or interest accrued on such amount) are withdrawn.
+
+140 
+ 
+ 
+ 
+ 
+It is proposed to provide exemption from the provisions of sub-section (2) of section 
+80CCA to such withdrawals made on or after 29th August, 2024 by an assessee, being an 
+individual. 
+ 
+This amendment will take effect retrospectively from 29th August, 2024. 
+Clause 17 of the Bill seeks to amend section 80CCD of the Income-tax Act relating to 
+deduction of contribution to pension scheme of Central Government.  
+ 
+The said section provides for deduction in respect of contribution to pension scheme of 
+the Central Government by the assessee, being an individual employed by the Central 
+Government on or after the 1st January, 2004 or, being an individual employed by any other 
+employer or any other assessee being an individual has in the previous year paid or deposited 
+any amount in his account under the said pension scheme. 
+ 
+It is proposed to insert a second proviso to sub-section (1B) and to amend sub-sections 
+(3) and (4) of the said section so as to extend the tax benefits available to a pension scheme 
+under section 80CCD, to the contributions made to the National Pension Scheme Vatsalya 
+Accounts, as follows:–– 
+ 
+(a) a deduction to be allowed to the parent or guardian’s total annual income, of the 
+amount paid or deposited in the account of any minor under a pension scheme under sub-
+section (1B) of section 80CCD to a maximum of 50,000 rupees; 
+ 
+(b) chargeability of amount on which deduction has been allowed under sub-section 
+(1B) of section 80CCD is also proposed to be provided where such amount or any interest 
+accrued thereon is withdrawn in the case where deposit was made in the account of the 
+minor; 
+ 
+(c) the amount received by the assessee, on the death of the minor resulting in closure 
+of the account in respect of which deduction has been allowed earlier under sub-section 
+(1B) of section 80CCD shall not be deemed to be the income of the parent or guardian. 
+ 
+These amendments will take effect from 1st April, 2026, and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 18 of the Bill seeks to amend section 80-IAC of the Income-tax Act relating to 
+special provision in respect of specified business. 
+ 
+The said section, inter alia, provides for deduction of an amount equal to 100% of the 
+profits and gains derived from an eligible business by an eligible start-up for three 
+consecutive assessment years out of ten years at the option of the assessee subject to the 
+condition that the total turnover of its business does not exceed one hundred crore rupees for 
+an eligible start-up incorporated on or after 1st April, 2016 but before the 1st April, 2025. 
+ 
+It is proposed to amend the said section so as to extend the benefit for another period of 
+five years, i.e. the benefit shall be available to the eligible start-ups incorporated before 1st 
+April, 2030. 
+
+141 
+ 
+ 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 19 of the Bill seeks to amend section 80LA of the Income-tax Act relating to 
+deductions in respect of certain incomes of Offshore Banking Units and International 
+Financial Services Centre.  
+ 
+Clause (d) of sub-section (2) of the said section provides that the income referred to in 
+sub-section (1) and sub-section (1A) shall be the income, arising from the transfer of an 
+asset, being an aircraft or a ship, which was leased by a unit referred to in clause (c) to a 
+person, subject to the condition that the unit has commenced operation on or before the 31st 
+March, 2025. 
+ 
+It is proposed to amend the said clause so as to extend the date of commencement of 
+operations from 31st March, 2025 to 31st March, 2030. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 20 of the Bill seeks to amend section 87A of the Income-tax Act relating to 
+rebate of income-tax in case of certain individuals.  
+ 
+The said section provides that an assessee, being an individual resident in India, whose 
+total income does not exceed five hundred thousand rupees, shall be entitled to a deduction, 
+from the amount of income-tax (as computed before allowing the deductions under this 
+Chapter) on his total income with which he is chargeable for any assessment year, of an 
+amount equal to hundred per cent of such income-tax or an amount of twelve thousand and 
+five hundred rupees, whichever is less.  
+ 
+Proviso to the said section provides that where the total income of the assessee is 
+chargeable to tax under sub-section (1A) of section 115BAC, and the total income— 
+ 
+(a) does not exceed seven hundred thousand rupees, the assessee shall be entitled to a 
+deduction from the amount of income-tax (as computed before allowing for the deductions 
+under this Chapter) on his total income with which he is chargeable for any assessment year, 
+of an amount equal to one hundred per cent. of such income-tax or an amount of twenty-five 
+thousand rupees, whichever is less; 
+ 
+(b) exceeds seven hundred thousand rupees and the income-tax payable on such total 
+income exceeds the amount by which the total income is in excess of seven hundred thousand 
+rupees, the assessee shall be entitled to a deduction from the amount of income-tax (as 
+computed before allowing the deductions under this Chapter) on his total income, of an 
+amount equal to the amount by which the income-tax payable on such total income is in 
+excess of the amount by which the total income exceeds seven hundred thousand rupees. 
+ 
+It is proposed to amend the proviso to the said section to substitute the seven hundred 
+thousand rupees with twelve hundred thousand rupees and twenty-five thousand rupees with 
+sixty thousand rupees respectively.  
+ 
+It is further proposed to insert a second proviso to the said section to provide that the 
+deduction under the first proviso, shall not exceed the amount of income-tax payable as per 
+the rates provided in sub-section (1A) of section 115BAC.
+
+142 
+ 
+ 
+ 
+ 
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply 
+in relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 21 of the Bill seeks to amend section 92CA of the Income-tax Act relating to 
+reference to Transfer Pricing Officer. 
+ 
+Sub-section (1) of the said section provides that where any person, being the assessee, 
+has entered into an international transaction or specified domestic transaction in any previous 
+year, and the Assessing Officer considers it necessary or expedient so to do, he may, with 
+the previous approval of the Principal Commissioner or Commissioner, refer the 
+computation of the arm's length price in relation to the said international transaction or 
+specified domestic transaction under section 92C to the Transfer Pricing Officer. 
+ 
+It is proposed to insert a new first proviso to the said sub-section (1) so as to provide that 
+no reference for computation of the arm's length price in relation to an international 
+transaction or a specified domestic transaction shall be made, if the Transfer Pricing Officer 
+has declared that option exercised by the assessee in sub-section (3B) in relation to such 
+transaction is valid for such previous year. 
+ 
+It is further proposed to insert a new second proviso to the said sub-section so as to 
+provide that if any reference for an international transaction or a specified domestic 
+transaction, in respect of a previous year for which the option is declared valid under the 
+sub-section (3B), is made before or after such declaration by the Transfer Pricing Officer, 
+the provisions of the said sub-section shall have the effect as if no reference is made for such 
+transaction. 
+ 
+It is also proposed to insert a new sub-section (3B) in the said section so as to provide 
+that the arm’s length price being determined in relation to the international transaction or the 
+specified domestic transaction under sub-section (3) for any previous year shall apply to 
+similar international transaction or specified domestic transaction for the two consecutive 
+previous years immediately following such previous year, on fulfilment of the conditions, 
+specified therein. 
+ 
+It is also proposed to insert a proviso to the said sub-section (3B) to provide that the 
+provisions of this sub-section shall not apply to any proceedings under Chapter XIV-B. 
+ 
+It is also proposed to insert a new sub-section (4A) in the said section so as to provide 
+that notwithstanding anything contained in sub-section (4), where the Transfer Pricing 
+Officer has declared an option exercised by the assessee as valid option under sub-section 
+(3B), he shall examine and determine the arm’s length price in relation to such similar 
+transaction for two consecutive previous years immediately following such previous year, in 
+the order referred to in sub-section (3) and on receipt of such order, the Assessing Officer 
+shall proceed to recompute the total income of the assessee for the said two consecutive 
+previous years as per the provisions of sub-section (21) of section 155. 
+ 
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply 
+in relation to the assessment year 2026-2027 and subsequent assessment years. 
+
+143 
+ 
+ 
+ 
+Sub-section (9) of the said section empowers that the Central Government, may, for the 
+purpose of giving effect to the aforesaid scheme, direct that any of the provisions of the 
+Income-tax Act shall not apply or shall apply with such exceptions, modifications and 
+adaptations as specified.  
+ 
+Proviso to said sub-section provides that no direction shall be issued after the 31st 
+March, 2025.  
+ 
+It is proposed to omit the said proviso. 
+ 
+This amendment will take effect from 1st April, 2025. 
+ 
+It is also proposed to insert a new sub-section (11) in the said section so as to provide 
+that if any difficulty arises in giving effect to the provisions of sub-section (3B) and sub-
+section (4A), the Board may, with the previous approval of the Central Government, issue 
+guidelines for the purpose of removing the difficulty, which shall be laid before each House 
+of Parliament and no such guideline shall be made after the expiration of two years from the 
+1st April, 2026. 
+ 
+ 
+It is also proposed to insert a new sub-section (12) in the said section so as to provide 
+that every guideline issued by the Board under sub-section (11) shall be laid before each 
+House of Parliament while it is in session for a total period of thirty days which may be 
+comprised in one session or in two or more successive sessions, and if, before the expiry of 
+the session immediately following the session or the successive session aforesaid, both 
+houses agree in making any modification in such guideline or both Houses agree that the 
+guideline, should not be issued, the guideline shall thereafter have effect only in such 
+modified form or be of no effect, as the case may be; so, however, that any such modification 
+or annulment shall be without prejudice to the validity of anything previously done under 
+that guideline. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 22 of the Bill seeks to amend section 112A of the Income-tax Act relating to 
+tax on long-term capital gains in certain cases. 
+ 
+Clause (a) of the Explanation to the said section, inter alia, provides that "equity 
+oriented fund" means a fund set up under a scheme of a mutual fund specified under clause 
+(23D) of section 10 or under a scheme of an insurance company comprising unit linked 
+insurance policies to which exemption under clause (10D) of the said section does not apply 
+on account of the applicability of the fourth and fifth provisos thereof.  
+ 
+Second proviso to the clause (a) of Explanation to the said section provides that in case 
+of a scheme of an insurance company comprising unit linked insurance policies to which 
+exemption under clause (10D) of section 10 does not apply, in given cases, the minimum 
+requirement of ninety per cent. or sixty-five per cent., as the case may be, is required to be 
+satisfied throughout the term of such insurance policy. 
+
+144 
+ 
+ 
+ 
+It is proposed to amend clause (a) and the second proviso of the Explanation to the said 
+section so as to make it applicable for unit linked insurance policy to which exemption under 
+clause (10D) of section 10 does not apply. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 23 of the Bill seeks to amend section 115AD of the Income-tax Act relating to 
+tax on income of Foreign Institutional Investors from securities or capital gains arising from 
+their transfer. 
+ 
+Sub-section (1) of the said section, inter alia, provides that where the total income of a 
+specified fund or Foreign Institutional Investor, includes income received in respect of 
+securities (other than units referred to in section 115AB) or income by way of short-term or 
+long-term capital gains arising from the transfer of such securities, the income-tax on the 
+income by way of long-term capital gains on transfer of securities referred to in clause (b), 
+but not covered under section 112A, if any, included in the total income, shall be calculated 
+at the rate of ten per cent. 
+ 
+It is proposed to amend the said sub-section to provide that the income-tax on the income 
+by way of long-term capital gains on transfer of securities referred to in clause (b), but not 
+covered under section 112A, if any, included in the total income, shall be calculated at the 
+rate of twelve and one-half per cent. 
+ 
+This amendment will take effect from 1st April, 2026, and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 24 of the Bill seeks to amend section 115BAC of the Income-tax Act relating 
+to tax on income of individuals, Hindu undivided family and others.  
+ 
+It is proposed to amend sub-section (1A) of the said section to provide that 
+notwithstanding anything contained in this Act but subject to the provisions of this Chapter, 
+the income-tax payable in respect of the total income of a person, being an individual or 
+Hindu undivided family or association of persons (other than a co-operative society), or body 
+of individuals, whether incorporated or not, or an artificial juridical person referred to in sub-
+clause (vii) of clause (31) of section 2, other than a person who has exercised an option under 
+sub-section (6), for any previous year relevant to the assessment year beginning on or after 
+the 1st April, 2026, shall be computed at the rate of tax given in the following Table, 
+namely:— 
+Table 
+ 
+Sl. No.
+Total income
+Rate of tax
+(1)
+(2)
+(3)
+1.
+Upto Rs. 4,00,000
+Nil
+2.
+From Rs. 4,00,001 to Rs. 8,00,000
+5 per cent.
+3.
+From Rs. 8,00,001 to Rs. 12,00,000
+10 per cent.
+
+145 
+ 
+ 
+ 
+ 
+These amendments will take effect from the 1st April, 2026 and will, accordingly, 
+apply in relation to the assessment year 2026-2027 and subsequent assessment years. 
+4.
+From Rs. 12,00,001 to Rs. 16,00,000
+15 per cent.
+5.
+From Rs. 16,00,001 to Rs. 20,00,000
+20 per cent.
+6.
+From Rs. 20,00,001 to Rs. 24,00,000
+25 per cent.
+7.
+Above Rs. 24,00,000
+30 per cent.
+Clause 25 of the Bill seeks to amend section 115UA of the Income-tax Act relating to 
+tax on income of unit holder and business trust. 
+ 
+Sub-section (2) of the said section provides that the total income of a business trust shall 
+be charged to tax subject to the provisions of sections 111A and 112. 
+ 
+It is proposed to amend the said sub-section so as to provide the reference of section 
+112A therein. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 26 of the Bill seeks to amend section 115V of the Income-tax Act relating to 
+definitions. 
+ 
+It is proposed to insert a definition of “inland vessel” in the said section to provide that 
+“inland vessel” is a vessel having the meaning assigned to it in clause (q) of section 3 of the 
+Inland Vessels Act, 2021. 
+ 
+It is further proposed to include reference to inland vessel in definition of “bareboat 
+charter”, “bareboat charter-cum-demise”, “pleasure craft” and “qualifying ship”. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 27 of the Bill seeks to amend section 115VB of the Income-tax Act relating to 
+operating ships. 
+ 
+The said section provides that a company shall be regarded as operating a ship if it 
+operates any ship whether owned or chartered by it and includes a case where even a part of 
+the ship has been chartered in by it in an arrangement such as slot charter, space charter or 
+joint charter. 
+ 
+It is proposed to amend said section to insert a reference to inland vessel and provide 
+that operating ship includes inland vessel as well.   
+ 
+It is further proposed to amend the proviso to the said section to provide that a company 
+shall not be regarded as the operator of a ship or inland vessel, as the case maybe, which has 
+been chartered out by it on bareboat charter-cum-demise terms or on bareboat charter terms 
+for a period exceeding three years. 
+
+146 
+ 
+ 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 28 of the Bill seeks to amend section 115VD of the Income-tax Act relating to 
+qualifying ship. 
+ 
+The said section provides that a ship is a qualifying ship if it is a seagoing ship or vessel, 
+of fifteen net tonnage or more; and it is a ship registered under the Merchant Shipping Act, 
+1958, or a ship registered outside India in respect of which a licence has been issued by the 
+Director-General of Shipping under section 406 or section 407 of the Merchant Shipping 
+Act, 1958 and a valid certificate in respect of such ship indicating its net tonnage is in force. 
+ 
+It is proposed to include reference to inland vessel in the said section to provide that a 
+qualifying ship would include inland vessel registered under the Inland Vessel Act, 2021 as 
+well. 
+ 
+It is further proposed to amend the said section to provide that a qualifying ship would 
+not include a seagoing ship or inland vessel, if the main purpose for which it is used is the 
+provision of goods or services of a kind normally provided on land. 
+ 
+This amendment will take effect from the 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 29 of the Bill seeks to amend section 115VG of the Income-tax Act relating to 
+computing of tonnage income. 
+ 
+Sub-section (4) of the said section provides that for the purposes of Chapter XII-G, 
+tonnage shall mean the tonnage of a ship indicated in the certificate referred to in section 
+115VX and includes the deemed tonnage computed in the prescribed manner. 
+ 
+It is proposed to amend sub-section (4) of the said section to include inland vessels 
+under its purview. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 30 of the Bill seeks to amend section 115V-I of the Income-tax Act relating to 
+relevant shipping income. 
+ 
+Sub-section (2) of the said section provides for the core activities of a tonnage tax 
+company.  
+ 
+Sub-section (6) of the said section provides that where a tonnage tax company operates 
+any ship which is not a qualifying ship, the income attributable to operating such non-
+qualifying ship shall be computed in accordance with the other provisions of this Act. 
+ 
+It is proposed to amend sub-sections (2) and (6) of the said section to include inland 
+vessels under its purview. 
+
+147 
+ 
+ 
+ 
+These amendments will take effect from the 1st April, 2026 and will, accordingly, apply 
+in relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 31 of the Bill seeks to amend section 115VK of the Income-tax Act relating to 
+depreciation. 
+ 
+Sub-section (2) of the said section provides that the written down value of the block of 
+assets, being ships as on the first day of the first previous year, shall be divided in the ratio 
+of the book written down value of the qualifying ships and the book written down value of 
+the non-qualifying ships.   
+  
+It is proposed to amend the said sub-section to include inland vessels under its purview. 
+  
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 32 of the Bill seeks to amend section 115VP of the Income-tax Act relating to 
+method and time of opting for tonnage tax scheme.  
+ 
+Sub-section (1) of the said section provides that a qualifying company may opt for the 
+tonnage tax scheme by making an application to the Joint Commissioner having jurisdiction 
+over the company. Sub-section (3) of the said section requires that the Joint Commissioner 
+may, on receipt of such application, call for information as deemed fit and pass an order in 
+writing, approving the option for tonnage tax scheme or if not so satisfied, refusing such 
+approval, after providing reasonable opportunity of being heard.  
+ 
+Sub-section (4) of the said section provides for an order under sub-section (3) to be 
+passed before the expiry of one month from the end of the month in which the application 
+was received under sub-section (1).  
+ 
+It is proposed to insert a new proviso in said sub-section so as to provide that for 
+application received under sub-section (1) on or after 1st April, 2025, order under sub-section 
+(3) shall be passed before the expiry of three months from the end of the quarter in which 
+such application was received. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 33 of the Bill seeks to amend section 115VT of the Income-tax Act relating to 
+transfer of profits to tonnage tax reserve account. 
+ 
+It is proposed to amend sub-section (3), sub-section (4) and Explanation to the said 
+section to include inland vessels under its purview. 
+  
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 34 of the Bill seeks to amend section 115VV of the Income-tax Act relating to 
+limit for charter in of tonnage. 
+
+148 
+ 
+ 
+ 
+It is proposed to amend sub-section (4) and Explanation to the said section to include 
+inland vessels under its purview. 
+  
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 35 of the Bill seeks to amend section 115VX of the Income-tax Act relating to 
+determination of tonnage. 
+  
+Clause (a) of sub-section (1) of the said section provides tonnage of a ship shall be 
+determined in accordance with the valid certificate indicating of tonnage. 
+ 
+Clause (b) of sub-section (1) of the said section provides meaning of valid certificate in 
+case of ships registered in India and in case of ships registered outside India. 
+ 
+It is proposed to amend clauses (a) and (b) of sub-section (1) to provide valid certificate 
+would also cover in case of inland vessel registered in India, a certificate issued under the 
+Inland Vessels Act, 2021. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 36 of the Bill seeks to amend section 115VZA of the Income-tax Act relating to 
+effect of temporarily ceasing to operate qualifying ships. 
+ 
+Sub-section (2) of the said section provides that where a qualifying company continues 
+to operate a ship which temporarily ceases to be a qualifying ship, such ship shall not be 
+considered as a qualifying ship for the purposes of this Chapter. 
+ 
+It is proposed to amend sub-section (2) of the said section to include inland vessels 
+under its purview. 
+ 
+This amendment will take effect from 1st April, 2026 and will, accordingly, apply in relation 
+to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 37 of the Bill seeks to amend section 132 of the Income-tax Act relating to search 
+and seizure. 
+ 
+Sub-section (8) of the said section provides that the last date for taking approval for 
+retention of seized books of account or other documents is thirty days from the date of the 
+order of assessment or reassessment or recomputation.  
+ 
+It is proposed to amend the said sub-section so as to provide that the said time limit for 
+taking approval for retention shall be one month from the end of the quarter in which the 
+assessment or reassessment or recomputation order has been made. 
+ 
+This amendment will take effect from 1st April, 2025. 
+ 
+Clause (a) to Explanation 1 to the said section provides the circumstances in which last 
+of authorisation for search is to be deemed as to have been executed. 
+
+149 
+ 
+ 
+ 
+ 
+It is proposed to amend the clause (a) to Explanation 1 so as to substitute the word 
+“authorisation” with “authorisations” as there may be more than one warrant executed in the 
+case of one assessee. 
+ 
+ This amendment will take effect from 1st April, 2025. 
+Clause 38 of the Bill seeks to amend section 132B of the Income-tax Act which deals 
+application of seized or requisitioned assets. 
+ 
+Explanation 1 defines “execution of an authorisation for search or requisition” shall 
+have the same meaning assigned to it in Explanation 2 to section 158BE. 
+ 
+It is proposed to amend Explanation 1 to section 132B to update the reference of 
+Explanation to section 158B.  
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 39 of the Bill seeks to amend section 139 of the Income-tax Act, relating to return 
+of income. 
+ 
+The said section provides the provisions for filing of income-tax return by taxpayers. The 
+said section provides guidelines for filing of original return under sub-section (1), filing of 
+belated or revised returns, the class or classes of persons who have an obligation to 
+compulsorily file a return, rectification of a defective return, the due dates for filing of the 
+said returns etc.  
+ 
+Sub-section (8A) of the said section provides that any person, whether or not he has 
+furnished an original return, belated return or revised return under sub-section (1) or (4) or 
+(5), for an assessment year, may furnish an updated return of his income or income of any 
+other person in respect of which he is assessable under this Act, within 24 months from the 
+end of the relevant assessment year. 
+ 
+It is proposed to amend sub-section (8A) of the said section so as to extend the time-limit 
+to file an updated return from twenty-four months to forty-eight months from the end of 
+relevant assessment year.  
+ 
+It is further proposed to insert a proviso in sub-section (8A) so as to provide that no 
+updated return shall be furnished by any person where any notice to show-cause under 
+section 148A has been issued in his case after thirty-six months from the end of the relevant 
+assessment year. However, where an order is passed under sub-section (3) of section 148A 
+determining that it is not a fit case to issue notice under section 148, updated return may be 
+filed upto 48 months from the end of the relevant assessment year. 
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 40 of the Bill seeks to amend section 140B of the Income-tax Act relating to tax 
+on updated return. 
+ 
+
+150 
+ 
+ 
+ 
+Sub-section (3) of the said section provides the computation of additional income-tax 
+payable for the purposes of updated return. It, inter alia, provides that 25% of aggregate of 
+tax and interest payable shall be the additional income-tax payable in the case of filing 
+updated return upto twelve months from the end of the relevant assessment year. However, 
+50% of aggregate of tax and interest payable shall be the additional income-tax payable in 
+the case of filing updated return after expiry of twelve months from the end of the relevant 
+assessment year but before completion of twenty-four months from the end of the relevant 
+assessment year. 
+ 
+It is proposed to amend the said sub-section prescribing additional income-tax on updated 
+return by inserting clauses (iii) and (iv) so as to provide that 60% of aggregate of tax and 
+interest payable shall be the additional income-tax payable in the case of filing updated return 
+after expiry of twenty-four months from the end of the relevant assessment year but before 
+completion of thirty-six months from the end of the relevant assessment year. Further, 70% 
+of aggregate of tax and interest payable shall be the additional income-tax payable in the 
+case of filing updated return after expiry of thirty-six months from the end of the relevant 
+assessment year but before completion of forty-eight months from the end of the relevant 
+assessment year. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 41 of the Bill seeks to amend the section 144BA of the Income-tax Act relating 
+to reference to Principal Commissioner or Commissioner in certain cases. 
+         
+ The said section, inter alia, provides that if the Assessing Officer considers that it is 
+necessary to declare an arrangement as an impermissible avoidance arrangement, then, he 
+may make a reference to the Principal Commissioner or Commissioner and to determine the 
+consequence of such an arrangement within the meaning of the General Anti-Avoidance 
+Rules.  
+ 
+Sub-section (13) of the said section provides that the Approving Panel shall issue 
+directions declaring such arrangement as an impermissible avoidance arrangement within 
+six months from the end of the month in which the reference was received.  
+ 
+Clause (ii) of the Explanation to the said section provides that the period during which 
+the proceeding of the Approving Panel is stayed by an order or injunctions of any court shall 
+be excluded in computing the period as per sub-section (13). 
+ 
+It is proposed to amend the said clause so as to clarify the commencement date and 
+the end date of such exclusion period. 
+ 
+This amendment will take effect from 1st April, 2025. 
+ 
+Clause 42 of the Bill seeks to amend section 144C of the Income-tax Act relating to 
+reference to dispute resolution panel. 
+ 
+The said section, inter alia, empowers the Central Government to notify a faceless 
+scheme for the purposes of issuance of directions by the dispute resolution panel, to impart 
+greater efficiency, transparency and accountability. 
+
+151 
+ 
+ 
+ 
+Sub-section (14C) of the said section empowers that the Central Government, may, for 
+the purpose of giving effect to the aforesaid scheme, direct that any of the provisions of the 
+Income-tax Act shall not apply or shall apply with such exceptions, modifications and 
+adaptations as specified.  
+ 
+Proviso to said sub-section provides that no direction shall be issued after the 31st March, 
+2025.  
+ 
+It is proposed to omit the said proviso. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 43 of the Bill seeks to amend the section 153 of the Income-tax Act relating to 
+time limit for completion of assessment, reassessment and recomputation. 
+ 
+The said section, inter alia, provides various time limits for completion of assessment, 
+reassessment and recomputation under various provisions of the said Act.  
+ 
+Clause (ii) of Explanation 1 to the said section, inter alia, provides that the period 
+during which the assessment proceeding is stayed by an order or injunction of any court 
+shall be excluded in computing the period of limitation. 
+ 
+It is proposed to substitute the said clause so as to clarify the commencement date and 
+the end date of such exclusion period. 
+ 
+This amendment will take effect from 1st April, 2025. 
+ Clause 44 of the Bill seeks to amend the section 153B of the Income-tax Act relating 
+to time limit for completion of assessment under section 153A. 
+ 
+The said section, inter alia, provides that the Assessing Officer shall make an order 
+of assessment or reassessment within twelve months from the end of the financial year in 
+which the last of the authorisations for search or requisition was executed.  
+ 
+Clause (i) of the Explanation to the said section, inter alia, provides that the period 
+during which the assessment proceeding is stayed by an order or injunction of any court 
+shall be excluded in computing the period of limitation.  
+ 
+It is proposed to substitute the said clause so as to clarify the commencement date and 
+the end date of such exclusion period. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 45 of the Bill seeks to amend section 155 of the Income-tax Act relating to other 
+amendments. 
+ 
+It is proposed to insert a new sub-section (21) in the said section so as to provide that 
+where the arm's length price is determined in relation to an international transaction or a 
+specified domestic transaction under sub-section (3) of section 92CA for any previous year 
+and the Transfer Pricing Officer has declared an option exercised by the assessee as valid 
+
+152 
+ 
+ 
+ 
+option under sub-section (3B) of section 92CA in respect of such transaction for two 
+consecutive previous years immediately following such previous year, the Assessing Officer 
+shall proceed to recompute the total income of the assessee for the said two consecutive 
+previous years, by amending the order of assessment or any intimation or deemed intimation 
+under sub-section (1) of section 143,–– 
+ 
+(i) in conformity with the arm’s length price so determined by the Transfer Pricing 
+Officer under sub-section (4A) of section 92CA in respect of such transaction; 
+ 
+(ii) taking into account the directions issued under sub-section (5) of section 144C, if 
+any, for such previous year, 
+ 
+within three months from the end of the month in which the assessment is completed in the 
+case of the assessee for such previous year and the first and second provisos to sub-section 
+(4) of section 92C shall apply thereto. 
+ 
+It is further  proposed to insert a new proviso to the said sub-section so as to provide that 
+where the order of assessment or any intimation or deemed intimation under sub-section (1) 
+of section 143, as the case may be, for the said two consecutive previous years is not made 
+within the said period of three months, such recomputation shall be made within three 
+months from the end of the month in which such order of assessment or any intimation or 
+deemed intimation under sub-section (1) of section 143, is made. 
+ 
+These amendments will take effect from 1st April, 2026 and will, accordingly, apply in 
+relation to the assessment year 2026-2027 and subsequent assessment years. 
+Clause 46 of the Bill seeks to amend section 158B of the Income-tax Act relating to 
+definitions. 
+ 
+Clause (b) of the said section defines undisclosed income.  
+ 
+ 
+It is proposed to amend clause (b) of the said section to insert the word “virtual digital 
+asset” in the definition of undisclosed income. 
+ 
+ This amendment will take effect retrospectively from 1st February, 2025. 
+Clause 47 of the Bill seeks to amend section 158BA of the Income-tax Act relating to 
+assessment of total income as a result of search. 
+ 
+Sub-section (4) of the said section provides that where any assessment under Chapter 
+XIV-B is pending in the case of an assessee in whose case a subsequent search is initiated, 
+or a requisition is made, such assessment shall be duly completed, and thereafter, the 
+assessment in respect of such subsequent search or requisition shall be made under the 
+provisions of Chapter XIV-B. 
+ 
+ It is proposed to amend sub-section (4) of the said section to substitute the word 
+“pending” with the words “required to be made”. 
+ 
+Sub-section (5) of the said section provides that if any proceeding initiated under 
+Chapter XIV-B has been annulled in appeal or any other legal proceeding, then, the 
+
+153 
+ 
+ 
+ 
+assessment or reassessment relating to any assessment year which has abated under sub-
+section (2) or sub-section (3), shall revive. 
+ 
+ 
+It is proposed to amend sub-section (5) of the said section to insert the words 
+“recomputation”, “reference” and “order” which would stand revived in case any proceeding 
+under chapter XIV-B is annulled in appeal.  
+ 
+These amendments will take effect retrospectively from 1st February, 2025. 
+Clause 48 of the Bill seeks to amend section 158BB of the Income-tax Act relating to 
+computation of total income of block period. 
+ 
+Sub-section (1) of the said section provides the methodology for computation of total 
+income of block period. Clause (i) of the said sub-section provides that total income of the 
+block period shall include total income disclosed in the return furnished under section 
+158BC. Clause (iii) of the said sub-section provides that total income of the block period 
+shall include total income declared in the return of income filed under section 139 or in 
+response to a notice under sub-section (1) of section 142 or section 148 and not covered 
+under clause (i) or clause (ii). Clause (iv) of the said sub-section provides that where the 
+previous year has not ended, total income of the block period shall include total income 
+determined, on the basis of entries relating to such income or transactions as recorded in the 
+books of account and other documents maintained in the normal course on or before the date 
+of last of the authorisations for the search or requisition relating to such previous year. 
+ 
+It is proposed to substitute sub-section (1),–– 
+ 
+(a) in clause (i) of the said sub-section to clarify that undisclosed income is required 
+to be declared in the block return; 
+ 
+(b)  in clauses (ii) and (iii) of the said sub-section to omit the word “total” from 
+“total income”; 
+ 
+(c)  in clause (iii) of the said sub-section to insert the words “prior to the date of 
+initiation of search or requisition”; 
+ 
+(d) in clause (iv) of the said sub-section so as to provide that the income as recorded 
+in the books of account and other documents maintained in the normal course on 
+or before the 31st day of March of the previous year which has ended but the due 
+date for furnishing the return for such year has not expired prior to the date of 
+initiation of the search or requisition, shall form part of total income. Further, the 
+income in respect of period commencing from 1st day of April of the previous year 
+in which the search is initiated or requisition is made and ending on the day 
+immediately preceding the date of initiation of search or requisition, shall be 
+computed on the basis of entries relating to such income or transactions as recorded 
+in the books of account and other documents maintained in the normal course for 
+such period on or before the day immediately preceding the date of initiation of 
+search or the date of requisition. Also, the income in respect of period commencing 
+from the date of initiation of the search or the date of requisition and ending on the 
+date of the execution of the last of the authorisations for search or requisition, shall 
+be computed on the basis of entries relating to such income or transactions as 
+
+154 
+ 
+ 
+ 
+recorded in the books of account and other documents maintained in the normal 
+course for such period on or before the date of the execution of the last of the 
+authorisations. 
+ 
+Sub-section (3) of the said section proposes to tax under the normal provisions any 
+income which relates to any international transaction or specified domestic transaction, 
+pertaining to the period beginning from the 1st day of April of the previous year in which 
+last of the authorisations was executed and ending with the date on which last of the 
+authorisations was executed. To appropriately provide for this intention of the legislature, 
+sub-section (3) of the said section is proposed to be substituted. 
+ 
+ 
+It is also proposed to amend sub-section (6) to substitute the words, “undisclosed 
+income declared” in the place of “disclosed income”. 
+ 
+This amendment will take effect retrospectively from 1st February, 2025. 
+Clause 49 of the Bill seeks to amend section 158BE of the Income-tax Act relating to 
+time-limit for completion of block assessment. 
+ 
+Section 158BE, inter alia, provides the time-limit for completion of block assessment 
+as twelve months from end of the month in which the last of the authorisations for search or 
+requisition has been executed.  
+ 
+It is proposed to amend sub-section (1) so as to provide that the order under section 
+158BC shall be passed within twelve months from the end of the quarter in which the last of 
+the authorisations for search or requisition was executed. 
+ 
+It is also proposed to amend sub-section (3) of the said section so as to provide that the 
+order under section 158BC in pursuance of section 158BD shall be passed within twelve 
+months from the end of the quarter in which the notice under section 158BC in the case of 
+the other person referred to in section 158BD, was issued. 
+ 
+This amendment will take effect retrospectively from 1st February, 2025. 
+ 
+Sub-section (1) of the said section provides that the order of block assessment shall 
+be passed within twelve months from the end of the month in which the last of the 
+authorisations for search or requisition was executed or made.  
+ 
+Clause (i) of sub-section (4) of the said section provides that the period during which 
+the assessment proceeding is stayed by an order or injunction of any court shall be excluded 
+in computing the period of limitation under this section. 
+ 
+It is proposed to substitute the said clause so as to clarify the commencement date and 
+the ending date of such exclusion period. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 50 of the Bill seeks to amend section 158BFA of the Income-tax Act relating 
+to levy of interest and penalty in certain cases. 
+
+155 
+ 
+ 
+ 
+The said section, inter alia, provides the procedure for the levy of interest and penalty 
+in the case of search assessment.  
+ 
+Clause (ii) of sub-section (4) of the said section, inter alia, provides that the period 
+during which the proceeding under sub-section (2) are stayed by an order or injunction of 
+any court shall be excluded in computing the period of limitation under this section. 
+ 
+It is proposed to amend the said clause so as to clarify the commencement date and 
+the ending date of such exclusion period. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 51 of the Bill seeks to amend section 193 of the Income-tax Act relating to interest 
+on securities.  
+ 
+The said section, inter alia, provides that the person responsible for paying to a resident 
+any income by way of interest on securities shall deduct income-tax at the rates in force on 
+the amount of the interest payable.  
+ 
+Clause (v) of the proviso to the said section provides that no tax is required to be deducted 
+under this section when any interest payable to an individual or a Hindu undivided family, 
+who is resident in India, on any debenture issued by a company in which the public are 
+substantially interested, if the amount of interest or, as the case may be, the aggregate amount 
+of such interest paid or likely to be paid on such debenture during the financial year by the 
+company to such individual or Hindu undivided family does not exceed five thousand rupees 
+and such interest is paid by the company by an account payee cheque. 
+ 
+It is proposed to amend the said section so as to provide that tax is required to be deducted 
+at source as specified therein only when the amount or the aggregate of amounts exceed ten 
+thousand rupees during the financial year.  
+ 
+It is further proposed to amend clause (v) of the proviso to the said section so as to provide 
+that no tax is required to be deducted therein if the amount of interest paid or likely to be 
+paid does not exceed ten thousand rupees.  
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 52 of the Bill seeks to amend section 194 of the Income-tax Act relating to 
+dividends.  
+ 
+The said section provides for deduction of tax in respect of dividends. The first proviso 
+to the said section provides that no tax is required to be deducted under this section if the 
+dividend is paid by the company by any mode other than cash and the amount of such 
+dividend or, as the case may be, the aggregate of the amounts of such dividend during the 
+financial year by the company to the shareholder, being an individual, does not exceed five 
+thousand rupees. 
+ 
+It is proposed to amend the first proviso to the said section so as to provide that no tax 
+is required to be deducted at source if the amount or aggregate of the amounts of such 
+
+156 
+ 
+ 
+ 
+dividend during the financial year by the company to the shareholder, being an individual, 
+does not exceed ten thousand rupees. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 53 of the Bill seeks to amend section 194A of the Income-tax Act relating to 
+interest other than “Interest on securities”.  
+ 
+ 
+Sub-section (1) of said section provides deduction of tax on income other than 
+income by way of interest on securities.  
+ 
+ 
+Clause (i) of sub-section (3) of said section provides that tax is not required to be 
+deducted under sub-section (1) of said section if the aggregate of the amounts of such income 
+credited or paid or likely to be credited or paid during the financial year by the person 
+referred to in sub-section (1) to the account of, or to, the payee, does not exceed forty 
+thousand rupees under given circumstances.  Third proviso to sub-section (3) states that in 
+case of senior citizens being the payee, forty thousand rupees in sub-section (3) of said 
+section may be read as fifty thousand rupees. 
+ 
+Proviso to sub-section (3) of section 194A of the Act states that a co-operative society 
+as referred to in the section shall be liable to deduct income-tax in this section in certain 
+cases. 
+  
+It is proposed to amend clause (i) of sub-section (3) of the said section so as to provide 
+that the aggregate of the amounts of such income does not exceed fifty thousand rupees in 
+the case of the payer being a banking company to which the Banking Regulation Act, 1949 
+applies (including any bank or banking institution, referred to in section 51 of that Act) or a 
+co-operative society engaged in carrying on the business of banking or on any deposit with 
+post office under any scheme framed by the Central Government and notified by it in this 
+behalf, and does not exceed ten thousand rupees instead of five thousand rupees in any other 
+case.  
+ 
+ 
+It is further proposed to amend the third proviso to clause (i) of sub-section (3) of the 
+said section of the Act so as to provide that the threshold of amount of interest, or aggregate 
+of the amounts of interest, for requirement of deduction of tax at source under this section to 
+exceed one lakh rupees instead of fifty thousand rupees. 
+ 
+ 
+It is also proposed to amend clause (b) of proviso occurring after clause (xi) to sub-
+section (3) to the said section of the Act so as to provide that the threshold of amount of 
+interest, or aggregate of the amounts of interest, for requirement of deduction of tax at source 
+under this section to exceed one lakh rupees in case of payee being a senior citizen and to 
+exceed fifty thousand rupees in any other case. 
+ 
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 54 of the Bill seeks to amend section 194B of the Income-tax Act relating to 
+winnings from lottery or crossword puzzle, etc.  
+ 
+The said section provides that the person responsible for paying to any person any 
+income by way of winnings from any lottery or crossword puzzle or card game and other 
+
+157 
+ 
+ 
+ 
+game of any sort or from gambling or betting of any form or nature whatsoever, being the 
+amount or the aggregate of amounts exceeding ten thousand rupees during the financial year 
+shall, at the time of payment thereof, deduct income-tax thereon at the rates in force. 
+ 
+It is proposed to amend the said section so as to provide that tax will be required to be 
+deducted at source under this section when the amount exceeds ten thousand rupees in 
+respect of a single transaction. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 55 of the Bill seeks to amend section 194BB of the Income-tax Act relating to 
+winnings from horse race. 
+ 
+ 
+The said section provides that any person, being a bookmaker or a person to whom a 
+licence has been granted by the Government under any law for the time being in force for 
+horse racing in any race course or for arranging for wagering or betting in any race course, 
+who is responsible for paying to any person any income by way of winnings from any horse 
+race , being the amount or aggregate of amounts exceeding ten thousand rupees during the 
+financial year, shall, at the time of payment thereof, deduct income-tax thereon at the rates 
+in force. 
+ 
+It is proposed to amend the said section so as to provide that tax will be required to be 
+deducted at source under this section when the amount exceeds ten thousand rupees in 
+respect of a single transaction. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 56 of the Bill seeks to amend section 194D of the Income-tax Act relating to 
+Insurance commission.  
+ 
+The said section, inter alia, provides that any person responsible for paying to a resident 
+any income by way of remuneration or reward, whether by way of commission or otherwise, 
+for soliciting or procuring insurance business  shall, at the time of credit of such income to 
+the account of the payee or at the time of payment thereof in cash or by issue of a cheque or 
+draft or by any other mode, whichever is earlier, deduct income-tax thereon at the rates in 
+force. 
+ 
+The second proviso to this section provides that no deduction shall be made under this 
+section in a case where the amount of such income or, as the case may be, the aggregate of 
+the amounts of such income credited or paid or likely to be credited or paid during the 
+financial year to the account of, or to, the payee, does not exceed fifteen thousand rupees. 
+ 
+It is proposed to amend the second proviso of the said section so as to provide the 
+threshold of aggregated amounts of such income for requirement to deduct tax at source 
+under this section is twenty thousand rupees. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 57 of the Bill seeks to amend section 194G of the Income-tax Act relating to 
+commission, etc., on sale of lottery tickets.
+
+158 
+ 
+ 
+ 
+ 
+ 
+Sub-section (1) of the said section, inter alia, provides that any person who is 
+responsible for paying, on or after the 1st day of October, 1991 to any person, who is or has 
+been stocking, distributing, purchasing or selling lottery tickets, any income by way of 
+commission, remuneration or prize on such tickets in an amount exceeding fifteen thousand 
+rupees shall, at the time of credit of such income to the account of the payee or at the time 
+of payment of such income in cash or by the issue of a cheque or draft or by any other mode, 
+whichever is earlier, deduct income-tax thereon at the rate of two per cent. 
+ 
+ 
+It is proposed to amend the sub-section (1) of said section so as to provide the 
+threshold of such income for requirement to deduct tax at source under this sub-section is 
+twenty thousand rupees. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 58 of the Bill seeks to amend section 194H of the Income-tax Act relating to 
+commission or brokerage.  
+ 
+The said section, inter alia, provides that any person, not being an individual or a Hindu 
+undivided family, who is responsible for paying, on or after the 1st June, 2001, to a resident, 
+any income by way of commission or brokerage shall, at the time of credit of such income 
+to the account of the payee or at the time of payment of such income in cash or by the issue 
+of a cheque or draft or by any other mode, whichever is earlier, deduct income-tax thereon 
+at the rate of two per cent.. 
+ 
+The first proviso to the said section provides that no deduction shall be made under this 
+section in a case where the amount of such income or, as the case may be, the aggregate of 
+the amounts of such income credited or paid or likely to be credited or paid during the 
+financial year to the account of, or to, the payee, does not exceed fifteen thousand rupees. 
+ 
+It is proposed to amend the said proviso so as to increase the threshold of such income 
+for requirement to deduct tax at source under this section to twenty thousand rupees. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 59 of the Bill seeks to amend section 194-I of the Income-tax Act relating to rent. 
+ 
+ 
+The said section 194-I, inter alia, provides that any person, not being an individual 
+or a Hindu undivided family, who is responsible for paying to a resident any income by way 
+of rent, shall, at the time of credit of such income to the account of the payee or at the time 
+of payment thereof in cash or by the issue of a cheque or draft or by any other mode, 
+whichever is earlier, deduct income-tax at the rates specified therein. 
+ 
+ 
+The first proviso to the said section provides that no deduction shall be made under 
+this section where the amount of such income does not exceed two hundred and forty 
+thousand rupees during the financial year. 
+ 
+ It is proposed to substitute the first proviso to the said section so as to provide that 
+no deduction of tax at source shall be made under this section where the income by way of 
+
+159 
+ 
+ 
+ 
+rent credited or paid for a month or part of a month by the aforesaid person to the account 
+of, or to, the payee, does not exceed fifty thousand rupees. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 60 of the Bill seeks to amend section 194J of the Income-tax Act relating to fees 
+for professional or technical services.  
+ 
+Sub-section (1) of the said section, inter alia, provides that the deduction of tax at 
+source in respect of any sum by way of fees for professional services and technical services, 
+etc. 
+ 
+Clause (B) of the first proviso to sub-section (1) of the said section provides that tax is 
+not required to be deducted under said sub-section if the amount of such sum or, as the case 
+may be, the aggregate of the amounts of such sums credited or paid or likely to be credited 
+or paid during the financial year does not exceed thirty thousand rupees in case of fees for 
+professional services, fees for technical services, royalty, or any sum referred to in clause 
+(va) of section 28. 
+   
+It is proposed to amend the said clause (B) of the first proviso so as to provide that no 
+deduction of tax at source shall be made under this section where the amount of such income 
+as specified therein or, as the case may be, the aggregate of the amounts of such income 
+credited or paid or likely to be credited or paid during a month, does not exceed fifty thousand 
+rupees. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 61 of the Bill seeks to amend section 194K of the Income-tax Act relating to 
+income in respect of units.  
+ 
+ 
+The said section provides that any person responsible for paying to a resident any 
+income in respect of units of a Mutual Fund specified under clause (23D) of section 10; or 
+units from the Administrator of the specified undertaking; or units from the specified 
+company, shall, at the time of credit of such income to the account of the payee or at the time 
+of payment thereof by any mode, whichever is earlier, deduct income-tax thereon at the rate 
+of ten per cent. 
+ 
+ 
+Clause (i) of the proviso to the said section provides that no tax shall be required to 
+be deducted under this section where the amount of such income or, as the case may be, the 
+aggregate of the amounts of such income credited or paid or likely to be credited or paid 
+during the financial year by the person responsible for making the payment to the account 
+of, or to, the payee does not exceed five thousand rupees. 
+ 
+ It is proposed to amend clause (i) of the proviso of the said section so as to provide 
+that no tax is required to be deducted under this section if the amount of such income or, as 
+the case may be, the aggregate of the amounts of such income credited or paid or likely to 
+be credited or paid during the financial year by the person responsible for making the 
+payment to the account of, or to, the payee does not exceed ten thousand rupees. 
+ 
+This amendment will take effect from 1st April, 2025.
+
+160 
+ 
+ 
+ 
+ Clause 62 of the Bill seeks to amend section 194LA of the Income-tax Act relating 
+to payment of compensation on acquisition of certain immovable property.  
+ 
+The said section, inter alia, provides that any person responsible for paying to a resident 
+any sum, being in the nature of compensation or the enhanced compensation or the 
+consideration or the enhanced consideration on account of compulsory acquisition, under 
+any law for the time being in force, of any immovable property, shall, at the time of payment 
+of such sum in cash or by issue of a cheque or draft or by any other mode, whichever is 
+earlier, deduct an amount equal to ten per cent of such sum as income-tax thereon. 
+ 
+The first proviso to the said section provides that no deduction shall be made under this 
+section where the amount of such payment or, as the case may be, the aggregate amount of 
+such payments to a resident during the financial year does not exceed two lakh and fifty 
+thousand rupees. 
+ 
+It is proposed to amend the first proviso to the said section so as to provide that no tax 
+is required to be deducted at source under this section if the amount of such payment or, as 
+the case may be, the aggregate amount of such payments to a resident during the financial 
+year does not exceed five lakh rupees. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 63 of the Bill seeks to amend section 194LBC of the Income-tax Act relating to 
+income in respect of investment in securitisation trust.  
+ 
+ 
+The said section, inter alia, provides that where any income is payable to an investor, 
+being a resident, in respect of an investment in a securitisation trust as specified therein, the 
+person responsible for making the payment shall, deduct income-tax, at the rate of 25%, if 
+the payee is an individual or a Hindu undivided family and 30%, if the payee is any other 
+person. 
+ 
+ It is proposed to amend the said section so as to provide a reduced uniform rate of 
+tax deducted at source of 10%, instead of the two rates specified above. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 64 of the Bill seeks to amend section 194Q of the Income-tax Act relating to tax 
+deduction at source on payment of certain sum for purchase of goods.  
+ 
+The said section provides that any person being a buyer who pays any sum to a resident 
+seller for purchase of any goods of the value or aggregate of value exceeding fifty lakh rupees 
+in any previous year, to deduct 0.1% of such sum exceeding fifty lakh rupees as income-tax, 
+subject to certain conditions.  
+ 
+Sub-section (5) of the said section provides that the provisions of the said sub-section 
+shall not apply to a transaction, inter alia, tax is collectible under the provisions of section 
+206C other than a transaction to which sub-section (1H) of section 206C applies. 
+
+161 
+ 
+ 
+ 
+It is proposed to omit reference of sub-section (1H) of section 206C in the said sub-
+section. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 65 of the Bill seeks to amend section 194S of the Act relating to payment on 
+transfer of virtual digital asset. 
+ 
+Sub-section (1) of the said section provides that any person responsible for paying to any 
+resident any sum by way of consideration for transfer of a virtual digital asset, shall, at the 
+time of credit of such sum to the account of the resident or at the time of payment of such 
+sum by any mode, whichever is earlier, deduct an amount equal to 1% of such sum as 
+income-tax thereon. 
+  
+Sub-section (2) of said section provides that the provisions of sections 203A and 206AB 
+shall not apply to a specified person. 
+ 
+It is proposed to amend the said sub-section so as to omit the reference of section 206AB. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 66 of the Bill seeks to omit section 206AB of the Income-tax Act relating to 
+special provision for deduction of tax at source for non-filers of income-tax return. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 67 of the Bill seeks to amend section 206C of the Income-tax Act relating to 
+profits and gains from the business of trading in alcoholic liquor, forest produce, scrap, etc. 
+ 
+Sub-section (1) of the said section provides that every person, being a seller shall, at 
+the time of debiting of the amount payable by the buyer to the account of the buyer or at the 
+time of receipt of such amount from the said buyer in cash or by the issue of a cheque or 
+draft or by any other mode, whichever is earlier, collect from the buyer of any goods of the 
+nature as specified, a sum equal to the percentage  specified therein, of such amount as 
+income-tax. In case of timber obtained under a forest lease and timber obtained by any mode 
+other than under a forest lease, the rate for tax collection at source is two and one-half per 
+cent.  
+ 
+It is proposed to amend sub-section (1) of the said section so as to provide that for 
+timber or any other forest produce (not being tendu leaves) obtained under a forest lease and 
+on timber obtained by any mode other than under a forest lease, tax will be required to be 
+collected at source at the rate of two per cent. 
+ 
+It is further proposed to amend the Table in the said sub-section to omit serial number 
+(v) and to provide that tax be collected at source in serial number (iii) of the Table on timber 
+and any other forest produce (not being tendu leaves), obtained under a forest lease. 
+ 
+It is also proposed to amend sub-section (1) of the said section so as to insert an 
+Explanation to provide the meaning of the expression “forest produce”. 
+
+162 
+ 
+ 
+ 
+Sub-section (1G) of said section provides for collection of tax at source by an authorised 
+dealer, who receives an amount, for remittance from a buyer, being a person remitting such 
+amount under the Liberalised Remittance Scheme of the Reserve Bank of India or a seller of 
+an overseas tour program package, who receives any amount from a buyer, being the person 
+who purchases such package, at the rates specified therein. 
+ 
+ 
+It is proposed to amend the first, second and fourth provisos to the said sub-section 
+so as to increase the threshold of amount or aggregate of amounts for requirement to collect 
+tax at source under this sub-section as provided therein, to ten lakh rupees.  
+ 
+ 
+It is further proposed to amend the third proviso to the said sub-section so as to 
+provide that no tax be collected at source if the amount being remitted out is a loan obtained 
+from any financial institution as defined in section 80E, for the purpose of pursuing any 
+education.  
+ 
+Sub-section (1H) of the said section provides that any person being a seller who receives 
+consideration for sale of any goods of the value or aggregate of value exceeding fifty lakhs 
+rupees in any previous year, to collect from the buyer a sum equal to 0.1% of the sale 
+consideration exceeding fifty lakhs rupees as income-tax, subject to certain conditions.    
+ 
+It is proposed to amend the said sub-section so as to insert a proviso to provide that the 
+provisions of this sub-section shall not apply from 1st April, 2025.  
+ 
+It is further proposed to consequentially omit references of sub-section (1H) in sub-
+section (9) and sub-section (10A) of the said section.   
+ 
+Sub-section (7A) of the said section provides that no order shall be made under sub-
+section (6A) of the said section deeming a person to be an assessee in default for failure to 
+collect the whole or any part of the tax from any person, at any time after the expiry of six 
+years from the end of the financial year in which tax was collectible or two years from the 
+end of the financial year in which the correction statement is delivered under sub-section 
+(3B) of section 206C, whichever is later. 
+   
+It is proposed to amend the said sub-section so as to insert a proviso to provide that the 
+provisions of sub-sections (3), (5) and (6) of section 153 and Explanation 1 thereof shall 
+apply to the time limit prescribed in sub-section (7A). 
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 68 of the Bill seeks to omit section 206CCA of the Income-tax Act relating to 
+special provision for collection of tax at source for non-filers of income-tax return. 
+  
+This amendment will take effect from 1st April, 2025. 
+Clause 69 of the Bill seeks to amend section 246A of the Income-tax Act relating to 
+appealable orders before Commissioner (Appeals). 
+ 
+Clause (ja) of sub-section (1) of the said section provides that an order of imposing or 
+enhancing penalty under sub-section (1A) of section 275 may be appealed before the 
+Commissioner (Appeals).
+
+163 
+ 
+ 
+ 
+ 
+It is proposed to amend the said clause so as to provide that an order of imposing or 
+enhancing penalty under sub-section (2) of section 275 may be appealed before the 
+Commissioner (Appeals).  
+ 
+It is also proposed to consequentially amend clause (n) of sub-section (1) of the said 
+section so as to omit the words “made by a Deputy Commissioner”. 
+ 
+These amendments will take effect from 1st April, 2025. 
+Clause 70 of the Bill seeks to amend section 253 of the Income-tax Act relating to 
+appeals to the Appellate Tribunal. 
+ 
+The said section, inter alia, empowers the Central Government to notify a faceless 
+scheme for the purposes of appeal to the Appellate Tribunal so as to impart greater 
+efficiency, transparency and accountability. 
+ 
+Sub-section (9) of the said section empowers that the Central Government, may, for the 
+purpose of giving effect to the aforesaid scheme, direct that any of the provisions of the 
+Income-tax Act shall not apply or shall apply with such exceptions, modifications and 
+adaptations as may be specified.  
+ 
+Proviso to sub-section (9) provides that no direction shall be issued after the 31st March, 
+2025.  
+ 
+It is proposed to omit the said proviso. 
+ 
+This amendment will give effect from 1st April, 2025. 
+Clause 71 of the Bill seeks to amend section 255 of the Income-tax Act relating to the 
+procedure of Appellate Tribunal. 
+ 
+The said section, inter alia, empowers the Central Government to notify a faceless 
+scheme for the purposes of disposal of appeals by the Appellate Tribunal to impart greater 
+efficiency, transparency and accountability. 
+         
+Sub-section (8) of the said section empowers that the Central Government, may, for the 
+purpose of giving effect to the aforesaid scheme, direct that any of the provisions of the 
+Income-tax Act shall not apply or shall apply with such exceptions, modifications and 
+adaptations as may be specified.  
+ 
+Proviso to sub-section (8) provides that no direction shall be issued after the 31st March, 
+2025.  
+ 
+It is proposed to omit the said proviso. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 72 of the Bill seeks to amend the section 263 of the Income-tax Act relating 
+to revision of orders prejudicial to revenue.
+
+164 
+ 
+ 
+ 
+  
+The said section, inter alia, provides for revision of order prejudicial to revenue by 
+the Principal Chief commissioner or Chief Commissioner or Principal Commissioner or 
+Commissioner.  
+ 
+Sub-section (2) of the said section provides that no order under the said section shall 
+be made after the expiry of two years from the end of the financial year in which the order 
+sought to be revised was passed.   
+ 
+The Explanation to the said section provides that the period during which any 
+proceeding under that section is stayed by an order or injunction of any court shall be 
+excluded in computing the period of limitation. 
+ 
+It is proposed to amend the said Explanation so as to clarify the commencement date 
+and the ending date of such exclusion period. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 73 of the Bill seeks to amend the section 264 of the Income-tax Act relating to 
+revision of other orders. 
+ 
+The said section inter alia, provides the procedure for revision of other orders by the 
+Principal Chief Commissioner or Chief Commissioner or Principal Commissioner or 
+Commissioner.  
+ 
+Sub-section (6), of the said section provides that an order shall be passed within one 
+year from the end of the financial year in which such application is made by the assessee for 
+revision.  
+ 
+ The Explanation to the said sub-section provides that the period during which any 
+proceeding under this section is stayed by an order or injunction of any court shall be 
+excluded in computing the period of limitation.        
+ 
+It is proposed to amend the said Explanation so as to clarify the commencement date 
+and the ending date of such exclusion period. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 74 of the Bill seeks to amend section 270AA of the Income-tax Act, 1961 relating 
+to immunity from imposition of penalty, etc. 
+ 
+The said section, inter alia, provides procedure of granting immunity by the Assessing 
+Officer from imposition of penalty or prosecution, if assessee fulfils the conditions specified 
+therein. 
+ 
+Sub-section (4) of the said section provides that the Assessing Officer shall pass an order 
+accepting or rejecting the application, within a period of one month from the end of the 
+month in which the application requesting immunity is received.  
+ 
+
+165 
+ 
+ 
+ 
+It is proposed to amend the said sub-section so as to extend the processing period to three 
+months from the end of the month in which application for immunity is received by the 
+Assessing Officer.  
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 75 of the Bill seeks to amend section 271AAB of the Income-tax Act relating to 
+penalty where search has been initiated. 
+ 
+Sub-section (1A) of the said section, inter-alia, provides that for a search initiated on or 
+after the 15th December, 2016, a penalty of thirty per cent. of undisclosed income may be 
+levied, if the assessee admits such undisclosed income under sub-section (4) of section 132 
+and specifies the manner in which such income has been derived and on or before the 
+specified date, pays the tax together with interest, if any, in respect of such undisclosed 
+income and furnishes the return of income for the specified previous year declaring such 
+income. In case, above conditions are not fulfilled then a penalty of sixty per cent. of 
+undisclosed income may be levied.  
+ 
+It is proposed to amend the said sub-section so as to provide that the provisions shall not 
+be applicable to a case where search has been initiated under section 132 on or after the 1st 
+day of September, 2024. 
+ 
+This amendment will take effect retrospectively from 1st September, 2024. 
+Clause 76 of the Bill seeks to omit the section 271BB of the Income-tax Act relating 
+to failure to subscribe to the eligible issue of capital. 
+ 
+The said section provides that, any person who fails to subscribe any amount of 
+subscription to the units issued under any scheme referred to in sub-section (1) of section 
+88A to the eligible issue of capital under that sub-section within the period of six months 
+specified therein, may be directed by the Joint Commissioner to pay, by way of penalty, a 
+sum equal to twenty percent of such amount. 
+   
+Section 88A has been already omitted vide Finance (No.2) Act, 1996 with 
+retrospective effect from 1st April, 1994. In the absence of the parent section, relevance of 
+any section on penalty, does not exist. 
+ 
+It is, therefore, proposed to omit section 271BB.  
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 77 of the Bill seeks to amend the section 271C of the Income-tax Act relating 
+to penalty for failure to deduct tax at source. 
+ 
+Sub-section (2) of the said section provides that any penalty under sub-section (1) 
+shall be imposed by the Joint Commissioner. 
+ 
+It is proposed to insert a proviso in the said sub-section so that such penalty shall be 
+imposed by the Assessing Officer in place of Joint Commissioner on or after 1st day of 
+April, 2025 subject to the provisions of sub-section (2) of section 274.
+
+166 
+ 
+ 
+ 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 78 of the Bill seeks to amend the section 271CA of the Income-tax Act relating 
+to penalty for failure to collect tax at source. 
+ 
+Sub-section (2) of the said section provides that penalty under sub-section (1) shall be 
+imposed by the Joint Commissioner. 
+ 
+It is proposed to insert a proviso in the said sub-section so that such penalty shall be 
+imposed by the Assessing Officer in place of Joint Commissioner on or after the 1st day of 
+April, 2025 subject to the provisions of sub-section (2) of section 274.  
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 79 of the Bill seeks to amend the section 271D of the Income-tax Act relating 
+to penalty for failure to comply with the provisions of section 269SS.  
+ 
+Sub-section (2) of said section provides that penalty under sub-section (2) shall be 
+imposed by the Joint Commissioner. 
+ 
+It is proposed to insert a proviso in the said sub-section so that such penalty shall be 
+imposed by the Assessing Officer in place of Joint Commissioner on or after the 1st day of 
+April, 2025 subject to the provisions of sub-section (2) of section 274.  
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 80 of the Bill seeks to amend the section 271DA of the Income-tax Act relating 
+to penalty for failure to comply with the provisions of section 269ST.  
+ 
+Sub-section (2) of the said section provides that penalty under sub-section (1) shall be 
+imposed by the Joint Commissioner. 
+ 
+It is proposed to insert a proviso in the said sub-section so that such penalty shall be 
+imposed by the Assessing Officer in place of Joint Commissioner on or after the 1st day of 
+April, 2025 subject to the provisions of sub-section (2) of section 274.  
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 81 of the Bill seeks to amend the section 271DB of the Income-tax Act relating 
+to penalty for failure to comply with the provisions of section 269SU.  
+ 
+Sub-section (2) of said section provides that any penalty under sub-section (1) shall be 
+imposed by the Joint Commissioner. 
+ 
+It is proposed to insert a proviso in the said sub-section so that such penalty shall be 
+imposed by the Assessing Officer in place of Joint Commissioner on or after the 1st day of 
+April, 2025 subject to the provisions of sub-section (2) of section 274.  
+ 
+This amendment will take effect from 1st April, 2025.
+
+167 
+ 
+ 
+ 
+Clause 82 of the Bill seeks to amend the section 271E of the Income-tax Act relating 
+to penalty for failure to comply with the provisions of section 269T.  
+ 
+Sub-section (2) of said section provides that any penalty under sub-section (1) shall be 
+imposed by the Joint Commissioner. 
+ 
+It is proposed to insert a proviso in the said sub-section so that such penalty shall be 
+imposed by the Assessing Officer in place of Joint Commissioner on or after the 1st day of 
+April, 2025 subject to the provisions of sub-section (2) of section 274.  
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 83 of the Bill seeks to substitute section 275 of the Income-tax Act, relating to 
+bar of limitation for imposing penalties. 
+ 
+The proposed section, inter alia, provide that any order imposing a penalty under 
+Chapter XXI shall not be passed after the expiry of six months from the end of the quarter 
+in which the connected proceedings are completed, or the order of appeal is received by the 
+jurisdictional Principal Commissioner or Commissioner, or the order of revision is passed, 
+or the notice for imposition of penalty is issued, as the case maybe. 
+  
+This amendment will take effect from 1st April, 2025. 
+Clause 84 of the Bill seeks to amend section 276BB of the Income-tax Act relating to 
+failure to pay the tax collected at source.  
+ 
+The provisions of the said section provides that if a person fails to pay to the credit of the 
+Central Government, the tax collected by him as required under the provisions of section 
+206C, he shall be punishable with rigorous imprisonment for a term which shall not be less 
+than three months but which may extend to seven years and with fine. The proviso to sub-
+section (3) of section 206C mandates that the tax collected at source has to be paid to the 
+credit of the Central Government within the time provided by rules. 
+   
+It is proposed to insert a proviso to the said section so as to provide that the provisions of 
+that section shall not apply, if the payment of the tax collected at source has been made to 
+the credit of the Central Government at any time on or before the time provided by rules for 
+filing the statement under the proviso to sub-section (3) of section 206C in respect of such 
+payment. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clause 85 of the Bill seeks to insert new section 285BAA in the Income-tax Act relating 
+to obligation to furnish information on transaction of crypto-asset.  
+ 
+Sub-section (1) of the said section seeks to provide that any person, being a reporting 
+entity, as prescribed, in respect of crypto asset, shall furnish information in respect of a 
+transaction of such crypto-asset in a statement, for such period, within such time, in such 
+form and manner and to such income-tax authority, as prescribed. 
+
+168 
+ 
+ 
+ 
+Sub-section (2) thereof seeks to provide that where the prescribed income-tax authority 
+considers that the statement furnished under sub-section (1) is defective, he may intimate the 
+defect to the person who has furnished such statement and give him an opportunity of 
+rectifying the defect within thirty days from the date of such intimation or such further period 
+as may be allowed, and if the defect is not rectified within the said period allowed, the 
+provisions of this Act shall apply as if such person had furnished inaccurate information in 
+the statement. 
+ 
+Sub-section (3) thereof seeks to provide that where a person who is required to furnish a 
+statement has not furnished the same within the specified time, the prescribed income-tax 
+authority may serve upon such person a notice requiring him to furnish such statement within 
+a given time and he shall furnish the statement within the time specified in the notice; 
+ 
+Sub-section (4) thereof seeks to provide that if any person, having furnished a statement, 
+or in pursuance of a notice issued, comes to know or discovers any inaccuracy in the 
+information provided in the statement, he shall within ten days inform the income-tax 
+authority, the inaccuracy in such statement and furnish the correct information in such 
+manner as specified by rules; 
+ 
+Sub-section (5) thereof seeks to provide that the Central Government may, by rules 
+specify the persons to be registered with the prescribed income-tax authority, the nature of 
+information and the manner in which such information shall be maintained by the persons 
+and the due diligence to be carried out by the persons referred to in sub-section (1) for the 
+purpose of identification of any crypto-asset user or owner. 
+ 
+It is also proposed to provide that for the purposes of the said section, crypto-asset shall 
+have the meaning assigned to it in sub-clause (d) of clause (47A) of section 2. 
+ 
+This amendment will take effect from 1st April, 2026. 
+Clause 86 of the Bill seeks to amend rule 68B of the Second Schedule to the Income-
+tax Act relating to time-limit for sale of attached immovable property. 
+ 
+The said rule provides the time limit for the sale of attached immovable property by 
+the Tax Recovery Officer.  
+ 
+Clauses (i) and (ii) of sub-rule (2) of the said rule, inter alia, provides that the period 
+during which the levy of the tax, interest, fine, penalty or any other sum is stayed by an 
+order or injunction of any court; or the proceeding of attachment or sale of the immovable 
+property are stayed by an order or injunction of any court shall be excluded in computing 
+the period of limitation. 
+ 
+It is proposed to substitute clauses (i) and (ii) of the said sub-rule so as to clarify the 
+commencement date and the ending date of such exclusion period. 
+ 
+This amendment will take effect from 1st April, 2025. 
+ 
+ 
+ 
+
+169 
+ 
+ 
+ 
+Indirect Taxes 
+Customs 
+Clause 87 of the Bill seeks to amend sub-sections (1) and (1A), and to insert new 
+sub-sections (1B) and (1C), in section 18 of the Customs Act, 1962. It is proposed to amend 
+sub-section (1) so as to provide that the proper officer may provisionally assess the duty on 
+goods. It is proposed to amend sub-section (1A) so as to remove reference to the time within 
+which the proper officer shall finalise the provisional assessment.  Sub-section (1B) seeks to 
+provide time limit of two years for finalisation of the provisional assessment which shall be 
+extendable by the Principal Commissioner of Customs or Commissioner of Customs for a 
+further period of one year, if the sufficient cause is shown. It further, provides that for the 
+pending cases, the time-limit shall be reckoned from the date on which the Finance Bill, 
+2021 receives the assent of the President. Sub-section (1C) seeks to provide for certain 
+grounds on which the time-limit of two years shall apply not from the date of the order of 
+the provisional assessment, but from the date when the reasons for such ground ceases to 
+exit. 
+Clause 88 of the Bill seeks to insert a new section 18A in the Customs Act to provide 
+for voluntary revision of entry, post clearance by the importers and exporters, in relation to 
+the goods in such form and manner, within such time and subject to the conditions as may 
+be prescribed.  It further provides for self-assessment of the revised entry and allow payment 
+of duty or treat the revised entry as a refund claimed under section 27. It also empowers the 
+proper officer verify and reassess the revised entry.  It also provides that no revision of entry 
+shall be made under the said section in certain cases specified in sub-section (5) of the said 
+section.   
+Clause 89 of the Bill seeks to amend section 27 of the Customs Act so as to insert a 
+new Explanation in sub-section (1) therein, so as to clarify that the computation of the period 
+of limitation for claim of refund consequent to the revised entry under clause (b) of sub-
+section (3) of section 18A or amendment under section 149 of the Customs Act, shall be one 
+year from the date of payment of duty or interest. 
+Clause 90 of the Bill seeks to amend section 28 of the Customs Act by inserting a 
+new clause (ba) in the Explanation 1 of the said section so as to provide that the relevant 
+date, in case where duty is paid under the revised entry under clause (b) of sub-section (3) 
+of section 18A, shall be the date of payment of duty or interest. 
+Clause 91 of the Bill seeks to amend section 127A of the Customs Act so as to define 
+the expressions “Interim Board” and “pending application”. 
+Clause 92 of the Bill seeks to amend section 127B of the Customs Act by inserting 
+two provisos therein, to provide that no application shall be made under the said section on 
+or after the 1st day of April, 2025 and every pending application shall be dealt by the Interim 
+Board from the stage at which such pending application stood immediately before 
+constitution of the Interim Board.  
+Clause 93 of the Bill seeks to amend section 127C of the Customs Act by inserting 
+new sub-sections (11) and (12) therein, so as to provide that on and from the 1st day of April, 
+
+170 
+ 
+ 
+ 
+2025, the provisions of sub-sections (2), (3), (4), (5), (5A), (6), (7), (8) and (8A) shall apply 
+to pending applications with modifications specified therein. 
+ 
+It further empowers the Interim Board to extend the time-limit provided under sub-
+section (8A), within three months from its constitution, by such period not exceeding twelve 
+months from the date of its constitution. 
+Clause 94 of the Bill seeks to amend section 127D of the Customs Act by inserting 
+a new sub-section (3) therein, so as to provide that the power of the Settlement Commission 
+shall be exercised by the Interim Board and the provisions of that section shall mutatis 
+mutandis apply to the Interim Board as they apply to the Settlement Commission. 
+Clause 95 of the Bill seeks to amend section 127F of the Customs Act by inserting a 
+new sub-section (5) therein, to provide that the powers and functions of the Settlement 
+Commission under the said section shall be exercised or performed by the Interim Board and 
+the provisions of that section shall mutatis mutandis apply to the Interim Board as they apply 
+to the Settlement Commission. 
+Clause 96 of the Bill seeks to amend section 127G of the Customs Act so as to 
+provide that the power of the Settlement Commission shall be exercised by the Interim Board 
+and the provisions of that section shall mutatis mutandis apply to the Interim Board as they 
+apply to the Settlement Commission. 
+Clause 97 of the Bill seeks to amend section 127H of the Customs Act by inserting 
+a new sub-section (3) therein, to provide that the powers and functions of the Settlement 
+Commission under the said section shall be exercised or performed by the Interim Board and 
+the provisions of that section shall mutatis mutandis apply to the Interim Board as they apply 
+to the Settlement Commission. 
+Customs tariff 
+Clause 98 seeks to amend the First Schedule to the Customs Tariff Act–– 
+(a) in the manner specified in the Second Schedule so as to revise the rates in 
+respect of certain tariff items with effect from the 2nd February, 2025; 
+(b) in the manner specified in the Third Schedule with view to harmonise certain 
+entries with the Harmonised System of Nomenclature to create new tariff lines in respect 
+of certain entries and to revise the rates in respect of certain tariff items, with effect from 
+the 1st May, 2025. 
+Central Excise 
+Clause 99 of the Bill seeks to amend section 31 of the Central Excise Act so as to 
+define the expressions such as “Interim Board” and “pending application”. 
+Clause 100 of the Bill seeks to insert a new section 31A in the Central Excise Act so 
+as to provide for the constitution of one or more Interim Boards for the settlement of pending 
+applications and to provide that every Interim Board shall consist of three members, each 
+being an officer of the rank of Chief Commissioner or above.  It further provides that if the 
+
+171 
+ 
+ 
+ 
+members of the Interim Board differ in their opinion on any point, the point shall be decided 
+according to the opinion of the majority. 
+It also provides that every pending application shall be dealt by the Interim Board 
+from the stage at which such pending application stood immediately before constitution of 
+the Interim Board. 
+Clause 101 of the Bill seeks to amend section 32 of the Central Excise Act so as to 
+provide that the Customs, Central Excise and Service Tax Settlement Commission shall 
+cease to operate on or after the 1st day of April, 2025. 
+Clauses 102 to 105 of the Bill seeks to amend sections 32A, 32B, 32C and 32D of 
+the Central Excise Act so as to provide that the existing provisions of the said sections shall 
+cease to apply on or after the 1st day of April, 2025. 
+Clause 106 of the Bill seeks to amend section 32E so as to provide that no new 
+application shall be made under this section on or after the 1st day of April, 2025. 
+Clause 107 of the Bill seeks to insert sub-sections (11) and (12) in section 32F of the 
+Central Excise Act so as to provide that on and from the 1st day of April, 2025, the 
+provisions of sub-sections (2), (3), (4), (5), (5A), (6), (7), (8) and (10) shall apply to pending 
+applications with modifications specified therein.  
+It further empowers the Interim Board to extend the time-limit provided under sub-
+section (6), within three months of its constitution, by such period not exceeding twelve 
+months from the date of its constitution. 
+Clauses 108 to 115 of the Bill seek to amend sections 32G, 32-I, 32J, 32K, 32L, 
+32M, 32-O and 32P of the Central Excise Act so as to provide that the powers and functions 
+of the Settlement Commission under the said sections shall be exercised or performed by 
+the Interim Board on and from 1st day of April, 2025 and all provisions of the said sections 
+shall mutatis mutandis apply to the Interim Board as they apply to the Settlement 
+Commission. 
+Central Goods and Services Tax 
+Clause 116 of the Bill seeks to amend section 2 of the Central Goods and Services 
+Tax Act relating to definitions.  
+ 
+It is proposed to amend the definition of “Input Service Distributor” in clause (61) of 
+said section 2 so as to explicitly provide for distribution of input tax credit by the Input 
+Service Distributor in respect of inter-state supplies, on which tax has to be paid on reverse 
+charge basis, by inserting reference to sub-section (3) and sub-section (4) of section 5 of the 
+Integrated Goods and Services Tax Act in the definition of Input Service Distributor. 
+ 
+This amendment shall take effect from 1st day of April, 2025. 
+It is further proposed to amend sub-clause (c) of clause (69) of section 2 so as to 
+substitute the term “municipal or local fund” with the terms “municipal fund or local fund” 
+and to insert an Explanation after the said sub-clause, to provide the definitions of the terms 
+
+172 
+ 
+ 
+ 
+“local fund” and “municipal fund” used in the definition of “local authority” under the said 
+clause so as to clarify the scope of the said terms. 
+It is also proposed to insert a new clause (116A) in section 2 so as to define the 
+expression “unique identification marking” to mean a mark that is unique, secure and non-
+removable, for implementation of track and trace mechanism. 
+Clause 117 of the Bill seeks to omit sub-section (4) of section 12 of the Central Goods 
+and Services Tax Act so as to remove the provision for time of supply in respect of 
+transaction in vouchers, the same being neither supply of goods nor supply of services. 
+Clause 118 of the Bill seeks to omit sub-section (4) of section 13 of the Central Goods 
+and Services Tax Act so as to remove the provision for time of supply in respect of 
+transaction in vouchers, the same being neither supply of goods nor supply of services. 
+Clause 119 of the Bill seeks to amend clause (d) of sub-section (5) of section 17 of 
+the Central Goods and Services Tax Act so as to substitute the expression “plant or 
+machinery” with the expression “plant and machinery” to remove any ambiguity in 
+interpretation for the purpose of availment of input tax credit in such cases. 
+ 
+It further seeks to insert an Explanation to clarify that the said amendment is made 
+notwithstanding anything to the contrary contained in any judgment, decree or order of any 
+court or any other authority. 
+ 
+This amendment shall take effect retrospectively from 1st day of July, 2017. 
+Clause 120 of the Bill seeks to amend sub-section (1) of section 20 of the Central 
+Goods and Services Tax Act so as to explicitly provide for distribution of input tax credit by 
+the Input Service Distributor in respect of inter-State supplies, on which tax has to be paid 
+on reverse charge basis, by inserting a reference to sub-section (3) and sub-section (4) of 
+section 5 of the Integrated Goods and Services Tax Act in the said sub-section. 
+ 
+It further seeks to amend sub-section (2) of the said section so as to explicitly provide 
+for distribution of input tax credit by the Input Service Distributor in respect of inter-State 
+supplies, on which tax has to be paid on reverse charge basis, by inserting reference to sub-
+section (3) and sub-section (4) of section 5 of the Integrated Goods and Services Tax Act in 
+the said sub-section. 
+ 
+This amendment shall take effect from 1st day of April, 2025. 
+Clause 121 of the Bill seeks to amend the proviso to sub-section (2) of section 34 of 
+the Central Goods and Services Tax Act so as to explicitly provide for the requirement of 
+reversal of corresponding input tax credit in respect of a credit-note, if availed, by the 
+registered recipient, for the purpose of reduction of tax liability of the supplier in respect of 
+the said credit note. 
+ 
+It further seeks to remove the condition in the said proviso of not having passed the 
+incidence of interest on supply for the purpose of reduction of tax liability of the supplier in 
+respect of the said credit note. 
+
+173 
+ 
+ 
+ 
+Clause 122 of the Bill seeks to amend sub-section (1) of section 38 of the Central 
+Goods and Services Tax Act to omit the expression “auto-generated” with respect to 
+statement of input tax credit in the said sub-section. 
+ 
+It further seeks to amend sub-section (2) of the said section by omitting the 
+expression “auto-generated” with respect to statement of input tax credit in the said sub-
+section and inserting the expression “including” after the words “by the recipient” in clause 
+(b) of said sub-section so as to make the said sub-section inclusive to cover other cases where 
+input tax credit is not available to taxpayer under any other provisions of the Act. 
+ 
+It further inserts a new clause (c) in the said sub-section to provide for an enabling 
+clause to prescribe other details to be made available in statement of input tax credit. 
+Clause 123 of the Bill seeks to amend sub-section (1) of section 39 of the Central 
+Goods and Services Tax Act so as to provide for an enabling clause to prescribe conditions 
+and restriction for filing of return under the said sub-section. 
+Clause 124 of the Bill seeks to substitute the proviso to sub-section (6) of section 
+107 of the Central Goods and Services Tax Act to provide for the requirement of pre-deposit 
+of ten per cent. of the penalty amount for filing an appeal before the Appellate Authority 
+against an order which involves demand of penalty without involving any demand of tax. 
+Clause 125 of the Bill seeks to insert a proviso to sub-section (8) of section 112 of 
+Central Goods and Services Tax Act to provide for the requirement of pre-deposit of ten per 
+cent. of the penalty amount for filing an appeal before the Appellate Tribunal against an 
+order which involves demand of penalty without involving any demand of tax. 
+Clause 126 of the Bill seeks to insert a new section 122B in the Central Goods and 
+Services Tax Act to provide for penal provisions for contraventions of the provision relating 
+to track and trace mechanism. 
+Clause 127 of the Bill seeks to insert a new section 148A in the Central Goods and 
+Services Tax Act so as to provide for an enabling provision for implementation of track and 
+trace mechanism for ensuring effective monitoring and control of supply of specified 
+commodities. 
+Clause 128 of the Bill seeks to insert a new clause (aa) in paragraph 8 of Schedule 
+III of the Central Goods and Services Tax Act to specify that the supply of goods warehoused 
+in a Special Economic Zone or in a Free Trade Warehousing Zone to any person before 
+clearance for exports or to the Domestic Tariff Area shall be treated neither as supply of 
+goods nor as supply of services. 
+ 
+It further seeks to amend the Explanation 2 of the said Schedule to clarify that the 
+said Explanation shall be applicable in respect of clause (a) of paragraph 8 of the said 
+Schedule. 
+ 
+It also seeks to insert an Explanation 3 in the said Schedule to define the expressions 
+“Special Economic Zone”, “Free Trade Warehousing Zone” and “Domestic Tariff Area”, 
+for the purpose of the proposed clause (aa) in paragraph 8 of said Schedule. 
+
+174 
+ 
+ 
+ 
+These amendments shall take effect retrospectively with effect from the 1st day of 
+July, 2017. 
+Clause 129 of the Bill seeks to clarify that no refund of the tax, already paid in respect 
+of the aforesaid activities or transactions, shall be available. 
+Service tax 
+Clause 130 of the Bill seeks to provide retrospective exemption from service tax to 
+reinsurance services provided by insurance companies under the Weather Based Crop 
+Insurance Scheme and Modified National Agricultural Insurance Scheme for the period from 
+1st day of April, 2011 to 30th day of June, 2017 (both days inclusive). 
+Miscellaneous 
+Clause 131 of the Bill seeks to amend section 13 of the Unit Trust of India (Transfer of 
+Undertaking and Repeal) Act, 2002 relating to tax exemption or benefit to continue to have 
+effect. 
+ 
+The said section, inter alia, provides for the period for which the tax shall be payable 
+by the Administrator of a specified undertaking. 
+ 
+It is proposed to amend sub-section (1) of the said section so as to extend the period 
+from 31st March, 2025 to 31st March, 2027. 
+ 
+This amendment will take effect from 1st April, 2025. 
+Clauses 132 to 140 of the Bill seeks to amend the preamble and certain provisions of 
+the Government Securities Act, 2006.   
+ 
+It is proposed to provide application of this Part.  Sub-section (1) of clause 132 seeks 
+to provide that this Part shall apply in the first instance to the whole of the States of Andhra 
+Pradesh, Chhattisgarh, Haryana, Nagaland, Punjab, Uttarakhand, Uttar Pradesh and West 
+Bengal and all the Union territories and it shall also apply to such other State which adopts 
+this Part by resolution passed in that behalf under clause (1) of article 252 of the Constitution. 
+ 
+Sub-section (2) of the said clause seeks to provide that it shall come into force at once 
+in the States of Andhra Pradesh, Chhattisgarh, Haryana, Nagaland, Punjab, Uttarakhand, 
+Uttar Pradesh and West Bengal and in the Union territories and in any other State which 
+adopts this Act under clause (1) of article 252 of the Constitution, on the date of such 
+adoption; and, save as otherwise provided in this Part, any reference in this Part to the 
+commencement of this Part shall, in relation to any State, mean the date on which this Part 
+comes into force in such State. 
+ 
+It is further proposed to make consequential amendments in the preamble and sub-
+sections (3) and (4) of section 2, of the said Act, to give reference of the erstwhile State of 
+Jammu and Kashmir as a Union territory.  
+ 
+ 
+
+175 
+ 
+ 
+ 
+It is also proposed to amend clause (f) of section 2 of the Act so as to insert the words 
+“and subject to such terms and conditions” after the words “any other purpose”.  It is also 
+proposed to omit the words “and having one of the forms mentioned in section 3” from the 
+said clause. 
+ 
+It is also proposed to amend section 3 of the Act so as to omit the words “subject to 
+such terms and conditions as may be specified.” 
+ 
+It is also proposed to amend sub-section (4) of section 5 of the Act so as to insert the 
+words brackets, letter and figure “or shall be construed to affect any restriction of 
+transferability of Government securities contained in any notification issued under clause (f) 
+of section 2 in respect of such securities” after the words “upon the Bank”.                              
+ 
+It is also proposed to omit sub-sections (1) and (2) of section 31 of the Act. 
+ 
+It is also proposed to omit the words “and the terms and conditions subject to which” 
+in clause (a) of sub-section (2) of section 32 of the Act. 
+ 
+Clause 140 of the Bill also seeks to repeal the Public Debt Act, 1944 and provide saving 
+clause thereto. 
+ 
+ 
+ 
+ 
+ 
+
+176 
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM REGARDING DELEGATED LEGISLATION 
+The provisions of the Bill, inter alia, empower the Central Government to issue 
+notifications and the Board to make rules for various purposes as specified therein. 
+Clause 3 of the Bill seeks to amend section 2 of the Income-tax Act relating to definitions. 
+It, inter alia, seeks to amend clause (22) of the said section. It is proposed to insert the 
+Explanation of ‘group entity’, ‘principal entity’ and ‘parent entity’ in Explanation 3, in 
+clause (d) of the said Explanation. It seeks to empower the Board to make rules regarding 
+the conditions which the said entities are required to satisfy. 
+Clause 9 of the Bill seeks to amend clause (2) of section 17 of the Income-tax Act relating 
+to “salary”, “perquisite” and “profits in lieu of salary” defined.  
+ 
+It is proposed to amend paragraph (c) of sub-clause (iii) of clause (2) to empower the 
+Board for making rules to determine the amount. 
+ 
+In clause (2), it is further proposed to amend the proviso occurring after sub-clause (viii) 
+of clause (vi), in the long line, in clause (B) to empower the Board for making rules to 
+determine the amount.  
+Clause 11 of the Bill seeks to insert a new section 44BBD in the Income-tax Act relating 
+to special provisions for computing profits and gains of non-residents engaged in the 
+business of providing services or technology, for setting up an electronics manufacturing 
+facility or in connection with manufacturing or providing electronic goods, article or things 
+in India. 
+ 
+It, inter alia, empowers the Board to make rules prescribing the conditions which the 
+resident company are required to satisfy in this behalf. 
+Clause 21 of the Bill seeks to amend section 92CA of the Income-tax Act relating to 
+reference to Transfer Pricing Officer. 
+ 
+It is proposed to insert a new sub-section (3B) in the said section so as to provide that the 
+arm’s length price being determined in relation to the international transaction or the 
+specified domestic transaction under sub-section (3) for any previous year shall apply to 
+similar international transaction or the specified domestic transaction for two consecutive 
+previous years immediately following such previous year, on fulfilment of the conditions, 
+specified therein.  Clause (b) of the said sub-section empowers the Board to make rules on 
+such option or options which are to be exercised.  Clause (c) of the said sub-section 
+empowers the Board to make rules providing the conditions subject to which option or 
+options exercised by the assessee will be declared by the Transfer Pricing Officer as valid 
+option. 
+Clause 88 of the Bill seeks to insert a new section 18A in the Customs Act, relating to 
+voluntary revision of entry, post clearance. Sub-section (1) of the said section 18A seeks to 
+empower the Government to provide by rules the form and manner and the time within which 
+entry in relation to the goods may be revised by the importer or exporter, post clearance.
+
+177 
+ 
+ 
+ 
+Clause 122 of the Bill seeks to amend sub-section (2) of section 38 of the Central 
+Goods and Services Tax Act to empower the Government to provide by rules other details 
+to be made available in the statement. 
+Clause 127 of the Bill seeks to insert a new section 148A in the Central Goods and 
+Services Tax Act, relating to track and trace mechanism for certain goods. Sub-section (2) 
+of the said section 148A seeks to empower the Government to provide by rules a system for 
+enabling affixation of unique identification marking and for electronic storage and access of 
+information and the person through whom such system may be provided.  It further seeks to 
+empower the Government to provide by rules the Unique Identification marking for goods 
+including the information to be recorded therein. 
+Sub-section (3) of the said section 148A seeks to empower the Government to provide 
+by rules, the information to be contained in, and the manner of affixing on the goods and 
+packages a unique identification marking under clause (a), the form and manner and the time 
+for furnishing information and details and maintaining records or documents under clause 
+(b), the time within which and the form and manner in which other details shall be  furnished 
+under clause (c) and the amount to be paid under clause (d) of the said sub-section. 
+2. The matters in respect of which rules may be made and matters of procedure and details 
+and it is not practicable to provide for them in the Bill itself. The delegation of legislative 
+powers is, therefore, of a normal character. 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+LOK SABHA 
+ 
+ 
+ 
+ 
+ 
+_________________________ 
+ 
+ 
+ 
+ 
+A  
+ 
+BILL 
+ 
+to give effect to the financial proposals of the Central Government for the financial year 
+2025-2026. 
+ 
+ 
+ 
+ 
+_________________________ 
+ 
+  
+ 
+ 
+ 
+(Smt. Nirmala Sitharaman, 
+Minister of Finance.) 
+ 

@@ -1,0 +1,1393 @@
+INDIA
+FINTECH 
+REPORT
+2ND EDITION — EXECUTIVE SUMMARY
+
+EXECUTIVE SUMMARY
+India FinTech Report 2020
+2
+The India FinTech Report is a comprehensive
+120+ pages study based on MEDICI’s proprietary
+FinTech data of thousands of startups, deep
+market intelligence derived from years of tracking
+the FinTech industry, and secondary research,
+refined through brain-storming sessions and in-
+depth interviews with segment experts to extract
+valuable market signals, identify market trends,
+and develop point-of-views in the report.
+MEDICI has a rich volume of information in both
+quantitative
+and
+qualitative
+forms,
+curated
+through
+our
+industry
+analysis
+and
+market
+engagement initiatives. In the secondary research
+process, we conducted an in-depth study of the
+Indian FinTech landscape, understanding the key
+stakeholders, drivers, trends, challenges, and
+opportunities. The key sources referred for the
+secondary
+research
+process
+spanned
+from
+company & industry reports, press releases,
+government & other official sources, national &
+international databases, our partners, and many
+others
+that
+facilitated
+valuable
+data-driven
+insights.
+Primary research formed the most crucial source
+of
+information
+gathering
+for
+this
+study.
+It
+complemented
+the
+secondary
+research
+with
+insights from industry veterans in Payments,
+Lending, Insurance, Wealth Management, and
+Corporate
+Banking
+segments.
+Over
+100
+interviews were conducted with industry experts
+across a span of seven months to gain the most
+updated and valuable insights on segments
+covered in the report.
+The
+qualitative
+&
+quantitative
+findings
+and
+insights from these research stages were curated
+by MEDICI analysts to present a comprehensive
+view of the FinTech landscape. These were
+further refined through years of deeply tracking
+the industry developments and bringing together
+the ecosystem. Please do visit the last page of this
+executive summary to access the full report.
+Research Methodology
+MEDICI India FinTech Report in partnership with FCC of IAMAI is being released
+at GLOBAL FINTECH FEST (GFF)
+
+EXECUTIVE SUMMARY
+India has seen explosive growth in the number of new
+ventures launched in the FinTech space driven by adoption
+Note: This analysis does not include China.
+The Story of India’s Emergence as a 
+Leading FinTech Hub
+3
+The global FinTech ecosystem continues to grow at a rapid pace. Hundreds of new startups are being founded every month across
+the globe. The US has been a leading destination in terms of the number of home-grown FinTech startups with a massive
+contribution toward global VC funding (generally on the top every year). In 2010–2015, the US saw 2003 FinTech startups being
+founded, the most for any country in the world. However, in recent years, India has come out of the shadows to emerge as one of the
+fastest-growing FinTech hubs.
+India’s FinTech story will be incomplete without talking about
+the governmental push, which we discuss later in detail.
+Drives such as demonetization proved to be a blessing in
+disguise for digital transactions in general and those FinTech
+companies that were able to take advantage of it in particular.
+Still, this FinTech revolution has to also become a financial
+inclusion revolution—and that is a much more difficult task.
+Small wins will not make much difference to improve the
+quality of life for underbanked or unbanked communities and
+people. To understand this, let's look at India 1, India 2, and
+especially India 3 (more than a billion people with lower than
+$1.3K per capita). While FinTech has impacted India 1 and to
+some extent, India 2, for financial inclusion, we need to cater
+to India 3 as well. So far, we do not see the impact of FinTech
+in India 3 except for a few companies like Kaleidofin, Eko
+financial services, Jai Kisan, GramCover, PayNearby and Aye
+Finance. Most startups do not operate in that segment.
+While we have made significant progress in formalization with
+digital ID and the ability to transact (access) with the ID and
+payment rails, we must bring the costs down using
+technology and create incentives (and financial education) for
+India 3 to use digital money and FinTech.
+Could FinTech be the solution? At scale, FinTech looks
+promising from the penetration perspective. Indian mobile
+wallet Paytm has more than 200 million users, including
+women and rural families, who can now participate in the
+digital economy. Paytm also has over 15 million acceptance
+points (QR codes), making it ubiquitous (relatively).
+Additionally, PhonePe has 10 million merchants as its
+customer base, and Razorpay has onboarded over 0.8 million
+merchants to its platform. Zerodha, an online brokerage firm,
+has the largest customer base of brokerage firms and has
+19.4 lakh active clients.
+FinTech startups are better suited to cater to some customer
+segments such as the 60 million+ SMEs in this country.
+FinTech startups offer efficient and effective solutions, which
+benefit SMEs by providing them with increased access to
+more diverse funding options. E.g. Khatabook, one of the
+fastest growing FinTechs, is digitizing the business ledger of
+small merchants and kirana stores at scale. We discuss other
+such segments and opportunities in the full 120+ page report.
+Large tech companies are getting super-interested in
+FinTech. The GAFAMs (Google, Apple, Facebook, Amazon,
+Microsoft) and the Flipkart/WhatsApp(FB)/Truecallers of the
+world are using their tech brainpower, user base, and data to
+offer superior financial services experiences. The onslaught
+has started in many countries, including India. We expect
+many of them to offer a whole array of financial services in the
+future. Some large home-grown companies like Reliance Jio
+are new and yet powerful entrants into the FinTech space with
+deep financial muscle and distribution in place. It will be
+interesting to see how Jio partners with BigTech players like
+FB/WhatsApp, Google (also now, investors) to solve the SME
+digitization problem that spans across financial (payments,
+loans) and non-financial areas (logistics).
+Apart from typical FinTech startups started by first-time
+entrepreneurs, there is a growing number of FinTechs by
+seasoned entrepreneurs such as Sachin Bansal (ex-Flipkart
+founder) and his firm Navi Technologies.
+Between 2010 and 2015, India saw 1216 new FinTech
+startups founded in this period. In 2014–15, there was a
+massive uptick in the number of new FinTech startups; the
+numbers grew from 210 in 2014 to 454 in 2015—a 116%
+increase in growth. The period between 2015 to June end
+2020 has seen phenomenal growth in new startups across
+Payments, Lending, Wealth, and others. India’s evolution as a
+progressive FinTech nation is not a miracle. It happened at
+the back of executing a four-point approach. Firstly, solving
+for identity in the form of Aadhaar for formalization. Secondly,
+getting everyone a bank account or equivalents (PMJDY) to
+store money. Thirdly, building scalable platform(s) to move
+money (IMPS, UPI, BBPS, etc.). And finally, allowing banks
+and FinTechs and wealth/insurance/lending players also to
+access platforms like UPI, GSTN & Digi Locker to innovate.
+This framework has led India to a FinTech revolution.
+0
+500
+1000
+1500
+2000
+2500
+NUMBER OF NEW FINTECH 
+STARTUPS FOUNDED (2015–H12020)
+US
+India
+UK
+Singapore
+Australia
+
+EXECUTIVE SUMMARY
+India FinTech Landscape
+4
+This table illustrates the 
+segment-wise breakup.
+NUMBER OF FINTECH 
+STARTUPS BY 
+SEGMENTS
+405
+Payments
+365
+Lending
+313
+WealthTech
+(Less PFM)
+173
+Personal Finance 
+Management
+111
+InsurTech
+58
+RegTech +
+Cybersecurity 
+748
+Other
+Segments
+India currently has around 2174 FinTech startups.
+Here’s the breakdown: 
+CITY-WISE BREAKUP (TOP 10 CITIES) 
+47
+133
+Hyderabad
+104
+Chennai
+Kolkata
+88
+Pune
+Bengaluru
+447
+Delhi
+208
+35
+Ahmedabad
+Mumbai
+437
+128
+Gurugram
+77
+Noida
+Bengaluru and Mumbai lead the momentum in FinTech, and together, these cities represent 42% of the startup
+headquarters. Apart from the top ﬁve FinTech destinations, which include Mumbai, Bangalore, New Delhi,
+Gurugram, and Hyderabad, the rest of India accounts for 738 FinTech startups.
+NCR region has 
+413+ FinTechs
+
+EXECUTIVE SUMMARY
+Market Landscape
+5
+Lending: 365 Startups
+WealthTech: 486 Startups
+INVESTMENTS PLATFORM
+ROBO-ADVISOR
+OTHERS
+PERSONAL FINANCE MANAGEMENT
+OTHERS
+P2P LENDING
+AGGREGATORS
+SME FINANCING
+DIGITAL CONSUMER LENDING
+Note: There is a growing trend of re-bundling and companies expanding into multiple segments. This representation is therefore directional in nature as companies might 
+be present in more than one subsegments or segments. Please reach out to us if you want to change the segment of your company or just want to discuss the rationale. 
+Some companies shown in the landscape may  have shut down operations or scaled down operations significantly during the COVID-19 period from March to June 2020.
+[Illustrative]
+[Illustrative]
+
+EXECUTIVE SUMMARY
+Market Landscape 
+6
+Digital Payments: 405 Startups
+InsurTech: 111 Startups
+CLAIMS
+ONLINE FIRST INSURANCE
+INTERNET OF THINGS
+AGGREGATORS/POLICY MANAGEMENT
+P2P PAYMENTS
+PROXIMITY PAYMENTS/ACCEPTANCE
+POS/MOBILE POS
+MOBILE DIGITAL WALLETS
+SOFTWARE/WHITELABEL/APIs
+eroute technologies
+a fintech company
+PAYMENT GATEWAYS
+BILL PAYMENTS & DIRECT MONEY TRANSFER
+SOFTWARE/WHITELABEL/INFRASTRUCTURE APIs/OTHER APIs
+Note: There is a growing trend of re-bundling and companies expanding into multiple segments. This representation is therefore directional in nature as companies might 
+be present in more than one subsegments or segments. Please reach out to us if you want to change the segment of your company or just want to discuss the rationale. 
+Some companies shown in the landscape may  have shut down operations or scaled down operations significantly during the COVID-19 period from March to June 2020.
+[Illustrative]
+[Illustrative]
+
+EXECUTIVE SUMMARY
+India FinTech Investments Trends 
+(2019-H12020)
+7
+STAGE-WISE BREAKUP OF TOTAL FINTECH FUNDING 
+($5.4 BN) IN INDIA – 2019–H12020
+Paytm
+(Series G, Nov. 2019 – $1,000 Mn)
+One97 
+(Series G, Dec. 2019 – $668 Mn)
+Navi Technologies 
+(Series: Unknown, Apr. 2020 – $395 Mn)
+DMI Finance
+(Series: Unknown, Jan. 2020 – $230 Mn)
+Policybazaar 
+(Series G, Nov. 2019 – $150 Mn)
+CRED 
+(Series B, Aug. 2019 – $120 Mn)
+Digit Insurance 
+(Venture Series, Jan. 2020 – $84 Mn)
+PhonePe 
+(Corporate Round, Dec. 2019 – $82 Mn)
+TOP 8 FUNDING DEALS
+ACTIVE INVESTORS
+[Not An Exhaustive List]
+4.55
+165.5
+330.2
+868.8
+484.3
+180.8 105.3
+1,818.0
+1,452.5
+7
+97
+48
+26
+18
+8
+3
+3
+53
+0
+20
+40
+60
+80
+100
+120
+0
+500
+1000
+1500
+2000
+Angel
+Seed
+Series A Series B Series C Series D Series E Series G
+Others
+Total Funding
+Total No of Deals
+26
+53
+18
+3
+
+EXECUTIVE SUMMARY
+Government & Regulator Initiatives
+8
+A Sneak Peek
+Central Government – Generates Necessary Tailwinds: Since the beginning of 2019, there has been a concerted effort by
+the central government through appropriate policies to leverage innovation to bring about visible societal-level changes. While
+some of these policies have been heavily debated in the context of already-operational FinTech business models, some have a
+far-reaching impact on fundamental issues such as data. Abolishing MDR on UPI and RuPay payments was one such heavily
+debated policy measure. Even as some of the existing revenue models in payments have come under extreme stress due to this
+mandate, it is expected to push the agenda of digital payments adoption much further.
+The Reserve Bank of India mandated all payment service providers to localize data within the country with no option to mirror
+the data outside of the country. Considering the significance of data, security, and access in an exponentially growing digital
+payments landscape and the fact that the majority of big players are foreign enterprises, this might have been an important
+move. However, the cost of this mandate to these enterprises is still being argued upon. The Personal Data Protection Bill was
+taken to the parliament in early 2020 but was delayed due to the COVID-19 pandemic. Clarity on the localization of data and the
+nuances of data protection, sharing, and portability are heavily dependent on the safe passage of this bill.
+The Supreme Court of India ruled against the RBI, lifting the ban on cryptocurrency trading.
+Regulators – Initial Traction, Long Way to Go: The RBI has been proactive in examining and setting up regulatory
+frameworks across various FinTech verticals such as digital payments, P2P lending, and more. In January 2020, the RBI gave
+its nod to video-based KYC as an alternative to physical verification. The video-KYC process allows due diligence of the
+customer and identifying documents via video chat. Additionally, the RBI also authorized the use of digital lockers for paperless
+document management as part of the KYC process. These steps will particularly help banks, NBFCs, prepaid wallet players,
+and Neobanks, all of whom have been pushing the edge of fully digitized onboarding for a while. Additionally, this should
+augment financial inclusion, with the cost of onboarding reducing significantly.
+While SEBI and IRDA have constituted committees to study the growing impact of FinTechs in the WealthTech & InsurTech in
+India, the advances for proactive regulatory policies that will facilitate disruptive innovations have been relatively slow. However,
+the initiative for setting up regulatory sandboxes where startups can develop and experiment with innovative products in a
+controlled environment is a step in the right direction. The IRDA sandbox received over 150 applications.
+In June 2020, the SEBI clarified that corporate Registered Investment Advisors could also distribute mutual funds. This should
+encourage several budding robo-advisors in India to re-strategize on their business models.
+State Governments – Up the Ante!: State governments in at least eight states have taken steps to create favorable policies to
+foster FinTech startups or establish FinTech hubs. With its own FinTech policy, Maharashtra continues to lead the way for other
+states with their vision. Here’s a time-lapse of Maharashtra’s initiatives:
+FEBRUARY 2018: LAUNCH OF POLICY
+Maharashtra becomes the first Indian state to launch its 
+own FinTech policy.
+JUNE 2018: MUMBAI FINTECH FESTIVAL
+Launches a FinTech registry for identification and 
+information collection on the FinTech ecosystem. 
+Furthermore, it launches an API sandbox to facilitate the 
+creation of new products in a secure environment.
+NOVEMBER 2018: SINGAPORE FINTECH FESTIVAL
+Eight shortlisted startups from the MFH Registry were 
+invited to showcase their solution at the festival. 
+DECEMBER 2018: ACCELERATOR 1.0
+Launches the inaugural version of its accelerator program 
+in which 13 startups were selected from over 200+ 
+applications. 
+MARCH 2019: FINTEGRATE ZONE 2019
+Launches the Uday FinTech Education Platform and 
+distribution of the second set of grants by Governor of 
+Maharashtra.
+MAY 2019: FINTECH EDUCATION PLATFORM
+Launches the FinTech Education Platform (FEP) that 
+hosts e-learning modules for technical, functional, and 
+miscellaneous skill sets.
+JUNE 2019: FINTECH INVESTMENTS & DEALS
+FInD platform was launched for matchmaking 
+between startups and investors.
+
+EXECUTIVE SUMMARY
+IndiaStack is the most ambitious societal initiative globally, aimed at putting up a public digital infrastructure based
+on open APIs in order to promote public and private digital initiatives. IndiaStack has played a catalytic role in India’s
+digital foundation and evolution.
+It is founded on the core principles that services can be:
+1.
+Presenceless 
+or capable of being authenticated from anywhere
+2.
+Paperless
+or reliant on digital records
+3.
+Cashless
+or truly universalizing the access and usage of digital payments
+4.
+Consent-based
+or allowing secure movement of data authenticated by its owners
+Aadhaar and UPI have been the most prominent components of the stack over the years. A number of incremental
+developments were introduced on various parts of the stack during the last 18 months ending June 2020. UPI was
+upgraded with new services such as eMandates and recurring payments to make collections easy for financial
+institutions and subscription-based businesses. On the back of RuPay going international, UPI is also being piloted
+for international launches in the UAE and Singapore. The ambiguity that prevailed on Aadhaar usage for onboarding
+has now been cleared with regulated financial entities allowed to use eKYC and unregulated entities allowed to use
+offline XML-based KYC. Account Aggregation, overseen by the RBI, is expected to go fully operational in the latter
+half of 2020 with seven account aggregators and several large banks and NBFCs launching consent-based data
+sharing. DigiLocker came out of the shadows and saw massive adoption in the last 12 months.
+Based on the success of IndiaStack, over 20 countries have shown interest in studying and implementing a digital
+identity system inspired by Aadhaar and the software stack built around it. In 2018, Singapore and India had signed
+a high-level agreement to “internationalize” the IndiaStack. The agreement has been followed up with the creation of
+an India-Singapore Joint Working Group on FinTech to develop API-based platforms for the ASEAN region. A
+number of countries and international agencies such as the World Bank and the Gates Foundation have also
+approached India with requests to help build digital identity and payment architectures in other markets.
+IndiaStack — Gateway to Opportunities
+9
+KEY METRICS FOR A SELECTED SUBSET OF THE SYSTEMS
+LAYER
+PROVIDER
+APIs/
+FUNCTIONALITY
+VOLUME/IMPACT
+Presenceless
+UIDAI
+Authentication
+1.25 Bn Enrolled
+43.56 Bn Authenticated to Date 
+1.18 Bn in June 2020
+Paperless
+UIDAI
+KYC
+8.26 Bn eKYC to Date
+104.53 Mn in June 2020
+MeitY/DigiLocker
+Documents
+3.79 Bn Issued Authentic Documents
+Cashless
+NPCI/UPI
+Payments
+1336.93 Mn Transactions in June 2020
+AEPS, Aadhaar Pay
+Payments
+397.39 Mn Transactions in June 2020
+Source: Websites of various providers.
+
+EXECUTIVE SUMMARY
+India has chosen to have a very different approach to open banking. Unlike many other geographies where instant payment
+initiatives are running parallel to open data initiatives, India flipped the equation by implicitly launching open banking with
+payments first on what is now widely considered the best real-time payment network in the world—UPI. Having tasted success
+on a large scale with UPI, India is now on the cusp of going live with the Account Aggregation framework, which will be its first
+foray into consent-based financial data sharing. Account Aggregators are trusted intermediaries that are empowered to broker
+consumers’ financial data between data providers and data users. Data providers and users are accredited enterprises. They
+currently fall under the ambit of one of the four Indian financial services regulators—RBI, SEBI, PFRDA, and IRDA. The
+exchange of data happens strictly based on consumer consent. India is now on the cusp of going live with the Account
+Aggregation framework, which will be its first foray into consent-based financial data sharing.
+Account Aggregation is envisioned to usher in a new kind of digital data model wherein Account Aggregators (regulated by the
+special NBFC-AA license) will act as data access fiduciaries between users/entities who are the primary owners of data, and
+banks, FIs, and NBFCs that maintain & manage it. In this case, users/entities will be classified as financial data owners, and
+banks, MFCs, insurance service providers, tax/GST platforms will be financial information providers (FIPs). Standardized API
+specifications are made available by ReBIT to make AA a very interoperable and technology agnostic framework. Specifications
+are purpose-built for and made available to aggregators, information providers, and information users.
+As of June 2020, three operating and four in-principle NBFC-AA licenses have been issued by the RBI. A host of banks and
+NBFCs are in various pilot stages with the initiative. These include large FIs such as SBI, ICICI Bank, HDFC Bank, and Bajaj
+Finserv.
+The application of account aggregation spans a broad set of use cases, such as personal finance, wealth advisory, credit
+decisioning, access to credit, and access to insurance. Some of the concrete use cases have been illustrated below:
+India’s Account Aggregation Framework
+10
+FLOW-BASED CREDIT
+Account Aggregation will help individuals and small businesses use consented data-sharing to increase access to
+cheaper credit.
+AGGREGATED FINANCIAL
+POSITION & CASH FLOW
+FIU receives 
+consent to 
+read and 
+access digital 
+transactions, 
+assets and 
+liabilities
+Transactional data 
+is combined with 
+data from other 
+sources such as 
+GSTN, credit 
+bureau to 
+underwrite and 
+assess borrowing 
+power
+Loans and credit 
+lines are granted 
+based on insights 
+out of cash flows 
+and other 
+attributes as 
+opposed to 
+based on assets
+1
+2
+3
+Pull 
+transactions/
+cash flow 
+data from 
+banks.
+Use this 
+data to
+underwrite.
+Consume data 
+directly from the 
+source at a much 
+lower cost than
+what is currently 
+out there.
+1
+2
+3
+
+EXECUTIVE SUMMARY
+India’s Stack-Powered Digital Ecosystem
+11
+Put together, the layers, power the IndiaStack and a robust digital ecosystem across applications, and devices as
+represented below to solve unique use cases across each of the industries:
+The impact of IndiaStack through its different layers
+has been huge since its inception. It has acted as a
+disruptive force and reinvented the wheel to build new
+processes and provide the low-cost digital push India
+needed to move from a data-poor to a data-rich
+economy, as highlighted in the sections above.
+There have been significant benefits such as lower cost
+of transactions, lower onboarding costs for businesses,
+providing a broad-based, ubiquitous platform and
+personalized
+offerings
+at
+scale,
+allowing
+new
+businesses,
+developers,
+enterprises,
+and
+the
+government to build their digital footprints in the
+country. IndiaStack enables businesses to tap into
+customer segments that were previously out of reach.
+In the future, a range of different digitally verifiable
+identity systems will continue to evolve in line with the
+Supreme Court of India’s ruling with regulatory policy
+changes
+underway
+and
+further
+technology
+developments
+that
+enable
+identification
+through
+alternative
+means,
+such
+as
+QR
+codes,
+voice-
+recognition, and beyond.
+As parts of the IndiaStack have progressively evolved
+over the last five years, its promised benefits are
+starting to deliver. The growth of the digital payments
+ecosystem around UPI and DigiLocker becoming
+mainstream are testimony to this fact. Aadhaar based
+due diligence and DigiLocker have reduced user
+onboarding
+costs
+and
+increased
+inclusion.
+With
+Account Aggregation soon going operational, India
+would have completed the rollout of what is arguably
+the most unique societal platform deployed anywhere
+in the world.
+www.goMEDICI.com
+INDIA’S STACK-POWERED DIGITAL ECOSYSTEM
+
+EXECUTIVE SUMMARY
+INDIA FINTECH REPORT 2020
+12
+SEGMENT-WISE
+OVERVIEW
+
+EXECUTIVE SUMMARY
+Neobanking
+13
+Over the last decade, the Indian FinTech ecosystem has witnessed a plethora of innovations. The first wave of disruption in
+financial services was led by digital payment startups, followed by digital lending, wealth management, and InsurTech startups.
+However, the second wave, or as we like to call it “FinTech 2.0,” is led by Neobanks that aim to redefine customer-centric
+consumer and business banking experiences. Problem statements being addressed include fully digitized account opening,
+free debit cards, instant payments, personal finance advisory, cash flow analysis & projections, GST-compliant invoicing, and
+accounting integration. As of publishing this report, there are about 15 neobanks in India, several of them under development
+or in beta stages.
+Digital-Only Banking Models
+Global digital-only banking landscape consists of non-licensed over-the-top banks (also called Neobanks), digital-only brands
+of incumbent banks, and licensed challenger digital banks.
+Licensed Digital Challengers
+These are digital-only banks which
+have obtained a fully operational
+banking license. This model enables
+them to offer products & services,
+raise capital, and lend on their own.
+Lower operating costs help them
+offer
+better
+interest
+rates
+to
+customers.
+Partnerships
+with
+FinTechs and even other banks are
+common in this model, and some
+offer
+marketplaces.
+The
+Reserve
+Bank of India does not offer such a
+differentiated license.
+Over The Top Neobanks
+These are stand-alone digital platforms that do
+not have their own banking licenses. They offer
+either niche products or a bouquet of products
+in partnerships with FIs, banks, and FinTech
+firms but at a cost quite lower than that of
+traditional banks. Highly tech-driven and an
+overlay over licensed banks, they differentiate
+themselves by offering unique features/VAS
+and better banking experiences. In the absence
+of differentiated digital banking licenses, this is
+currently the most sought-after model in India.
+Digital-Only Brands of Banks
+These are stand-alone, digital-
+only brands created by traditional
+incumbent banks. Technology-led
+and operationally separate from
+their parents; they mostly target
+the
+younger
+segment.
+Being
+greenfield initiatives, they tend not
+to carry the legacy technology
+baggage
+from
+their
+parent
+entities.
+This
+has
+been
+a
+reasonably successful model in
+India since 2016.
+With FinTech segments like payments and digital lending getting overcrowded, investors' interest has shifted towards India’s
+Neobanking. The total funding raised by Indian Neobanks so far totals $139.8 Mn. This does not include $93 million raised by
+Razorpay since 2019, a part of which will fund their newly launched Neobanking initiative. In their efforts to become a part of the
+next wave of FinTech innovation, venture capital & private equity investors have started to invest heavily in Neobanking startups.
+Startup 
+Total Funding
+Latest Funding Stage
+$49.2 Mn
+Series B
+$37.4 Mn
+Series B
+$26 Mn
+Seed
+$13.2 Mn
+Seed
+$7.8 Mn
+Series A
+$4.7 Mn
+Seed
+$1.5 Mn
+Seed
+Undisclosed
+Seed
+Investors have started to 
+recognize the enormous 
+potential of the Indian 
+Neobanking segment. This 
+has attracted prominent 
+global investors like 
+Tencent Holdings, Sequoia 
+Capital, and domestic 
+investment institutions like 
+Omidyar Network and 
+Matrix Partners.
+INVESTORS & NUMBER OF NEOBANKING DEALS
+Sequoia Capital
+(4)
+Matrix
+(3)
+Omidyar Network
+(2)
+Tiger Global Management
+(2)
+Flourish VC
+(2)
+Better Capital
+(2)
+3one4 Capital
+(2)
+
+EXECUTIVE SUMMARY
+Digital Lending
+14
+Digital lending FinTechs are targeting the unmet demand from Indian MSMEs as well as consumers for credit. Many banks in
+India have so far focused on highly creditworthy segments primarily due to a lack of credit history of others. The traditional ways
+of banking approve only ~25 to 40% of the loan applications. However, with access to more data for credit scoring such as
+transaction, behavior, app-based data, location information, social data, and more, these new lending models aim to increase
+this threshold by an additional 10–15%, which is a huge market opportunity. From a small segment a few years ago, India now
+has over 338 lending startups. The acquisition of Mumbai-based consumer lending platform PaySense by digital payments
+provide PayU at a valuation of $185 million, further brought the spotlight to the potential of digital lending in India. Several new
+models of digital lending have emerged, such as DMI Finance offering FinTech startups API access to sandboxes, thus helping
+them develop bespoke financial products and Apollo Finvest positioning themselves as ‘AWS for Lending’ by enabling partners
+to offer digital loan products to their end-customers through APIs. In consumer credit, the urban population is likely to leverage
+FinTech lending services to avoid heavy documentation. The rural population (which is new to credit) can benefit from
+alternative credit scoring mechanisms to avoid loan sharks. This would provide access to a market with over 300 million
+unbanked households. Hence, the use of identity, authentication, credit score, job eligibility, and social data to generate ratings
+for various use cases is likely to draw more attention in the near term.
+New-Age Lending: The Power of IndiaStack
+The maturing IndiaStack and growing API-based data availability have
+fundamentally transformed every step of the credit value chain. Near end-to-
+end digital lending has become a reality, with loan approval turnaround times
+as short as one day. Over 338 lending (consumer and SMEs) startups in India
+are leveraging on Aadhaar authentication, eKYC, and UPI platforms to offer
+quick background checks, credit scores, and instant loans to the urban, rural,
+and underserved populations.
+Flow-Based Credit System Powered By Account Aggregator Framework:
+In a well-implemented account aggregation scenario, a small borrower should be able to provide consent to a lender through
+an account aggregator to access various categories of financial data held at multiple custodians (banks, wallet providers,
+Aadhaar database, DigiLocker, mobile data). In the transaction flow above, the borrower requests the lender for a microcredit
+line. To assess this facility’s viability, the lender requests for the borrower’s data held at various other custodians (FIs, mobile
+carriers, wallet providers) to be passed on to them via a data access fiduciary (account aggregators in the case of financial
+services). With the borrower’s consent, the fiduciary requests and fetches data from one or more custodians and passes on the
+acquired and aggregated data to the lender. The lender may then combine this data with various other data sources such as
+public data, economic data, and other such sources to apply state-of-the-art credit decisioning models and forecast the
+likelihood of default with much better accuracy and confidence. Real-time access to data at will based on consent also dispels
+the need to have collateral security to grant microloans.
+UNDERWRITING 
+APPROACHES
+Consumer Credit ($300-Bn Gap)
+•
+Demographic Data Personal Finance 
+Bureau Management Models Social Data
+•
+App-based Data Access Location 
+Information Machine Learning
+SME Financing ($200-Bn Gap)
+•
+CIBIL Score Transaction Behavior Collateral
+•
+Non-Traditional Data Sources Audited Financial
+•
+Surrogate Data Statements
+•
+Leverage AI/ML/Data Analytics
+Future Model: Cash Flow Based 
+Lending based on Account 
+Aggregation
+Digital Lending 
+Funding: Breakdown 
+of $1,673 Million
+Top Funded Digital 
+Lending Startups in 
+India 
+(> USD 100 Million)
+Borrower
+Data 
+Custodians 
+Providers
+Banks
+Wallets | Carriers
+Lender/
+Data User
+Models
+Aggregated 
+Data Set
+Consent
+Managers
+Account
+Aggregator
+Telco
+Aggregator
+1
+2
+3
+4
+Digital 
+Consumer 
+Finance
+SME Financing
+53.32%
+22.33%
+0.06%
+24.27%
+Digital 
+Consumer 
+Finance
+SME 
+Financing
+P2P 
+Lending
+Others
+
+EXECUTIVE SUMMARY
+WealthTech
+15
+India has witnessed a phenomenal increase in the wealthy
+population in the last few years. Against this backdrop, India
+has witnessed many advancements in the wealth management
+industry. We have been witnessing the democratization of
+investment advisory services, where wealth managers are
+leveraging technology to offer low-cost investment advisory to
+mass segments.
+Robo-Advisors in India: Robo-advisory in India is rapidly
+evolving. We are seeing startups going beyond Mutual Fund
+distribution to offering digitized, long-term financial planning.
+They are using algorithms and artificial intelligence to
+understand the goals and aspirations of users better and
+provide them with personalized advice rather than just offering
+a generic portfolio. As more and more millennials pick up stock
+market investing and other investment avenues, financial
+literacy is also improving, leading to a mature outlook towards
+aspects such as financial life goals and retirement planning.
+The services of these platforms range from automated plans,
+goal-based asset allocation, and end-to-end advisory based on
+information taken from the client. Today, not only startups but
+also established financial advisory services, such as Birla, Bajaj
+Capital, ICICI Securities, and Sanctum Wealth Management,
+are
+optimistic
+about
+the
+future
+of
+robo-advisory.
+The
+competition in robo-advisory is resulting in the expansion of the
+WealthTech market.
+Thematic Investment: Investment platforms are facilitating
+thematic investing. Each theme consists of a diversified
+portfolio of stocks based on an idea. An investor can focus on
+his ideas instead of individual stocks. E.g., smallcase, Fyers,
+Karvy
+Discount Broking Models: Discount brokers are those
+houses that charge clients significantly lower fees than
+traditional ones and offer only online trading facilities, but no
+research supports or financial advice. Globally, because of the
+low-cost structure, discount brokers are quite popular among
+traders, but not among investors. E.g., Zerodha, 5Paisa, Upstox,
+Samco
+E-Commerce Firms & Digital Wallets Offering Investment
+Products: Due to regulatory changes brought in by SEBI’s e-
+commerce companies and digital wallets are now offering
+mutual funds through their apps. E.g., PhonePe (financial arm
+of Flipkart) and Paytm.
+Hybrid Models of Investment Advisory: To get the best of
+both worlds, established financial advisors offer a hybrid model
+to the clients. The insights and experience of the traditional
+financial planners are combined with the agility, accessibility,
+and advanced technology of the robo-advisors. Financial
+planning companies outsource the repetitive and mechanical
+tasks to robo-advisors while the more intricate tasks of
+providing personalized advice and risk management advice
+based on insights and direct interaction with the client are
+being taken care of by the traditional financial advisors.
+UPI to Act as Key Enabler for WealthTech Startups: It will
+help them expand their digital footprint by digitizing mutual
+fund products. However, there is a limit that has been set by
+NPCI that restricts users to buy units worth than Rs. 1 lakh via
+UPI. Users can also apply and pay for IPO allotments through
+their preferred UPI app. UPI is already being leveraged by
+players, such as IDFC, LIC Mutual Fund, Aditya Birla Sun Life,
+Reliance Nippon Life AMC, Motilal Oswal, Quantum, and
+Baroda Pioneer AMC, for enabling online investments.
+Goal-Based
+Investing
+in
+Mutual
+Funds:
+Funds
+are
+recommended based on customer’s age, life stage, risk
+appetite, and market conditions. Once a customer invests in a
+goal, the portfolio is monitored continuously, and suggestions
+are made when changes are required. E.g., Upwardly
+WealthTech Startups: Leveraging IndiaStack
+IndiaStack has enabled Wealth Management processes
+with over 440 startups (personal finance management,
+robo-advisory, marketplaces, investment brokerage) that
+leverage it and build various innovative solutions. Startups
+leverage Aadhaar authentication, eKYC, and UPI for
+transactions and fees, and eSign for document signatures.
+WealthTech Funding: 
+Breakdown of $213 
+Million
+Top Funded 
+WealthTech 
+Startups in India 
+(> USD 50 Million)
+Top Retail Brokers in India 
+by No. of Active Clients –
+2020 (Value in Lakhs)
+52.32%
+28.57%
+19.10%
+Investment
+Platforms
+Personal
+Finance
+Management
+Others
+0.0
+5.0
+10.0
+15.0
+20.0
+Zerodha
+ICICI
+RKSV (Upstox)
+Angel
+HDFC
+Kotak
+5paisa
+Sharekhan
+Motilal Oswal
+Axis Securities
+Mar-19
+Mar-20
+Jun-20
+Zerodha, India’s largest stock 
+broker, is a bootstrapped 
+startup that has turned 
+profitable and is valued at 
+around $1 billion.
+Note: There is a growing trend of unbundling and companies expanding into multiple segments. This representation is therefore directional in nature as companies might be 
+present in more than 1 subsegment or even segments. Reach out to us if you want to change the segment classification of your company or want to discuss the rationale.
+
+EXECUTIVE SUMMARY
+InsurTech
+16
+InsurTech landscape is quite nascent in India. The current
+insurance penetration is quite low, i.e., 2.76% in life insurance
+and 0.93% in non-life insurance compared to the global
+average of 6.5%. ‘Lack of customer trust’ remains the key
+challenge facing the InsurTech segment, and so far, industry
+players have found it as a hard nut to crack. The current
+InsurTech space in India is being dominated by few new-age
+insurers like Toffee, Digit, and Acko with their ability to attract
+and popularity among millennials.
+Preventive Insurance Models: Armed with the capabilities of
+AI/ML, predictive analytics, and data captured by IoT-driven
+connected devices, InsurTech players are exploring ways to
+make the most out of deep data insights and drive the
+transition from a reactive approach to proactive prevention.
+Preventive insurance is gaining traction across the entire
+insurance
+value
+chain
+from
+health
+insurance
+to
+home/equipment/transit/automotive insurance. E.g., Kruzr,
+Niramai, Carnot Technologies
+Neo-Insurance Carriers in India Leveraging the Concept of
+Embedded Insurance: New-age digital insurers have started
+to adopt the practice of offering insurance policies to
+customers during their purchase of a product or services. This
+POS insurance model enables digital insurance to access the
+large consumer base of online service providers and e-
+commerce aggregators.
+Digital Insurance Advisors: These are the aggregator
+platform that enables customers to compare and buy insurance
+products of both new-age online insurers and traditional
+insurance companies. There has been a significant uptick in the
+number of aggregators since 2013 when a regulation was
+passed on web aggregators.
+Sachet Insurance: Small-Ticket Insurance, popularly known
+as ‘sachet insurance,’ is being adopted on a wide scale among
+the Indian population. These insurance
+schemes are priced at lesser than Rs. 10, making it affordable
+for the users to get covered under insurance worth lakhs of
+rupees. These bite-sized insurance policies are being offered
+by
+startups
+(e.g.,
+Toffee
+Insurance),
+IRCTC,
+insurance
+companies, and Pradhan Mantri Bima Yojana.
+Emerging Business Models: The newer business models,
+such as microinsurance on-demand, are changing the nature
+of the insurance industry by moving from complex long-term
+insurance products to short-term insurance products based on
+time, usage, and activity. The focus on niche segments is
+driving this trend. E.g., Toffee Insurance.
+Underwriting
+&
+Risk
+Management:
+Using
+advanced
+technologies like Big Data, AI insurance companies can
+leverage a data-driven, risk-scoring model, thereby enabling
+help them to make better risk coverage decisions across all
+lines of businesses such as life & health, retirement planning,
+commercial, and investment. E.g., i3 Systems, Health Vector.
+Conversational UI: The digital engagement via chatbots is
+gaining industry momentum. Chatbots bring better customer
+experience allowing insurance firms to deploy distribution,
+claims, and customer service. Chatbots help in functions like
+general customer service questions, personalized product
+recommendation, general questions from agents/brokers,
+direct-to-consumer (D2C) sales, claims, and more. E.g., Ask
+Arvi
+Insurance Infrastructure APIs: Innovative and fast-growing
+infrastructure APIs solution provider InsurTechs are poised to
+create a space of ‘insurance as a service’ companies in India.
+These
+infrastructure
+API
+players
+can
+support
+product
+innovation and distribution via digital channels for insurance
+companies and platform economy players. E.g., Riskcovry
+Developments in the InsurTech 
+Space in India
+InsurTech Funding: 
+Breakdown of $445 
+Million
+Top Funded 
+InsurTech 
+Startups in India 
+(> USD 50 Million)
+• Connected ecosystems can help insurers 
+better understand risk profiles and spot issues 
+quickly. E.g., Kruzz
+• Artificial Intelligence and ML are leveraging AI 
+for functions like claim automation, fraud 
+prevention, underwriting & risk management, 
+and insurance chatbots. E.g., Artivatic.ai
+• Wearables can provide near-real-time data to 
+the insurers, helping them better manage risks. 
+E.g., GOQii
+• Blockchain offers features such as efficient 
+information exchange, trust, and smart 
+contracts. E.g., Sofocle Technologies.
+• Robo-advisors rely on rules and machine 
+learning to handle customer interactions and 
+even sell. E.g., Ask Arvi
+• Advanced analytics helps insurers in analyzing 
+data and making better decisions. E.g., 
+Pentation Analytics.
+48.50%
+41.50%
+9.60%
+0.30%
+Aggregators/
+Policy 
+Management
+Online First 
+Insurance
+IOT (Preventive  
+Insurance/
+Telematics)
+Software/
+White Label APIs
+Note: There is a growing trend of unbundling and companies expanding into multiple segments. This representation is therefore directional in nature as companies might be 
+present in more than 1 subsegment or even segments. Reach out to us if you want to change the segment classification of your company or want to discuss the rationale.
+
+EXECUTIVE SUMMARY
+Digital Payments
+17
+RBI’s Newest Proposal: A Gamechanger for India’s Retail Payments Sector
+The Reserve Bank of India (RBI) has proposed setting up of a new pan-India umbrella entity (NUE) for retail payment systems,
+which will be responsible for setting up, managing, and operating new payment systems, especially in the retail space,
+including ATMs, white label PoS, Aadhaar-based payments, and remittance services. The RBI has floated a framework for
+establishing the new entity and has invited comments on the draft framework by February 25, 2020. The new entity will also
+have to develop new payment methods, standards and technologies, and monitor related issues in India as well as abroad. The
+central bank said it would have to operate clearing and settlement systems and manage risks such as settlement credit. The
+proposed entity can either be a for-profit company or a non-profit organization, the RBI said.
+Growth in No. of POS Terminals 
+in India
+Digital Payments 
+Funding: Breakdown 
+of $2,467 Million
+Top Funded Digital 
+Payments Startups 
+in India 
+(> USD 80 Million)
+Digital payments has been the flag bearer of the Indian FinTech space. In recent years, we have witnessed a plethora of exciting
+innovations like UPI, biometric payments, e-wallets initiations by banks, BharatQR code, and sound-wave-based payment
+technologies. One of the primary reasons can be attributed to the forward-thinking of central & state governments and Reserve Bank
+of India for successfully bringing a digital payment revolution in India.
+Government-led Initiatives: The Indian payments landscape has been revolutionized by the regulators and the central bank’s
+proactive initiatives, e.g., IndiaStack and UPI. India has emerged as one of the most exciting markets for digital payments across the
+world. Last year, home-grown payment networks (RuPay and UPI) took the lion’s share of the total digital transactions, i.e., 65%,
+showcasing how their efforts have been in the right direction for achieving targets.
+The success of UPI: Could it be a model for the world? Recently, tech giant Google wrote to the US Federal Reserve, praising the
+UPI model that has taken the digital payment space in India by storm and recommended creating similar open-payment architecture
+in the US. Furthermore, With UPI going global, it sets up the stage for the FinTech players as they have already started receiving
+queries from international financial institutions, banks, and governments. This has further opened immense opportunities for FinTech
+players who can share their technology with foreign countries like China, the Philippines, Sri Lanka, Bangladesh, and other SEA
+countries.
+P2P PAYMENT FLOW USING UPI
+There are two sides to digital payments: a consumer-facing
+side, which comprises mobile wallet (Paytm, PhonePe, etc.),
+credit card, debit cards, and new form factors (such as OEM-
+native payment apps, and wearables); and a merchant side,
+which is developing at a really slow pace. It is not a question of
+whether digital payments will alter merchants’ fortunes in the
+future—that is a given (based on empirical data). The question
+is: how soon? India has been trying to shift from cash-
+dependent society to a cashless society for quite some time
+now. The biggest hurdle lies in the adoption of digital
+payments infrastructure on the merchant side. However,
+initiatives like UPI 2.0, MDR cuts by the RBI, and Near Field
+Technology schemes have been silently but swiftly changing
+the merchant payments landscape in India.
+Sender
+UI (Mobile Device)
+Sender
+Sender’s Bank
+(or PSP)
+5.08 Mn
+Apr. 2020
+1.5 Mn
+Oct. 2016
+3.4x
+Growth in 
+the last 3.5 
+years
+Pre-
+Demonetization
+Post-
+Demonetization
+Sender’s Global
+Identifiers
+1. Mobile#
+2. Aadhaar#
+3. Biometrics
+4. Bank Account #
+Receiver’s Global
+Identifiers
+1. Mobile#
+2. Aadhaar#
+3. Biometrics
+4. Bank Account #
+NPCI Data 
+Depository
+Sender’s 
+VPA @
+Receiver’s 
+VPA @
+Existing Payment Rails
+UI (Mobile Device)
+Sender’s Bank
+(or PSP)
+78.68%
+8.63%
+0.17%
+12.10%
+0.41%
+Mobile/Digital 
+Wallets
+Payment
+Gateway
+Proximity
+Payments
+SME/Merchant 
+Payment
+Software/
+White 
+Label APIs
+
+EXECUTIVE SUMMARY
+Emerging Themes at the Intersection of 
+FinTech
+18
+Beyond the core segments of the Financial Services industry, Agriculture, Healthcare, and Real Estate are witnessing new
+business models based on digital platforms, developments in data collection, storage & processing for real-time insights, and
+simplification of information & monetary transactions. AgriTech, HealthTech, and PropTech startups are disrupting traditional
+ways of doing business in three industries that facilitate the nation’s most vital necessities—food, healthcare, and shelter for
+citizens. These startups not only can improve efficiencies in production and availability but also ease the process of trade and
+movement of money for market players. As a result, financial services players can benefit in these organized markets that can
+provide alternative data to improve the payments, lending, and (or) insurance underwriting practices to become customer-
+centric services.
+AgriTech is an enabler to agriculture
+data creation, deep analysis using
+advanced algorithms, as well as end
+usage
+by
+players
+across
+the
+agriculture value chain. With new
+technologies
+that
+focus
+on
+data
+collection
+and
+analysis,
+these
+innovators
+are
+becoming
+valuable
+assets for data deprived financial
+services industry.
+HealthTech
+is
+solving
+problems
+around
+unstructured,
+fragmented,
+and inaccessible data, as well as
+creating real-time health data that
+can be vital to many industry players
+such
+as
+insurers
+and
+healthcare
+providers.
+PropTech is powered by new-age
+technologies and data sources that
+can eliminate prevailing challenges of
+data asymmetry through real-time
+inputs,
+advanced
+analytics,
+and
+simpler
+user
+interfaces
+for
+transactions,
+financing,
+and
+documentation.
+AgriTech
+HealthTech
+PropTech
+Leverage data to 
+improve payments, 
+lending, and insurance 
+underwriting + focus on 
+customer-centric 
+services
+Bridging the 
+data gap with
+alternative data
+
+EXECUTIVE SUMMARY
+19
+CONVERTING THE UNBANKED POPULATION
+Financial inclusion in India has seen a significant flip in recent years due to the government’s JAM (Jan Dhan-Aadhaar-
+Mobile) initiative. With the launch of the Pradhan Mantri Jan Dhan Yojana, India’s banked population more than doubled
+from 2011 to 80% by 2017, and by 2018, 66% of about 536 million no-frills accounts were Jan Dhan accounts.
+USAGE OF BANKING SERVICES
+Though a large number of bank accounts were opened, the usage of these accounts has not been encouraging. A World
+Bank study states that only 7% of the Indian population borrowed from an established, licensed financial institution. This
+rate has not changed much in the last five years despite the increase in formal banking services. Low financial literacy
+levels meant that many people remain unaware of the potential benefits they could reap from their new Jan Dhan
+accounts.
+RISE OF THE CONNECTED POPULACE
+According to a study by IAMAI-Nielsen, in 2019, the number of rural internet users at 277 million outnumbered urban
+areas at 227 million by 10%. The digital divide that existed earlier has now been bridged. India also has the lowest cost of
+mobile data compared to any country in the world. The number of smartphone users in the country crossed 500 million
+last year, with 4G penetration extending to more than 88% of the country. With increased smartphone adoption and
+inexpensive internet usage, the stage has been set to cover the last mile of financial inclusion. India’s financial services
+industry can take a leaf out of the FMCG sector and its innovative methods in serving the rural population, which has led
+to 45% of its revenues being generated from this populace. Along with banks and NBFCs, the Indian startup ecosystem
+also has a crucial role in achieving this goal of last-mile connectivity.
+DIGITAL TRANSACTIONS ARE PAVING THE WAY FORWARD
+India has been at the forefront of digital transactions during the last few years. The rise in internet usage and
+smartphone penetration has played a critical role in this regard as well. Aadhaar-Enabled Payments Channel (AEPS), a
+Micro ATM system, has clocked an annual growth rate of 150% since 2016, thereby emerging as one of the fastest-
+growing payment systems in the country, second only to the UPI system. A study of the RBI’s data on ATM deployment
+by banks shows that only 19% of ATMs were deployed in rural areas. In such a situation, these Micro ATMs can play a
+crucial role in enabling this population to access funds for their basic needs. With increased focus by the government on
+Direct Benefit Transfers for transferring the government schemes to its citizens, such access infrastructure will go a long
+way in fulfilling the government’s financial inclusion mandate.
+ACCESS TO CREDIT IS A MAJOR STUMBLING BLOCK
+Credit is the driving engine of an economy, and financial inclusion cannot be achieved without providing access to
+inexpensive and easy modes of credit to the deserving. As discussed earlier, credit through traditional banking channels
+has been difficult to access for the general populace in India. It is not just individuals, but also MSMEs that are struggling
+to access credit. The MSME sector continues to struggle in particular, with only 10% of small businesses having access
+to formal credit. With the rise in internet usage and smartphone penetration, financial services firms are looking at digital
+lending models driven by cutting-edge technologies such as artificial intelligence and machine learning to bridge this
+gap. Digital lending has some inherent advantages over traditional lending, such as speedier approval of credit, use of
+alternate data to assess creditworthiness, and operating cost efficacy. Some of the popular digital lending models that
+are working towards financial inclusion include mobile lending, supply chain financing, crowdfunding, PoS lending, and
+invoice financing.
+FINTECH PLAYERS
+FinTech players have embraced the challenge of working towards financial inclusion and are facilitating the rapid
+adoption of ﬁnancial services such as P2P mobile payments, alternative lending to small businesses & consumers, and
+more. Quite a few startups have emerged in this space, such as Jai Kisan, which empowers farmers through agri-credit;
+GramCover, which offers insurance for rural India; Kaarva, a credit line for regular income workers; Lakshya, which is
+working on improving the financial health of the urban underserved, and more. These, along with the traditional players,
+such as Paytm, PhonePe, and Lendingkart, will play a crucial role in ensuring that financial services reach every citizen of
+the country.
+Source: NPCI
+Financial Inclusion via FinTech
+
+About MEDICI
+MEDICI is the world’s leading FinTech Research and Innovation Platform. MEDICI is a partner to banks, tech companies and FIs 
+globally with over 13,000 FinTechs on the platform, enabling FinTechs to scale and create global economic impact. MEDICI is 
+committed to supporting the complex financial services ecosystem and enabling stakeholders benefit from the industry’s 
+accelerated growth and global impact.
+Aditya Khurjekar
+CEO & Founder
+ak@goMEDICI.com
+Amit Goel
+CSIO & Founder
+amit@goMEDICI.com
+Get your copy of the 
+full report!
+DOWNLOAD
+About Internet and Mobile Association of India (IAMAI)
+IAMAI  is a young and vibrant association with ambitions of representing the entire gamut of digital businesses in India. It was
+established in 2004 by the leading online publishers, and in the last 16 years has come to effectively address the challenges facing 
+the digital and online industry including mobile content and services, online publishing, mobile advertising, online advertising, 
+ecommerce and mobile & digital payments among others. Sixteen years after its establishment, the association is still the only 
+professional industry body representing the online industry in India. The association is registered under the Societies Act and is a 
+recognized charity in Maharashtra. With a membership of nearly 300 Indian and overseas companies, and with offices in Delhi, 
+Mumbai, and Bengaluru, the association is well placed to work towards charting a growth path for the digital industry in India.
+About Fintech Convergence Council (FCC)
+FCC is formed under Internet and Mobile Association of India (IAMAI) and represents the FinTech industry and traditional 
+companies in the BFSI space. The purpose of the council is to encourage collaboration, seek complementarities and build synergy 
+between leading BFSI companies and the emerging FinTech start-ups. The council has worked towards interpreting the regulatory 
+and legal framework, aggregating the concerns and feedback of the various players within the larger FinTech community, 
+communicating it to regulators and lawmakers, and organizing events and gatherings for the industry participants to meet, share 
+ideas and work together in the interest of creating a safer, more open and more collaborative operating environment through a
+transparent forum.
+Gaurav Chopra
+Vice President
+gaurav@iamai.in
+Neha Bajaj
+Asst. Vice President
+neha@iamai.in
+gomedici.com/ifr2020

@@ -1,0 +1,5416 @@
+ 
+LEARNING OUTCOMES 
+ 
+  
+ 
+ 
+CHAPTER 
+1 
+ 
+ 
+ 
+ 
+BASIC CONCEPTS 
+ 
+ 
+ 
+ 
+ 
+ 
+After studying this chapter, you would be able to- 
+ 
+comprehend the meaning of tax and types of taxes; 
+ 
+discern the difference between direct and indirect taxes; 
+ 
+appreciate the components of income-tax law; 
+ 
+comprehend the procedure for computation of total income for the 
+purpose of levy of income-tax; 
+ 
+comprehend and appreciate the meaning of the important terms used 
+in the Income-tax Act, 1961; 
+ 
+comprehend the meaning and scope of agricultural income and apply 
+the same to identify whether a particular income falls within the scope 
+of agricultural income; 
+ 
+identify the operations which are partly agricultural and partly non-
+agricultural and compute the agricultural income and business income 
+arising from such operations; 
+ 
+recognise the previous year and assessment year for the purpose of 
+computing income chargeable to tax under the Income-tax Act, 1961; 
+ 
+examine the circumstances when income of the previous year would 
+be assessed to tax in the previous year itself; 
+
+ 
+ 
+INCOME TAX LAW 
+1.2 
+  
+apply the rates of tax applicable on different components of total 
+income of a person for the purpose of determining the tax liability of 
+such person under default tax regime u/s 115BAC; 
+ 
+apply the rates of tax applicable on different components of total 
+income of a person for the purpose of determining the tax liability of 
+such person, who exercises the option to shift out of the default tax 
+regime and pay tax under the optional tax regime as per the normal 
+provisions of the Act. 
+ 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic Concepts
+Components of 
+Income-tax Law
+Income-tax 
+Act, 1961
+Annual Finance 
+Act
+Income-tax 
+Rules
+Circulars and 
+Notifications
+Legal decisions
+Steps for computation 
+of Total Income (TI) 
+and tax liability
+Determination of 
+residential status
+Classification of income 
+under different heads
+Computation of income 
+under each head
+Clubbing of income of 
+spouse, minor child etc.
+Set off or carry forward 
+& set off of losses
+Computation of Gross 
+Total Income (GTI)
+Deductions from GTI
+Computation of TI
+Computation of tax 
+liability
+Important 
+Definitions
+Assessee
+Assessment
+Person
+Income
+India
+Assessment 
+Year 
+Previous Year 
+Agricultural 
+income
+Basis of charge 
+& rates of tax
+Charge of 
+Income-tax 
+Rates of 
+Income-tax
+CHAPTER OVERVIEW 
+
+ 
+ 
+INCOME TAX LAW 
+1.4 
+1. 
+INTRODUCTION 
+1.1 What is the meaning of tax? 
+Let us begin by understanding the meaning of tax.  
+Article 366(28) of the Constitution of India defines the term “Taxation” as follows –  
+“Taxation includes the imposition of any tax or impost, whether general or local or 
+special, and tax shall be construed accordingly." 
+Taxes are considered to be the “cost of living in a society”. Taxes are levied by the 
+Governments to meet the common welfare expenditure of the society. There are 
+two types of taxes - direct taxes and indirect taxes. 
+Direct Taxes: If tax is levied directly on the income or wealth of a person, then, it 
+is a direct tax. The person who pays the tax to the Government cannot recover it 
+from somebody else i.e. the burden of a direct tax cannot be shifted. E.g., Income-
+tax.   
+Indirect Taxes: If tax is levied on the price of a good or service, then, it is an indirect 
+tax e.g. Goods and Services Tax (GST) or Custom Duty. In the case of indirect taxes, 
+the person paying the tax passes on the incidence to another person.  
+ 
+1.2 Why are taxes levied? 
+The reason for levy of taxes is that they constitute the basic source of revenue to 
+the Government. Revenue so raised is utilized for meeting the expenses of 
+TYPE OF TAXES
+DIRECT TAXES
+INCOME TAX
+TAX ON UNDISCLOSED 
+FOREIGN INCOME AND 
+ASSETS
+INDIRECT TAXES
+GOODS AND 
+SERVICES TAX (GST)
+CUSTOMS DUTY
+
+BASIC CONCEPTS 
+ 
+ 
+1.5 
+Government like defence, provision of education, health-care, infrastructure 
+facilities like roads, dams etc. 
+1.3 Power to levy taxes 
+The Constitution of India, in Article 265 lays down that “No tax shall be levied or 
+collected except by authority of law.” Accordingly for levy of any tax, a law needs to 
+be framed by the government. 
+Constitution of India gives the power to levy and collect taxes, whether direct or 
+indirect, to the Central and the State Government. The Parliament and State 
+Legislatures are empowered to make laws on the matters enumerated in the 
+Seventh Schedule by virtue of Article 246 of the Constitution of India. 
+Seventh Schedule to Article 246 contains three lists which enumerate the matters 
+under which the Parliament and the State Legislatures have the authority to make 
+laws for the purpose of levy of taxes.  
+The following are the lists: 
+(i)  
+Union List: Parliament has the exclusive power to make laws on the matters 
+contained in Union List. 
+(ii)  
+State List: The Legislatures of any State has the exclusive power to make laws 
+on the matters contained in the State List. 
+(iii)  Concurrent List: Both Parliament and State Legislatures have the power to 
+make laws on the matters contained in the Concurrent list.  
+Income-tax is the most significant direct tax. Entry 82 of the Union List 
+i.e., List I in the Seventh Schedule to Article 246 of the Constitution of 
+India has given the power to the Parliament to make laws on taxes on 
+income other than agricultural income. 
+1.4 Overview of Income-tax law in India 
+In this material, we would be introducing the students to the Income-tax law in India. 
+The income-tax law in India consists of the following components – 
+ 
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.6 
+ 
+The various instruments of law containing the law relating to income-tax are 
+explained below. 
+Income-tax Act, 1961 
+The levy of income-tax in India is governed by the Income-tax Act, 1961. In this 
+book, we shall briefly refer to this as the Act.  
+• 
+It extends to the whole of India. 
+• 
+It came into force on 1st April, 1962.  
+• 
+It contains sections 1 to 298 and schedules I to XIV.  
+❖ 
+A section may have sub-sections or clauses and sub-clauses.  
+➢ 
+When each part of the section is independent of each other and 
+one is not related with other, such parts are called a “Clause”. “Sub 
+section”, on the other hand refers to such parts of a section where 
+each part is related with other and all sub sections taken together 
+completes the concept propounded in that section.  
+ 
+COMPONENTS 
+OF INCOME 
+TAX LAW
+INCOME TAX 
+ACT
+ANNUAL 
+FINANCE ACT
+INCOME TAX 
+RULES
+CIRCULARS/
+NOTIFICATIONS
+LEGAL 
+DECISIONS OF 
+COURTS
+
+BASIC CONCEPTS 
+ 
+ 
+1.7 
+➢ 
+Example  
+o 
+The clauses of section 2 define the meaning of terms used 
+in the Income-tax Act, 1961. Clause (1A) defines 
+“agricultural income”, clause (1B) defines “amalgamation” 
+and so on. Each one of them is independent of other clause 
+of the same section. 
+o 
+Likewise, the clauses of section 10 contain the exemptions 
+in respect of certain income, like clause (1) provides for 
+exemption of agricultural income and clause (2) provides for 
+exemption of share income of a member of a Hindu 
+Undivided Family and so on.  
+o 
+Section 5 defining the scope of total income has two sub-
+sections (1) and (2). Sub-section (1) defines the scope of 
+total income of a resident and sub-section (2) defines the 
+scope of total income of a non-resident. Each sub section is 
+related with the other in the sense that only when one reads 
+them all, one gets the complete idea related with scope of 
+total income.   
+❖ 
+A section may also have Provisos and Explanations. 
+➢ 
+The Proviso(s) to a section/sub-section/clause spells out the 
+exception(s)/ condition(s) to the provision contained in the 
+respective section/ sub-section/ clause, i.e., the proviso spells out 
+the cases where the provision contained in the respective section/ 
+sub-section/ clause would not apply or where the provision would 
+apply with certain modification. 
+➢ 
+The Explanation to a section/ sub-section/ clause gives a 
+clarification relating to the provision contained in the respective 
+section/ sub-section/ clause. 
+➢ 
+Example 
+o 
+Sections 80GGB and 80GGC provides for deduction from 
+gross total income in respect of contributions made by 
+companies and other persons, respectively, to political 
+parties or an electoral trust.  
+
+ 
+ 
+INCOME TAX LAW 
+1.8 
+o 
+The proviso to sections 80GGB and 80GGC provide that no 
+deduction shall be allowed under those sections in respect 
+of any sum contributed by cash to political parties or an 
+electoral trust. Thus, the provisos to these sections spell out 
+the circumstance when deduction would not be available 
+thereunder in respect of contributions made.  
+o 
+The Explanation below section 80GGC provides that for the 
+purposes of sections 80GGB and 80GGC, “political party” 
+means a political party registered under section 29A of the 
+Representation of the People Act, 1951. Thus, the 
+Explanation clarifies that the political party has to be a 
+registered political party.  
+• 
+The Income-tax Act, 1961 undergoes change every year with additions and 
+substitutions brought in by the Annual Finance Act passed by Parliament. 
+Sometimes, the Income-tax Act, 1961 is also amended through other 
+legislations like Taxation Laws (Amendment) Act.  
+The Finance Act 
+Every year, the Finance Minister of the Government of India introduces the Finance 
+Bill in the Parliament’s Budget Session. When the Finance Bill is passed by both the 
+houses of the Parliament and gets the assent of the President, it becomes the 
+Finance Act. Amendments are made every year to the Income-tax Act, 1961 and 
+other tax laws by the Finance Act. 
+The First Schedule to the Finance Act contains four parts which specify the rates of tax - 
+• 
+Part I of the First Schedule to the Finance Act specifies the rates of tax 
+applicable for the current Assessment Year. Accordingly, Part I of the First 
+Schedule to the Finance Act, 2023 specifies the rates of tax for A.Y. 2023-24. 
+• 
+Part II specifies the rates at which tax is deductible at source for the current 
+Financial Year. Accordingly, Part II of the First Schedule to the Finance Act, 
+2023 specifies the rates at which tax is deductible at source for F.Y. 2023-24 
+• 
+Part III gives the rates for calculating income-tax for deducting tax from 
+income chargeable under the head “Salaries” and computation of advance 
+tax for F.Y. 2023-24 where the assessee exercises the option to shift out of 
+the default tax regime provided under section 115BAC(1A). 
+• 
+Part IV gives the rules for computing net agricultural income. 
+
+BASIC CONCEPTS 
+ 
+ 
+1.9 
+Income-tax Rules, 1962 
+The administration of direct taxes is looked after by the Central Board of Direct 
+Taxes (CBDT).  
+• 
+The CBDT is empowered to make rules for carrying out the purposes of the 
+Act.  
+• 
+For the proper administration of the Income-tax Act, 1961, the CBDT frames 
+rules from time to time. These rules are collectively called Income-tax Rules, 
+1962.  
+• 
+Rules also have sub-rules, provisos and Explanations. The proviso to a Rule/ 
+Sub-rule spells out the exception to the limits, conditions, guidelines, basis of 
+valuation, as the case may be, spelt out in the Rule/ Sub-rule. The Explanation 
+gives clarification for the purposes of the Rule.  
+• 
+It is important to keep in mind that along with the Income-tax Act, 1961, these 
+rules should also be studied. 
+Circulars and Notifications 
+Circulars 
+• 
+Circulars are issued by the CBDT from time to time to deal with certain specific 
+problems and to clarify doubts regarding the scope and meaning of certain 
+provisions of the Act.  
+• 
+Circulars are issued for the guidance of the officers and/or assessees.  
+• 
+The department is bound by the circulars. While such circulars are not binding 
+on the assessees, they can take advantage of beneficial circulars. 
+Notifications 
+Notifications are issued by the Central Government to give effect to the provisions 
+of the Act. The CBDT is also empowered to make and amend rules for the purposes 
+of the Act by issue of notifications which are binding on both department and 
+assessees.  
+Legal decisions of Courts 
+Case Laws refer to decision given by courts. The study of case laws is an important 
+and unavoidable part of the study of Income-tax law. It is not possible for 
+
+ 
+ 
+INCOME TAX LAW 
+1.10 
+Parliament to conceive and provide for all possible issues that may arise in the 
+implementation of any Act. Hence the judiciary will hear the disputes between the 
+assessees and the department and give decisions on various issues.  
+The Supreme Court is the Apex Court of the Country and the law laid down by the 
+Supreme Court is the law of the land. The decisions given by various High Courts 
+will apply in the respective states in which such High Courts have jurisdiction. 
+Note – Case laws are dealt with at the Final level.     
+2. CHARGE OF INCOME TAX 
+Section 4 of the Income-tax Act, 1961 is the charging section which provides that: 
+(i) 
+Tax shall be charged at the rates prescribed for the year by the Annual 
+Finance Act or the Income-tax Act, 1961 or both. 
+(ii)   The charge is on every person specified under section 2(31); 
+(iii)  Tax is chargeable on the total income earned during the previous year and 
+not the assessment year. (There are certain exceptions provided by sections 
+172, 174, 174A, 175 and 176); 
+(iv) 
+Tax shall be levied in accordance with and subject to the various provisions 
+contained in the Act. 
+This section is the back bone of the law of income-tax in so far as it serves as the 
+most operative provision of the Act. The tax liability of a person springs from this 
+section. 
+A person includes an individual, Hindu Undivided Family (HUF), Association of 
+Persons (AOP), Body of Individuals (BOI), a firm, a company etc.   
+(1) 
+Total Income and Tax Payable 
+Income-tax is levied on an assessee’s total income. Such total income has to be 
+computed as per the provisions contained in the Income-tax Act, 1961.  
+Let us go step by step to understand the procedure for computation of total income 
+of an individual for the purpose of levy of income-tax – 
+ 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.11 
+Step 1 – Determination of residential status 
+The residential status of a person has to be determined to ascertain which income 
+is to be included in computing the total income. The residential status as per the 
+Income-tax Act, 1961 can be classified as under – 
+ 
+In the case of an individual, the duration for which he is present in India in the 
+relevant previous year or relevant previous year and the earlier previous years 
+determines his residential status. Based on the days spent by him in India, he may 
+be (a) resident and ordinarily resident, (b) resident but not ordinarily resident, or 
+(c) non-resident.  
+The residential status of a person determines the taxability of the income. For e.g., 
+income earned and received outside India will not be taxable in the hands of a non-
+resident but will be taxable in case of a resident and ordinarily resident. 
+There is also a concept of deemed resident for which presence of individual in India 
+is not required. A deemed resident is always a resident but not ordinarily resident 
+in India. Determination of residential status has been discussed in Chapter 2.  
+Step 2 – Classification of income under different heads 
+A person may earn income from different sources. For example, a salaried person 
+earns income by way of salary. He also gets interest from bank savings account/ 
+fixed deposit. Apart from this, if he has invested in shares, he would be getting 
+dividend and when he sells these shares, he may earn profit on such sale. If he owns 
+a residential property which he has let out, he would earn rental income.  
+Under the Income-tax Act, 1961, for computation of total income, all income of a tax 
+payer are classified into five different heads of income. These are shown below – 
+RESIDENTIAL STATUS UNDER THE 
+INCOME TAX ACT, 1961
+RESIDENT
+RESIDENT AND 
+ORDINARILY RESIDENT
+RESIDENT BUT NOT 
+ORDINARILY RESIDENT
+DEEMED 
+RESIDENT
+NON-
+RESIDENT
+
+ 
+ 
+INCOME TAX LAW 
+1.12 
+ 
+There is a charging section under each head of income which defines the scope of 
+income chargeable under that head. These heads of income exhaust all possible 
+types of income that can accrue to or be received by the tax payer. Accordingly, 
+income earned is classified as follows:  
+1. 
+Salary, pension etc. earned is taxable under the head “Salaries”. 
+2. 
+Rental income is taxable under the head “Income from house property”. 
+3. 
+Income derived from carrying on any business or profession is taxable under 
+the head “Profits and gains of business or profession”.   
+4. 
+Profit from sale of a capital asset (like land, building and shares) is taxable 
+under the head “Capital Gains”. 
+5. 
+The fifth head of income is the residuary head. Income which is chargeable 
+to tax under the Income-tax Act, 1961 but not taxable under the first four 
+heads will be taxed under the head “Income from other sources”. 
+The tax payer has to classify the income earned under the relevant head of income.  
+Step 3 – Computation of income under each head 
+Income is to be computed in accordance with the provisions governing a particular 
+head of income.   
+Exemptions: There are certain incomes which are wholly exempt from income-tax 
+e.g., agricultural income. These incomes have to be excluded and will not form part 
+of total income.  
+Also, some incomes are partially exempt from income-tax e.g., Commuted pension. 
+These incomes are excluded only to the extent of the limits specified in the Act. The 
+balance income over and above the prescribed exemption limits would enter 
+computation of total income and have to be classified under the relevant head of 
+income.  
+HEADS OF INCOME
+SALARIES
+INCOME 
+FROM 
+HOUSE 
+PROPERTY
+PROFITS AND 
+GAINS OF 
+BUSINESS OR 
+PROFESSION
+CAPITAL 
+GAINS
+INCOME FROM 
+OTHER 
+SOURCES
+
+BASIC CONCEPTS 
+ 
+ 
+1.13 
+Deductions: There are deductions and allowances prescribed under each head of 
+income. For example, while calculating income from house property for let out 
+property, municipal taxes and interest on loan are allowed as deduction. Similarly, 
+deductions and allowances are prescribed under other heads of income. These 
+deductions etc. have to be considered before arriving at the net income chargeable 
+under each head.  
+These exemptions and deductions would be available to the individual depending upon 
+the regime in which he pays tax. Tax regime under section 115BAC is the default tax regime 
+which provides for concessional rates of tax to individuals/HUFs/AoPs/BoIs/Artificial 
+juridical persons. However, certain exemptions and deductions are not allowed under the 
+default tax regime. Such assessees have an option to opt out of the said regime and pay 
+tax under normal provisions of the Act. These tax regimes i.e., the default tax regime under 
+section 115BAC and optional tax regime under the normal provisions of the Act are 
+discussed in detail later on in this Chapter. 
+For detailed discussion on exemptions and deductions under each head, refer to 
+Chapter 3: Heads of Income. 
+Disallowance of expenditure in relation to exempt income  
+[Section 14A] 
+▪ 
+As per section 14A, notwithstanding anything to the contrary, 
+expenditure incurred in relation to any exempt income is not allowed as a 
+deduction while computing income under any of the five heads of income.  
+▪ 
+The Assessing Officer is empowered to determine the amount of expenditure 
+incurred in relation to such income which does not form part of total income in 
+accordance with such method as may be prescribed.  
+▪ 
+The method for determining expenditure in relation to exempt income for the 
+purpose of disallowance of such expenditure under section 14A is prescribed by 
+the CBDT.  
+▪ 
+The provisions of section 14A regarding disallowance of expenses would apply 
+even in a case where exempt income has not accrued or arisen or has not been 
+received during the previous year relevant to an assessment year and the 
+expenditure has been incurred during the said previous year in relation to such 
+exempt income. 
+Step 4 – Clubbing of income of spouse, minor child etc. 
+In case of individuals, income-tax is levied on a slab system on the total income. 
+The tax system is progressive i.e., as the income increases, the applicable rate of 
+
+ 
+ 
+INCOME TAX LAW 
+1.14 
+tax increases. Some taxpayers in the higher income bracket have a tendency to 
+divert some portion of their income to their spouse, minor child etc. to minimize 
+their tax burden.   
+In order to prevent such tax avoidance, clubbing provisions have been incorporated 
+in the Act, under which income arising to certain persons (like spouse, minor child 
+etc.) have to be included in the income of the person who has diverted his income 
+for the purpose of computing tax liability. For detailed discussion, refer to Chapter 
+4: Income of other persons included in assessee’s total income. 
+Step 5 – Set-off or carry forward and set-off of losses 
+An assessee may have different sources of income under the same head of income. 
+He may have profit from one source and loss from the other. For instance, an 
+assessee may have profit from his textile business and loss from his printing 
+business. This loss can be set-off against the profits of textile business to arrive at 
+the net income chargeable under the head “Profits and gains of business or 
+profession”. 
+Similarly, an assessee can have loss under one head of income, say, profits and 
+gains of business or profession and profits under another heads of income, say, 
+income from house property. There are provisions in the Income-tax Act, 1961 for 
+allowing inter-head adjustment in certain cases.  
+However, there are also restrictions in certain cases, like business loss is not allowed 
+to be set-off against salary income. Default tax regime under section 115BAC puts 
+further more restrictions like loss from house property cannot be set off from income 
+under any other head. Further, losses which cannot be set-off in the current year 
+due to inadequacy of eligible profits can be carried forward for set-off in the 
+subsequent years as per the provisions contained in the Act. Generally, brought 
+forward losses under a particular head cannot be set-off against income under 
+another head i.e., brought forward business loss cannot be set-off against income 
+from house property of the current year. For detailed discussion, refer to Chapter 
+5: Aggregation of income, set-off and carry forward of losses. 
+Step 6 – Computation of Gross Total Income 
+The final figures of income or loss under each head of income, after allowing the 
+eligible deductions, allowances and other adjustments, are then aggregated, after 
+giving effect to the provisions for clubbing of income and set-off and carry forward 
+of losses, to arrive at the gross total income.  
+
+BASIC CONCEPTS 
+ 
+ 
+1.15 
+Step 7 – Deductions from Gross Total Income 
+There are deductions prescribed from Gross Total Income. Two types of 
+deductions are allowable from Gross Total Income - Deductions under Chapter VI-
+A and deduction under section 10AA. These deductions would be allowable to the 
+assessee who opts out of the default tax regime and pays tax under the optional tax 
+regime as per normal provisions of the Act, subject to fulfillment of requisite 
+conditions stipulated thereunder.  
+ 
+DEDUCTIONS FROM GROSS TOTAL INCOME 
+(in case of an assessee opting out of the default tax regime)
+DEDUCTIONS UNDER CHAPTER-VIA
+DEDUCTIONS IN 
+RESPECT OF CERTAIN 
+PAYMENTS
+Examples
+1.   Life Insurance Premium  
+paid
+2.   Contribution to 
+Provident Fund/
+Pension Fund
+3.   Medical insurance 
+premium paid 
+4.   Payment of interest on 
+loan taken for higher   
+education
+5.    Payment of interest on
+loan taken for residential 
+house
+6.    Payment of interest on 
+loan taken for purchase 
+of electric vehicle
+7.   Rent paid
+8.   Donation to certain
+funds, charitable
+institutions, etc.
+9.    Contributions to political 
+parties
+DEDUCTIONS IN 
+RESPECT OF 
+CERTAIN INCOMES
+Examples
+1.
+Employment of new 
+employees
+2.
+Royalty income etc. of 
+authors of  certain        
+books other than text 
+books
+3.
+Royalty on patents
+DEDUCTIONS 
+IN RESPECT OF  
+OTHER INCOME
+Examples
+1.    Interest on 
+deposits in 
+saving 
+account
+2.    Interest on 
+deposits in 
+case of senior 
+citizens
+OTHER 
+DEDUCTIONS
+Example
+Deduction
+in case of a
+person with
+disability
+DEDUCTION UNDER 
+SECTION 10AA
+
+ 
+ 
+INCOME TAX LAW 
+1.16 
+However, under the default tax regime under section 115BAC, only select deductions 
+are permissible.  
+For detailed discussion, refer to Chapter 6: Deductions from Gross Total Income. 
+Step 8 – Computation of Total income 
+The income arrived at, after claiming the above deductions from the Gross Total Income 
+is known as the Total Income. It should be rounded off to the nearest multiple of ` 10 as 
+per section 288A. The process of computation of total income is shown hereunder – 
+ 
+COMPUTATION OF TOTAL INCOME 
+Determine the residential status 
+Classify income under five 
+heads 
+Salaries 
+Income from 
+house property 
+Profits and gains 
+from business or 
+profession 
+Capital 
+gains 
+Income from 
+other sources 
+Compute income under each head applying the charging & deeming 
+provisions and providing for permissible deductions/exemptions thereunder 
+Apply clubbing provisions 
+Set-off/carry forward and  
+set-off of losses as per the provisions of the Act/default tax regime 
+Compute Gross Total Income (GTI) 
+Less: Deductions from GTI 
+Total Income (TI) 
+
+BASIC CONCEPTS 
+ 
+ 
+1.17 
+Step 9 – Application of the rates of tax on the total income 
+Rates prescribed under section 115BAC of the Income-tax Act for default tax 
+regime 
+Section 115BAC of the Income-tax Act, 1961 provides for concessional rates of tax 
+to individuals/HUF/AoPs/BoIs and artificial juridical persons. Under this regime 
+certain exemptions/deductions are, however, not available like Leave Travel 
+Concession, interest on housing loan on self-occupied property, deductions under 
+Chapter VI-A [other than section 80CCD(2), 80CCH(2) or section 80JJAA] etc. The 
+rates given under section 115BAC are the default tax rates unless the assessee 
+exercises an option to shift out of the said regime. The basic exemption limit under 
+section 115BAC is ` 3,00,000. This means that no tax is payable by an assessee with 
+total income of upto ` 3,00,000. The tax rates under section 115BAC is as follows - 
+S. 
+No. 
+Total Income 
+Rate of tax 
+1. 
+Upto ` 3,00,000 
+Nil 
+2. 
+From ` 3,00,000 to ` 6,00,000 
+5% 
+3. 
+From ` 6,00,000 to ` 9,00,000 
+10% 
+4. 
+From ` 9,00,000 to ` 12,00,000 
+15% 
+5. 
+From ` 12,00,000 to ` 15,00,000 
+20% 
+6. 
+Above ` 15,00,000 
+30% 
+Rates prescribed by the Annual Finance Act under the optional tax regime 
+Individuals/HUF/AoPs/BoIs and artificial juridical persons, who exercise the option to 
+opt out of the default tax regime under section 115BAC, have to pay tax as per normal 
+provisions of the Act. Under the normal provisions of the Act, the rates of tax are 
+prescribed by the Annual Finance Act of the year.  
+For individuals, HUF etc., the basic exemption limit is ` 2,50,000. This means that, as 
+per the normal provisions of the Act, no tax is payable by individuals with total 
+income of upto ` 2,50,000. Those individuals whose total income is more than 
+` 2,50,000 but less than ` 5,00,000 have to pay tax on their total income in excess of 
+` 2,50,000@5%. Total income between ` 5,00,000 and ` 10,00,000 attracts tax 
+@20%. The highest rate is 30%, which is attracted in respect of income in excess of  
+` 10,00,000. The tax rates have to be applied on the total income to arrive at the 
+income-tax liability.  
+
+ 
+ 
+INCOME TAX LAW 
+1.18 
+However, resident individuals enjoy rebate under section 87A in both the tax regimes 
+which are discussed later on in this chapter. 
+For certain income (like Long Term Capital Gains, Lottery Income, Specified Short 
+Term Capital Gains etc.), slab rates are not applicable under both the tax regimes. 
+These incomes are taxable at special rates of taxation under both the tax regimes. 
+These special rates are contained in the Income-tax Act, 1961 itself. 
+Step 10 - Surcharge / Rebate under section 87A 
+Surcharge: Surcharge is an additional tax payable over and above the income-tax. 
+Surcharge is levied as a percentage of income-tax, where total income exceeds  
+` 50 lakhs. The rates of surcharge applicable for different slabs of total income are 
+discussed later on in this chapter.  
+Rebate under section 87A: In order to provide tax relief to the individual tax payers, 
+section 87A provides a rebate from the tax payable by an assessee, being an 
+individual resident in India, whose total income does not exceed ` 7,00,000 under 
+the default tax regime under section 115BAC or ` 5,00,000 under the normal 
+provisions of the Act if he opts out of the default tax regime. Under the default tax 
+regime, an individual whose total income exceeds ` 7 lakhs marginally is also entitled 
+to a rebate of the difference between tax on total income and the amount by which 
+the total income exceeds ` 7 lakhs, when the former is greater than the latter. 
+Step 11 – Health and education cess on income-tax 
+The income-tax, as increased by the surcharge or as reduced by the rebate under 
+section 87A, if applicable, is to be further increased by an additional surcharge 
+called health and education cess on income-tax @4% of income-tax plus surcharge, 
+if applicable. 
+Step 12 – Alternate Minimum Tax (AMT) 
+The Income-tax Act, 1961 contains certain profit-linked and investment linked 
+deductions under normal provisions of the Act to promote investment in various 
+sectors. These tax benefits help to reduce the tax liability of the taxpayers who 
+exercise the option to opt out of the default tax regime under section 115BAC and 
+become eligible to claim such deductions. In order to preserve the tax base vis-a-
+vis profit linked and investment linked deductions, the Income-tax Act, 1961 
+provides for levy of alternate minimum tax. Section 115JC provides for minimum 
+tax to be paid by the taxpayers on their total income without providing profit linked 
+
+BASIC CONCEPTS 
+ 
+ 
+1.19 
+and investment linked deductions. However, the taxpayer can claim the tax credit 
+of the excess tax paid over the regular income-tax payable.  
+Individuals/HUF/AoPs/BoIs and artificial juridical persons paying tax under default 
+tax regime under section 115BAC, are not liable to alternate minimum tax under 
+section 115JC. 
+For detailed discussion, refer to Chapter 9: Income-tax liability – Computation and 
+Optimisation. 
+Step 13 – Examine whether to pay tax under the default tax regime under 
+section 115BAC or pay tax under the optional tax regime as per the regular 
+provisions of the Act 
+Total income and tax liability of individuals/HUF/AoPs/BoIs and artificial juridical 
+persons may be computed in accordance with both the default tax regime under 
+section 115BAC and as per the regular provisions of the Act including provisions 
+relating to AMT, if applicable. Then, such persons can determine which is more 
+beneficial and accordingly decide whether or not to opt out of the default tax regime 
+under section 115BAC. 
+Individuals/HUF/AoPs/BoIs not having income from business or profession can 
+choose whether or not to exercise the option of shifting out of the default tax regime 
+in each previous year. They may choose to pay tax under default tax regime under 
+section 115BAC in one year and exercise the option to shift out of default tax regime 
+in another year. 
+Step 14 – Advance tax and tax deducted/ collected at source 
+Although the tax liability of an assessee is determined only at the end of the year, 
+tax is required to be paid in advance in four installments on the basis of estimated 
+income i.e., on or before 15th June, 15th September, 15th December and 15th March. 
+However, residents declaring profits under presumptive taxation scheme (where 
+business income is computed as a percentage of gross receipts/turnover) can pay 
+advance tax in one installment on or before 15th March instead of four installments. 
+In certain cases, tax is required to be deducted at source from the income by the 
+payer at the rates prescribed in the Income-tax Act, 1961 or the Annual Finance 
+Act. Such deduction should be made either at the time of accrual or at the time of 
+payment, as prescribed by the Act.   
+Example: In the case of salary income, the obligation of the employer to deduct 
+tax at source arises only at the time of payment of salary to the employees. 
+
+ 
+ 
+INCOME TAX LAW 
+1.20 
+However, in respect of other payments like, fees for professional services, fees for 
+technical services, interest payable to residents, the person responsible for paying 
+is liable to deduct tax at source at the time of credit of such income to the account 
+of the payee or at the time of payment, whichever is earlier. Such tax deducted at 
+source has to be remitted to the credit of the Central Government through any 
+branch of the RBI, SBI or any authorized bank within the statutory due dates. 
+For detailed discussion, refer to Chapter 7: Advance tax, tax deduction at source and 
+tax collection at source.   
+Step 15: Tax Payable/Tax Refundable 
+After adjusting the advance tax and tax deducted/ collected at source, the assessee 
+would arrive at the amount of net tax payable or refundable. Such amount should 
+be rounded off to the nearest multiple of ` 10 as per section 288B. 
+The assessee has to pay the amount of tax payable (called self-assessment tax) on 
+or before the due date of filing of the return. Similarly, if any refund is due, assessee 
+will get the same after filing the return of income. 
+(2) 
+Return of Income  
+The Income-tax Act, 1961 contains provisions for filing of return of income. Return 
+of income is the format in which the assessee furnishes information as to his total 
+income and tax payable. The format for filing of returns by different assessees is 
+notified by the CBDT. The particulars of income earned under different heads, gross 
+total income, deductions from gross total income, total income and tax payable by 
+the assessee are required to be furnished in the return of income. In short, a return 
+of income is the declaration of income by the assessee in the prescribed format.  
+The Act has prescribed due dates for filing return of income in case of different 
+assessees. Companies and firms have to mandatorily file their return of income 
+before the due date. Other assessees are required to file a return of income subject 
+to fulfilling of certain conditions. 
+3. IMPORTANT DEFINITIONS 
+In order to understand the provisions of the Act, one must have a thorough 
+knowledge of the meanings of certain key terms like ‘person’, ‘assessee’, ‘income’, 
+etc. To understand the meanings of these terms we have to first check whether they 
+are defined in the Act. 
+
+BASIC CONCEPTS 
+ 
+ 
+1.21 
+Terms defined in the Act: Section 2 gives definitions of the various terms and 
+expressions used therein. If a particular definition is given in the Act itself, we have 
+to be guided by that definition. For e.g. the term ‘perquisite’ has been defined 
+under section 17(2) for the purpose of taxation of salaries. 
+Terms not defined under the Act: If a particular definition is not given in the Act, 
+reference can be made to the General Clauses Act or dictionaries.  
+Students should note this point carefully because certain terms like “dividend”, 
+“transfer”, etc. have been given a wider meaning in the Income-tax Act, 1961 than 
+they are commonly understood. Some of the important terms defined under 
+section 2 are given below: 
+3.1 Assessee [Section 2(7)] 
+“Assessee” means a person by whom any tax or any other sum of money is payable 
+under this Act. In addition, it includes – 
+• 
+Every person in respect of whom any proceeding under this Act has been 
+taken for the assessment of  
+▪ 
+his income; or 
+▪ 
+the income of any other person in respect of which he is assessable; or 
+▪ 
+the loss sustained by him or by such other person; or 
+▪ 
+the amount of refund due to him or to such other person. 
+• 
+Every person who is deemed to be an assessee under any provision of this 
+Act; 
+• 
+Every person who is deemed to be an assessee-in-default under any provision 
+of this Act. 
+• 
+Every assessee is a ‘person’, but every ‘person’ need not be an assessee. 
+3.2 Assessment [Section 2(8)] 
+This is the procedure by which the income of an assessee is determined. It may be 
+by way of a normal assessment or by way of reassessment of an income previously 
+assessed. Assessment Procedure will be dealt with in detail at the Final level.  
+
+ 
+ 
+INCOME TAX LAW 
+1.22 
+3.3  Person [Section 2(31)] 
+The definition of ‘assessee’ leads us to the definition of ‘person’ as the former is 
+closely connected with the latter. The term ‘person’ is important from another point 
+of view also viz., the charge of income-tax is on every ‘person’. 
+ 
+We may briefly consider some of the above seven categories of persons each of 
+which constitute a separate unit of assessment or a separate tax entity. 
+(i) 
+Individual 
+The term ‘individual’ means only a natural person, i.e., a human being.  
+• 
+It includes both males and females.  
+• 
+It also includes a minor or a person of unsound mind. But the assessment in 
+such a case may be made1 on the guardian or manager of the minor or lunatic 
+who is entitled to receive his income. In the case of deceased person, 
+assessment would be made on the legal representative. 
+(ii) 
+HUF 
+Under the Income-tax Act, 1961, a Hindu undivided family (HUF) is treated as a 
+separate entity for the purpose of assessment. It is included in the definition of the 
+ 
+1 under section 161(1) 
+Person
+Individual
+HUF
+Company
+Firm
+AOP/BOI
+Local 
+Authority
+Artificial 
+juridical 
+person
+
+BASIC CONCEPTS 
+ 
+ 
+1.23 
+term “person” under section 2(31). The levy of income-tax is on “every person”. 
+Therefore, income-tax is payable by a HUF.  
+"Hindu undivided family" has not been defined under the Income-tax Act. The 
+expression is, however, defined under the Hindu Law as a family, which consists of 
+all males lineally descended from a common ancestor and includes their wives and 
+daughters.  
+Some members of the HUF are called co-parceners. They are related to each other 
+and to the head of the family. HUF may contain many members, but members 
+within four degrees including the head of the family (Karta) are called co-parceners. 
+A Hindu Coparcenary includes those persons who acquire an interest in joint family 
+property by birth. Earlier, only male descendants were considered as coparceners. 
+With effect from 6th September, 2005, daughters have also been accorded 
+coparcenary status. It may be noted that only the coparceners have a right to 
+partition.  
+A daughter of coparcener by birth shall become a coparcener in her own right in 
+the same manner as the son. Being a coparcener, she can claim partition of assets 
+of the family. The rights of a daughter in coparcenary property are equal to that of 
+a son. However, other female members of the family, for example, wife or daughter-
+in-law of a coparcener are not eligible for such coparcenary rights.  
+The relation of a HUF does not arise from a contract but arises from status. There 
+need not be more than one male member or one female coparcener w.e.f.  
+6th September, 2005 to form a HUF. The Income-tax Act, 1961 also does not indicate 
+that a HUF as an assessable entity must consist of at least two male members or 
+two coparceners. 
+Under the Income-tax Act, 1961, Jain undivided families and Sikh undivided families 
+would also be assessed as a HUF. 
+ 
+Schools of Hindu Law
+Dayabaga school
+West Bengal and Assam
+Mitakshara school
+Rest of India except West 
+Bengal and Assam
+
+ 
+ 
+INCOME TAX LAW 
+1.24 
+The basic difference between the two schools of Hindu law with regard to 
+succession is as follows:  
+Dayabaga school of Hindu law 
+Mitakshara school of Hindu law 
+Prevalent in West Bengal and Assam 
+Prevalent in rest of India 
+Nobody acquires the right, share in the 
+property by birth as long as the head of 
+family is living.  
+Thus, the children do not acquire any 
+right, share in the family property, as 
+long as his father is alive and only on 
+death of the father, the children will 
+acquire right/share in the property. 
+Hence, the father and his brothers would 
+be the coparceners of the HUF. 
+One acquires the right to the family 
+property by his birth and not by 
+succession irrespective of the fact 
+that his elders are living. 
+Thus, every child born in the family 
+acquires a right/share in the family 
+property. 
+(iii) Company [Section 2(17)] 
+For all purposes of the Act, the term ‘Company’, has a much wider connotation than 
+that under the Companies Act. Under the Act, the expression ‘Company’ means: 
+(1) 
+any Indian company as defined in section 2(26); or 
+(2) 
+any body corporate incorporated by or under the laws of a country outside 
+India, i.e., any foreign company; or 
+(3) 
+any institution, association or body which is assessable or was assessed as a 
+company for any assessment year under the Indian Income-tax Act, 1922 or for 
+any assessment year commencing on or before 1.4.1970 under the present Act; or 
+(4) 
+any institution, association or body, whether incorporated or not and whether 
+Indian or non-Indian, which is declared by a general or special order of the 
+CBDT to be a company for such assessment years as may be specified in the 
+CBDT’s order. 
+Classes of Companies 
+(1) 
+Domestic company [Section 2(22A)] - It means an Indian company or any 
+other company which, in respect of its income liable to income-tax, has made 
+the prescribed arrangements for the declaration and payment of dividends 
+(including dividends on preference shares) within India, payable out of such 
+income. 
+
+BASIC CONCEPTS 
+ 
+ 
+1.25 
+Indian company [Section 2(26)] - Two conditions should be satisfied so that 
+a company can be regarded as an Indian company -  
+(a) 
+the company should have been formed and registered under the 
+Companies Act, 19562 and 
+(b) 
+the registered office or the principal office of the company should be in India.  
+ 
+The expression ‘Indian Company’ also includes the following provided their 
+registered or principal office is in India:  
+(i) 
+a corporation established by or under a Central, State or Provincial Act 
+(like Financial Corporation or a State Road Transport Corporation); 
+(ii) 
+an institution or association or body which is declared by the Board to 
+be a company under section 2(17)(iv); 
+(iii) 
+a company formed and registered under any law relating to companies 
+which was or is in force in any part of India [other than Jammu and 
+Kashmir and Union territories mentioned in sub-clause (v) below]; 
+(iv) 
+in the case of Jammu and Kashmir, a company formed and registered 
+under any law for the time being in force in Jammu and Kashmir; 
+(v) 
+in the case of any of the Union territories of Dadra and Nagar Haveli, 
+Daman and Diu, and Pondicherry or State of Goa, a company formed 
+and registered under any law for the time being in force in that Union 
+territory or State, respectively. 
+(2) 
+Foreign company [Section 2(23A)] - Foreign company means a company 
+which is not a domestic company 
+ 
+ 
+2 Now Companies Act, 2013 
+Classes of companies
+Domestic company 
+Indian 
+company 
+Company which has made 
+arrangement for declaring and 
+paying dividend within India 
+out of the income chargeable 
+to tax in India.
+Foreign company
+A company which 
+is not a domestic 
+company
+
+ 
+ 
+INCOME TAX LAW 
+1.26 
+(iv) Firm [Section 2(23)] 
+The terms ‘firm’, ‘partner’ and ‘partnership’ have the same meanings as assigned to 
+them in the Indian Partnership Act, 1932. In addition, the definitions also include 
+the terms limited liability partnership and a partner of limited liability partnership 
+as they have been defined in the Limited Liability Partnership Act, 2008.  
+In an LLP, since liability of the partners is limited to their agreed contribution 
+therein, it contains elements of both a corporate structure as well as a partnership 
+firm structure. 
+However, for income-tax purposes a minor admitted to the benefits of an existing 
+partnership would also be treated as partner.  
+ 
+ 
+A partnership is the relation between persons who have agreed to share 
+the profits of business carried on by all or any of them acting for all. The 
+persons who have entered into partnership with one another are called 
+individually ‘partners’ and collectively a ‘firm’. 
+(v) 
+Association of Persons (AOP) 
+When persons combine together for promotion of joint enterprise they are 
+assessable as an AOP, if they do not in law constitute a partnership. In order to 
+constitute an association, persons must join for a common purpose or action and 
+their object must be to produce income; it is not enough that the persons receive 
+the income jointly. Co-heirs, co-legatees or co-donees joining together for a 
+common purpose or action would be chargeable as an AOP. For e.g., Mr. Yash, AB 
+& Co. (Firm) and X (P) Ltd. join together to carry on construction activity otherwise 
+than as a partnership firm, such an association will be recognized as an association 
+of persons. 
+Firm
+As defined 
+under the 
+Partnership 
+Act, 1932
+As defined 
+under the 
+Limited 
+Liability 
+Partnership 
+Act, 2008
+
+BASIC CONCEPTS 
+ 
+ 
+1.27 
+(vi) Body of Individuals (BOI) 
+It denotes the status of persons like executors or trustees who merely receive the 
+income jointly and who may be assessable in like manner and to the same extent 
+as the beneficiaries individually. Thus, co-executors or co-trustees are assessable 
+as a BOI as their title and interest are indivisible. Income-tax shall not be payable 
+by an assessee in respect of the receipt of share of income by him from BOI and on 
+which the tax has already been paid by such BOI. For e.g., mutual trade associations, 
+members club, etc. 
+Section 2(31) further explains that an association of persons or a body of individuals 
+shall be treated as a person, whether or not it  was formed with the object of 
+deriving income, profits or gains.  Accordingly, even if such entities have been 
+formed not for earning any income/ profit still they are "person" for the purpose of 
+the Act and are covered by the provisions of the Act.  
+Difference between AOP and BOI: 
+In case of a BOI, only individuals can be the members, whereas in case of AOP, any 
+person can be its member i.e. entities like company, firm etc. can be the member 
+of AOP but not of BOI.  
+In case of an AOP, members voluntarily come together with a common will for a 
+common intention or purpose, whereas in case of BOI, such common will may or 
+may not be present. 
+(vii) Local Authority 
+The term “Local Authority” means a municipal committee, district board, body of 
+port commissioners or other authority legally entitled to or entrusted by the 
+Government with the control or management of a municipal or local fund. 
+Note: A local authority is taxable in respect of that part of its income which arises 
+from any business carried on by it in so far as that income does not arise from the 
+supply of a commodity or service within its own jurisdictional area. However, 
+income arising from the supply of water and electricity even outside the local 
+authority’s own jurisdictional area is exempt from tax. 
+ 
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.28 
+(viii) Artificial Juridical Persons 
+Artificial Juridical Persons are the entities which are not natural persons but are 
+separate entities in the eyes of law. This is a residual category could cover all 
+artificial persons with a juristic personality not falling under any other category of 
+persons. Deities, Bar Council, Universities are some important examples of Artificial 
+Juridical Persons.  
+3.4 Income [Section 2(24)] 
+(1) 
+Definition of Income 
+The definition of income as per the Income-tax Act, 1961 begins with the words 
+“Income includes”. Therefore, it is an inclusive definition and not an exhaustive one.  
+Such a definition does not confine the scope of income but leaves room for more 
+inclusions within the ambit of the term.   
+Section 2(24) of the Act gives a statutory definition of income. The following items 
+of receipts are specifically included in the said definition:— 
+(1) 
+Profits and gains; 
+(2) 
+Dividends; 
+(3) 
+Voluntary contributions received by a trust/institution created wholly or 
+partly for charitable or religious purposes or by certain research association 
+or universities and other educational institutions or hospitals and other 
+medical institutions or an electoral trust; 
+(4) 
+The value of any perquisite or profit in lieu of salary taxable under section 
+17(2)/(3); 
+(5) 
+Any special allowance or benefit, other than the perquisite included above, 
+specifically granted to the assessee to meet expenses wholly, necessarily and 
+exclusively for the performance of the duties of an office or employment of 
+profit; 
+(6) 
+Any allowance granted to the assessee to meet his personal expenses at the 
+place where the duties of his office or employment of profit are ordinarily 
+performed by him or at a place where he ordinarily resides or to compensate 
+him for the increased cost of living; 
+(7) 
+The value of any benefit or perquisite whether convertible into money or not, 
+obtained from a company either by a director or by a person who has a 
+
+BASIC CONCEPTS 
+ 
+ 
+1.29 
+substantial interest in the company or by a relative of the director or such 
+person and any sum paid by any such company in respect of any obligation 
+which, but for such payment, would have been payable by the director or 
+other person aforesaid; 
+(8) 
+The value of any benefit or perquisite, whether convertible into money or not, 
+which is obtained by any representative assessee3 or by any beneficiary and 
+any amount paid by the representative assessee for the benefit of the 
+beneficiary which the beneficiary would have ordinarily been required to pay. 
+(9) 
+Profits and gains of business or profession chargeable to tax under section 
+28(ii)/(iii)/(iiia)/(iiib)/(iiic)/(v)/(va); 
+(10) Deemed profits chargeable to tax under section 41 or section 59; 
+(11) The value of any benefit or perquisite taxable under section 28(iv); 
+(12) Any capital gains chargeable under section 45; 
+(13) Any winnings from lotteries, crossword puzzles, races including horse races, 
+card games and other games of any sort or from gambling, or betting of any 
+form or nature whatsoever. For this purpose, 
+(i) 
+“Lottery” includes winnings from prizes awarded to any person by draw 
+of lots or by chance or in any other manner whatsoever, under any 
+scheme or arrangement by whatever name called; 
+(ii) 
+“Card game and other game of any sort” includes any game show, an 
+entertainment programme on television or electronic mode, in which 
+people compete to win prizes or any other similar game; 
+(14) Any sum received by the assessee from his employees as contributions to any 
+provident fund (PF) or superannuation fund or Employees State Insurance 
+Fund (ESI) or any other fund for the welfare of such employees; 
+(15) Any sum received under a Keyman insurance policy including the sum 
+allocated by way of bonus on such policy will constitute income; 
+ 
+“Keyman insurance policy” means a life insurance policy taken by a person on 
+the life of another person where the latter is or was an employee of former 
+or is or was connected in any manner whatsoever with the former’s business. 
+ 
+3 mentioned in section 160(1)(iii)/(iv) 
+
+ 
+ 
+INCOME TAX LAW 
+1.30 
+It also includes such policy which has been assigned to a person with or 
+without any consideration, at any time during the term of the policy. 
+(16) Fair market value of inventory as on the date of its conversion into or 
+treatment as a capital asset under section 28(va); 
+(17) Any consideration received for issue of shares as exceeds the fair market value 
+of the shares [Section 56(2)(viib)]; 
+(18) Any sum of money received as advance, if such sum is forfeited consequent 
+to failure of negotiation for transfer of a capital asset [Section 56(2)(ix)]; 
+(19) Any sum of money or value of property received without consideration or for 
+inadequate consideration by any person [Section 56(2)(x)]; 
+(20) Any compensation or other payment, due to or received by any person, in 
+connection with termination of his employment or the modification of the 
+term and conditions relating thereto [Section 56(2)(xi)]; 
+(21) Sum received, including the amount allocated by way of bonus, under a LIP 
+other than under a ULIP and keyman insurance policy, which is not exempt u/s 
+10(10D), to the extent the same exceeds the aggregate of the premium paid 
+during the term of the policy, and not claimed as deduction under any other 
+provision of the Act [Section 56(2)(xiii)];  
+[For details, refer to Unit 5 of Chapter 3: Income from Other Sources] 
+(22) Assistance in the form of a subsidy or grant or cash incentive or duty 
+drawback or waiver or concession or reimbursement, by whatever name 
+called, by the Central Government or a State Government or any authority or 
+body or agency in cash or kind to the assessee is included in the definition of 
+income. 
+ 
+However, subsidy or grant or reimbursement which has been taken into 
+account for determination of the actual cost of the depreciable asset in 
+accordance with Explanation 10 to section 43(1) shall not be included in the 
+definition of income. 
+(2) 
+Concept of Income under the Income-tax Act, 1961 
+➢ 
+Regular receipt vis-a-vis casual receipt: Income, in general, means a 
+periodic monetary return which accrues or is expected to accrue regularly 
+from definite sources. However, under the Income-tax Act, 1961, even certain 
+
+BASIC CONCEPTS 
+ 
+ 
+1.31 
+casual receipts which do not arise regularly are treated as income for tax 
+purposes e.g. Winnings from lotteries, crossword puzzles. 
+➢ 
+Revenue receipt vis-a-vis Capital receipt: Income normally refers to 
+revenue receipts. Capital receipts are generally not included within the scope 
+of income in general parlance. However, the Income-tax Act, 1961 has 
+specifically included certain capital receipts within the definition of income 
+e.g., Capital gains i.e., gains on sale of a capital assets like land, jewellery. 
+➢ 
+Net receipt vis-a-vis Gross receipt: Income means net receipts and not 
+gross receipts. Net receipts are arrived at after deducting the expenditure 
+incurred in connection with earning such receipts. The expenditure which can 
+be deducted while computing income under each head is prescribed under 
+the Income-tax Act, 1961. Income from certain eligible businesses/ 
+professions is also determined on presumptive basis i.e., as a certain 
+percentage of gross receipts. [We will discuss in detail in Unit 3 of Chapter 3: 
+Profits and gains of business or profession]. 
+➢ 
+Due basis vis-a-vis receipt basis: Income is taxable either on due basis or 
+receipt basis. For computing income under the heads “Profits and gains of 
+business or profession” and “Income from other sources”, the method of 
+accounting regularly employed by the assessee should be considered, which 
+can be either cash system or mercantile system. Some receipts are taxable 
+only on receipt basis, like, income by way of interest received on 
+compensation or enhanced compensation. 
+➢ 
+Application of Income vis-a-vis Diversion of Income: Application of 
+income means to discharge an obligation (which is gratuitous or self-
+imposed) after such income reaches the assessee.  Where by virtue of an 
+obligation by overriding title, income is diverted before it reaches the 
+assessee, it is known as diversion of income. In case of the former, the income 
+would be taxable in the hands of the person who applies it, whereas in the 
+case of the latter, it is not taxable (i.e., even if the assessee were to collect the 
+income he does so on behalf of the person to whom it is payable). 
+(3) 
+Concept of revenue and capital receipts 
+Students should carefully study the various items of receipts included in the 
+definition of income. Some of them like capital gains are not revenue receipts. 
+However, since they have been included in the definition, they are chargeable as 
+
+ 
+ 
+INCOME TAX LAW 
+1.32 
+income under the Act. The concept of revenue and capital receipts is discussed 
+hereunder - 
+The Act contemplates a levy of tax on income and not on capital and hence it is 
+very essential to distinguish between capital and revenue receipts. Capital receipts 
+cannot be taxed, unless they fall within the scope of the definition of “income” and 
+so the distinction between capital and revenue receipts is material for tax purposes. 
+Certain capital receipts which have been specifically included in the definition of 
+income are compensation for modification or termination of services, income by 
+way of capital gains etc. 
+It is not possible to lay down any single test as infallible or any single criterion as 
+decisive, final and universal in application to determine whether a particular receipt 
+is capital or revenue in nature.  Hence, the capital or revenue nature of the receipt 
+must be determined with reference to the facts and circumstances of each case. 
+Criteria for determining whether a receipt is capital or revenue in nature 
+The following are some of the important criteria which may be applied to 
+distinguish between capital and revenue receipts. 
+Fixed capital or Circulating capital: A receipt referable to fixed capital would be 
+a capital receipt whereas a receipt referable to circulating capital would be a 
+revenue receipt. The former is not taxable while the latter is taxable. Tangible and 
+intangible assets which the owner keeps in his possession for making profits are in 
+the nature of fixed capital. The circulating capital is one which is turned over and 
+yields income or loss in the process. 
+Income from transfer of capital asset or trading asset: Profits arising from the 
+sale of a capital asset are chargeable to tax as capital gains under section 45 
+whereas profits arising from the sale of a trading asset being of revenue nature are 
+taxable as income from business under section 28 provided that the sale is in the 
+regular course of assessee’s business or the transaction constitutes an adventure 
+in the nature of trade.  
+Capital Receipts vis-a-vis Revenue Receipts: Tests to be applied 
+(1) 
+Transaction entered into the course of business: Profits arising from 
+transactions which are entered into in the course of the business regularly 
+carried on by the assessee, or are incidental to, or associated with the 
+business of the assessee would be revenue receipts chargeable to tax.  
+
+BASIC CONCEPTS 
+ 
+ 
+1.33 
+ 
+Example:  A banker’s or financier’s dealings in foreign exchange or sale of 
+shares and securities, a shipbroker’s purchase of ship in his own name, a share 
+broker’s purchase of shares on his own account would constitute transactions 
+entered and yielding income in the ordinary course of their business. Whereas 
+building and land would constitute capital assets in the hands of a trader in 
+shares, the same would constitute stock-in-trade in the hands of a property 
+dealer. 
+(2) 
+Profit arising from sale of shares and securities: In the case of profit arising 
+from the sale of shares and securities, the nature of the profit has to be 
+ascertained from the motive, intention or purpose with which they were bought. 
+If the shares were acquired as an investor or with a view to acquiring a controlling 
+interest or for obtaining a managing or selling agency or a directorship, the profit 
+or loss on their sale would be of a capital nature; but if the shares were acquired 
+in the ordinary course of business as a dealer in shares, it would constitute his 
+stock-in-trade. If the shares were acquired with speculative motive, the profit or 
+loss (although of a revenue nature) would have to be dealt with separately from 
+the profit or loss of other businesses. 
+Securities held by Foreign Institutional Investor which has invested 
+in such securities in accordance with the regulations made under 
+the SEBI Act, 1992 would be treated as a capital asset. Even if the 
+nature of such security in the hands of the Foreign Portfolio Investor is stock-
+in-trade, the same would be treated as a capital asset and the profit on transfer 
+would be taxable as capital gains.  
+(3) 
+A single transaction - Can it constitute business?  Even a single transaction 
+may constitute a business or an adventure in the nature of trade even if it is 
+outside the normal course of the assessee’s business. Repetition of such 
+transactions is not necessary. Thus, a bulk purchase followed by a bulk sale 
+or a series of retail sales or bulk sale followed by a series of retail purchases 
+would constitute an adventure in the nature of trade and consequently, the 
+income arising therefrom would be taxable. Purchase of any article with no 
+intention to resell it, but resold under changed circumstances would be a 
+transaction of a capital nature and capital gains would arise. However, where 
+an asset is purchased with the intention to resell it, the question whether the 
+profit on sale is capital or revenue in nature depends upon (i) the conduct of 
+the assessee, (ii) the nature and quantity of the article purchased, (iii) the 
+nature of the operations involved, (iv) whether the venture is on capital or 
+revenue account, and (v) other related circumstances of the case. 
+
+ 
+ 
+INCOME TAX LAW 
+1.34 
+(4) 
+Liquidated damages: Receipt of liquidated damages directly and intimately 
+linked with the procurement of a capital asset, which lead to delay in coming 
+into existence of the profit-making apparatus, is a capital receipt. The amount 
+received by the assessee towards compensation for sterilization of the profit 
+earning source is not in the ordinary course of business. Hence, it is a capital 
+receipt in the hands of the assessee.  
+(5) 
+Compensation on termination of agency/service contract: Where an 
+assessee receives compensation on termination of the agency business being 
+the only source of income, the receipt is of capital nature, but taxable under 
+section 28(ii)(c). However, where the assessee has a number of agencies and 
+one of them is terminated and compensation is received therefor, the receipt 
+would be of a revenue nature since taking up an agency and exploiting the 
+same for earning income is in the ordinary course of business. The loss of one 
+agency would be made good by profit from another agency. Compensation 
+received from the employer or from any person for premature termination of 
+the service contract is a capital receipt, but is taxable as profit in lieu of salary 
+under section 17(3) or as income from other sources under section 56(2)(xi), 
+respectively. Compensation received or receivable in connection with the 
+termination or the modification of the terms and conditions of any contract 
+relating to its business shall be taxable as business income. 
+(6) 
+Gifts: Normally, gifts constitute a capital receipt in the hands of the recipient. 
+However, certain gifts are brought within the purview of income-tax, for 
+example, receipt of property without consideration is brought to tax under 
+section 56(2)(x). 
+ 
+For example, any sum of money or value of property received without 
+consideration or for inadequate consideration by any person, other than a 
+relative, is chargeable under the head “Income from Other Sources” [For 
+details, refer to Unit - 5 of Chapter 3 :Income from Other Sources]. 
+3.5 India [Section 2(25A)] 
+The term 'India' means – 
+(i) 
+the territory of India as per Article 1 of the Constitution,  
+(ii) 
+its territorial waters, seabed and subsoil underlying such waters,  
+(iii) 
+continental shelf,  
+(iv) 
+exclusive economic zone or  
+
+BASIC CONCEPTS 
+ 
+ 
+1.35 
+(v) 
+any other specified maritime zone and the air space above its territory and 
+territorial waters. 
+Specified maritime zone means the maritime zone as referred to in the Territorial 
+Waters, Continental Shelf, Exclusive Economic Zone and other Maritime Zones Act, 
+1976. 
+3.6 Agricultural income [Section 2(1A)] 
+Agricultural income definition is very wide and covers the income of not only the 
+cultivators but also the land holders who might have rented out the lands. 
+Agricultural income may be received in cash or in kind. 
+Agricultural income may arise in any one of the following three ways:- 
+(1) 
+It may be rent or revenue derived from land situated in India and used for 
+agricultural purposes. 
+(2) 
+It may be income derived from such land by 
+(a) 
+agriculture or  
+(b) 
+the performance of a process ordinarily employed by a cultivator or 
+receiver of rent in kind to render the produce fit to be taken to the 
+market or  
+(c) 
+the sale, by a cultivator or receiver of rent in kind, of such agricultural 
+produce raised or received by him,  in respect of which no process 
+has been performed other than a process of the nature mentioned in 
+point (b) above. 
+(3) 
+Lastly, agricultural income may be derived from any farm building required 
+for agricultural operations. 
+Now let us take a critical look at the following aspects: 
+(1)  Rent or revenue derived from land situated in India and used for 
+agricultural purposes: The following three conditions have to be satisfied 
+for income to be treated as agricultural income: 
+(a)  
+Rent or revenue should be derived from land; 
+(b) 
+land has to be situated in India (If agricultural land is situated in a 
+foreign country, the entire income would be taxable); and 
+(c)  
+land should be used for agricultural purposes. 
+
+ 
+ 
+INCOME TAX LAW 
+1.36 
+ 
+The amount received in money or in kind, by one person from another for 
+right to use land is termed as Rent. The rent can either be received by the 
+owner of the land or by the original tenant from the sub-tenant. It implies 
+that ownership of land is not necessary. Thus, the rent received by the original 
+tenant from sub-tenant would also be agricultural income subject to the other 
+conditions mentioned above. 
+ 
+The scope of the term “Revenue” is much broader than rent. It includes 
+income other than rent. For example, fees received for renewal for grant of 
+land on lease would be revenue derived from land. 
+(2) 
+Income derived from such land by 
+(a)  Agriculture 
+The term “Agriculture” has not been defined in the Act. However, 
+cultivation of a field involving human skill and labour on the land can 
+be broadly termed as agriculture. 
+ 
+“Agriculture” means tilling of the land, sowing of the seeds and similar 
+operations. It involves basic operations and subsequent operations. 
+ 
+Note: The term ‘agriculture’ cannot be extended to all activities which 
+have some distant relation to land like dairy farming, breeding and 
+rearing of live stock, butter and cheese making and poultry farming. 
+This aspect is discussed in detail later on in this chapter. 
+ 
+Those operations
+by
+agriculturists
+which
+are
+absolutely
+necessary for the
+purpose
+of
+effectively raising
+produce from the
+land
+are
+the
+basic operations.
+Basic 
+Operations
+Operations
+to
+be
+performed
+after
+the
+produce sprouts from
+the
+land
+(e.g.,
+weeding, digging etc.)
+are subsequent opera-
+tions.
+These
+subsequent operations
+would be agricultural
+operations only when
+taken
+in
+conjunction
+with
+and
+as
+a
+continuation
+of
+the
+basic operations.
+Subsequent 
+Operations
+
+BASIC CONCEPTS 
+ 
+ 
+1.37 
+ 
+Whether income from nursery constitutes agricultural 
+income? 
+Yes, as per Explanation 3 to section 2(1A), income derived from 
+saplings or seedlings grown in a nursery would be deemed to be agricultural 
+income, whether or not the basic operations were carried out on land.   
+(b)  Process ordinarily employed to render the produce fit to be taken 
+to the market: Sometimes, to make the agricultural produce a saleable 
+commodity, it becomes necessary to perform some kind of process on 
+the produce. The income from the process employed to render the 
+produce fit to be taken to the market would be agricultural income. 
+However, it must be a process ordinarily employed by the cultivator or 
+receiver of rent in kind and the process must be applied to make the 
+produce fit to be taken to the market. 
+ 
+The ordinary process employed to render the produce fit to be taken to 
+market includes thrashing, winnowing, cleaning, drying, crushing etc. 
+For example, the process ordinarily employed by the cultivator to obtain 
+the rice from paddy is to first remove the hay from the basic grain, and 
+thereafter to remove the chaff from the grain. The grain has to be 
+properly filtered to remove stones etc. and finally the rice has to be 
+packed in gunny bags for sale in the market.  
+ 
+After such process, the rice can be taken to the market for sale. This 
+process of making the rice ready for the market may involve manual 
+operations or mechanical operations. All these operations constitute 
+the process ordinarily employed to make the product fit for the market. 
+The produce must retain its original character in spite of the processing 
+unless there is no market for selling it in that condition. 
+ 
+However, if marketing process is performed on a produce which can be 
+sold in its raw form, income derived therefrom is partly agricultural 
+income and partly business income. 
+(c)  Sale of such agricultural produce in the market: Any income from the 
+sale of any produce to the cultivator or receiver of rent-in kind is 
+agricultural income provided it is from the land situated in India and 
+used for agricultural purposes. However, if the produce is subjected to 
+any process other than process ordinarily employed to make the 
+
+ 
+ 
+INCOME TAX LAW 
+1.38 
+produce fit for market, the income arising on sale of such produce 
+would be partly agricultural income and partly non-agricultural income. 
+Similarly, if other agricultural produce like tea, cotton, tobacco, 
+sugarcane etc. are subjected to manufacturing process and the 
+manufactured product is sold, the profit on such sale will consist of 
+agricultural income as well as business income. That portion of the 
+profit representing agricultural income will be exempted.  
+ 
+Apportionment 
+of 
+Income 
+between 
+business 
+income 
+and 
+agricultural income: Rules 7, 7A, 7B & 8 of Income-tax Rules, 1962 
+provide the basis of apportionment of income between agricultural 
+income and business income. 
+(i) 
+Rule 7 - Income from growing and manufacturing of any 
+product - Where income is partially agricultural income and 
+partially income chargeable to income-tax as business income, 
+the market value of any agricultural produce which has been 
+raised by the assessee or received by him as rent in kind and which 
+has been utilised as raw material in such business or the sale 
+receipts of which are included in the accounts of the business shall 
+be deducted. No further deduction shall be made in respect of 
+any expenditure incurred by the assessee as a cultivator or 
+receiver of rent in kind. 
+ 
+Determination of market value - There are two possibilities here: 
+(I) 
+The agricultural produce is capable of being sold in the market 
+either in its raw stage or after application of any ordinary 
+process to make it fit to be taken to the market. In such a case, 
+the value calculated at the average price at which it has been so 
+sold during the relevant previous year will be the market value. 
+(II) 
+It is possible that the agricultural produce is not capable of 
+being ordinarily sold in the market in its raw form or after 
+application of any ordinary process. In such case the market 
+value will be the total of the following:— 
+• 
+The expenses of cultivation; 
+• 
+The land revenue or rent paid for the area in which 
+it was grown; and 
+
+BASIC CONCEPTS 
+ 
+ 
+1.39 
+• 
+Such amount as the Assessing Officer finds having 
+regard to the circumstances in each case to 
+represent at reasonable profit. 
+ILLUSTRATION 1 
+Mr. B grows sugarcane and uses the same for the purpose of 
+manufacturing sugar in his factory. 30% of sugarcane produce is sold 
+for ` 10 lakhs, and the cost of cultivation of such sugarcane is  
+` 5 lakhs. The cost of cultivation of the balance sugarcane (70%) is 
+` 14 lakhs and the market value of the same is ` 22 lakhs. After 
+incurring ` 1.5 lakhs in the manufacturing process on the balance 
+sugarcane, the sugar was sold for ` 25 lakhs. Compute B’s business 
+income and agricultural income. 
+SOLUTION  
+Computation of Business Income and Agriculture 
+Income of Mr. B 
+Particulars 
+Business 
+Income 
+Agricultural Income 
+(`) 
+(`) 
+(`) 
+Sale of Sugar 
+ 
+ 
+ 
+Business income 
+ 
+ 
+ 
+Sale Proceeds of sugar 
+25,00,000 
+ 
+ 
+Less: Market value of sugar-
+cane (70%) 
+22,00,000 
+ 
+ 
+Less: Manufacturing exp. 
+  1,50,000 
+ 
+ 
+ 
+1,50,000 
+ 
+ 
+Agricultural income 
+ 
+ 
+ 
+Market value of sugarcane 
+(70%) 
+ 22,00,000 
+ 
+Less: Cost of cultivation 
+ 14,00,000 
+ 
+ 
+ 
+ 
+8,00,000 
+ 
+ 
+  
+
+ 
+ 
+INCOME TAX LAW 
+1.40 
+Sale of sugarcane 
+ 
+Agricultural Income 
+ 
+ 
+ 
+Sale proceeds of sugarcane 
+(30%) 
+ 10,00,000 
+ 
+Less: Cost of cultivation 
+ 
+ 5,00,000 
+ 
+ 
+ 
+    5,00,000 
+ 
+ 
+ 13,00,000 
+(ii) 
+Rule 7A – Income from growing and manufacturing of rubber 
+- This rule is applicable when income derived from the sale of 
+centrifuged latex or cenex or latex based crepes or brown crepes 
+or technically specified block rubbers manufactured or processed 
+from field latex or coagulum obtained from rubber plants grown 
+by the seller in India. In such cases, 35% profits on sale is taxable 
+as business income under the head “Profits and gains from 
+business or profession”, and the balance 65% is agricultural 
+income which is exempt. 
+ILLUSTRATION 2 
+Mr. C manufactures latex from the rubber plants grown by him in 
+India. These are then sold in the market for ` 30 lakhs. The cost of 
+growing rubber plants is ` 10 lakhs and that of manufacturing latex 
+is ` 8 lakhs. Compute his total income.  
+SOLUTION 
+The total income of Mr. C comprises of agricultural income and 
+business income.  
+Total profits from the sale of latex= ` 30 lakhs – ` 10 lakhs –  
+` 8 lakhs= ` 12 lakhs. 
+Agricultural income 
+= 65% of ` 12 lakhs 
+= ` 7.8 lakhs 
+Business income  
+= 35% of ` 12 lakhs 
+= ` 4.2 lakhs 
+(iii) Rule 7B – Income from growing and manufacturing of coffee 
+a)  
+In case of income derived from the sale of coffee grown and 
+cured by the seller in India, 25% profits on sale is taxable as 
+business income under the head “Profits and gains from 
+
+BASIC CONCEPTS 
+ 
+ 
+1.41 
+business or profession”, and the balance 75% is agricultural 
+income and is exempt.  
+b)  
+In case of income derived from the sale of coffee grown, cured, 
+roasted and grounded by the seller in India, with or without 
+mixing chicory or other flavoring ingredients, 40% profits on 
+sale is taxable as business income under the head “Profits and 
+gains from business or profession”, and the balance 60% is 
+agricultural income and is exempt. 
+(iv) Rule 8 - Income from growing and manufacturing of tea - This 
+rule applies only in cases where the assessee himself grows tea 
+leaves and manufactures tea in India. In such cases 40% profits on 
+sale is taxable as business income under the head “Profits and 
+gains from business or profession”, and the balance 60% is 
+agricultural income and is exempt. 
+Rule 
+Apportionment of 
+income in certain cases 
+Agricultural 
+Income 
+Business 
+Income 
+7A 
+Income from sale of rubber 
+products 
+derived 
+from 
+rubber plant grown by the 
+seller in India. 
+65% 
+35% 
+7B 
+Income from sale of coffee  
+ 
+ 
+ 
+- 
+grown and cured by 
+the seller in India 
+75% 
+25% 
+ 
+- 
+grown, cured, roasted 
+and grounded by the 
+seller in India 
+60% 
+40% 
+8 
+Income from sale of tea 
+grown and manufactured 
+by the seller in India  
+60% 
+40% 
+(3) 
+Income from farm building: Income from the farm building which is owned 
+and occupied by the receiver of the rent or revenue of any such land or 
+occupied by the cultivator or the receiver of rent in kind, of any land with 
+respect to which, or the produce of which, any process discussed above is 
+carried on, would be agricultural income.  
+
+ 
+ 
+INCOME TAX LAW 
+1.42 
+ 
+However, the income arising from the use of such farm building for any 
+purpose (including letting for residential purpose or for the purpose of 
+business or profession) other than agriculture referred in (1) & (2) of para 3.6 
+in page 1.35 would not be agricultural income.  
+ 
+Further, the income from such farm building would be agricultural income 
+only if the following conditions are satisfied: 
+(a) 
+The building should be on or in the immediate vicinity of the land; and 
+(b) 
+The receiver of the rent or revenue or the cultivator or the receiver of 
+rent in kind should, by reason of his connection with such land require 
+it as a dwelling house or as a store house. 
+In addition to the above conditions any one of the following two conditions 
+should also be satisfied: 
+(i) 
+The land should either be assessed to land revenue in India or be 
+subject to a local rate assessed and collected by the officers of the 
+Government as such or; 
+(ii) 
+Where the land is not so assessed to land revenue in India or is not 
+subject to local rate:- 
+a. 
+It should not be situated in any area as comprised within the 
+jurisdiction of a municipality or a cantonment board and which 
+has a population not less than 10,000 or 
+b. 
+It should not be situated in any area within such distance, 
+measured aerially, in relation to the range of population as shown 
+hereunder – 
+ 
+ 
+Shortest 
+aerial 
+distance from the local 
+limits of a municipality 
+or cantonment board 
+referred to in item a. 
+Population according to the 
+last preceding census of which 
+the relevant figures have been 
+published before the first day 
+of the previous year 
+(i) 
+≤ 2 kms 
+> 10,000  
+(ii) 
+>2 kms but ≤ 6 kms 
+> 1,00,000 
+(iii) 
+>6 kms but ≤ 8kms 
+> 10,00,000 
+ 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.43 
+Example: 
+ 
+Area 
+Shortest 
+aerial 
+distance 
+from 
+the local limits of 
+a municipality or 
+cantonment 
+board referred to 
+in item a. 
+Population according 
+to the last preceding 
+census of which the 
+relevant figures have 
+been 
+published 
+before the first day of 
+the previous year 
+Would 
+income 
+derived from 
+farm 
+building 
+situated 
+in 
+this area be 
+treated 
+as 
+agricultural 
+income? 
+(i) 
+A 
+1 km 
+9,000 
+Yes 
+(ii) 
+B 
+1.5 kms 
+12,000 
+No 
+(iii) 
+C 
+2 kms 
+11,00,000 
+No 
+(iv) 
+D 
+3 kms 
+80,000 
+Yes 
+(v) 
+E 
+4 kms 
+3,00,000 
+No 
+(v) 
+F 
+5 kms 
+12,00,000 
+No 
+(vi) 
+G 
+6 kms 
+8,000 
+Yes 
+(vii) 
+H 
+7 kms 
+4,00,000 
+Yes 
+(viii) 
+I 
+8 kms 
+10,50,000 
+No 
+(ix) 
+J 
+9 kms 
+15,00,000 
+Yes 
+Would income arising from transfer of agricultural land situated in urban 
+area be agricultural income? 
+No, as per Explanation 1 to section 2(1A), the capital gains arising from the 
+transfer of urban agricultural land would not be treated as agricultural income 
+under section 10 but will be taxable under section 45.  
+Example: Suppose A sells agricultural land situated in New Delhi for ` 10 lakhs and 
+makes a surplus of ` 8 lakhs over its cost of acquisition. This surplus will not constitute 
+agricultural income exempt under section 10(1) and will be taxable under section 45. 
+ 
+Indirect connection with land 
+We have seen above that agricultural income is exempt, whether it is received 
+by the tiller or the landlord. However, non-agricultural income does not become 
+
+ 
+ 
+INCOME TAX LAW 
+1.44 
+agricultural merely on account of its indirect connection with the land. The 
+following examples will illustrate the above point. 
+Example: A rural society has as its principal business the selling on behalf of its 
+member societies, butter made by these societies from cream sold to them by 
+farmers. The making of butter was a factory process separated from the farm.  
+The butter resulting from the factory operations separated from the farm was not an 
+agricultural product and the society was, therefore, not entitled to exemption under 
+section 10(1) in respect of such income. 
+Example: X was the managing agent of a company. He was entitled for a 
+commission at the rate of 10% p.a. on the annual net profits of the company. A part 
+of the company’s income was agricultural income. X claimed that since his 
+remuneration was calculated with reference to income of the company, part of 
+which was agricultural income, such part of the commission as was proportionate 
+to the agricultural income was exempt from income tax.  
+Since, X received remuneration under a contract for personal service calculated on 
+the amount of profits earned by the company; such remuneration does not constitute 
+agricultural income.  
+Example: Y owned 100 acres of agricultural land, a part of which was used as 
+pasture for cows. The lands were purely maintained for manuring and other 
+purposes connected with agriculture and only the surplus milk after satisfying the 
+assessee’s needs was sold. The question arose whether income from such sale of 
+milk was agricultural income.  
+The regularity with which the sales of milk were effected and quantity of milk sold 
+showed that the assessee carried on regular business of producing milk and selling it 
+as a commercial proposition. Hence, it was not agricultural income.  
+Example: In regard to forest trees of spontaneous growth which grow on the soil 
+unaided by any human skill and labour there is no cultivation of the soil at all. Even 
+though operations in the nature of forestry operations performed by the assessee 
+may have the effect of nursing and fostering the growth of such forest trees, it 
+cannot constitute agricultural operations.  
+Income from the sale of such forest trees of spontaneous growth does not, therefore, 
+constitute agricultural income.  
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.45 
+Examples of Agricultural income and Non-agricultural income 
+For better understanding of the concept, certain examples of agricultural income 
+and non-agricultural income are given below: 
+Example: Agricultural income  
+❖ 
+ Income derived from saplings or seedlings grown in a nursery. 
+❖ 
+Income from growing of flowers and creepers. 
+❖ 
+Rent received from land used for grazing of cattle required for agricultural 
+activities. 
+❖ 
+Income from growing of bamboo. 
+Example: Non-agricultural income   
+❖ 
+Income from breeding of livestock. 
+❖ 
+Income from poultry farming. 
+❖ 
+Income from fisheries. 
+❖ 
+Income from dairy farming. 
+4. PREVIOUS YEAR AND ASSESSMENT YEAR  
+ 
+4.1 Assessment year 
+The term has been defined under section 2(9). This means a period of 12 months 
+commencing on 1st April every year. The year in which income is earned is the 
+previous year and such income is taxable in the immediately following year which 
+is the assessment year. Income earned in the previous year 2023-24 is taxable in 
+the assessment year 2024-25. 
+Assessment year always starts from 1st April and it is always a period of 12 months.  
+ 
+ 
+Previous Year 2023-24
+Assessment Year 2024-25
+
+ 
+ 
+INCOME TAX LAW 
+1.46 
+4.2 Previous year 
+The term has been defined under section 3. It means the financial year immediately 
+preceding the assessment year. As mentioned earlier, the income earned during 
+the previous year is taxable in the assessment year.  
+Business or profession newly set up during the financial year - In such a case, 
+the previous year shall be the period beginning on the date of setting up of the 
+business or profession and ending with 31st March of the said financial year.  
+If a source of income comes into existence in the said financial year, then, the 
+previous year will commence from the date on which the source of income newly 
+comes into existence and will end with 31st March of the financial year. 
+Examples: 
+A is running a business from 1993 onwards. Determine the previous year for the 
+assessment year 2024-25. 
+Ans. The previous year will be 1.4.2023 to 31.3.2024. 
+A chartered accountant sets up his profession on 1st July, 2023. Determine the 
+previous year for the assessment year 2024-25. 
+Ans. The previous year will be from 1.7.2023 to 31.3.2024. 
+4.3 Certain cases when income of a previous year will be 
+assessed in the previous year itself 
+ 
+General Rule
+Income of a previous year is assessed in the assessment year following 
+the previous year
+Exceptions to this rule
+Cases where income of a previous year is assessed in the previous year itself
+Shipping 
+business of 
+non-resident
+Persons 
+leaving 
+India
+AOP/ BOI/ Artificial 
+Juridical Person 
+formed for a 
+particular event or 
+purpose
+Persons likely 
+to transfer 
+property to 
+avoid tax
+Discontinued 
+business
+
+BASIC CONCEPTS 
+ 
+ 
+1.47 
+The income of an assessee for a previous year is charged to income-tax in the 
+assessment year following the previous year. For instance, income of previous year 
+2023-24 is assessed during 2024-25. Therefore, 2024-25 is the assessment year for 
+assessment of income of the previous year 2023-24. 
+However, in a few cases, this rule does not apply and the income is taxed in the 
+previous year in which it is earned. These exceptions have been made to protect 
+the interests of revenue. The exceptions are as follows: 
+(i) 
+Shipping business of non-resident [Section 172] 
+Where a ship, belonging to or chartered by a non-resident, carries passengers, 
+livestock, mail or goods shipped at a port in India, the ship is allowed to leave the 
+port only when the tax has been paid or satisfactory arrangement has been made 
+for payment thereof. 7.5% of the freight paid or payable to the owner or the 
+charterer or to any person on his behalf, whether in India or outside India on 
+account of such carriage is deemed to be his income which is charged to tax in the 
+same year in which it is earned. 
+(ii) 
+Persons leaving India [Section 174] 
+Where it appears to the Assessing Officer that any individual may leave India during 
+the current assessment year or shortly after its expiry and he has no present 
+intention of returning to India, the total income of such individual for the period 
+from the expiry of the respective previous year up to the probable date of his 
+departure from India is chargeable to tax in that assessment year. 
+Example: Suppose Mr. X is leaving India for USA on 10.6.2023 and it appears to the 
+Assessing Officer that he has no intention to return. Before leaving India, Mr. X may 
+be asked to pay income-tax on the income earned during the P.Y. 2022-23 as well as 
+on the total income earned during the period 1.4.2023 to 10.06.2023. 
+(iii) AOP/BOI/Artificial Juridical Person formed for a particular event or 
+purpose [Section 174A] 
+If an AOP/BOI etc. is formed or established for a particular event or purpose and 
+the Assessing Officer apprehends that the AOP/BOI is likely to be dissolved in the 
+same year or in the next year, he can make assessment of the income up to the 
+date of dissolution as income of the relevant assessment year.  
+ 
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.48 
+(iv) Persons likely to transfer property to avoid tax [Section 175] 
+During the current assessment year, if it appears to the Assessing Officer that a 
+person is likely to charge, sell, transfer, dispose of or otherwise part with any of his 
+assets to avoid payment of any liability under this Act, the total income of such 
+person for the period from the expiry of the previous year to the date, when the 
+Assessing Officer commences proceedings under this section is chargeable to tax 
+in that assessment year. 
+(v) 
+Discontinued business [Section 176] 
+Where any business or profession is discontinued in any assessment year, the 
+income of the period from the expiry of the previous year up to the date of such 
+discontinuance may, at the discretion of the Assessing Officer, be charged to tax in 
+that assessment year. 
+5. UNDISCLOSED SOURCES OF INCOME 
+ 
+(i)  
+Cash Credits [Section 68] 
+Where any sum is found credited in the books of an assessee maintained for any 
+previous year and the assessee offers no explanation about the nature and source 
+or the explanation offered is not satisfactory in the opinion of the Assessing Officer, 
+the sum so credited may be charged as income of the assessee of that previous 
+year. 
+Undisclosed 
+sources of 
+income
+Amount 
+borrowed or 
+repaid on hundi 
+[Section 69D]
+Unexplained 
+expenditure 
+[Section 69C]
+Investment etc. 
+not fully 
+disclosed 
+[Section 69B]
+Unexplained 
+money 
+[Section 69A]
+Unexplained 
+Investments 
+[Section 69]
+Cash 
+Credits 
+[Section 
+68]
+
+BASIC CONCEPTS 
+ 
+ 
+1.49 
+Unexplained loan or borrowing - Where the sum so credited consists of loan or 
+borrowing or any such amount, by whatever name called, any explanation offered by 
+the assessee in whose books such sum is credited shall not be deemed to be 
+satisfactory, unless - 
+- 
+the person in whose name such credit is recorded in the books of such assessee 
+also offers an explanation about the nature and source of such sum so credited; 
+and 
+- 
+such explanation in the opinion of the Assessing Officer has been found to be 
+satisfactory. 
+Unexplained Share Capital/ Premium- Any explanation offered by a closely held 
+company in respect of any sum credited as share application money, share capital, 
+share premium or any such amount, by whatever name called, in the accounts of 
+such company shall be deemed to be not satisfactory, unless 
+-  
+the person, being a resident, in whose name such credit is recorded in the 
+books of such company also explains about the nature and the source of such 
+sum so credited and 
+- 
+such explanation in the opinion of the Assessing Officer has been found to 
+be satisfactory 
+Non-applicability to Venture Capital Fund or Venture Capital Company –These 
+additional conditions would not apply if the person, in whose name the sum is 
+recorded, is a Venture Capital Fund or Venture Capital Company registered with SEBI. 
+(ii)  Unexplained Investments [Section 69] 
+Where in the financial year immediately preceding the assessment year, the 
+assessee has made investments which are not recorded in the books of account 
+and the assessee offers no explanation about the nature and the source of 
+investments or the explanation offered is not satisfactory in the opinion of the 
+Assessing Officer, the value of the investments are taxed as deemed income of the 
+assessee of such financial year. 
+(iii) Unexplained money etc. [Section 69A] 
+Where in any financial year the assessee is found to be the owner of any money, 
+bullion, jewellery or other valuable article and the same is not recorded in the books 
+of account and the assessee offers no explanation about the nature and source of 
+acquisition of such money, bullion etc. or the explanation offered is not satisfactory 
+
+ 
+ 
+INCOME TAX LAW 
+1.50 
+in the opinion of the Assessing Officer, the money and the value of bullion etc. may 
+be deemed to be the income of the assessee for such financial year.  
+(iv) Amount of investments etc., not fully disclosed in the books of account 
+[Section 69B] 
+Where in any financial year the assessee has made investments or is found to be 
+the owner of any bullion, jewellery or other valuable article and the Assessing 
+Officer finds that the amount spent on making such investments or in acquiring 
+such articles exceeds the amount recorded in the books of account maintained by 
+the assessee and he offers no explanation for the difference or the explanation 
+offered is unsatisfactory in the opinion of the Assessing Officer, such excess may 
+be deemed to be the income of the assessee for such financial year. 
+Example:  
+If the assessee is found to be the owner of say 300 gms of gold (market value of which 
+is ` 25,000) during the financial year ending 31.3.2024 but he has recorded to have 
+spent ` 15,000 in acquiring it, the Assessing Officer can add ` 10,000 (i.e,. the 
+difference of the market value of such gold and ` 15,000) as the income of the 
+assessee, if the assessee offers no satisfactory explanation thereof. 
+(v)  Unexplained expenditure [Section 69C] 
+Where in any financial year an assessee has incurred any expenditure and he offers 
+no explanation about the source of such expenditure or the explanation is 
+unsatisfactory in the opinion of the Assessing Officer, Assessing Officer can treat 
+such unexplained expenditure as the income of the assessee for such financial year. 
+Such unexplained expenditure which is deemed to be the income of the assessee 
+shall not be allowed as deduction under any head of income. 
+(vi) Amount borrowed or repaid on hundi [Section 69D] 
+Where any amount is borrowed on a hundi or any amount due thereon is repaid other 
+than through an account-payee cheque drawn on a bank, the amount so borrowed or 
+repaid shall be deemed to be the income of the person borrowing or repaying for the 
+previous year in which the amount was borrowed or repaid, as the case may be. 
+However, where any amount borrowed on a hundi has been deemed to be the 
+income of any person, he will not be again liable to be assessed in respect of such 
+amount on repayment of such amount. The amount repaid shall include interest 
+paid on the amount borrowed. 
+
+BASIC CONCEPTS 
+ 
+ 
+1.51 
+6. RATES OF TAX, SURCHARGE & CESS 
+Income-tax 
+Income-tax is to be charged on every person at the rates prescribed for the year by the 
+Annual Finance Act or the Income-tax Act, 1961 or both. 
+Surcharge 
+Surcharge is an additional tax payable over and above the income-tax. Surcharge 
+is levied as a percentage of income-tax. Under the normal provisions of the Act, 
+surcharge is presently being levied beyond a particular threshold of income for 
+different persons. Also, higher rates of surcharge are prescribed for higher 
+thresholds of income. Under the special tax regimes for domestic companies and 
+co-operative societies, a uniform surcharge is prescribed irrespective of the level of 
+total income.  
+“Health and Education cess” on Income-tax 
+The amount of income-tax as increased by the union surcharge, if applicable, 
+should be further increased by an additional surcharge called the “Health and 
+Education cess on income-tax”, calculated at the rate of 4% of such income-tax and 
+surcharge, if applicable. Health and education cess is leviable in the case of all 
+assessees i.e. individuals, HUF, AOPs/BOIs, Artificial Juridical Persons, firms, local 
+authorities, co-operative societies and companies.   
+It is leviable to fulfill the commitment of the Government to provide and finance 
+quality health services and universalised quality basic education and secondary and 
+higher education. 
+6.1 Individual/Hindu Undivided Family (HUF)/Association of 
+Persons 
+(AOP)/Body 
+of 
+Individuals 
+(BOI)/Artificial 
+Juridical Person 
+Income-tax 
+Individuals/HUF/AoPs/BoIs and Artificial Juridical Persons can pay tax at 
+concessional rates under the default tax regime under section 115BAC. However, he/it 
+has to forego certain exemptions and deductions under this regime. Alternatively, 
+they can exercise the option to shift out of the default tax regime and pay tax under 
+the optional tax regime as per the regular provisions of the Act at the tax rates 
+prescribed by the Annual Finance Act of that year. 
+
+ 
+ 
+INCOME TAX LAW 
+1.52 
+Default tax regime under section 115BAC of the Income-tax Act, 1961 
+I.   Concessional tax rates 
+Individuals/ HUF/ AoPs/ BoIs or artificial judicial persons, other than those who 
+exercise the option to opt out this regime under section 115BAC(6), have to pay tax 
+in respect of their total income (other than income chargeable to tax at special rates 
+under Chapter XII such as section 111A, 112, 112A, 115BB, 115BBJ etc.) at the 
+following concessional rates, subject to certain conditions specified under section 
+115BAC(2)  – 
+(i) 
+Upto ` 3,00,000 
+NIL 
+(ii) 
+From ` 3,00,001 to ` 6,00,000 
+5% 
+(iii) 
+From ` 6,00,001 to ` 9,00,000 
+10% 
+(iv) 
+From ` 9,00,001 to ` 12,00,000 
+15% 
+(v) 
+From ` 12,00,001 to ` 15,00,000 
+20% 
+(vii) 
+Above ` 15,00,000 
+30% 
+II.  Conditions to be satisfied  
+The following are the conditions to be satisfied: 
+S. No. 
+Particulars 
+(1) 
+Certain deductions/exemptions not allowable: Section 115BAC(2) 
+provides 
+that 
+while 
+computing 
+total 
+income, 
+the 
+following  
+deductions/exemptions would not be allowed: 
+Section 
+Exemption/Deduction 
+10(5) 
+Leave travel concession  
+10(13A) 
+House rent allowance  
+10(14) 
+Exemption in respect of special allowances or benefit to 
+meet expenses relating to duties or personal expenses 
+(other than those as may be prescribed for this purpose) 
+10(17) 
+Daily allowance or constituency allowance of MPs 
+and MLAs 
+10(32) 
+Exemption in respect of income of minor child 
+included in the income of parent 
+
+BASIC CONCEPTS 
+ 
+ 
+1.53 
+10AA 
+Tax holiday for units established in SEZ 
+16 
+(i) Entertainment allowance 
+(ii) Professional tax  
+24(b) 
+Interest on loan in respect of self-occupied property 
+32(1)(iia) 
+Additional depreciation 
+35(1)(ii),(iia),(iii) 
+or 35(2AA) 
+Deduction in respect of contribution to  
+- 
+notified 
+approved 
+research 
+association/ 
+university/college/other institutions for scientific 
+research [Section 35(1)(ii)] 
+-  approved Indian company for scientific research 
+[Section 35(1)(iia)] 
+-  notified 
+approved 
+research 
+association/ 
+university/college/other institutions for research 
+in social science or statistical research [Section 
+35(1)(iii)] 
+- 
+An approved National laboratory/university/IIT/ 
+specified 
+person 
+for 
+scientific 
+research 
+undertaken under an approved programme 
+[Section 35(2AA)] 
+35AD 
+Investment 
+linked 
+tax 
+incentives 
+for 
+specified 
+businesses 
+80C to 80U 
+Deductions 
+under 
+Chapter 
+VI-A 
+(other 
+than 
+employers contribution towards NPS under section 
+80CCD(2), Central Government contribution towards 
+Agnipath Scheme under section 80CCH(2) and 
+deduction in respect of employment of new 
+employees under section 80JJAA). 
+(2) 
+Certain losses not allowed to be set-off: While computing total income, 
+set-off of any loss - 
+(i) 
+carried forward or depreciation from any earlier assessment year, if 
+such loss or depreciation is attributable to any of the deductions 
+referred to in (1) above; or   
+(ii) under the head house property with any other head of income; 
+would not be allowed. 
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.54 
+(3) 
+Depreciation or additional depreciation: Depreciation u/s 32 is to be 
+determined in the prescribed manner. Depreciation in respect of any block 
+of assets entitled to more than 40%, would be restricted to 40% on the 
+written down value of such block of assets. Additional depreciation u/s 
+32(1)(iia), however, cannot be claimed. 
+(4) 
+Exemption or deduction for allowances or perquisite: While 
+computing total income, any exemption or deduction for allowances or 
+perquisite, by whatever name called, provided under any other law for the 
+time being force in India would not be allowed. 
+Additional points: 
+Total income under default tax regime should be computed without set-off of any 
+loss brought forward or depreciation from any earlier assessment year, where such 
+loss or depreciation is attributable to any of the deductions listed in (1) above. Such 
+loss and depreciation would be deemed to have been already given effect to and 
+no further deduction for such loss or depreciation shall be allowed for any 
+subsequent year. 
+Where income-tax on total income of the assessee is computed under this section 
+and there is a depreciation allowance in respect of a block of asset from an earlier 
+assessment year attributable to additional depreciation u/s 32(1)(iia), which has 
+not been given full effect to prior to A.Y. 2024-25 and which is not allowed to be 
+set-off in the A.Y.2024-25 due to section 115BAC, corresponding adjustment shall 
+be made to the WDV of such block of assets as on 1.4.2023 in the prescribed 
+manner i.e., the WDV as on 1.4.2023 will be increased by the unabsorbed 
+additional depreciation not allowed to be set-off. 
+Example: Let us consider the case of Mr. X, who carries on business of 
+manufacturing of steel. He has unabsorbed depreciation as on 1.4.2023, which 
+includes amount attributable to additional depreciation u/s 32(1)(iia) of P.Y.2022-
+23 or any earlier previous year in respect of block of plant and machinery. If he 
+pays tax under default tax regime under section 115BAC for P.Y.2023-24 relevant 
+to A.Y.2024-25, the amount so attributable to additional depreciation of earlier 
+year remaining unabsorbed as on 1.4.2023 would not be eligible for set-off against 
+current year income and no further deduction for such loss or depreciation shall 
+be allowed for any subsequent year. Accordingly, the WDV of the block as on 
+1.4.2023 has to be increased by the said amount not allowed to be set-off. 
+III. 
+Time limit for exercising the option to shift out of the default tax regime 
+(i) 
+In case of an assessee having no income from business or profession: 
+Where  such  individual/HUF/AoP/BoI or Artificial Juridical person is not having 
+
+BASIC CONCEPTS 
+ 
+ 
+1.55 
+income from business or profession, he/it can exercise an option to shift out/opt 
+out of the default tax regime under this section and such option has to be 
+exercised along  with  the  return  of  income  to  be  furnished  under section 
+139(1) for a previous year relevant to the assessment year. In effect, such 
+individual/HUF/AoP/BoI or Artificial Juridical person can choose whether or not 
+to exercise the option of shifting out of the default tax regime in each previous 
+year. He may choose to pay tax under default tax regime under section 115BAC 
+in one year and exercise the option to shift out of default tax regime in another 
+year.    
+(ii)  In case of an assessee having income from business or profession: Such  
+individual/HUF/AoP/BoI or Artificial Juridical person having income from 
+business or profession has an option to shift out/ opt out of the default tax 
+regime under this section and the option has to be exercised on or before  the  
+due  date  specified  under section 139(1) for furnishing  the  return  of  income  
+for  such  previous  year and once such option is exercised, it would apply to 
+subsequent assessment years. 
+ 
+Such person who has exercised the above option of shifting out of the default 
+tax regime for any previous year shall be able to withdraw such option only 
+once and pay tax under the default tax regime under section 115BAC for a 
+previous year other than the year in which it was exercised.  
+Thereafter, such person shall never be eligible to exercise option under this 
+section, except where such person ceases to have any business income in which 
+case, option under (i) above would be available. 
+AMT liability not attracted: Individual/HUF/AoP/BoI or Artificial Juridical person 
+paying tax under default tax regime under section 115BAC is not liable to alternate 
+minimum tax u/s 115JC. Such person would not be eligible to claim AMT credit also. 
+Note: It may be noted that in case of Individual/HUF/AoP/BoI or Artificial Juridical 
+person not having income from business or profession, the total income and tax 
+liability (including provisions relating to AMT, if applicable under normal provisions) 
+may be computed every year both in accordance with the regular provisions of the 
+Income-tax Act, 1961 and in accordance with the provisions of section 115BAC, in 
+order to determine which is more beneficial and accordingly such person may decide 
+whether to pay tax under default tax regime under section 115BAC or exercise the 
+option to shift out and pay tax under normal provisions of the Act for that year.  
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.56 
+ILLUSTRATION 3 
+Mr. X has a total income of ` 16,00,000 for P.Y.2023-24, comprising of income from 
+house property and interest on fixed deposits. Compute his tax liability for A.Y.2024-
+25 under the default tax regime under section 115BAC. 
+SOLUTION 
+Computation of Tax liability of Mr. X for A.Y. 2024-25 
+Tax liability: 
+First  ` 3,00,000 
+- Nil 
+ 
+Next ` 3,00,001 – ` 6,00,000 
+- @5% of ` 3,00,000     =  ` 15,000 
+Next ` 6,00,001 – ` 9,00,000 
+- @10% of ` 3,00,000     =  ` 30,000 
+Next  ` 9,00,001 – ` 12,00,000 
+- @15% of ` 3,00,000   =  ` 45,000 
+Next ` 12,00,001 – ` 15,00,000 
+- @20% of ` 3,00,000     =  ` 60,000 
+Balance i.e., ` 16,00,000 minus ` 15,00,000 
+- @30% of ` 1,00,000 =     ` 30,000 
+ 
+ 
+ 
+=  ` 1,80,000 
+Add: Health and Education cess@4% 
+                                     =  
+` 7,200 
+  
+ 
+              = ` 1,87,200 
+Tax rates prescribed by the Annual Finance Act for optional tax regime  
+The slab rates for A.Y. 2024-25 applicable to an Individual/HUF/AOP/BOI/ Artificial 
+Juridical Person, which has exercised the option of shifting out of the default tax 
+regime, are as follows: 
+(i) 
+where the total income does 
+not exceed ` 2,50,000 
+NIL 
+(ii) 
+where 
+the 
+total 
+income 
+exceeds ` 2,50,000 but does 
+not exceed ` 5,00,000 
+5% of the amount by which the total 
+income exceeds ` 2,50,000 
+(iii) where 
+the 
+total 
+income 
+exceeds ` 5,00,000 but does 
+not exceed ` 10,00,000 
+` 12,500 plus 20% of the amount by which 
+the total income exceeds ` 5,00,000 
+(iv) where 
+the 
+total 
+income 
+exceeds ` 10,00,000 
+` 1,12,500 plus 30% of the amount by which 
+the total income exceeds ` 10,00,000 
+
+BASIC CONCEPTS 
+ 
+ 
+1.57 
+For a senior citizen (being a resident individual who is of the age of 60 years or 
+more at any time during the previous year), the basic exemption limit is ` 3,00,000 
+and for a very senior citizen (being a resident individual who is of the age of 80 
+years or more at any time during the previous year), the basic exemption limit is  
+` 5,00,000. Therefore, the tax slabs for these assessees would be as follows – 
+For senior citizens (being resident individuals of the age of 60 years or more 
+but less than 80 years)  
+(i) 
+where the total income does 
+not exceed ` 3,00,000 
+NIL 
+(ii) 
+where 
+the 
+total 
+income 
+exceeds ` 3,00,000 but does 
+not exceed ` 5,00,000 
+5% of the amount by which the total 
+income exceeds ` 3,00,000 
+(iii) where 
+the 
+total 
+income 
+exceeds ` 5,00,000 but does 
+not exceed ` 10,00,000 
+` 10,000 plus 20% of the amount by which 
+the total income exceeds ` 5,00,000 
+(iv) where 
+the 
+total 
+income 
+exceeds ` 10,00,000 
+` 1,10,000 plus 30% of the amount by which 
+the total income exceeds ` 10,00,000 
+For resident individuals of the age of 80 years or more at any time during the 
+previous year 
+(i) 
+where the total income does 
+not exceed ` 5,00,000 
+NIL 
+(ii) 
+where 
+the 
+total 
+income 
+exceeds ` 5,00,000 but does 
+not exceed ` 10,00,000 
+20% of the amount by which the total 
+income exceeds ` 5,00,000 
+(iii) where 
+the 
+total 
+income 
+exceeds ` 10,00,000 
+` 1,00,000 plus 30% of the amount by which 
+the 
+total 
+income 
+exceeds  
+` 10,00,000 
+Clarification regarding attaining prescribed age of 60 years/ 80 years on  
+31st March itself, in case of senior/very senior citizens whose date of birth 
+falls on 1st April [Circular No. 28/2016, dated 27-07-2016] 
+The CBDT has clarified that a person born on 1st April would be considered to have 
+attained a particular age on 31st March, the day preceding the anniversary of his 
+birthday. In particular, the question of attainment of age of eligibility for being 
+
+ 
+ 
+INCOME TAX LAW 
+1.58 
+considered a senior/very senior citizen would be decided on the basis of above 
+criteria.  
+Therefore, a resident individual whose 60th birthday falls on 1st April, 2024, would 
+be treated as having attained the age of 60 years in the P.Y.2023-24 and would be 
+eligible for higher basic exemption limit of ` 3 lakh while computing his tax liability 
+for A.Y.2024-25 under the optional tax regime as per the normal provisions of the 
+Act. Likewise, a resident individual whose 80th birthday falls on 1st April, 2024, would 
+be treated as having attained the age of 80 years in the P.Y.2023-24, and would be 
+eligible for higher basic exemption limit of ` 5 lakh in computing his tax liability for 
+A.Y.2024-25 under the optional tax regime as per the normal provisions of the Act. 
+In respect of certain types of income, as mentioned below, the Income-tax Act, 
+1961 has prescribed specific rates. The special rates of tax have to be applied on 
+the respective component of total income irrespective of the tax regime and the 
+slab rates have to be applied on the balance of total income after adjusting the 
+basic exemption limit. 
+S. 
+No. 
+Section 
+Income 
+Rate of 
+Tax 
+(a) 
+112 
+Long term capital gains  (other than LTCG taxable as 
+per section 112A) 
+20% 
+(b) 
+112A 
+Long term capital gains on transfer of –  
+• 
+Equity share in a company 
+• 
+Unit of an equity oriented fund 
+• 
+Unit of business trust 
+Condition for availing the benefit of this concessional 
+rate is that securities transaction tax should have been 
+paid – 
+In case of (Capital 
+Asset) 
+Time of payment of 
+STT 
+Equity shares in a 
+company 
+both at the time of 
+acquisition and transfer 
+Unit 
+of 
+equity 
+oriented fund or unit 
+of business trust 
+at the time of transfer 
+Note: LTCG upto ` 1 lakh is exempt. LTCG 
+exceeding ` 1 lakh is taxable @10%. 
+10% 
+[On LTCG 
+> ` 1 lakh] 
+
+BASIC CONCEPTS 
+ 
+ 
+1.59 
+(c) 
+111A 
+Short-term capital gains on transfer of – 
+• 
+Equity shares in a company 
+• 
+Unit of an equity oriented fund 
+• 
+Unit of business trust 
+The conditions for availing the benefit of this 
+concessional rate are – 
+(i) the transaction of sale of such equity share or 
+unit should be entered into on or after 
+1.10.2004; and 
+(ii) such transaction should be chargeable to 
+securities transaction tax. 
+15% 
+(d) 
+115BB 
+Winnings from 
+• 
+Lotteries; 
+• 
+Crossword puzzles; 
+• 
+Races including horse races; 
+• 
+Card games and other games of any sort; 
+• 
+Gambling or betting of any form or nature 
+(other than winning from any online game) 
+30% 
+(e) 
+115BBJ 
+Net winnings from online games 
+30% 
+(f) 
+115BBE 
+ 
+Unexplained money, investment, expenditure, etc. 
+deemed as income under section 68 or section 69 or 
+section 69A or section 69B or section 69C or section 
+69D [See discussion below] 
+60% 
+Unexplained money, investments etc. to attract tax@60% [Section 115BBE] 
+(i) 
+In order to control laundering of unaccounted money by availing the benefit 
+of basic exemption limit, the unexplained money, investment, expenditure, 
+etc. deemed as income under section 68 or section 69 or section 69A or 
+section 69B or section 69C or section 69D would be taxed at the rate of 60% 
+plus surcharge @25% of tax. Thus, the effective rate of tax (including 
+surcharge@25% of tax and cess@4% of tax and surcharge) is 78%. 
+(ii) 
+No basic exemption or allowance or expenditure shall be allowed to the 
+assessee under any provision of the Income-tax Act, 1961 in computing such 
+deemed income. 
+
+ 
+ 
+INCOME TAX LAW 
+1.60 
+(iii) 
+Further, no set off of any loss shall be allowable against income brought to 
+tax under sections 68 or section 69 or section 69A or section 69B or section 
+69C or section 69D. 
+ILLUSTRATION 4 
+Mr. X has a total income of ` 16,00,000 for P.Y.2023-24, comprising of income from 
+house property and interest on fixed deposits. Compute his tax liability for A.Y.2024-
+25 assuming his age is – 
+(a)  45 years 
+(b)  63 years 
+(c) 
+82 years 
+Assume that Mr. X has exercised the option to shift out/ opt out of the default tax 
+regime.  
+SOLUTION 
+(a)  Computation of Tax liability of Mr. X (aged 45 years) 
+Tax liability: 
+First  ` 2,50,000 
+- Nil 
+ 
+Next ` 2,50,001 – ` 5,00,000 
+- @5% of ` 2,50,000     =  ` 12,500 
+Next  ` 5,00,001 – ` 10,00,000 
+- @20% of ` 5,00,000   =  ` 1,00,000 
+Balance i.e., ` 16,00,000 minus ` 10,00,000- @30% of ` 6,00,000 =  ` 1,80,000 
+ 
+ 
+ 
+=  ` 2,92,500 
+Add: Health and Education cess@4% 
+                                     =  ` 11,700 
+  
+ 
+              = ` 3,04,200 
+(b)  Computation of Tax liability of Mr. X (aged 63 years) 
+Tax liability: 
+First  ` 3,00,000 
+- Nil 
+ 
+Next ` 3,00,001 – ` 5,00,000 
+- @5% of ` 2,00,000 
+=  ` 10,000 
+Next  ` 5,00,001 – ` 10,00,000 
+- @20% of ` 5,00,000 =  ` 1,00,000 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.61 
+Balance i.e., ` 16,00,000 minus ` 10,00,000- @30% of ` 6,00,000 = ` 1,80,000 
+ 
+ 
+ 
+=  ` 2,90,000 
+Add: Health and Education cess@4% 
+                                    =  ` 11,600 
+  
+ 
+ 
+ = ` 3,01,600 
+(c)  Computation of Tax liability of Mr. X (aged 82 years) 
+Tax liability: 
+First  ` 5,00,000 
+- Nil 
+ 
+Next  ` 5,00,001 – ` 10,00,000 
+- @ 20% of ` 5,00,000  = ` 1,00,000 
+Balance i.e., ` 16,00,000 minus ` 10,00,000- @ 30% of ` 6,00,000 = ` 1,80,000 
+ 
+ 
+ 
+ =` 2,80,000 
+Add: Health and Education cess@4% 
+                                     = ` 11,200 
+  
+ 
+ 
+=` 2,91,200 
+Surcharge 
+In case the Individual/HUF/AoP4/BoI and Artificial Juridical Person pays tax 
+under default tax regime under section 115BAC 
+Income-tax computed in accordance with the provisions of section 115BAC and/ or 
+section 111A or section 112 or section 112A or 115BBE or section 115BBJ would be 
+increased by surcharge given under the following table: 
+ 
+ 
+Particulars 
+Rate of 
+surcharge 
+on income-
+tax 
+Example 
+Components of 
+total income 
+Applicable rate 
+of surcharge 
+(i) 
+Where 
+the 
+total 
+income 
+(including 
+dividend 
+income 
+and capital gains 
+chargeable to tax 
+u/s 111A, 112 and 
+112A) > ` 50 lakhs 
+but ≤ ` 1 crore 
+10% 
+Example 
+• Dividend 
+` 
+15 
+lakhs; 
+• STCG u/s 111A  
+` 15 lakhs; 
+• LTCG u/s 112  
+` 25 lakhs;  
+Surcharge would 
+be 
+levied@10% 
+on 
+income-tax 
+computed 
+on 
+total income of  
+` 1 crore. 
+ 
+4 (other than an AOP consisting of only companies as members) 
+
+ 
+ 
+INCOME TAX LAW 
+1.62 
+• LTCG u/s 112A  
+` 20 lakhs; and 
+• Other 
+income  
+` 25 lakhs 
+(ii) Where total income 
+(including dividend 
+income and capital 
+gains chargeable to 
+tax u/s 111A, 112 
+and 112A) > ` 1 
+crore but ≤ ` 2 crore 
+15% 
+Example 
+• Dividend income  
+` 10 lakhs; 
+• STCG u/s 111A  
+` 35 lakhs; 
+• LTCG u/s 112  
+` 50 lakhs; 
+• LTCG 
+u/s 
+112A  
+` 35 lakhs; and 
+• Other 
+income  
+` 55 lakhs  
+Surcharge would 
+be 
+levied@15% 
+on 
+income-tax 
+computed 
+on 
+total income of  
+` 1.85 crores.   
+(iii) Where total income 
+(excluding 
+dividend 
+income and capital 
+gains chargeable to 
+tax u/s 111A, 112 and 
+112A) > ` 2 crore  
+25% 
+Example 
+• Dividend income  
+` 51 lakhs; 
+• STCG u/s 111A  
+` 44 lakh; 
+• LTCG 
+u/s 
+112  
+` 42 lakhs; 
+• LTCG u/s 112A  
+` 55 lakh; and 
+• Other 
+income  
+` 6 crores 
+Surcharge@15% 
+would be levied 
+on income-tax on: 
+• Dividend 
+income of ` 51 
+lakhs; 
+• STCG of ` 44 
+lakhs 
+chargeable to 
+tax u/s 111A; 
+• LTCG of ` 42 
+lakhs 
+chargeable to 
+tax u/s 112; 
+and 
+• LTCG of ` 55 
+lakhs 
+chargeable to 
+tax u/s 112A. 
+The 
+rate 
+of 
+surcharge on the 
+income-tax payable 
+on the portion of 
+dividend 
+income 
+and capital gains 
+chargeable to tax 
+u/s 111A, 112 and 
+112A 
+Not 
+exceeding 
+15% 
+
+BASIC CONCEPTS 
+ 
+ 
+1.63 
+Surcharge@25% 
+would be leviable 
+on 
+income-tax 
+computed 
+on 
+other income of  
+` 
+6 
+crores 
+included in total 
+income 
+(iv) Where total income 
+(including dividend 
+income and capital 
+gains chargeable to 
+tax u/s 111A, 112 
+and 112A) > ` 2 
+crore in cases not 
+covered under (iii) 
+above 
+15% 
+Example 
+• Dividend income  
+` 40 lakhs; 
+• STCG u/s 111A  
+` 35 lakhs; 
+• LTCG u/s 112       ` 
+42 lakhs; 
+• LTCG 
+u/s 
+112A  
+` 50 lakhs; and 
+• Other 
+income  
+` 1.10 crore 
+Surcharge would 
+be 
+levied@15% 
+on 
+income-tax 
+computed 
+on 
+total income of  
+` 2.77 crore.  
+Marginal relief 
+The purpose of marginal relief is to ensure that the increase in amount of tax 
+payable (including surcharge) due to increase in total income of an assessee 
+beyond the prescribed limit should not exceed the amount of increase in total 
+income. 
+Marginal relief is available in case of such persons paying tax under default tax 
+regime u/s 115BAC referred to in above i.e., - 
+ 
+Particulars 
+Marginal relief 
+(i) 
+Where 
+the 
+total 
+income > ` 50 lakhs 
+but ≤ ` 1 crore 
+Step 1 - Compute income-tax on total income; and 
+add surcharge@10% on such income-tax (A) 
+Step 2 - Compute income-tax on ` 50 lakhs  
+Step 3 - Total income (-) ` 50 lakhs 
+Step 4 - Add the amount computed in Step 2 and Step 
+3 (B) 
+
+ 
+ 
+INCOME TAX LAW 
+1.64 
+Step 5 – Income-tax liability on total income (along 
+with surcharge) would be the lower of the amount 
+arrived at in Step 1 (i.e., A) or Step 4 (i.e., B). 
+Consequently, if A>B, the marginal relief would be  
+A – B. 
+(ii) Where 
+the 
+total 
+income > ` 1 crore 
+but ≤ ` 2 crores 
+Step 1 - Compute income-tax on total income; and 
+add surcharge@15% on income-tax (C) 
+Step 2 - Compute income-tax on total income of ` 1 
+crore + surcharge on such income-tax@10%  
+Step 3 - Total income (-) ` 1 crore 
+Step 4 - Add the amount computed in Step 2 and Step 
+3 (D) 
+Step 5 – Income-tax liability on total income (along 
+with surcharge) would be the lower of the amount 
+arrived at in Step 1 (i.e., C) or Step 4 (i.e., D). 
+Consequently, if C>D, the marginal relief would be  
+C – D. 
+(iii) Where 
+the 
+total 
+income > ` 2 crores 
+Step 1 - Compute income-tax on total income; and 
+add surcharge@25% on income-tax (E) 
+Step 2 - Compute income-tax on total income of ` 2 
+crore + surcharge on such income-tax@15% 
+Step 3 - Total income (-) ` 2 crore 
+Step 4 - Add the amount computed in Step 2 and Step 
+3 (F) 
+Step 5 – Income-tax liability on total income (along 
+with surcharge) would be the lower of the amount 
+arrived at in Step 1 (i.e., E) or Step 4 (i.e., F). 
+Consequently, if E>F, the marginal relief would be  
+E – F. 
+Note – It is presumed that the total income referred to above does not include 
+dividend income, long term capital gains taxable under section 112/ 112A and 
+short-term capital gains taxable under section 111A. 
+In case the total income includes dividend income, long term capital gains taxable 
+under section 112/ 112A or short term capital gains taxable under section 111A, 
+surcharge on income-tax computed on such dividend income and capital gains 
+cannot exceed 15%. This must be kept in mind while computing marginal relief in 
+cases referred to in (iii) above. 
+
+BASIC CONCEPTS 
+ 
+ 
+1.65 
+In case the Individual/HUF/AoP5/BoI and Artificial Juridical Person exercises 
+the option to shift out of the default tax regime 
+Income-tax computed in accordance with normal provisions of the Act or section 
+111A or section 112 or section 112A or 115BBE or section 115BBJ would be 
+increased by surcharge given under the following table: 
+ 
+ 
+Particulars 
+Rate of 
+surcharge 
+on income-
+tax 
+Example 
+Components of 
+total income 
+Applicable rate of 
+surcharge 
+(i) 
+Where 
+the 
+total 
+income 
+(including 
+dividend 
+income 
+and capital gains 
+chargeable to tax 
+u/s 111A, 112 and 
+112A) > ` 50 lakhs 
+but ≤ ` 1 crore 
+10% 
+Example 
+• Dividend 
+` 
+10 
+lakhs; 
+• STCG u/s 111A  
+` 20 lakhs; 
+• LTCG u/s 112  
+` 15 lakhs;  
+• LTCG u/s 112A  
+` 20 lakhs; and 
+• Other 
+income  
+` 25 lakhs 
+Surcharge would be 
+levied@10% 
+on 
+income-tax 
+computed on total 
+income 
+of 
+` 90 
+lakhs. 
+(ii) 
+Where total income 
+(including 
+dividend 
+income and capital 
+gains chargeable to 
+tax u/s 111A, 112 
+and 112A) > ` 1 
+crore but ≤ ` 2 crore 
+15% 
+Example 
+• Dividend income  
+` 10 lakhs; 
+• STCG u/s 111A  
+` 40 lakhs; 
+• LTCG u/s 112  
+` 55 lakhs; 
+• LTCG 
+u/s 
+112A  
+` 35 lakhs; and 
+• Other 
+income  
+` 50 lakhs  
+Surcharge would be 
+levied@15% 
+on 
+income-tax 
+computed on total 
+income of ` 1.90 
+crores.   
+(iii) Where total income 
+(excluding 
+dividend 
+income and capital 
+gains chargeable to 
+tax u/s 111A, 112 and 
+25% 
+Example 
+• Dividend income  
+` 51 lakhs; 
+Surcharge@15% 
+would be levied on 
+income-tax on: 
+ 
+5 (other than an AOP consisting of only companies as members) 
+
+ 
+ 
+INCOME TAX LAW 
+1.66 
+112A) > ` 2 crore but 
+≤ ` 5 crore 
+• STCG u/s 111A  
+` 44 lakh; 
+• LTCG 
+u/s 
+112  
+` 42 lakhs; 
+• LTCG u/s 112A  
+` 55 lakh; and 
+• Other 
+income  
+` 3 crores 
+• Dividend income 
+of ` 51 lakhs; 
+• STCG of ` 44 
+lakhs chargeable 
+to tax u/s 111A; 
+• LTCG of ` 42 
+lakhs chargeable 
+to tax u/s 112; 
+and 
+• LTCG of ` 55 
+lakhs chargeable 
+to tax u/s 112A. 
+Surcharge@25% 
+would be leviable 
+on 
+income-tax 
+computed on other 
+income of ` 3 crores 
+included 
+in 
+total 
+income 
+The 
+rate 
+of 
+surcharge on the 
+income-tax payable 
+on the portion of 
+dividend 
+income 
+and capital gains 
+chargeable to tax 
+u/s 111A, 112 and 
+112A 
+Not 
+exceeding 
+15% 
+ 
+ 
+(iv) Where total income 
+(excluding dividend 
+income and capital 
+gains chargeable to 
+tax u/s 111A, 112 
+and 112A) > ` 5 
+crore 
+37% 
+Example 
+• Dividend income  
+` 60 lakhs; 
+• STCG u/s 111A  
+` 50 lakhs; 
+• LTCG u/s 112        
+` 42 lakhs; 
+• LTCG u/s 112A  
+` 25 lakhs; and 
+• Other income 
+` 6 crore 
+Surcharge@15% 
+would be levied on 
+income-tax on: 
+• Dividend income 
+of ` 60 lakhs; 
+• STCG of ` 50 
+lakhs chargeable 
+to tax u/s 111A;  
+• LTCG of ` 42 
+lakhs chargeable 
+to tax u/s 112; 
+and   
+• LTCG of ` 25 
+lakhs chargeable 
+to tax u/s 112A. 
+Surcharge@37% 
+would be leviable on 
+the 
+income-tax 
+Rate of surcharge 
+on the income-tax 
+payable 
+on 
+the 
+portion of dividend 
+income and capital 
+gains chargeable to 
+tax u/s 111A, 112 
+and 112A 
+Not 
+exceeding 
+15% 
+
+BASIC CONCEPTS 
+ 
+ 
+1.67 
+computed on other 
+income of ` 6 crores 
+included 
+in 
+total 
+income.  
+(v) 
+Where total income 
+(including dividend 
+income and capital 
+gains chargeable to 
+tax u/s 111A, 112 
+and 112A) > ` 2 
+crore in cases not 
+covered under (iii) 
+and (iv) above 
+15% 
+Example 
+• Dividend income  
+` 55 lakhs; 
+• STCG u/s 111A  
+` 60 lakhs; 
+• LTCG u/s 112 ` 42 
+lakhs; 
+• LTCG 
+u/s 
+112A  
+` 35 lakhs; and 
+• Other 
+income  
+` 1.10 crore 
+Surcharge would be 
+levied@15% 
+on 
+income-tax 
+computed on total 
+income of ` 3.02 
+crore.  
+Marginal relief 
+Marginal relief in case of such persons referred to in above under the optional tax 
+regime (as per the normal provisions of the Act).  
+ 
+Particulars 
+Marginal relief 
+(i) 
+Where 
+the 
+total 
+income > ` 50 lakhs 
+but ≤ ` 1 crore 
+Step 1 - Compute income-tax on total income; and 
+add surcharge@10% on such income-tax (A) 
+Step 2 - Compute income-tax  on ` 50 lakhs  
+Step 3 - Total income (-) ` 50 lakhs 
+Step 4 - Add the amount computed in Step 2 and Step 
+3 (B) 
+Step 5 – Income-tax liability on total income (along 
+with surcharge) would be the lower of the amount 
+arrived at in Step 1 (i.e., A) or Step 4 (i.e., B). 
+Consequently, if A>B, the marginal relief would be  
+A – B. 
+(ii) Where 
+the 
+total 
+income > ` 1 crore 
+but ≤ ` 2 crores 
+Step 1 - Compute income-tax on total income; and 
+add surcharge@15% on income-tax (C) 
+Step 2 - Compute income-tax on total income of ` 1 
+crore + surcharge on such income-tax@10%  
+
+ 
+ 
+INCOME TAX LAW 
+1.68 
+Step 3 - Total income (-) ` 1 crore 
+Step 4 - Add the amount computed in Step 2 and Step 
+3 (D) 
+Step 5 – Income-tax liability on total income (along 
+with surcharge) would be the lower of the amount 
+arrived at in Step 1 (i.e., C) or Step 4 (i.e., D). 
+Consequently, if C>D, the marginal relief would be  
+C – D. 
+(iii) Where 
+the 
+total 
+income > ` 2 crores 
+but ≤ ` 5 crores 
+Step 1 - Compute income-tax on total income; and 
+add surcharge@25% on income-tax (E) 
+Step 2 - Compute income-tax on total income of ` 2 
+crore + surcharge on such income-tax@15% 
+Step 3 - Total income (-) ` 2 crore 
+Step 4 - Add the amount computed in Step 2 and Step 
+3 (F) 
+Step 5 – Income-tax liability on total income (along 
+with surcharge) would be the lower of the amount 
+arrived at in Step 1 (i.e., E) or Step 4 (i.e., F). 
+Consequently, if E>F, the marginal relief would be  
+E – F. 
+(iv) Where 
+the 
+total 
+income > ` 5 crores 
+Step 1 - Compute income-tax on total income; and 
+add surcharge@37% on income-tax (G) 
+Step 2 - Compute income-tax on total income of ` 5 
+crore + surcharge on such income-tax@25% 
+Step 3 - Total income (-) ` 5 crore 
+Step 4 - Add the amount computed in Step 2 and Step 
+3 (H) 
+Step 5 – Income-tax liability on total income (along 
+with surcharge) would be the lower of the amount 
+arrived at in Step 1 (i.e., G) or Step 4 (i.e., H). 
+Consequently, if G>H, the marginal relief would be  
+G – H. 
+
+BASIC CONCEPTS 
+ 
+ 
+1.69 
+Note – It is presumed that the total income referred to above does not include 
+dividend income, long term capital gains taxable under section 112/ 112A and 
+short-term capital gains taxable under section 111A. 
+In case the total income includes dividend income, long term capital gains taxable 
+under section 112/ 112A or short term capital gains taxable under section 111A, 
+surcharge on income-tax computed on such dividend income and capital gains 
+cannot exceed 15%. This must be kept in mind while computing marginal relief in 
+cases referred to in (iii) and (iv) above. 
+ILLUSTRATION 5 
+Compute the tax liability of Mr. A (aged 42), having total income of ` 51 lakhs for the 
+Assessment Year 2024-25. Assume that his total income comprises of salary income, 
+Income from house property and interest on fixed deposit. Assume that  
+Mr. A has exercised the option to shift out of section 115BAC.  
+SOLUTION 
+Computation of tax liability of Mr. A for the A.Y.2024-25 
+(A) 
+Income-tax (including surcharge) computed on total income of ` 51,00,000 
+ 
+` 2,50,000 – ` 5,00,000 @5% 
+` 12,500 
+ 
+` 5,00,001 – ` 10,00,000 @20% 
+` 1,00,000 
+ 
+` 10,00,001 – ` 51,00,000 @30% 
+` 12,30,000 
+ 
+Total 
+` 13,42,500 
+ 
+Add: Surcharge @ 10% 
+` 1,34,250 
+` 14,76,750 
+(B)  Income-tax computed on total income of ` 50 lakhs 
+ 
+(` 12,500 plus ` 1,00,000 plus ` 12,00,000) 
+ 
+` 13,12,500 
+(C) 
+Total Income Less ` 50 lakhs 
+ 
+` 1,00,000 
+(D) 
+Income-tax computed on total income of ` 50 lakhs plus the  
+ 
+excess of total income over ` 50 lakhs (B +C) 
+ 
+ ` 14,12,500 
+(E) 
+Tax liability: lower of (A) and (D) 
+ 
+` 14,12,500 
+ 
+Add: Health and education cess @4% 
+ 
+       ` 56,500 
+ 
+Tax liability (including cess) 
+ 
+` 14,69,000 
+(F) 
+Marginal Relief (A – D) 
+ 
+    ` 64,250 
+
+ 
+ 
+INCOME TAX LAW 
+1.70 
+Alternative method -  
+(A) 
+Income-tax (including surcharge) computed on total income of ` 51,00,000 
+ 
+` 2,50,000 – ` 5,00,000@5% 
+` 12,500 
+ 
+` 5,00,001 – ` 10,00,000@20% 
+` 1,00,000 
+ 
+` 10,00,001 – ` 51,00,000@30% 
+` 12,30,000 
+ 
+Total 
+` 13,42,500 
+ 
+Add: Surcharge@10% 
+  ` 1,34,250 
+` 14,76,750 
+(B)  Income-tax computed on total income of ` 50 lakhs  
+ 
+(` 12,500 plus ` 1,00,000 plus ` 12,00,000) 
+ 
+` 13,12,500 
+(C) 
+Excess tax payable (A)-(B) 
+ 
+` 1,64,250 
+(D) 
+Marginal Relief (` 1,64,250 – ` 1,00,000, being the amount 
+ 
+of income in excess of ` 50,00,000) 
+ 
+    ` 64,250 
+(E) 
+Tax liability (A)-(D) 
+ 
+` 14,12,500 
+ 
+Add: Health and education cess @4% 
+ 
+        ` 56,500 
+ 
+Tax liability (including cess) 
+ 
+` 14,69,000 
+ILLUSTRATION 6 
+Compute the tax liability of Mr. B (aged 51) under the default tax regime, having total 
+income of ` 1,01,00,000 for the Assessment Year 2024-25. Assume that his total income 
+comprises of salary income, Income from house property and interest on fixed deposit. 
+SOLUTION 
+Computation of tax liability of Mr. B for the A.Y. 2024-25 
+(A) 
+Income-tax 
+(including 
+surcharge) 
+computed 
+on 
+total 
+income 
+of  
+` 1,01,00,000 
+ 
+` 3,00,000 – ` 6,00,000@5% 
+ 
+` 15,000 
+ 
+` 6,00,001 – ` 9,00,000@10% 
+ 
+` 30,000 
+ 
+` 9,00,001 – ` 12,00,000@15% 
+ 
+` 45,000 
+ 
+` 12,00,001 – ` 15,00,000@20% 
+ 
+` 60,000 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.71 
+ 
+` 15,00,001 – ` 1,01,00,000@30% 
+ 
+` 25,80,000 
+ 
+Total 
+ 
+` 27,30,000 
+ 
+Add: Surcharge@15% 
+ 
+      ` 4,09,500 
+ 
+Tax liability without marginal relief 
+ 
+` 31,39,500 
+(B)  Income-tax computed on total income of ` 1 crore  
+ 
+(` 1,50,000 plus ` 25,50,000) 
+ 
+` 27,00,000 
+ 
+Add: Surcharge@10% 
+ 
+    ` 2,70,000 
+ 
+ 
+ 
+` 29,70,000 
+(C) 
+Total Income Less ` 1 crore 
+ 
+` 1,00,000 
+(D) 
+Income-tax computed on total income of ` 1 crore plus the  
+ 
+excess of total income over ` 1 crore (B +C) 
+ 
+` 30,70,000 
+(E) 
+Tax liability: lower of (A) & (D) 
+ 
+` 30,70,000 
+ 
+Add: Health and education cess @4% 
+ 
+    ` 1,22,800 
+ 
+Tax liability (including cess) 
+ 
+ ` 31,92,800 
+(F) 
+Marginal relief (A-D) 
+ 
+` 69,500 
+Alternative method: 
+(A) 
+Income-tax 
+(including 
+surcharge) 
+computed 
+on 
+total 
+income 
+of  
+` 1,01,00,000 
+ 
+` 3,00,000 – ` 6,00,000@5% 
+` 15,000 
+ 
+` 6,00,001 – ` 9,00,000@10% 
+` 30,000 
+ 
+` 9,00,001 – ` 12,00,000@15% 
+` 45,000 
+ 
+` 12,00,001 – ` 15,00,000@20% 
+` 60,000 
+ 
+` 15,00,001 – ` 1,01,00,000@30% 
+` 25,80,000 
+ 
+Total 
+` 27,30,000 
+ 
+Add: Surcharge @ 15% 
+ ` 4,09,500 
+` 31,39,500 
+(B)  Income-tax computed on total income of ` 1 crore 
+ 
+[(` 1,50,000 plus ` 25,50,000) plus surcharge@10%]  
+` 29,70,000 
+(C) 
+Excess tax payable (A)-(B) 
+ 
+` 1,69,500 
+
+ 
+ 
+INCOME TAX LAW 
+1.72 
+(D) 
+Marginal Relief (` 1,69,500 – ` 1,00,000, being the amount 
+ 
+of income in excess of ` 1,00,00,000) 
+ 
+` 69,500 
+(E) 
+Tax liability (A) - (D) 
+ 
+` 30,70,000 
+ 
+Add: Health and education cess @4% 
+ 
+     ` 1,22,800 
+ 
+Tax liability (including cess) 
+ 
+` 31,92,800 
+ILLUSTRATION 7 
+Compute the tax liability of Mr. C (aged 58), having total income of  
+` 2,01,00,000 for the Assessment Year 2024-25. Assume that his total income 
+comprises of salary income, Income from house property and interest on fixed deposit. 
+Assume that Mr. C has exercised the option to shift out of section 115BAC. 
+SOLUTION 
+Computation of tax liability of Mr. C for the A.Y. 2024-25 
+(A) 
+Income-tax 
+(including 
+surcharge) 
+computed 
+on 
+total 
+income 
+of  
+` 2,01,00,000 
+ 
+` 2,50,000 – ` 5,00,000 @ 5% 
+` 12,500 
+ 
+` 5,00,001 – ` 10,00,000 @ 20% 
+` 1,00,000 
+ 
+` 10,00,001 – ` 2,01,00,000@30% 
+ ` 57,30,000 
+ 
+Total 
+` 58,42,500 
+ 
+Add: Surcharge @ 25% 
+` 14,60,625 
+` 73,03,125 
+(B)  Income-tax computed on total income of ` 2 crore  
+ 
+(` 12,500 plus ` 1,00,000 plus ` 57,00,000) 
+ 
+` 58,12,500 
+ 
+Add: Surcharge@15% 
+ 
+    ` 8,71,875 
+ 
+ 
+ 
+` 66,84,375 
+(C) 
+Total Income Less ` 2 crore 
+ 
+` 1,00,000 
+(D) 
+Income-tax computed on total income of ` 2 crore plus the  
+ 
+excess of total income over ` 2 crore (B +C) 
+ 
+   ` 67,84,375 
+(E) 
+Tax liability (A) or (D), whichever is lower 
+` 67,84,375 
+ 
+Add: Health and education cess @4% 
+ 
+    ` 2,71,375 
+ 
+Tax liability (including cess) 
+ 
+ ` 70,55,750 
+(F) 
+Marginal relief (A-D) 
+ 
+` 5,18,750 
+
+BASIC CONCEPTS 
+ 
+ 
+1.73 
+Alternative method 
+(A) 
+Income-tax 
+(including 
+surcharge) 
+computed 
+on 
+total 
+income 
+of  
+` 2,01,00,000 
+ 
+` 2,50,000 – ` 5,00,000 @ 5% 
+` 12,500 
+ 
+` 5,00,001 – ` 10,00,000 @ 20% 
+` 1,00,000 
+ 
+` 10,00,001 – ` 2,01,00,000@30% 
+ ` 57,30,000 
+ 
+Total 
+` 58,42,500 
+ 
+Add: Surcharge@25% 
+` 14,60,625 
+` 73,03,125 
+(B)  
+Income-tax computed on total income of ` 2 crore 
+ 
+[(` 12,500 plus ` 1,00,000 plus ` 57,00,000) 
+ plus surcharge@15%] 
+ 
+` 66,84,375 
+(C) 
+Excess tax payable (A)-(B) 
+ 
+` 6,18,750 
+(D) 
+Marginal Relief (` 6,18,750 – ` 1,00,000, being the amount 
+ 
+of income in excess of ` 2,00,00,000) 
+ 
+` 5,18,750 
+(E) 
+Tax liability (A) - (D) 
+` 67,84,375 
+ 
+Add: Health and education cess@4% 
+ 
+    ` 2,71,375 
+ 
+Tax liability (including cess) 
+ 
+ ` 70,55,750 
+ILLUSTRATION 8 
+Compute the tax liability of Mr. D (aged 65) in a most beneficial manner. He is having 
+total income of ` 5,01,00,000 for the Assessment Year 2024-25. Assume that his total 
+income comprises of salary income, Income from house property and interest on fixed 
+deposit and is the same under both tax regimes. 
+SOLUTION 
+Computation of tax liability of Mr. D under default tax regime  
+for the A.Y. 2024-25 
+Income-tax (including surcharge) computed on total income of ` 5,01,00,000 
+` 3,00,000 – ` 6,00,000@5% 
+` 15,000 
+` 6,00,001 – ` 9,00,000@10% 
+` 30,000 
+` 9,00,001 – ` 12,00,000@15% 
+` 45,000 
+
+ 
+ 
+INCOME TAX LAW 
+1.74 
+` 12,00,001 – ` 15,00,000@20% 
+` 60,000 
+` 15,00,001 – ` 5,01,00,000@30% 
+` 1,45,80,000 
+Total  
+` 1,47,30,000 
+Add: Surcharge@25% 
+       ` 36,82,500 
+` 1,84,12,500 
+Add: Health and education cess @4% 
+ 
+        ` 7,36,500 
+Tax liability 
+ 
+ ` 1,91,49,000 
+Computation of tax liability of Mr. D under optional tax regime  
+for the A.Y. 2024-25 
+(A) 
+Income-tax 
+(including 
+surcharge) 
+computed 
+on 
+total 
+income 
+of  
+` 5,01,00,000 
+ 
+` 3,00,000 – ` 5,00,000 @ 5% 
+` 10,000 
+ 
+` 5,00,001 – ` 10,00,000 @ 20% 
+` 1,00,000 
+ 
+` 10,00,001 – ` 5,01,00,000@30% 
+ ` 1,47,30,000 
+ 
+Total 
+` 1,48,40,000 
+ 
+Add: Surcharge @ 37% 
+` 54,90,800 
+` 2,03,30,800 
+(B)  Income-tax computed on total income of ` 5 crore  
+ 
+(` 10,000 plus ` 1,00,000 plus ` 1,47,00,000) 
+ 
+` 1,48,10,000 
+ 
+Add: Surcharge@25% 
+ 
+       ` 37,02,500 
+ 
+ 
+ 
+` 1,85,12,500 
+(C) 
+Total Income Less ` 5 crore 
+ 
+` 1,00,000 
+(D) 
+Income-tax computed on total income of ` 5 crore plus the  
+ 
+excess of total income over ` 5 crore (B +C) 
+ 
+` 1,86,12,500 
+(E) 
+Tax liability (A) or (D), whichever is lower 
+ 
+` 1,86,12,500 
+ 
+Add: Health and education cess@4% 
+ 
+        ` 7,44,500 
+ 
+Tax liability (including cess) 
+ 
+` 1,93,57,000 
+(F) 
+Marginal Relief (A – D) 
+` 17,18,300 
+ 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.75 
+Alternative method 
+(A) 
+Income-tax 
+(including 
+surcharge) 
+computed 
+on 
+total 
+income 
+of  
+` 5,01,00,000 
+ 
+` 3,00,000 – ` 5,00,000@5% 
+` 10,000 
+ 
+` 5,00,001 – ` 10,00,000@20% 
+` 1,00,000 
+ 
+` 10,00,001 – ` 5,01,00,000@30% 
+` 1,47,30,000 
+ 
+Total 
+` 1,48,40,000 
+ 
+Add: Surcharge @ 37% 
+  ` 54,90,800 
+` 2,03,30,800 
+(B)  Income-tax computed on total income of ` 5 crore 
+ 
+[(` 10,000 plus ` 1,00,000 plus ` 1,47,00,000)  
+plus surcharge@25%] 
+ 
+` 1,85,12,500 
+(C) 
+Excess tax payable (A)-(B) 
+ 
+` 18,18,300 
+(D) 
+Marginal Relief (` 18,18,300 – ` 1,00,000, being the amount 
+ 
+of income in excess of ` 5,00,00,000) 
+ 
+` 17,18,300 
+(E) 
+Tax liability (A) - (D) 
+ 
+` 1,86,12,500 
+ 
+Add: Health and education cess @4% 
+ 
+        ` 7,44,500 
+ 
+Tax liability (including cess) 
+ 
+ ` 1,93,57,000 
+It is beneficial for Mr. D to pay tax under default tax regime under section 115BAC, 
+since his tax liability would be lower by ` 2,08,000 (` 1,93,57,000 -  
+` 1,91,49,000). 
+6.2 Firm/ LLP/ Local Authority 
+Income-tax 
+On the whole of the total income  
+ 
+ 
+30%  
+Special rates for capital gains under sections 112, 112A and 111A would be 
+applicable to Firm/ LLP/ local authority also.  
+Surcharge 
+Where the total income exceeds ` 1 crore, surcharge is payable at the rate of 12% 
+of income-tax computed as above. 
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.76 
+Marginal Relief 
+Marginal relief is available in case of such persons having a total income exceeding 
+` 1 crore i.e., the total amount of income-tax (together with surcharge) computed 
+on such income should not exceed the amount of income-tax computed on total 
+income of ` 1 crore by more than the amount of income that exceeds ` 1 crore. 
+6.3 Co-operative Society 
+Income-tax rates as per the normal provisions of the Act 
+(i) 
+Where the total income does 
+not exceed ` 10,000 
+10% of the total income 
+(ii) 
+Where 
+the 
+total 
+income 
+exceeds ` 10,000 but does not 
+exceed ` 20,000 
+` 1,000 plus 20% of the amount by which 
+the total income exceeds ` 10,000 
+(iii) Where 
+the 
+total 
+income 
+exceeds ` 20,000 
+3,000 plus 30% of the amount by which the 
+total income exceeds ` 20,000 
+Note – A manufacturing co-operative society, resident in India, can opt for concessional 
+rates of tax under section 115BAE and other co-operative societies, resident in India, can 
+opt for concessional rates of tax under section 115BAD. 
+Tax rate in case of a manufacturing co-operative society, resident in India (set 
+up and registered on or after 1.4.2023 and commences manufacture of article 
+or thing  before 31.3.2024) opting for concessional tax regime u/s 115BAE 
+15% of income derived from or incidental to manufacturing or production of an 
+article or thing 
+Tax rate in case of other resident co-operative society opting for concessional 
+tax regime u/s 115BAD:  
+22% of total income 
+Note - Co-operative society, resident in India, can opt for concessional rate of tax u/s 
+115BAD or 115BAE, as the case may be, subject to certain conditions. The total 
+income of such co-operative societies would be computed without giving effect to 
+deduction under section 10AA, 33AB, 33ABA, 35(1)(ii)/(iia)/(iii), 35(2AA), 35AD, 
+35CCC, additional depreciation under section 32(1)(iia), deductions under Chapter 
+VI-A (other than section 80JJAA) etc. and set off of loss and depreciation brought 
+forward from earlier years relating to the above deductions. The provisions of 
+
+BASIC CONCEPTS 
+ 
+ 
+1.77 
+alternate minimum tax under section 115JC would not be applicable to a co-
+operative society opting for section 115BAD or 115BAE. This section will be dealt with 
+in detail at Final level.  
+Special rates for capital gains under sections 112, 112A and 111A would be 
+applicable to Co-operative society also.  
+Surcharge 
+(a) 
+In case of a co-operative society (other than a co-operative society 
+opting for section 115BAD or section 115BAE), whose total income >  
+` 1 crore but is ≤ ` 10 crore 
+Where the total income exceeds ` 1 crore but does not exceed ` 10 crore, 
+surcharge is payable at the rate of 7% of income-tax computed in accordance 
+with the slab rates given above and/ or section 111A or section 112 or section 
+112A.  
+Marginal Relief 
+Marginal relief is available in case of such co-operative societies i.e., the total 
+amount of income-tax (together with surcharge) computed on such income 
+should not exceed the amount of income-tax computed on total income of ` 
+1 crore by more than the amount of income that exceeds ` 1 crore. 
+(b) 
+In case of a co-operative society (other than a co-operative society 
+opting for section 115BAD or section 115BAE), whose total income is > 
+` 10 crore 
+Where the total income exceeds ` 10 crore, surcharge is payable at the rate of 
+12% of income-tax computed in accordance with the slab rates given above 
+and/ or section 111A or section 112 or section 112A.   
+Marginal Relief 
+Marginal relief is available in case of such co-operative societies i. e., the total 
+amount of income-tax (together with surcharge) computed on such income 
+should not exceed the amount of income-tax and surcharge computed on 
+total income of ` 10 crore by more than the amount of income that exceeds 
+` 10 crore. 
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.78 
+(c) 
+In case of a co-operative society opting for section 115BAD or section 
+115BAE 
+Surcharge @10% of income-tax computed under section 115BAD or section 
+115BAE would be leviable. Since there is no threshold limit for applicability 
+of surcharge, consequently, there would be no marginal relief. 
+6.4 Domestic Company 
+Income-tax 
+If the total turnover or gross receipt in the 
+P.Y.2021-22 ≤ `  400 crore 
+25% of the total income 
+In any other case 
+30% of the total income 
+Notes  –  
+• 
+In case of a domestic manufacturing company (set up and registered 
+on or after 1.10.2019 and commences manufacture of article or thing6 
+before 31.3.2024) exercising option u/s 115BAB: 15% of income derived 
+from or incidental to manufacturing or production of an article or thing 
+• 
+In case of a domestic company exercising option u/s 115BAA: 22% of 
+total income 
+Domestic company can opt for section 115BAA or section 115BAB, as the case 
+may be, subject to certain conditions. The total income of such companies 
+would be computed without giving effect to deductions under section 10AA, 
+33AB, 33ABA, 35(1)(ii)/(iia)/(iii), 35(2AA), 35(2AB), 35AD, 35CCC, 35CCD, Chapter 
+VI-A (except section 80JJAA or section 80M), additional depreciation under 
+section 32(1)(iia) etc. and without set-off of brought forward loss and 
+unabsorbed depreciation attributable to such deductions. These sections will be 
+dealt with in detail at Final Level. 
+Special rates for capital gains under sections 112, 112A and 111A would be 
+applicable to domestic company also.  
+Surcharge 
+(a) 
+In case of a domestic company (other than a domestic company opting 
+for section 115BAA or section 115BAB), whose total income > ` 1 crore 
+but is ≤ ` 10 crore 
+ 
+6Including business of generation of electricity 
+
+BASIC CONCEPTS 
+ 
+ 
+1.79 
+Where the total income exceeds ` 1 crore but does not exceed ` 10 crore, 
+surcharge is payable at the rate of 7% of income-tax computed in accordance 
+with the rates given above. 
+Marginal Relief 
+Marginal relief is available in case of such companies i.e., the total amount of 
+income-tax (together with surcharge) computed on such income should not 
+exceed the amount of income-tax computed on total income of ` 1 crore by 
+more than the amount of income that exceeds ` 1 crore. 
+(b) 
+In case of a domestic company (other than a domestic company opting 
+for section 115BAA or section 115BAB), whose total income is > ` 10 
+crore 
+Where the total income exceeds ` 10 crore, surcharge is payable at the rate 
+of 12% of income-tax computed in accordance with the rates given above.   
+Marginal Relief 
+Marginal relief is available in case of such companies i.e., the total amount of 
+income-tax (together with surcharge) computed on such income should not 
+exceed the amount of income-tax and surcharge computed on total income 
+of ` 10 crore by more than the amount of income that exceeds ` 10 crore. 
+(c) 
+In case of a domestic company opting for section 115BAA or section 
+115BAB 
+Surcharge @10% of income-tax computed under section 115BAA or section 
+115BAB would be leviable. Since there is no threshold limit for applicability 
+of surcharge, consequently, there would be no marginal relief. 
+6.5 Foreign Company 
+Income-tax 
+Royalties and fees for rendering technical services (FTS) received from 
+Government or an Indian concern in pursuance of an agreement, 
+approved by the Central Government, made by the company with the 
+Government or Indian concern between 1.4.1961 and 31.3.1976 (in case 
+of royalties) and between 1.3.1964 and 31.3.1976 (in case of FTS) 
+50% 
+Other income 
+40% 
+
+ 
+ 
+INCOME TAX LAW 
+1.80 
+Special rates for capital gains under sections 112, 112A and 111A would be 
+applicable to foreign company also.   
+Surcharge 
+(a) 
+In case of a foreign company, whose total income > ` 1 crore but is ≤  
+` 10 crore 
+Where the total income exceeds ` 1 crore but does not exceed ` 10 crore, 
+surcharge is payable at the rate of 2% of income-tax computed in accordance 
+with the rates given above.   
+Marginal Relief 
+Marginal relief is available in case of such companies i.e., the total amount of 
+income-tax (together with surcharge) computed on such income should not 
+exceed the amount of income-tax computed on total income of ` 1 crore by 
+more than the amount of income that exceeds ` 1 crore. 
+(b) 
+In case of a foreign company, whose total income is > ` 10 crore 
+Where the total income exceeds ` 10 crore, surcharge is payable at the rate 
+of 5% of income-tax computed in accordance with the rates given above. 
+Marginal Relief 
+Marginal relief is available in case of such companies i.e., the total amount of 
+income-tax (together with surcharge) computed on such income should not 
+exceed the amount of income-tax and surcharge computed on total income 
+of ` 10 crore by more than the amount of income that exceeds ` 10 crore. 
+ 7. REBATE 
+FOR 
+RESIDENT 
+INDIVIDUALS  
+[SECTION 87A] 
+In order to provide tax relief to the individual tax payers, section 87A provides a 
+rebate from the tax payable by an assessee, being an individual resident in India. 
+Rebate to resident individual paying tax under default tax regime u/s 115BAC 
+(i) 
+If total income of such individual does not exceed ` 7,00,000, the rebate shall 
+be equal to the amount of income-tax payable on his total income for any 
+assessment year or an amount of ` 25,000, whichever is less.  
+The amount of rebate under section 87A shall not exceed the amount of 
+
+BASIC CONCEPTS 
+ 
+ 
+1.81 
+income-tax (as computed before allowing such rebate) on the total income of 
+the assessee with which he is chargeable for any assessment year. 
+ILLUSTRATION 9 
+Mr. Raghav aged 26 years and a resident in India, has a total income of  
+` 6,50,000, comprising his salary income and interest on bank fixed deposit. 
+Compute his tax liability for A.Y.2024-25 under default tax regime under 
+section 115BAC. 
+SOLUTION 
+   Computation of tax liability of Mr. Raghav for A.Y. 2024-25 
+ 
+ 
+Particulars 
+` 
+Tax on total income of ` 6,50,000 
+ 
+Tax@10%of ` 50,000 + ` 15,000 
+20,000 
+Less: Rebate u/s 87A (Lower of tax payable or ` 25,000) 
+20,000 
+Tax Liability 
+    Nil 
+(ii) 
+If total income of such individual exceeds ` 7,00,000 and income-tax payable 
+on such total income exceeds the amount by which the total income is in excess 
+of ` 7,00,000, the rebate would be as follows. 
+Step 1 – Total income (-) ` 7 lakhs (A) 
+Step 2 - Compute income-tax liability on total income (B) 
+Step 3 - If B>A, rebate under section 87A would be a B – A.  
+The amount of rebate under section 87A shall not exceed the amount of 
+income-tax (as computed before allowing such rebate) on the total income of 
+the assessee. 
+ILLUSTRATION 10 
+Mr. Pawan aged 35 years and a resident in India, has a total income of  
+` 7,15,000, comprising his salary income and interest on bank fixed deposit. 
+Compute his tax liability for A.Y.2024-25 under default tax regime under 
+section 115BAC. 
+ 
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.82 
+SOLUTION 
+   Computation of tax liability of Mr. Pawan for A.Y. 2024-25 
+ 
+ 
+Particulars 
+` 
+ 
+Step 1: Total Income of ` 7,15,000 - ` 7,00,000 
+15,000 
+(A) 
+Step 2: Tax on total income of ` 7,15,000 
+ 
+ 
+             Tax@10%of ` 1,15,000 + ` 15,000 
+26,500 
+(B) 
+Step 3: Since B>A, rebate u/s 87A would be B-A 
+ 
+    [` 26,500 - ` 15,000] 
+ 
+11,500 
+ 
+              
+15,000 
+ 
+Add: HEC@4% 
+    600 
+ 
+Tax Liability 
+15,600 
+ 
+Rebate to a resident individual paying tax under optional tax regime (normal 
+provisions of the Act) 
+If total income of such individual does not exceed ` 5,00,000, the rebate shall be 
+equal to the amount of income-tax payable on his total income for any assessment 
+year or an amount of ` 12,500, whichever is less. 
+The amount of rebate under section 87A shall not exceed the amount of income-tax 
+(as computed before allowing such rebate) on the total income of the assessee with 
+which he is chargeable for any assessment year. 
+ILLUSTRATION 11 
+Mr. Piyush, aged 35 years and a resident in India, has a total income of ` 4,15,000, 
+comprising his salary income and interest on bank fixed deposit. Compute his tax liability 
+for A.Y.2024-25 if he exercises the option to shift out of the default tax regime. 
+SOLUTION 
+Computation of tax liability of Mr. Piyush for A.Y. 2024-25 
+ 
+ 
+Particulars 
+` 
+Tax on total income of ` 4,15,000 
+ 
+Tax@5%of ` 1,65,000  
+8,250 
+Less: Rebate u/s 87A (Lower of tax payable or ` 12,500) 
+8,250 
+Tax Liability 
+Nil 
+
+BASIC CONCEPTS 
+ 
+ 
+1.83 
+• 
+Rebate under section 87A is allowed from income-tax computed 
+before adding Health and education cess on income-tax. 
+• 
+Rebate under section 87A is, however, not available in respect of 
+tax payable @10% on long-term capital gains taxable u/s 112A. 
+8. 
+PARTIAL INTEGRATION OF AGRICULTURAL 
+INCOME 
+WITH 
+NON-AGRICULTURAL 
+INCOME 
+Agricultural income is exempt subject to conditions mentioned in the definition 
+given under section 2(1A). However, a method has been laid down to levy tax on 
+agricultural income in an indirect way. This concept is known as partial integration 
+of agricultural income with non-agricultural income. It is applicable to 
+individuals, HUF, AOPs, BOIs and artificial juridical persons. Two conditions which 
+need to be satisfied for partial integration are:  
+1. 
+The net agricultural income should exceed ` 5,000 p.a., and 
+2. 
+Non-agricultural income should exceed the maximum amount not chargeable 
+to tax. (i.e., If such person is paying tax under default tax regime u/s 115BAC, 
+then ` 3,00,000 is the basic exemption limit irrespective of the age of the 
+person. If such person has exercised the option to shift out of the default tax 
+regime, then, the basic exemption limit would be ` 5,00,000 for resident 
+individuals of the age of 80 years or more at any time during the previous 
+year, ` 3,00,000 for resident individuals of the age of 60 years or more (but 
+less than 80 years) at any time during the previous year and  
+` 2,50,000 for all others). Only if non-agricultural income exceeds this limit, 
+partial integration would be required. 
+It may be noted that aggregation provisions do not apply to company, LLP, firm, 
+co-operative society and local authority. The object of aggregating the net 
+agricultural income with non-agricultural income is to tax the non-agricultural 
+income at higher rates. 
+Tax calculation in such cases is as follows: 
+Step 1:
+ 
+ 
+Add non-agricultural income with net agricultural income. Compute tax 
+on the aggregate amount. 
+
+ 
+ 
+INCOME TAX LAW 
+1.84 
+Step 2:
+ 
+ 
+Add net agricultural income and the basic exemption limit available to 
+the assessee. Compute tax on the aggregate amount. 
+Step 3: 
+Deduct the amount of income tax calculated in step 2 from the income 
+tax calculated in step 1 i.e., Step 1 – Step 2. 
+Step4:
+ 
+ 
+The sum so arrived at shall be – 
+- 
+increased by surcharge, if applicable, 
+- 
+reduced by the rebate, if any, available u/s 87A.  
+Step 5: 
+Thereafter, it would be increased by health and education cess @4%. 
+The above concept can be clearly understood with the help of the following 
+illustration: 
+ 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.85 
+ 
+LET US RECAPITULATE 
+Income-tax is the most significant direct tax. Entry 82 of the Union List i.e., 
+List I of Seventh Schedule to Article 246 of the Constitution of India has given 
+the power to Parliament to make laws on taxes on income other than 
+agricultural income. 
+Components of income-tax law 
+• 
+Income-tax Act, 1961 – governs the levy of income-tax in India. 
+• 
+Income-tax Rules, 1962 – formulated for proper administration of the Act. 
+• 
+Annual Finance Act – Amendments in the Income-tax Act, 1961 are 
+effected every year through the Annual Finance Act. 
+• 
+Circulars – issued by CBDT to clarify the meaning and scope of certain 
+provisions of the Act. 
+• 
+Notifications – issued to give effect to the provisions of the Act/ make or 
+amend Rules. 
+• 
+Court decisions – interprets the various provisions of income-tax law. 
+Income-tax is a TAX levied on the TOTAL INCOME of the PREVIOUS YEAR of 
+every PERSON.  
+(1) 
+Total Income: Total income has to be computed as per the provisions 
+contained in the Income-tax Act, 1961. The following steps has to be followed 
+for computing the total income of an assessee: 
+Step 1 – Determination of residential status 
+Step 2 – Classification of income under different heads 
+Step 3 – Computation of income under each head after providing for 
+permissible deductions/ exemptions.  
+In this step, it is necessary to consider whether the individual is paying tax under 
+the default tax regime or exercising the option to shift out of the default tax 
+regime and pay tax under the optional tax regime as per the normal provisions 
+of the Act. Certain deductions which are allowable under the normal provisions 
+of the Act are not permissible under the default tax regime. 
+
+ 
+ 
+INCOME TAX LAW 
+1.86 
+Step 4 – Clubbing of income of spouse, minor child etc. 
+Step 5 – Set-off or carry forward and set-off of losses 
+Step 6 – Computation of Gross Total Income 
+Step 7 – Providing Deductions from Gross Total Income 
+Here again, only very select deductions, namely, 80CCD(2), 80CCH(2) and 
+80JJAA, are allowable under the default tax regime under section 115BAC. 
+Step 8 – Computation of Total income 
+Step 9 - Application of the rates of tax on the total income 
+For default tax regime, concessional tax rates are provided under section 
+115BAC. For optional tax regime as per the normal provisions of the Act, the 
+tax rates are provided in the Annual Finance Act. The special rates u/s 111A, 
+112, 112A, 115BB, 115BBJ, etc. would apply under both tax regimes. 
+Step 10 – Add Surcharge, if applicable/ Deduct Rebate under section 87A, if 
+applicable 
+Step 11 – Add Health and education cess on income-tax 
+Step 12 – Compute Alternate Minimum Tax (AMT), if applicable, [under the 
+optional tax regime] 
+Step 13 - Examine whether to pay tax under default tax regime under section 
+115BAC or pay tax under the regular provisions of the Act, by comparing the 
+tax liability under both regimes. 
+Step 14 – Deduct Advance tax and tax deducted/ collected at source 
+Step 15 – The resultant figure would be Tax Payable/Tax Refundable 
+(2) 
+Person: A person includes an individual, Hindu Undivided Family (HUF), 
+Association of Persons (AOP), Body of Individuals (BOI), a firm, a company etc. 
+(3) 
+Concept of Previous year (P.Y.) and Assessment Year (A.Y.): Previous 
+year is the financial year immediately preceding the assessment year i.e., it is 
+the financial year ending on 31st March, in which the income has 
+accrued/received.  
+In case of a newly set-up business, the previous year would be the period 
+beginning with the date of setting up of the business or profession or, as the 
+
+BASIC CONCEPTS 
+ 
+ 
+1.87 
+case may be, the date on which the source of income newly came into existence, 
+and ending on 31st March.   
+Assessment year (A.Y.): Assessment year means the period of twelve months 
+commencing on the 1st April every year.  
+Exceptions to the rule that income is charged to income-tax in the 
+Assessment Year following the previous year:  
+The income of an assessee for a previous year is charged to income-tax in the 
+assessment year following the previous year. However, in the following cases, 
+this rule does not apply and the income is taxed in the previous year in which 
+it is earned. 
+(i) 
+Shipping business of non-resident [Section 172] 
+(ii) 
+Persons leaving India [Section 174] 
+(iii) 
+AOP/BOI/Artificial Juridical Person formed for a particular event or 
+purpose [Section 174A] 
+(iv)  Persons likely to transfer property to avoid tax [Section 175] 
+(v) 
+Discontinued business [Section 176] 
+Rate of tax for Undisclosed Sources of Income: The following undisclosed 
+incomes are chargeable to tax @78% [i.e., 60% plus surcharge @25% plus cess 
+@4%] as specified under section 115BBE: 
+(i)  
+Cash Credits [Section 68] 
+(ii)  
+Unexplained Investments [Section 69] 
+(iii)  Unexplained money etc. [Section 69A] 
+(iv)  Amount of investments etc., not fully disclosed in the books of account 
+[Section 69B] 
+(v)  
+Unexplained expenditure [Section 69C] 
+(vi)  Amount borrowed or repaid on hundi [Section 69D] 
+(4) 
+Tax liability: Tax has to be computed by applying the rates of tax 
+mentioned in the Annual Finance Act and the rate specified under the Income-
+tax Act, 1961, as the case may be. 
+
+ 
+ 
+INCOME TAX LAW 
+1.88 
+If an Individual/ Hindu Undivided Family (HUF)/ Association of Persons (AOP)/ 
+Body of Individuals (BOI)/ Artificial Juridical Person is paying tax under default 
+tax regime, concessional tax rates are prescribed under section 115BAC. 
+However, if he/it exercises the option to shift out of the default tax regime, tax 
+rates prescribed by the Annual Finance Act of that year would apply. 
+Persons 
+Rate of taxes 
+Individual/HUF/ 
+AOP/BOI/ Artificial 
+Juridical Person 
+(Under default tax 
+regime) 
+Total income (in `) 
+Rate of Tax 
+Upto ` 3,00,000 
+Nil 
+` 3,00,001 to ` 6,00,000 
+5% 
+` 6,00,001 to ` 9,00,000 
+10% 
+` 9,00,001 to ` 12,00,000 
+15% 
+` 12,00,001 to ` 15,00,000 
+20% 
+Above ` 15,00,000 
+30% 
+Individual (As per 
+the 
+normal 
+provisions of the 
+Act 
+under 
+the 
+optional 
+tax 
+regime) 
+Total income (in `) 
+Rate of Tax 
+(i) Upto ` 2,50,000 (below 60 years) 
+(ii) Upto ` 3,00,000 (60 years or 
+above but less than 80 years and 
+resident in India)  
+(iii) Upto ` 5,00,000 (above 80 years 
+and resident in India) 
+Nil 
+` 2,50,001/ ` 3,00,001, as the case 
+may be, to ` 5,00,000 [in cases (i) and 
+(ii) above, respectively] 
+5% 
+` 5,00,001 to ` 10,00,000 
+20% 
+Above ` 10,00,000 
+30% 
+HUF/AOP/BOI/ 
+Artificial Juridical 
+Person 
+(As per the normal 
+provisions of the 
+Act 
+under 
+the 
+optional 
+tax 
+regime) 
+ 
+Total income (in `) 
+Rate of Tax 
+Upto ` 2,50,000 
+Nil 
+` 2,50,001 to ` 5,00,000 
+5% 
+` 5,00,001 to ` 10,00,000 
+20% 
+Above ` 10,00,000 
+30% 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.89 
+Firm/LLP/local 
+authority 
+30% 
+Co-operative 
+Society (not opting 
+for the provisions 
+of section 115BAD 
+or section 115BAE) 
+ 
+Total income (in `) 
+Rate of Tax 
+Upto ` 10,000 
+10% 
+` 10,001 to ` 20,000 
+20% 
+Above ` 20,000 
+30% 
+ 
+Company 
+(not 
+opting 
+for 
+the 
+provisions 
+of 
+section 
+115BAA/115BAB) 
+Domestic Company 
+Foreign 
+Company 
+Total  turnover or 
+gross receipts in the 
+P.Y. 2021-22 ≤  
+` 400 crore 
+Other 
+domestic 
+companies 
+ 
+25% 
+30% 
+40% 
+Surcharge 
+Under the default tax regime 
+Individual/ HUF/ AOP (other than an AOP consisting of only companies 
+as members)/ BOI/ Artificial juridical person 
+(i) 
+Where the total income (including dividend income and 
+capital gains chargeable to tax u/s 111A, 112 and 112A) > 
+` 50 lakh but is ≤ ` 1 crore 
+10% 
+(ii) 
+Where the total income (including dividend income and 
+capital gains chargeable to tax u/s 111A, 112 and 112A)> 
+` 1 crore but is ≤ ` 2 crore 
+15% 
+(iii) - 
+Where the total income (excluding dividend income 
+and capital gains chargeable to tax u/s 111A, 112 and 
+112A)> ` 2 crore  
+- 
+Rate of surcharge on the income-tax payable on the 
+portion 
+of 
+dividend 
+income 
+and capital 
+gains 
+chargeable to tax u/s 111A, 112 and 112A 
+25% 
+ 
+ 
+Not 
+exceeding 
+15% 
+(iv) Where the total income (including dividend income and 
+capital gains chargeable to tax u/s 111A, 112 and 112A) > 
+` 2 crore in cases not covered in (iii) above 
+15% 
+ 
+
+ 
+ 
+INCOME TAX LAW 
+1.90 
+Under the optional tax regime as per the normal provisions of the Act 
+Individual/ HUF/ AOP (other than an AOP consisting of only companies 
+as members)/ BOI/ Artificial juridical person 
+(i) 
+Where the total income (including dividend income and 
+capital gains chargeable to tax u/s 111A, 112 and 112A) > 
+` 50 lakh but is ≤ ` 1 crore 
+10% 
+(ii) 
+Where the total income (including dividend income and 
+capital gains chargeable to tax u/s 111A, 112 and 112A)> 
+` 1 crore but is ≤ ` 2 crore 
+15% 
+(iii) - 
+Where the total income (excluding dividend income 
+and capital gains chargeable to tax u/s 111A, 112 and 
+112A)> ` 2 crore but is ≤ ` 5 crore 
+- 
+Rate of surcharge on the income-tax payable on the 
+portion of dividend income and capital gains 
+chargeable to tax u/s 111A, 112 and 112A 
+25% 
+ 
+ 
+Not 
+exceeding 
+15% 
+(iv) - 
+Where the total income (excluding dividend income 
+and capital gains chargeable to tax u/s 111A, 112 and 
+112A)> ` 5 crore 
+- 
+Rate of surcharge on the income-tax payable on the 
+portion of dividend income and capital gains 
+chargeable to tax u/s 111A, 112 and 112A. 
+37% 
+ 
+ 
+Not 
+exceeding 
+15% 
+(v) 
+Where the total income (including dividend income and 
+capital gains chargeable to tax u/s 111A, 112 and 112A) > 
+` 2 crore in cases not covered in (iii) and (iv) above 
+15% 
+ 
+In case of an AOP of only companies as members 
+ 
+(i) 
+Where the total income > ` 50 lakh but is < ` 1 crore 
+10% 
+(ii) 
+Where the total income > ` 1 crore 
+15% 
+Firm/Limited Liability Partnership/Local Authorities 
+Where the total income > ` 1 crore 
+12% 
+Co-operative societies (other than a co-operative society opting for 
+section 115BAD or section 115BBE) 
+Total income > ` 1 crore but is ≤ ` 10 crore 
+7% 
+
+BASIC CONCEPTS 
+ 
+ 
+1.91 
+Total income is > ` 10 crore 
+12% 
+Domestic company (other than a domestic company opting for section 
+115BAA or section 115BAB) 
+Total income > ` 1 crore but is ≤ ` 10 crore 
+7% 
+Total income is > ` 10 crore 
+12% 
+Foreign company 
+Total income > ` 1 crore but is ≤ ` 10 crore 
+2% 
+Total income is > ` 10 crore 
+5% 
+Rebate under section 87A:  
+Under default tax regime 
+(i) Where total income ≤ ` 7,00,000 - Rebate of up to ` 25,000 for resident 
+individuals. 
+(ii) Where total income > ` 7,00,000 and income-tax payable on such total 
+income exceeds the amount by which the total income is in excess of  
+` 7,00,000 - Rebate of tax on total income as reduced by the total income 
+exceeding ` 7,00,000 for resident individuals. 
+Under normal provisions of the Act 
+Rebate of up to ` 12,500 for resident individuals having total income of up to 
+` 5 lakh. 
+“Health and Education cess” on Income-tax: 4% of income-tax and 
+surcharge, if applicable 
+Agricultural income is exempt under section 10(1). 
+However, agricultural income has to be aggregated with non-agricultural 
+income for determining the rate at which non-agricultural income would be 
+subject to tax, in case of individuals, HUF, AOPs & BOIs etc., where the – 
+• 
+agricultural income exceeds ` 5,000 p.a. and  
+• 
+non-agricultural income exceeds basic exemption limit. 
+The following are the steps to be followed in computation of tax- 
+Step  1:  Tax on non-agricultural income plus agricultural income 
+Step  2:  Tax on agricultural income plus basic exemption limit 
+Step  3:  Tax payable by the assessee = Step 1 – Step 2 
+Step 4:  Add Surcharge/Deduct Rebate u/s 87A, if applicable. 
+Step 5:   Add Health and Education Cess@4%. 
+
+ 
+ 
+INCOME TAX LAW 
+1.92 
+TEST YOUR KNOWLEDGE 
+1. 
+Who is an “Assessee”?  Explain 
+2. 
+State any four instances where the income of the previous year is assessable in 
+the previous year itself instead of the assessment year. 
+ 
+3. 
+Whether the income derived from saplings or seedlings grown in a nursery is 
+taxable under the Income-tax Act, 1961? Examine. 
+4. 
+What are the two schools of Hindu law and where are they prevalent? Explain. 
+Also, mention the difference between the two schools of Hindu Law. 
+5. 
+What is the difference between an Association of Persons and Body of 
+Individuals? 
+6. 
+Mr. Sumit, a resident Indian, earns income of ` 15 lakhs from sale of rubber 
+manufactured from latex obtained from rubber plants grown by him in India 
+and ` 20 lakhs from sale of rubber manufactured from latex obtained from 
+rubber plants grown by him in Malaysia during the A.Y.2024-25. What would 
+be his business income, assuming he has no other business? 
+7. 
+Mr. Raja, a resident Indian, earns income of ` 10 lakhs from sale of coffee grown 
+and cured in India during the A.Y.2024-25. His friend, Mr. Shyam, a resident 
+Indian, earns income of ` 20 lakhs from sale of coffee grown, cured, roasted 
+and grounded by him in India during the A.Y.2024-25. What would be the 
+business income chargeable to tax in India of Mr. Raja and Mr. Shyam? 
+8. 
+The Jain HUF in Assam comprises of Mr. Suresh Jain, his wife Mrs. Sapna Jain, 
+his son Mr. Sarthak Jain, his daughter-in-law Mrs. Preeti Jain, his daughter Miss 
+Seema Jain and his unmarried brother Mr. Pritam Jain.  Which of the members 
+of the HUF are eligible for coparcenary rights? 
+9.  
+Compute the tax liability under default tax regime of Mr. Kashyap (aged 35), 
+having total income of ` 51,75,000 for the Assessment Year 2024-25. Assume 
+that his total income comprises of salary income, income from house property 
+and interest on fixed deposit.  
+10. 
+Mr. Agarwal, aged 40 years and a resident in India, has a total income of  
+` 6,50,00,000, comprising long term capital gain taxable under section 112 of 
+
+BASIC CONCEPTS 
+ 
+ 
+1.93 
+` 55,00,000, short term capital gain taxable under section 111A of  
+` 65,00,000 and other income of ` 5,30,00,000. Compute his tax liability for 
+A.Y.2024-25 under the default tax regime and optional tax regime as per the 
+normal provisions of the Act assuming that the total income and its 
+components are the same in both tax regimes.  
+11. 
+Mr. Sharma aged 62 years and a resident in India, has a total income of  
+` 2,30,00,000, comprising long term capital gain taxable under section 112 of 
+` 52,00,000, short term capital gain taxable under section 111A of  
+` 64,00,000 and other income of ` 1,14,00,000. Compute his tax liability for 
+A.Y.2024-25 under the default tax regime and optional tax regime as per the 
+normal provisions of the Act assuming that the total income and its 
+components are the same in both tax regimes.  
+ANSWERS 
+1. 
+As per section 2(7), assessee means a person by whom any tax or any other 
+sum of money is payable under the Income-tax Act, 1961.   
+In addition, the term includes – 
+▪ 
+Every person in respect of whom any proceeding under the Act has 
+been taken for the assessment of – 
+• 
+his income; or  
+• 
+the income of any other person in respect of which he is 
+assessable; or 
+• 
+the loss sustained by him or by such other person; or 
+• 
+the amount of refund due to him or to such other person. 
+▪ 
+Every person who is deemed to be an assessee under any provision of 
+the Act; 
+▪ 
+Every person who is deemed to be an assessee in default under any 
+provision of the Act. 
+2. 
+The income of an assessee for a previous year is charged to income-tax in the 
+assessment year following the previous year. However, in a few cases, the 
+income is taxed in the previous year in which it is earned. These exceptions 
+
+ 
+ 
+INCOME TAX LAW 
+1.94 
+have been made to protect the interests of revenue. The exceptions are as 
+follows: 
+(i) 
+Where a ship, belonging to or chartered by a non-resident, carries 
+passengers, livestock, mail or goods shipped at a port in India, the ship 
+is allowed to leave the port only when the tax has been paid or 
+satisfactory arrangement has been made for payment thereof. 7.5% of 
+the freight paid or payable to the owner or the charterer or to any 
+person on his behalf, whether in India or outside India on account of 
+such carriage is deemed to be his income which is charged to tax in the 
+same year in which it is earned. 
+(ii) 
+Where it appears to the Assessing Officer that any individual may leave 
+India during the current assessment year or shortly after its expiry and 
+he has no present intention of returning to India, the total income of 
+such individual for the period from the expiry of the respective previous 
+year up to the probable date of his departure from India is chargeable 
+to tax in that assessment year. 
+(iii) 
+If an AOP/BOI etc. is formed or established for a particular event or 
+purpose and the Assessing Officer apprehends that the AOP/BOI is 
+likely to be dissolved in the same year or in the next year, he can make 
+assessment of the income up to the date of dissolution as income of 
+the relevant assessment year. 
+(iv) 
+During the current assessment year, if it appears to the Assessing 
+Officer that a person is likely to charge, sell, transfer, dispose of or 
+otherwise part with any of his assets to avoid payment of any liability 
+under this Act, the total income of such person for the period from the 
+expiry of the previous year to the date, when the Assessing Officer 
+commences proceedings under this section is chargeable to tax in that 
+assessment year. 
+(v) 
+Where any business or profession is discontinued in any assessment 
+year, the income of the period from the expiry of the previous year up 
+to the date of such discontinuance may, at the discretion of the 
+Assessing Officer, be charged to tax in that assessment year. 
+3. 
+As per Explanation 3 to section 2(1A), income derived from saplings or 
+seedlings grown in a nursery shall be deemed to be agricultural income and 
+
+BASIC CONCEPTS 
+ 
+ 
+1.95 
+exempt from tax, whether or not the basic operations were carried out on 
+land.  
+4. 
+The two schools of Hindu law are Dayabaga school, prevalent in West Bengal 
+and Assam, and Mitakshara school, prevalent in rest of India.  
+Under the Dayabaga school of Hindu Law, nobody acquires the right, share 
+in the property by birth as long as the head of family is living. Thus, the 
+children do not acquire any right, share in the family property, as long as his 
+father is alive and only on death of the father, the children will acquire 
+right/share in the property. Hence, the father and his brothers would be the 
+coparceners of the HUF. 
+Under the Mitakshara school of Hindu Law, one acquires the right to the 
+family property by his birth and not by succession irrespective of the fact that 
+his elders are living. Thus, every child born in the family acquires a right/share 
+in the family property. 
+5. 
+In order to constitute an Association of Persons (AOP), persons must join for 
+a common purpose or action and their object must be to produce income; it 
+is not enough that the persons receive the income jointly.  
+Body of Individuals denotes the status of persons like executors or trustees 
+who merely receive the income jointly and who may be assessable in like 
+manner and to the same extent as the beneficiaries individually. Thus, co-
+executors or co-trustees are assessable as a BOI as their title and interest are 
+indivisible.  
+The difference between an AOP and BOI is that in case of a BOI, only 
+individuals can be the members, whereas in case of AOP, any person can be 
+its member i.e. entities like company, firm etc. can be the member of AOP but 
+not of BOI.  
+In case of an AOP, members voluntarily come together with a common will 
+for a common intention or purpose, whereas in case of BOI, such common 
+will may or may not be present. 
+6. 
+Since Mr. Sumit is a resident, his global income would be taxable in India. 
+Income of ` 20 lakhs from sale of rubber manufactured from latex obtained 
+from rubber plants grown by him in Malaysia would be his business income 
+since it is from rubber plants grown outside India. 35% income from sale of 
+rubber manufactured from latex obtained from rubber plants grown by him 
+
+ 
+ 
+INCOME TAX LAW 
+1.96 
+in India would be taxable as business income and balance 65% would be 
+exempt as agricultural income. 
+Business income  = 35% of ` 15 lakhs + ` 20 lakhs = ` 25.25 lakhs 
+7. 
+In case of income derived from the sale of coffee grown and cured by the 
+seller in India, 25% income on such sale is taxable as business income. In case 
+of income derived from the sale of coffee grown, cured, roasted and 
+grounded by the seller in India, 40% income on such sale is taxable as 
+business income.   
+ 
+Business income of Mr. Raja = 25% of ` 10 lakhs = ` 2.5 lakhs 
+ 
+Business income of Mr. Shyam = 40% of ` 20 lakhs = ` 8 lakhs 
+8. 
+Dayabaga school of Hindu law is prevalent in Assam. In Dayabaga school of 
+Hindu law, nobody acquires the right, share in the property by birth as long 
+as the head of family is living.  
+Thus, the children do not acquire any right, share in the family property, as 
+long as his father is alive and only on death of the father, the children will 
+acquire right/share in the property.  
+Hence, Mr. Suresh Jain and his brother, Mr. Pritam Jain would be the 
+coparceners of the Jain HUF and are eligible for coparcenary rights. 
+9. 
+Computation of tax liability of Mr. Kashyap for the A.Y.2024-25 
+under default tax regime 
+(A)    Tax payable including surcharge on total income of ` 51,75,000 
+ 
+` 3,00,000 – ` 6,00,000 @5% 
+     ` 15,000 
+ 
+` 6,00,001 – ` 9,00,000 @10% 
+  ` 30,000 
+ 
+` 9,00,001 – ` 12,00,000 @15% 
+  ` 45,000 
+ 
+` 12,00,001 – ` 15,00,000 @20% 
+  ` 60,000 
+ 
+` 15,00,001 – ` 51,75,000 @30% ` 11,02,500 
+ 
+Total 
+ 
+` 12,52,500 
+ 
+Add: Surcharge @ 10% 
+  ` 1,25,250 
+` 13,77,750 
+ 
+
+BASIC CONCEPTS 
+ 
+ 
+1.97 
+(B) 
+Tax Payable on total income of ` 50 lakhs (` 1,50,000 plus  
+ 
+` 10,50,000) 
+ 
+` 12,00,000 
+ 
+(C)    Total Income Less ` 50 lakhs 
+ 
+` 1,75,000 
+ 
+(D)   Tax payable on total income of ` 50 lakhs plus the  
+ 
+excess of total income over ` 50 lakhs (B +C)  
+` 13,75,000 
+ 
+(E)    Tax payable: lower of (A) and (D) 
+ 
+` 13,75,000 
+ 
+Add: Health and education cess @4% 
+ 
+      ` 55,000 
+ 
+Tax liability 
+ 
+` 14,30,000 
+ 
+(F)    Marginal Relief (A – D) 
+ 
+               ` 2,750 
+ 
+Alternative method -  
+ 
+(A)   Tax payable including surcharge on total income of ` 51,75,000 
+ 
+` 3,00,000 – ` 6,00,000 @5% 
+     ` 15,000 
+ 
+` 6,00,001 – ` 9,00,000 @10% 
+  ` 30,000 
+ 
+` 9,00,001 – ` 12,00,000 @15% 
+  ` 45,000 
+ 
+` 12,00,001 – ` 15,00,000 @20% 
+  ` 60,000 
+ 
+` 15,00,001 – ` 51,75,000 @30% ` 11,02,500 
+ 
+Total 
+` 12,52,500 
+ 
+Add: Surcharge@10% 
+  ` 1,25,250 
+` 13,77,750 
+(B)     Tax Payable on total income of ` 50 lakhs (` 1,50,000 plus  
+ 
+           ` 10,50,000) 
+ 
+` 12,00,000 
+ 
+(C)    Excess tax payable (A)-(B) 
+ 
+  ` 1,77,750 
+ 
+(D)    Marginal Relief (` 1,77,750 – ` 1,75,000, being the amount 
+ 
+of income in excess of ` 50,00,000) 
+ 
+               ` 2,750 
+ 
+(E)     Tax payable (A)-(D) 
+ 
+` 13,75,000 
+ 
+Add: Health and education cess @4% 
+ 
+      ` 55,000 
+ 
+Tax liability 
+ 
+` 14,30,000 
+
+ 
+ 
+INCOME TAX LAW 
+1.98 
+10.   
+Computation of tax liability of Mr. Agarwal for the A.Y.2024-25 
+under default tax regime  
+ 
+ 
+Particulars 
+` 
+Tax on total income of ` 6,50,00,000 
+ 
+Tax@20% of ` 55,00,000 
+11,00,000 
+Tax@15% of ` 65,00,000 
+9,75,000 
+Tax on other income of ` 5,30,00,000 
+ 
+` 3,00,000 – ` 6,00,000 @5% 
+15,000 
+ 
+` 6,00,000 – ` 9,00,000 @10% 
+30,000 
+ 
+` 9,00,000 – ` 12,00,000 @15% 
+45,000 
+ 
+` 12,00,000 – ` 15,00,000 @20% 
+60,000 
+ 
+` 15,00,000 – ` 5,30,00,000 @30% 
+1,54,50,000 
+1,56,00,000 
+ 
+1,76,75,000 
+Add: Surcharge @15% on ` 20,75,000 
+3,11,250 
+ 
+        @25% on ` 1,56,00,000 
+39,00,000 
+42,11,250 
+ 
+2,18,86,250 
+Add: Health and education cess @4% 
+8,75,450 
+Tax Liability 
+2,27,61,700 
+Computation of tax liability of Mr. Agarwal for the A.Y.2024-25 
+under normal provisions of the Act 
+ 
+ 
+Particulars 
+` 
+Tax on total income of ` 6,50,00,000 
+ 
+Tax@20% of ` 55,00,000 
+11,00,000 
+Tax@15% of ` 65,00,000 
+9,75,000 
+Tax on other income of ` 5,30,00,000 
+ 
+` 2,50,000 – ` 5,00,000 @5% 
+12,500 
+ 
+` 5,00,000 – ` 10,00,000 @20% 
+1,00,000 
+ 
+` 10,00,000 – ` 5,30,00,000 @30% 
+1,56,00,000 
+1,57,12,500 
+
+BASIC CONCEPTS 
+ 
+ 
+1.99 
+ 
+1,77,87,500 
+Add: Surcharge @15% on ` 20,75,000 
+3,11,250 
+ 
+        @37% on ` 1,57,12,500 
+58,13,625 
+61,24,875 
+ 
+2,39,12,375 
+Add: Health and education cess @4% 
+9,56,495 
+Tax Liability 
+2,48,68,870 
+11.    
+Computation of tax liability of Mr. Sharma for the A.Y.2024-25 
+ 
+  
+ 
+ 
+ 
+under default tax regime 
+ 
+ 
+Particulars 
+` 
+Tax on total income of ` 2,30,00,000 
+ 
+Tax@20% of ` 52,00,000 
+10,40,000 
+Tax@15% of ` 64,00,000 
+9,60,000 
+Tax on other income of ` 1,14,00,000 
+ 
+` 3,00,000 – ` 6,00,000 @5% 
+15,000 
+ 
+` 6,00,000 – ` 9,00,000 @10% 
+30,000 
+ 
+` 9,00,000 – ` 12,00,000 @15% 
+45,000 
+ 
+` 12,00,000 – ` 15,00,000 @20% 
+60,000 
+ 
+` 15,00,000 – ` 1,14,00,000 @30% 
+29,70,000 
+31,20,000 
+ 
+51,20,000 
+Add: Surcharge @15% 
+7,68,000 
+ 
+58,88,000 
+Add: Health and education cess @4% 
+235,520 
+Tax Liability 
+61,23,520 
+Computation of tax liability of Mr. Sharma for the A.Y.2024-25 
+under normal provisions of the Act 
+ 
+ 
+Particulars 
+` 
+Tax on total income of ` 2,30,00,000 
+ 
+Tax@20% of ` 52,00,000 
+10,40,000 
+
+ 
+ 
+INCOME TAX LAW 
+1.100 
+Tax@15% of ` 64,00,000 
+9,60,000 
+Tax on other income of ` 1,14,00,000 
+ 
+` 3,00,000 – ` 5,00,000 @5% 
+10,000 
+ 
+` 5,00,000 – ` 10,00,000 @20% 
+1,00,000 
+ 
+` 10,00,000 – ` 1,14,00,000 @30% 
+31,20,000 
+32,30,000 
+ 
+52,30,000 
+Add: Surcharge @15% 
+7,84,500 
+ 
+60,14,500 
+Add: Health and education cess @4% 
+2,40,580 
+Tax Liability 
+62,55,080 
+ 

@@ -1,0 +1,270 @@
+ 
+1 
+ 
+FAQ.1: Amendment of Section 9A of the Income-tax Act, 1961 
+Q.1. At present what are conditions for participation or investment in the corpus of 
+eligible investment fund by persons resident in India, as per section 9A of the Income-
+tax Act, 1961? 
+Ans. At present, section 9A(3)(c) of the Income-tax Act, 1961 inter alia provides that the 
+aggregate participation or investment by a person resident in India, in the eligible investment 
+fund, directly or indirectly, shall not exceed five percent of the corpus of such fund. 
+Q.2. What amendment has been proposed through Government Amendment? 
+Ans. In the Government Amendment, it has been proposed that the indirect participation or 
+investment by a person resident in India, in the eligible investment fund, shall not be 
+considered for the five percent condition in section 9A. Hence, the requirement of 
+monitoring and determining participation and investment by a person resident in India, 
+where such participation and investment is made indirectly, shall no longer be required. This 
+shall reduce compliance burden and enable relocation of fund managers of offshore funds. 
+Q.3. What are the provisions of section 9A(8A) of the Income-tax Act, 1961? 
+Ans. Section 9A(8A) inter alia provides that the Central Government may relax or modify 
+any one or more of the 13 conditions specified in section 9A(3) for eligible investment fund 
+and 4 conditions in section 9A(4) for eligible fund manager, if such fund manager is located 
+in an IFSC. 
+Q.4. What changes have been proposed in section 9A(8A) of the Income-tax Act, 1961? 
+Ans. In the Finance Bill, 2025, it was proposed that the conditions specified in section 
+9A(3)(c) shall not be modified by the Central Government, as the condition was proposed 
+for relaxation in the Income-tax Act, 1961 itself. In the proposed Government Amendment, 
+the said power of the Central Government has been restored, so that the condition specified 
+in section 9A(3)(c) may also be modified and relaxed, if required. 
+ 
+ 
+
+ 
+2 
+ 
+FAQ.2: Amendment of Proposed Section 44BBD of the Income-tax Act, 1961 
+Q.1. What are the provisions of section 44BBD of the Income-tax Act, 1961 as proposed 
+in the Finance Bill, 2025? 
+Ans. The proposed section 44BBD inter alia provides presumptive taxation for non-
+residents engaged in the business of providing technology and services for an electronics 
+manufacturing facility to a resident company. The said section deems twenty-five percent 
+of the aggregate amount received/receivable by, or paid/payable to, the non-resident, on 
+account of providing services or technology, as profits and gains of such non-resident from 
+such business. 
+Q.2. What amendment has been proposed in the Finance Bill, 2025 through 
+Government Amendment in respect of section 44BBD? 
+Ans. An amendment has been proposed in section 44BBD to further clarify that the specific 
+sections related to permanent establishment and taxation of royalty and fee for technical 
+services (Section 44DA and Section 115A) shall not apply on the income included in the 
+proposed presumptive taxation scheme under section 44BBD. 
+FAQ.3: Amendment of Section 10(10D) of the Income-tax Act, 1961 
+Q.1. What amendment was proposed in section 10(10D) of the Income-tax Act, 1961 
+through Finance Bill, 2025? 
+Ans. Finance Bill, 2025 amended section 10(10D) of the Income-tax Act, 1961 so as to 
+provide that proceeds received on a life insurance policy issued by an IFSC insurance 
+intermediary office shall be exempted without the condition related to the maximum 
+premium payable on such policy. 
+Q.2. Why has the amendment been proposed in the said provision of section 10(10D) 
+as proposed in Finance Bill, 2025? 
+Ans. The insurance policies are to be issued by IFSC insurance offices. Therefore, the 
+reference to IFSC insurance intermediary is being replaced with the correct reference (IFSC 
+insurance offices) through the Government Amendment. 
+ 
+
+ 
+3 
+ 
+FAQ.4: Amendment of Section 10(4D) of the Income-tax Act, 1961 
+Q.1. What are the provisions of section 10(4D) of the Income-tax Act, 1961? 
+Ans. Section 10(4D) of the Income-tax Act, 1961 inter alia provides exemption to the 
+income of a ‘specified fund’ subject to fulfilment of conditions specified therein. 
+Q.2. What amendment has been proposed in section 10(4D) of the Income-tax Act, 
+1961? 
+Ans. In the proposed amendment, it has been provided that the exemption to a specified 
+fund (which has been granted a certificate as a retail scheme or an Exchange Traded Fund) 
+will be available if it satisfies the conditions laid down for such funds or schemes in the 
+IFSCA regulations. 
+FAQ.5: Inclusion of Retail Schemes and ETFs in the Existing Relocation Regime 
+– Section 47(viiad) 
+Q.1 What are the changes made to the definition of ‘resultant fund’ in section 47(viiad) 
+of the Income tax Act, 1961 by Finance Bill 2025? 
+Ans. Under the Finance Bill, 2025, the definition of ‘resultant fund’ in section 47(viiad) has 
+been expanded to include Retail Schemes and Exchange Traded Funds (ETFs) that are 
+regulated under the IFSCA (Fund Management) Regulations, 2022, provided they also meet 
+the conditions specified under section 10(4D) of the Income-tax Act, 1961. 
+Q.2 What is the implication of the amendment made to section 47(viiad)? 
+Ans. The amendment allows the relocation of an original fund to a resultant fund, such as a 
+Retail Scheme or an Exchange Traded Fund (ETF), to be treated as a tax-neutral transaction 
+for the shareholder or unit holder in the original fund, subject to specified conditions. 
+Q.3 What are the changes to the definition of ‘resultant fund’ in section 47(viiad) 
+brought in by the Government Amendment to the Finance Bill 2025? 
+Ans. The Government Amendment removes the earlier condition that Retail Schemes and 
+ETFs must satisfy the provisions of section 10(4D). Now, any Retail Scheme or ETF that 
+has been granted a certificate by IFSCA will be treated as a ‘resultant fund’ for the purposes 
+of section 47(viiad). 
+
+ 
+4 
+ 
+FAQ.6: Incentives to IFSC – Exempt Income of Non-Residents – Section 10(4E) 
+Q.1 What are the transactions that are covered under section 10(4E) of the Income tax 
+Act, 1961? 
+Ans. Section 10(4E) covers the following transactions: 
+i. 
+Transfer of non-deliverable forward contracts, offshore derivative instruments, or 
+over-the-counter (OTC) derivatives; and 
+ii. 
+Distribution of income on offshore derivative instruments. 
+Q.2 What are the changes made by the Finance Bill 2025 to grant exemption to non-
+resident under section 10(4E)? 
+Ans. Earlier, the exemption under section 10(4E) was available only for derivative 
+transactions made by non-residents with Offshore Banking Units. The Finance Bill, 2025 
+extends this benefit to transactions made by non-residents with Foreign Portfolio Investors 
+(FPIs) that are units in an IFSC. 
+Q.3 What are the changes to the exemption under section 10(4E) brought in by the 
+Government Amendment to the Finance Bill 2025? 
+Ans. The Government Amendment proposes to extend the exemption under section 10(4E) 
+to the distribution of income on Over-the-Counter (OTC) derivatives, where such contracts 
+are entered into by a non-resident with either Overseas Banking Units or Foreign Portfolio 
+Investors (FPIs) operating in an IFSC. 
+FAQ.7: Amendment of Definition of ‘Capital Asset’ – Section 2(14) 
+Q.1 What are the changes made by the Finance Bill 2025 to the definition of capital 
+asset? 
+Ans. The Finance Bill, 2025 amends the definition of "capital asset" in section 2(14) to 
+include securities held by investment funds referred to in section 115UB, i.e., Category I 
+and Category II Alternative Investment Funds regulated under the SEBI (AIF) Regulations, 
+2012. 
+
+ 
+5 
+ 
+Q.2 What are the changes to the definition u/s 2(14) brought in by the Government 
+Amendment to the Finance Bill 2025? 
+Ans. The Government Amendment further expands the definition of “capital asset” to 
+include securities held by a Category I or Category II Alternative Investment Fund, where 
+such investment has been made in accordance with either SEBI regulations or IFSCA 
+regulations. 
+FAQ 8: Amendments Related to Chapter XIV-B of the Income-tax Act, 1961 
+Q.1 What amendment has been made in respect of chapter XIV-B of Income-tax Act, 
+1961? 
+Ans. The concept of assessment of total income has been replaced with the assessment of 
+undisclosed income. This reflects a paradigm shift where the main objective of a search or 
+requisition is to identify income that has not been disclosed. However, the pending 
+proceeding of any year comprised in the block period is abated and is assessed along with 
+the block assessment. Hence, the AO shall be at liberty to compute undisclosed income on 
+the basis of evidence found as a result of search or requisition as well as any other material 
+or information as is available with him or come to his notice. Regular income will continue 
+to be determined based on entries or transactions recorded in the books of account or 
+documents maintained in the normal course before the initiation of the search or requisition. 
+The changes to Chapter XIV-B aim to focus only on assessing undisclosed income and place 
+trust in the taxpayer to disclose regular income in the block income tax return. 
+Q.2 What amendment has been made in respect of section 158BA of Income-tax Act, 
+1961? 
+Ans. The word ‘total income’ has been replaced with ‘total undisclosed income’ in the 
+marginal heading and in sub-section (1) and sub-section (7) of section 158BA. 
+Q.3 What amendment has been made in respect of section 158BB of Income-tax Act, 
+1961? 
+Ans. Section 158BB has been amended to provide a clear distinction between disclosed and 
+undisclosed income and to compute the assessment of total undisclosed income. 
+
+ 
+6 
+ 
+Q.4 What amendment has been made in respect of undisclosed income as per section 
+158BB of the Income-tax Act, 1961? 
+Ans. The total undisclosed income referred to in section 158BA(1) for the block period shall 
+be the aggregate of the following: 
+a) Undisclosed income declared in the return furnished under section 158BC; 
+b) Undisclosed income determined by the Assessing Officer under sub-section (2). 
+Q.5 What income shall not form part of undisclosed income as per section 158BB of 
+Income-tax Act, 1961? 
+Ans. The following income shall not be included in the total undisclosed income of the 
+block period: 
+a) Total income determined under section 143(1), or assessed under sections 143(3), 
+144, 147, 153A, 153C, or assessed earlier under section 158BC(1)(c) or section 
+245D(4), prior to the date of initiation of the search or requisition; 
+b) Total income declared in the return filed under section 139 or in response to a notice 
+under section 142(1), prior to the date of the search or requisition, and not covered 
+under clause (a); 
+c) Income computed by the assessee for the specified period based on books of account 
+maintained in the normal course; 
+d) Total income referred to in section 115A(5), section 115G, or section 194P(1). 
+Q.6 How will the tax referred to in section 158BA(7) of Income-tax Act, 1961 be 
+charged as per section 158BB of Income-tax Act, 1961? 
+Ans. The tax referred to in section 158BA(7) shall be charged on the total undisclosed 
+income determined in the manner specified in section 158BB(1). 
+Q.7 What is the available time limit to assessee for furnishing block return in 
+pursuance of notice u/s 158BC of Income-tax Act, 1961? 
+Ans. At present, a taxpayer shall furnish the block return in pursuance of a notice under 
+section 158BC within the time specified in the notice, which shall not exceed 60 days. 
+
+ 
+7 
+ 
+Q.8 Is there any provision for getting books of account audited in respect of a previous 
+year immediately preceding the previous year in which the search is initiated or 
+requisition is made and the due date for furnishing the return has not expired prior to 
+the date of initiation of the search or the date of requisition? 
+Ans. Yes. Under the fifth proviso to section 158BC(1)(a), a taxpayer can request an 
+additional 30 days to get the books of account audited for the previous year immediately 
+preceding the year in which the search or requisition is initiated, provided the due date for 
+filing the return for that year had not yet expired on the date of the search or requisition. 
+Q.9 What are the primary conditions to be fulfilled for requesting for extension of time 
+allowed for furnishing block return? 
+Ans. The time allowed for furnishing a return under section 158BC(1)(a) can be extended 
+by 30 days if all the following conditions are met: 
+i. 
+The previous year immediately precedes the year in which the search or requisition 
+was made, and the due date for furnishing return for that year had not expired before 
+the search or requisition; 
+ii. 
+The assessee was liable for audit under section 44AB for that previous year; 
+iii. 
+The accounts of that year (maintained in the normal course) were not audited on the 
+date of issuance of the notice; and 
+iv. 
+The assessee makes a written request for extension of time for furnishing the block 
+return to get such accounts audited. 
+Q.10 What amendments have been made in respect of section 158BD of Income-tax 
+Act, 1961? 
+Ans. The block period has been clearly defined in respect of another person covered under 
+section 158BD. There are two cases: 
+a) Where there is one specified person relevant to such other person, the block period 
+for such other person shall be the same as that for the specified person; 
+b) Where there is more than one specified person relevant to such other person, the 
+block period shall be the same as that of the specified person whose block period 
+ends on the later date. 
+
+ 
+8 
+ 
+Q.11 What amendments have been brought in respect of abatement in section 158BD 
+of Income-tax Act, 1961? 
+Ans. In the case of a person covered under section 158BD, for the purpose of abatement 
+under section 158BA(2) and 158BA(3), the reference to the date of initiation of search or 
+requisition shall mean the date on which money, bullion, jewellery, virtual digital assets, or 
+other valuable items, or books of account, documents, or other materials relating to 
+undisclosed income were received by the Assessing Officer having jurisdiction over such 
+person. 
+Q.12 What amendment has been made in respect of the time-limit for completing 
+assessment under section 158BE of Income-tax Act, 1961? 
+Ans. The time-limit for completion of block assessment is twelve months from the end of 
+the quarter in which the last of the authorizations for search or requisition has been executed. 
+However, if the time allowed under section 158BC(1)(a) is extended by an additional 30 
+days under the fifth proviso, the time-limit for completion of the block assessment shall be 
+thirteen months from the end of the quarter in which the last of the authorizations was 
+executed. 
+Q.13 What amendments have been made in respect of section 113 of Income-tax Act, 
+1961? 
+Ans. The word ‘total income’ has been replaced with ‘total undisclosed income’ so that the 
+total undisclosed income of the block period, determined under section 158BC, shall be 
+chargeable to tax at the rate of sixty per cent. 
+FAQ 9: Amendments proposed in provisions of section 143 
+Q.1 What are the provisions of section 143(1) of Income-tax Act, 1961? 
+Ans. Section 143(1) provides processing of income-tax returns after making certain 
+specified adjustments like arithmetical error in the return or incorrect claim in the return 
+apparent from any information in the return. 
+ 
+
+ 
+9 
+ 
+Q.2 What amendments have been brought in respect of section 143(1) of Income-tax 
+Act, 1961?  
+Ans. Section 143(1) has been amended to provide for checking any inconsistency in the 
+return with respect to the information in the return of any preceding previous year, as may 
+be prescribed. 
+Q.3 What are the kinds of inconsistencies which may fall under the amended 143(1)? 
+Ans. These inconsistencies are yet to be prescribed. However, an example could be where 
+taxpayer has made a claim of any credit in previous return but the corresponding figures are 
+not the same in the current return. 

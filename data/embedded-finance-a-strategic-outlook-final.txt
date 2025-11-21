@@ -1,0 +1,1510 @@
+Embedded finance: A 
+strategic outlook 
+
+2  PwC  |  Embedded finance: A strategic outlook
+Foreword from PwC 
+Innovation has long been a transformative force in the world of FS. From the earliest forms of currency exchanges 
+to state-of-the-art complex banking systems, the financial landscape has evolved across the globe to meet the 
+changing needs for businesses and consumers. Today, we find ourselves at the precipice of another monumental 
+leap forward – the era of EmFi. 
+As the world becomes more interconnected, the boundaries between traditional FS and everyday customer 
+experiences are beginning to blur. EmFi as a concept seeks to seamlessly integrate financial products and services 
+into non-financial offerings, allowing financial transactions and decision making to occur efficiently. EmFi is not a 
+new approach in India – for example, banking personnel at large electronics stores help finance the purchase of 
+white goods. Furthermore, the current EmFi landscape offers scope for expanding use cases on a larger scale across 
+industries. 
+The rise of EmFi has been driven by customer demands for convenience, personalisation and accessibility. This 
+paradigm shift – fuelled by advancements in FinTech, AI and data analytics – is enabling the growth of a diverse array 
+of applications and platforms using embedded financial products – from e-commerce and wealth management to 
+ride hailing and healthcare. It is poised to transform the way we manage, move and multiply our money. 
+This report highlights some of the key platform models offering EmFi products, outlining their sector-wise use cases. 
+It also discusses the impact and benefits of such models on key stakeholders in the EmFi ecosystem. Furthermore, 
+the report looks at factors that could influence the EmFi landscape from both the technology and regulatory 
+perspectives, providing certain considerations for stakeholders. 
+The vision for a responsible financial ecosystem built on the pillars of resilience, inclusivity and sustainability can only 
+be realised through global collaboration. As we embark on this journey of embracing EmFi and its transformative 
+potential, we will recognise that the opportunities will transcend multiple ecosystems and domestic borders, and 
+hence, our solutions must take that into consideration. This collaborative endeavour will shape the future of finance 
+and pave the way for a more just, resilient and equitable world for generations to come. 
+We would like to extend our gratitude to the NPCI, PCI and FCC for organising the Global FinTech Festival 2023 and 
+inviting PwC India to be a knowledge partner. 
+Vivek Belgavi 
+Partner 
+FinTech, Alliances and Ecosystem Leader 
+PwC India 
+2 PwC | Embedded finance: A strategic outlook 
+
+ 
+ 
+ 
+Executive summary 
+EmFi, the seamless integration of FS into the customer journeys of non-financial businesses, has become a 
+disruptive force in the financial industry. This report explores the landscape, opportunities, challenges, technology 
+and regulatory considerations in this dynamic field. By integrating FS into diverse industries, all stakeholders can tap 
+into new customer segments, thus driving customer acquisition, engagement and loyalty. 
+However, despite all these advantages, EmFi comes with its share of challenges. The rising importance of security 
+and privacy necessitates effective safeguards against data breaches and fraud. Additionally, there could be 
+complexities involved in aligning diverse business models and regulatory requirements across industries and 
+stakeholder partners. 
+Technology development has been crucial to EmFi’s success. Scalable APIs, advanced analytics and AI can be used 
+to deliver seamless integration and customised financial solutions, improving customer experiences. 
+A robust regulatory environment is necessary to promote the growth of the EmFi sector. Thus, in order to protect 
+the consumers, the stakeholders and regulatory bodies could work in a collaborative manner to determine the ideal 
+balance between innovation and compliance. 
+Below are some key recommendations to further facilitate the growth of EmFi: 
+Promote collaboration: Encourage collaborations between FIs and non-FS businesses that can foster innovation 
+and resource sharing. 
+Prioritise security: Implement ‘security-first’ principles through the establishment of strict security controls and 
+compliance protocols to protect private financial information and foster consumer confidence. 
+Invest in technology: Allocate resources to develop cutting-edge technologies, such as secure APIs and advanced 
+analytics, enabling seamless integration and personalised services. 
+Regulatory harmonisation: Encourage cross-industry discussions to standardise regulations, establishing clear 
+standards for EmFi without restricting innovation. 
+Consumer education: Educate consumers about EmFi’s advantages and risks, thus enabling them to make well-
+informed decisions, enhance adoption and help safeguard the brand image of the embedders. 
+Embracing EmFis may put companies at the forefront of innovation and revolutionise the FS industry for a future 
+that is more inclusive, efficient and customer-focussed. Businesses may succeed in this dynamic environment by 
+participating in strategic collaborations, prioritising security, investing in technology and maintaining regulatory 
+compliance. 
+Embedded finance: A strategic outlook PwC | 3 
+
+4  PwC  |  Embedded finance: A strategic outlook
+Glossary 
+4 PwC | Embedded finance: A strategic outlook 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+Sr. no. 
+Abbreviation 
+Expanded form 
+AA 
+Account aggregator 
+AI 
+Artificial intelligence 
+AML 
+Anti-money laundering 
+API 
+Application program interface 
+B2B 
+Business to business 
+B2C 
+Business to customer 
+BaaS 
+Banking as a service 
+BNPL 
+Buy now pay later 
+C2C 
+Customer to customer 
+CAGR 
+Compounded annual growth rate 
+CBN 
+Central Bank of Nigeria 
+CCPA 
+California Consumer Privacy Act 
+CDR 
+Consumer Data Right 
+CFPB 
+Consumer Financial Protection Bureau 
+CMN 
+National Monetary Council 
+CX 
+Customer experience 
+DPDPB 
+Digital Personal Data Protection Bill 
+EmFi 
+Embedded finance 
+EMI 
+Equated monthly instalment 
+ESG 
+Environmental, social and governance 
+FCC 
+Fintech Convergence Council 
+FI 
+Financial institution 
+FMCG 
+Fast-moving consumer goods 
+
+Sr. no. 
+Abbreviation 
+Expanded form 
+24
+FS 
+Financial services 
+25
+G2C 
+Government to customer 
+26
+GDPR 
+Global Data Protection Regulations 
+27
+GFF 
+Global FinTech Fest 
+28
+IRDAI 
+Insurance Regulatory and Development Authority of India 
+29
+KYB 
+Know your bank 
+30
+KYC 
+Know your customer 
+31
+MSME 
+Micro, small and medium enterprises 
+32
+NBFC 
+Non-banking financial company 
+33
+NPCI 
+National Payment Corporation of India 
+34
+OCEN 
+Open Credit Enablement Network 
+35
+ONDC 
+Open Network for Digital Commerce 
+36
+P2P 
+Peer to peer 
+37
+PBOC 
+People’s Bank of China 
+38
+PCI 
+Payments Council of India 
+39
+PFRDA 
+Pension Fund Regulatory and Development Authority 
+40
+PoS 
+Point of sale 
+41
+PSD2 
+Payment Services Directive Two 
+42
+RBI 
+Reserve Bank of India 
+43
+RE 
+Regulated entity 
+44
+SEBI 
+Securities and Exchange Board of India 
+45
+SME 
+Small and medium-sized enterprise 
+46
+UPI 
+Unified Payments Interface 
+5 PwC | Embedded finance: A strategic outlook 
+Embedded finance: A strategic outlook PwC | 5 
+
+6  PwC  |  Embedded finance: A strategic outlook
+6 PwC | Embedded finance: A strategic outlook 
+
+Table of contents 
+An overview of the global EmFi landscape 
+08 
+India outlook 
+10 
+EmFi stakeholders 
+16 
+Technology considerations and navigating the regulatory landscape 20 
+Moving towards a resilient, sustainable and inclusive EmFi ecosystem 23 
+7 PwC | Embedded finance: A strategic outlook 
+Embedded finance: A strategic outlook PwC | 7 
+
+ 
+ 
+ 
+An overview of the global EmFi landscape 
+EmFi, which involves the integration of FS into non-
+The benefits derived by EmFi players have driven 
+FS providers’ platforms and the customer transaction 
+the widespread emergence of use cases and the 
+journey, has seen rising adoption in recent years. 
+overall growth of the global EmFi market. Estimated 
+This has resulted in a marked shift from conventional 
+at USD 66.8 billion1 in 2022, the market is projected to 
+customer acquisition and distribution by FIs. By 
+experience a CAGR of 25.4%2 from 2023 to 2032. The 
+incorporating offerings such as payments, lending, 
+US leads in EmFi revenues, with USD 26.5 billion3 in 
+banking, investment and insurance through APIs, this 
+2022, followed by the UK, Germany and Canada. 
+innovation has become a significant catalyst for the 
+EmFi use cases have predominantly gained traction 
+expansion of both the FS industry and non-FS platforms 
+in sectors such as consumer platforms, e-tailers, 
+or service providers. 
+lifestyle products and services – offering seamless 
+EmFi presents immense opportunities to enhance 
+payments, lending and sachet insurance services 
+financial inclusion, user experience and revenue 
+at the point of consumption. Emerging use cases 
+diversification for both FS manufacturers and non-
+are also being witnessed in industries such as food 
+FS platforms. FS providers benefit from the reduced 
+delivery, travel booking, ride-hailing platforms, supply 
+customer acquisition cost when acquiring customers 
+chain management, payroll and employee benefits 
+through non-FS service provider platforms. On the 
+management for offerings such as BNPL, insurance and 
+other hand, non-FS providers enjoy enhanced customer 
+payment propositions. 
+experience and stickiness by delivering customised 
+BNPL – a significant trend in EmFi, particularly in 
+and composite value propositions to customers at 
+e-commerce – enhances transactional ease and 
+contextually relevant touchpoints, thereby expanding 
+convenience, empowers customers to make higher-
+revenue streams. EmFi acts as a medium for end 
+ticket purchases, and drives sales for product 
+users to access FS in a frictionless manner on a single 
+manufacturers. BNPL has potentially contributed to 
+platform removing the need to go through multiple 
+increased conversion rates on e-commerce platforms 
+platforms and service providers. 
+by providing seamless credit at point of consumption. 
+When integrating FS into a broader customer journey 
+As of 2022, the global BNPL market size was estimated 
+or workflow, it is pertinent to individualise the offering 
+to be USD 4.2 billion,4 and it is expected to grow by a 
+in accordance with the context. This means that key 
+CAGR of 30.4%5 from 2023 to 2032. PoS lending serves 
+factors such as the use case context, value of the 
+as an alternative to BNPL, primarily catering to larger-
+transaction or even the preferred communication 
+ticket purchases like furniture and electronic appliances, 
+language of the customer become pertinent while 
+and also offers customers the convenience of credit at 
+embedding the FS. By tailoring embedded FS to the 
+checkout points as well as attractive interest rates such 
+relevant context, more seamless and effective integration 
+as zero EMI products, as applicable. 
+can be achieved. Additionally, providing a seamless 
+B2B embedded lending has also seen traction over 
+user interface or experience could be advantageous 
+in minimising the likelihood of drop-off and ensuring 
+customer acceptance. 
+1 https://www.bloomberg.com/press-releases/2023-07-03/embedded-finance-market-to-reach-622-9-billion-globally-by-2032-at-25-4-cagr-allied-market-research 
+2 https://www.bloomberg.com/press-releases/2023-07-03/embedded-finance-market-to-reach-622-9-billion-globally-by-2032-at-25-4-cagr-allied-market-research 
+3 https://www.statista.com/statistics/1388790/embedded-finance-revenue-by-country/#:~:text=It%20was%20estimated%20that%20the,U.S.%20dollars%20
+worth%20of%20revenue 
+4 https://www.bloomberg.com/press-releases/2023-07-06/e-commerce-buy-now-pay-later-market-to-reach-57-8-billion-globally-by-2032-at-30-4-cagr-allied-market-
+research 
+5 https://www.bloomberg.com/press-releases/2023-07-06/e-commerce-buy-now-pay-later-market-to-reach-57-8-billion-globally-by-2032-at-30-4-cagr-allied-market-
+research 
+8 PwC | Embedded finance: A strategic outlook 
+
+9  PwC  |  Embedded finance: A strategic outlook 
+-
+the last few years as SMEs face challenges in getting access to credit from FIs and banks face challenges in 
+underwriting SMEs due to limited credible data. Multiple players in the B2B embedded lending space offer user 
+friendly propositions to enhance the experience of the users and fast risk assessment to reduce the disbursement 
+time. 
+BaaS supports non-banks, challenger and neo-banks in implementing EmFi solutions or capabilities by offering 
+white-labelled or co-branded solutions and services through API integration with licenced banking partners. Open 
+banking further empowers contextual and bespoke banking services to non-banks by enabling access to customers’ 
+financial data held by FIs. 
+The potential drivers of global EmFi adoption include demand from consumers for a seamless and superior 
+experience while being offered a composite value proposition. Factors such as internet penetration, digital and 
+financial literacy, demand from non-FS platforms to provide FS products and services integrated in the customer’s 
+transaction journey, increased adoption of open banking frameworks, and the growing digitisation and API usage 
+have fuelled the innovation and adoption of EmFi use cases in recent years. 
+Embedded finance: A strategic outlook PwC | 9 
+
+ 
+India outlook 
+Over the last decade, India has undergone significant digital transformation owing to the rapid digitisation of FS. This 
+acceleration has been enabled through the founding blocks of India Stack including UPI, Aadhaar (biometric-enabled 
+identification), e-sign (KYC), account aggregator frameworks (consent-driven data sharing and interoperability), 
+ONDC and OCEN. 
+These digital public goods and rails have catalysed innovation by private sector players and improved the way in 
+which customers interact with their financial service providers – be it banks or other FIs. EmFi is taking this to the 
+next level, where customers can access a range of financial products as part of their digital transaction journey, 
+with minimal to no interaction with the service providers. Thus, EmFi products have greatly benefited due to the 
+proliferation of digital FS and their increased consumption. 
+ 
+  
+UPI transaction value 
+INR 14.3 trillion 
+May 2023 
+Number of internet users 
+759 million 
+Number of smartphone users 
+600 million 
+Figure 1: Factors driving growth of EmFi in India 
+Source: ET BFSI; IAMAI Kantar Report; Mint 
+The Indian EmFi ecosystem is expected to grow at a CAGR of 30.4% over the period of 2022–29, thereby increasing 
+its revenues generated through EmFi propositions from USD 4.8 billion in 2022 to USD 21.12 billion in 2029.6 
+Opportunities 
+The most prevalent use cases of EmFi in the FS landscape in India include: 
+• 
+embedded payments (online payment options at points of consumption) 
+• 
+embedded insurance (real-time bundling of insurance at points of consumption) 
+• 
+embedded investments (API-based integrations into investment and/or brokerage platforms) 
+• 
+embedded cards (cards-as-a-service offering) 
+• 
+embedded lending (BNPL at points of consumption). 
+This section explores some of these opportunities that can be capitalised on by the players. 
+6 https://www.prnewswire.com/news-releases/india-embedded-finance-market-report-2022-market-will-increase-from-4-801-8-million-in-2022-to-reach-21-127-5-
+million-by-2029--301603346.html 
+10 PwC | Embedded finance: A strategic outlook 
+
+ 
+Opportunities for EmFi customers 
+Opportunities for business growth 
+Access to FS: EmFi advances financial inclusion by 
+New revenue streams: Businesses can diversify their 
+making FS available to underserved groups. EmFi can 
+revenue streams by integrating FS. For example, non-FS 
+offer access to banking, insurance and investment 
+businesses may capitalise on their current infrastructure, 
+products and services in India – where a sizeable portion 
+data and customer base to offer FS products thereby 
+of the population is still unbanked – through pre-existing 
+increasing revenue through sourcing and distribution and 
+distribution channels including vernacular social media 
+also enhancing customer experience and loyalty. 
+platforms and e-governance portals. 
+Partnerships and collaborations: FinTech start-
+Seamless user experience: Integrating FS within 
+ups and established FIs can work together to offer 
+consumer-facing platforms enhances convenience and 
+cutting-edge and customised financial solutions. These 
+improves user experience. EmFi enables users to do 
+partnerships promote an ecosystem that accelerates 
+transactions seamlessly without switching between 
+market growth. 
+different applications or platforms, increasing adoption 
+and engagement. 
+Challenges 
+While there are multiple opportunities for the ecosystem to drive EmFi propositions and capabilities, there are a few 
+challenges that remain to be addressed. PwC has identified the following major challenges to the EmFi ecosystem.8 
+Data privacy and security: EmFi, typically, necessitates the exchange and transfer of sensitive financial data among 
+multiple stakeholders. Hence, it becomes crucial to safeguard the data being transferred from cybersecurity threats 
+and data breaches. In 2023, India has released the DPDPB with the core tenet to harmonise data privacy in the 
+country. The bill is a step towards developing comprehensive security measures and data governance practices for 
+EmFi ecosystems to remain a trusted medium. 
+Consumer protection and trust: With the integration of FS into non-FS customer journeys, consumer trust 
+becomes increasingly significant. Therefore, it is crucial to ensure transparency, ethical business practices, and 
+efficient customer grievance redressal mechanisms in order to safeguard consumers and maintain trust in EmFi 
+offerings. 
+Digital divide: Although India has witnessed significant growth in digital adoption, there is still a digital divide, 
+particularly in rural areas and among underprivileged communities. Therefore, addressing infrastructure gaps, 
+improving digital literacy and increasing internet connectivity to underserved regions are important to ensure 
+equitable access to EmFi. 
+Competition and market fragmentation: As EmFi gains momentum, competition too shall intensify, saturating 
+the market with multiple players offering similar services. Therefore, to ensure sustained success, it will be vital for 
+organisations to differentiate offerings and create unique value propositions. 
+Regulatory environment: Embedding FS requires businesses to navigate complex regulatory frameworks. 
+Furthermore, ensuring compliance with financial regulations and data privacy laws can be challenging for both 
+technology companies and traditional FIs. Thus, adherence to regulatory guidelines and a supportive policy 
+environment are crucial to foster the growth of EmFi. 
+Brand impact: EmFi requires customer-facing entities to be more aware of their offered services and propositions, 
+so that there is no mismatch in terms of FS offerings and the brand image of the firm. Mismatches in offerings may 
+cause confusion and hamper customer adoption. Therefore, managing customer grievances through established 
+redressal mechanisms is important to manage the brand value. 
+7 https://www.pwc.com/gx/en/industries/financial-services/publications/managing-embedded-finance-risks.html 
+Embedded finance: A strategic outlook PwC | 11 
+
+ 
+ 
+Overall, EmFi presents immense opportunities to enhance financial inclusion, user experience and revenue 
+diversification in India. However, addressing regulatory complexities, data security and fostering consumer trust are 
+crucial for its successful implementation. 
+2.1. EmFi business models and archetypes 
+The EmFi ecosystem in India encompasses various business models at the intersection of the customers they serve, 
+and the FS products or solutions being offered – for example, a B2B EmFi proposition for supply chain finance 
+integrated in a logistics or commerce platform for businesses. 
+2.1.1. Platform models 
+B2B models 
+With the integration of EmFi, B2B platforms can offer value-added FS for their business customers. 
+Supply chain financing 
+Trade finance 
+Payment gateway solutions 
+B2B platforms can provide 
+By integrating with FIs, B2B 
+Embedded payment gateways 
+embedded lending solutions, 
+platforms can streamline trade 
+within B2B platforms enable secure 
+allowing businesses to access 
+finance processes, such as letters of 
+and efficient transactions between 
+working capital, enable invoice 
+credit, and import/export financing. 
+businesses, facilitating seamless 
+financing, manage cash flow and 
+fund transfers and reconciliations, 
+improve supplier relationships. 
+thus enhancing customer 
+experience. 
+Embedded insurance solutions 
+Integration of sachetised insurance offerings in B2B transaction journeys such as logistics, supply chain and B2B 
+e-commerce. Examples of such offerings could be renter’s insurance on commercial property management platforms 
+and logistics insurance for cargo protection. 
+Case study 
+Insurance on SaaS platform 
+To enhance the value proposition of their cloud-based SaaS platform, a company that helps small businesses manage 
+their inventory and supply chain through features like real-time inventory tracking, automated restocking and supplier 
+management, partners with an insurance provider specialising in supply chain risk management and logistics coverage 
+to provide insurance coverage integrated directly into the platform’s interface. This allows the small businesses that 
+sign up for the platform to choose insurance coverage from a range of options, presented as part of their subscription. 
+The data available on the platform is shared through APIs to the provider to aid real-time calculation of insurance 
+premiums. 
+Examples 
+12 PwC | Embedded finance: A strategic outlook 
+
+B2C models 
+EmFi enhances B2C platforms by integrating FS in the customer’s journey, creating more value for their customers 
+and increasing customer loyalty and retention 
+E-commerce financing
+Wallet service 
+Embedded insurance 
+B2C platforms can offer embedded 
+Integrating digital wallets 
+B2C platforms can offer embedded 
+lending options, enabling consumers to 
+within B2C platforms allows 
+insurance products like purchase 
+access installment-based financing or 
+users to make seamless 
+protection on e-commerce 
+credit facilities for purchasing products 
+payments, store value and 
+platforms, travel insurance on 
+Examples
+predominantly through BNPL platforms. 
+access various FS like fund 
+travel aggregator platforms and 
+By partnering with merchants and FIs, 
+transfers and bill payments. 
+subscription-based insurance on 
+BNPL platforms integrate financing 
+fitness apps. 
+options directly at the point of sale, 
+simplifying the payment process and 
+Investment management 
+enhancing affordability for consumers. 
+EmFi enables seamless credit evaluations, 
+Digital FS aggregator application with EmFi integrations help individuals 
+instant loan approvals and flexible 
+to track expenses, manage investments and gain insights into their 
+repayment options, driving higher 
+financial health. This allows for value propositions like automated loose 
+conversion rates and boosting sales for 
+change savings and investments into liquid funds and gold instruments 
+businesses. 
+through rule-based rounding up of financial transactions. 
+Automobile loans and embedded insurance 
+A logistics company based out of India partnered with an embedded insurance platform, a P2P lending player, a credit 
+solutions provider and an insurance software firm to provide its driver partners with short-term loans and embedded 
+insurance. The company’s platform also enables FIs in the evaluation of loans through the supply of their revenue data. 
+C2C models 
+Non-FS C2C platforms such as P2P vehicle hiring platforms or P2P commerce platforms can facilitate interactions 
+between individual consumers. Embedding financial services within these platforms enhances trust, security and 
+financial capabilities. 
+P2P lending 
+Payments 
+Savings and investment platforms 
+C2C platforms can integrate 
+Embedding mobile payment 
+C2C platforms can provide 
+lending functionalities, connecting 
+solutions within C2C platforms 
+embedded savings and investment 
+borrowers and lenders directly, with 
+enables users to securely transfer 
+features. This could include 
+Examples
+embedded risk assessment and 
+funds, split bills and make payments 
+offerings like social media platforms 
+loan management features. 
+to other individuals, promoting P2P 
+and online trading communities with 
+transactions. 
+embedded investment tools to take 
+inputs and advices from others on 
+the platform. 
+Digital wallets 
+Digital wallet enable users to store funds, make payments and perform financial transactions with other users across 
+multiple C2C platforms by being embedded on each. Users can link their bank accounts or cards to the digital wallets 
+for easier access to funds. 
+P2P payments for shared expenses 
+A P2P expense management platform in India allows its consumers to split expenses with their contacts. This allows 
+for multiple users to create expense entries which can be shared either separately or in a group. The app also provides 
+embedded payment options through UPI to the users for settling their expenses. 
+Embedded finance: A strategic outlook PwC | 13 
+Case study 
+Case study 
+
+G2C models 
+G2C platforms serve as intermediaries between Government entities and citizens, delivering public services and 
+benefits. EmFi within G2C platforms enhances efficiency and accessibility. 
+Examples
+Tax and utility payments 
+Financial inclusion initiatives 
+By embedding payment gateways, G2C platforms 
+G2C platforms such as the National Government Services 
+can enable citizens to conveniently pay taxes, utility 
+portal and Mudra in India could integrate EmFi services, 
+bills and Government fees within the platform, 
+providing access to basic banking services, microloans and 
+streamlining the overall process. 
+sachetised insurance products to the underserved segment. 
+Case study 
+Income tax filing and payment portal 
+The income tax portal of India enables filing of income tax returns. The portal provides detailed information fetched 
+through APIs (annual information statement, taxpayer information summary) for customers to file income tax 
+seamlessly and comprehensively. The portal also embeds payment options such as UPI, net banking and credit/debit 
+cards, for end consumers to settle their overall tax liabilities. 
+14 PwC | Embedded finance: A strategic outlook 
+
+E-commerce and
+retail
+Transportation, 
+mobility and
+logistics 
+Healthcare and 
+insurance 
+Real estate and 
+property 
+Education and 
+EdTech 
+Agriculture and 
+rural development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case study: 
+Case study: 
+Case study: 
+Case study: 
+Case study: 
+Case study: 
+E-commerce
+Seamless 
+Optional add-on 
+Integrated 
+Personalised 
+AgriTech platforms 
+platforms enabling
+payments and 
+travel insurance 
+payments and 
+education 
+offering integrated 
+embedded lending
+micro-insurance 
+offered by Indian 
+home loan 
+finance solutions 
+finance for 
+solutions for
+integration in ride-
+Railways while 
+services on real 
+by EdTech 
+farmers13 
+MSMEs8 
+hailing apps9 
+booking tickets 
+estate aggregator 
+companies12 
+online 10 
+platforms11 
+A leading agriTech 
+One of 
+A digital wallet 
+A prominent 
+start-up in India 
+India’s largest 
+service by one of 
+India’s leading 
+A leading real 
+EdTech company 
+that provides 
+e-commerce
+the largest ride-
+platform for 
+estate aggregator 
+that allows users 
+an end-to-end 
+platforms’ B2B
+hailing platforms 
+securing railway 
+platform that allows to search and take 
+solution for farmers 
+marketplace
+in India, expanded 
+tickets offers 
+users to search 
+up online courses 
+through a mobile 
+partnered with FIs
+its services to 
+optional add-on 
+for properties 
+is providing EmFi 
+platform designed 
+to offer embedded
+offer EmFi in their 
+insurance to all 
+to buy, sell or 
+solutions through 
+to connect them 
+lending solutions
+customer journey. 
+Indian citizens 
+rent, integrated 
+partnerships with 
+with agri products 
+to MSMEs. By
+Users can now 
+at the time of 
+EmFi features 
+FIs. It allows users 
+and services, is 
+analysing MSMEs’
+make payments 
+purchasing tickets. 
+to streamline 
+to access student 
+offering EmFi. This 
+transaction history
+for rides, book 
+The premium of 
+transactions and 
+loans, pay course 
+will enable farmers 
+and sales data, it
+cabs and opt for 
+the insurance per 
+enable FS. Users 
+fees and manage 
+to access credit 
+facilitated instant
+ride insurance that 
+passenger at the 
+can pay rent, book 
+educational 
+and insurance 
+financing options
+covers accidents/ 
+time of writing this 
+home services 
+expenses. EmFi 
+and purchase 
+at the point of
+mishaps during 
+report stood at INR 
+and avail home 
+integration is 
+agricultural inputs 
+consumption. This
+the trip. EmFi 
+0.35 per passenger loans through 
+enabling seamless 
+through the 
+EmFi solution is
+integration is 
+and covered 
+the platform. 
+education finance, 
+platform. EmFi 
+allowing MSMEs
+streamlining the 
+hospitalisation, 
+EmFi integration 
+reducing financial 
+integration is 
+to access BNPL
+payment process, 
+disability and 
+is simplifying 
+barriers and 
+simplifying credit 
+loans, enabling
+eliminating the 
+death. EmFi is 
+payment 
+supporting learning access, reducing 
+inventory
+need for cash 
+enabling a cost-
+processes, 
+continuity. 
+paperwork, 
+expansion,
+transactions and 
+efficient means 
+securing 
+facilitating timely
+improving cash
+enhancing user 
+of insuring the 
+transactions 
+procurement and 
+flow and driving
+convenience. 
+underinsured. 
+and facilitating 
+enhancing farm
+business growth.
+seamless access 
+productivity. 
+to home loan 
+services. 
+Other solutions 
+•
+BNPL
+•
+Digital wallets
+and payment
+gateways
+•
+Embedded
+insurance
+•
+Inventory and
+working capital
+financing
+•
+Fleet
+management
+financing
+•
+Freight
+factoring
+and invoice
+financing
+•
+Integrated
+health
+insurance
+•
+EMI for medical
+expenses
+•
+Prescription
+financing
+•
+Home loan
+and mortgage
+services
+•
+Rental
+insurance
+•
+Real estate
+investment
+•
+Student loan
+and financing
+•
+Scholarship
+and grant
+disbursement
+•
+Course
+subscriptions
+and micro-
+learning
+payments
+•
+Credit and crop
+financing
+•
+Insurance
+coverage for
+farmers
+2.1.2. Sector-wise applications of EmFi 
+EmFi is transforming various sectors by integrating FS directly into existing platforms and workflows and providing 
+customers a composite value proposition within their journeys and interactions on platforms. The table below 
+highlights case studies where EmFi is being implemented across sectors such as e-commerce, mobility and logistics, 
+health and insurance, real estate and property, EdTech and agriculture. 
+ 
+ 
+8    https://www.thehindubusinessline.com/companies/flipkart-wholesale-and-rupifi-partner-to-offer-embedded-bnpl-to-msmes/article37094227.ece 
+9 
+https://www.olamoney.com/olamoney-hospicash/index.html 
+10 https://contents.irctc.co.in/en/InsuranceTermCondition.pdf 
+11 https://www.nobroker.in/home-loan?utm_source=google&utm_medium=cpc&utm_campaign=Performance_Max_Internal_HomeLoan&gclid=CjwKCAjwqZSlBhBwEi
+wAfoZUIOh0xtD_6oZC1k8Bj12ZxJIO-CBvIbG9z6zpx6wjsmYZRwB-Zp8mFxoCxRUQAvD_BwE
+12 https://www.getshopse.com/byjus/ 
+13 https://www.corporate.agrostar.in/ 
+Embedded finance: A strategic outlook PwC | 15 
+
+EmFi stakeholders 
+The key stakeholders in EmFi are the embedders, enablers, providers and consumers. The chart below illustrates the 
+relationship between them. 
+Figure 2: Relationship between different EmFi stakeholders 
+Embedders 
+Brands embedding FS in their 
+CX acting as user touchpoints 
+Customers 
+The end users of 
+embedded services 
+Source: Mitsui 
+Enablers 
+Tech companies providing 
+application to link embedders-
+providers for exchange of data 
+and services 
+(BaaS, credit, money movement, 
+data security, compliance, data 
+verification, data insights) 
+Providers 
+Banks and FIs providing the 
+financial products/services and 
+hold licences for the same 
+(BNPL, lending, investing, 
+payment, banking, insurance) 
+EmFi brings together all stakeholders to create a smooth and interconnected ecosystem where FS can be accessed 
+and utilised more conveniently and efficiently within non-financial platforms. This integration enhances the overall 
+user experience and expands the reach of FS to a broader customer base. 
+Embedders 
+Providers 
+Embedders are players or platforms that provide non-
+Providers are FIs, FinTech firms or other companies that 
+FS services and integrate financial products or services 
+provide financial products and services like banking, 
+from providers (FS manufacturers and licenced entities) 
+payments, lending, insurance or investing. The licences 
+into their own platform and their customer’s transaction 
+and regulatory permission required to provide these 
+journeys. These can be e-commerce platforms, mobile 
+offerings are typically held by the providers. Providers 
+applications, social media networks, platforms for gig 
+in the EmFi space make their APIs available to facilitate 
+workers or any other firm that wants to offer FS to its 
+integration with third-party platforms and applications. 
+customers without having to establish themselves as a 
+For example, a bank might offer an API that allows a 
+full-fledged FI. 
+retail app to offer its customers the option to open a 
+The APIs from FS providers are integrated by embedders 
+savings account directly within the app, or a payment 
+to embed financial products and services into their 
+service provider might offer an API that enables a ride-
+existing customer journey. This makes the overall 
+hailing app to process payments seamlessly. 
+customer experience more seamless while also offering 
+In the context of EmFi, it is also possible for providers 
+a composite value proposition. 
+to build orchestration platforms and take up the role of 
+For example, a retail e-commerce platform can integrate 
+the embedder – offering embedded solutions on the 
+a BNPL service from a lending provider, allowing 
+platform. 
+customers to finance their purchases directly through 
+the e-commerce platform without leaving the website. 
+16 PwC | Embedded finance: A strategic outlook 
+
+ 
+ 
+End users 
+Figure 3: Illustrative view of communication between each stakeholder in EmFi 
+SaaS 
+platforms 
+E-commerce 
+Neobanking 
+application 
+Banking 
+chatbots 
+Orchestration 
+platforms 
+(superapps)  
+Embedders 
+API layer 
+Infrastructure to build products* 
+BaaS 
+Data connectivity 
+Enablers 
+Embedded credit cards 
+Compliance (KYC, KYB) 
+Payments and reconciliation 
+Data insight generation 
+Data security 
+API layer 
+Core financial products/services 
+Banking 
+Payments 
+Lending 
+Insurance 
+Investment 
+Providers 
+Enablers 
+Consumers 
+Enablers refer to companies that have the necessary 
+Consumers are the end users of the EmFi services. They 
+infrastructure and/or build applications which support 
+are the customers of the embedders who interact with 
+the interaction between embedders and providers. They 
+and use the integrated financial products and services 
+act as the connecting entity between the two for the 
+within the platform or application. EmFi aims to improve 
+exchange of data and information. Enablers provide 
+convenience, accessibility and user experience for 
+the digital architecture for BaaS, embedding credit 
+consumers by offering FS directly within the context of 
+cards, payments and reconciliation, data security, data 
+the services they are already using. 
+connectivity, verification, compliance and data insight 
+For example, a consumer of a ride-hailing application 
+generation. In simple terms, these firms provide APIs to 
+might have the option to pay for their service using 
+the embedders, so that the companies can extend FS 
+various payment methods, access loyalty programmes 
+to the customers without having to develop all of them 
+or even opt for insurance coverage for their ride – all 
+in-house. Therefore, these firms are required to maintain 
+within the same app. 
+robust security measures and seamless operability. 
+In certain cases, it is also possible for providers to 
+directly take up the role of enablers. One such example 
+could be a bank that offers netbanking APIs to 
+embedders. 
+Embedded finance: A strategic outlook PwC | 17 
+
+ 
+3.1. Opportunities for collaboration 
+3.2. Benefits for stakeholders 
+EmFi offers a plethora of opportunities for collaboration 
+between traditional FIs and non-FS businesses, which 
+opens up routes to provide immense value to all 
+stakeholders involved. Partnering with non-FS business 
+offers FIs potential access to new customer segments, 
+which can lead to increased customer acquisitions 
+and improved engagements. Similarly, non-financial 
+businesses can enjoy the benefits of enhanced customer 
+loyalty, new revenue streams and offer their customers 
+improved experiences. 
+Businesses can benefit from other businesses by sharing 
+skills and expertise through the formation of strategic 
+partnerships and alliances. This can help in creating 
+an ecosystem that adds value for all stakeholders and 
+fosters innovation, driving customer-focused solutions 
+which propel the industry forward. Collaborations 
+in the EmFi space could prove to be essential in 
+determining the direction of the FS industry as customer 
+expectations evolve. 
+According to the 2016 PwC Global FinTech Survey, 42% 
+of banks engaged in partnerships with FinTechs.14 This 
+figure has more than doubled as of 2023, where over 
+90% of FS firms are bullish on improving their revenues 
+through partnerships with FinTechs.15 According to a 
+global business perspectives survey on EmFi, of the 
+1,000 leaders at non-financial companies around the 
+world, a majority of the participants (70%) that have 
+already implemented EmFi solutions mentioned that 
+they leveraged partnerships for obtaining and licencing 
+products as part of their EmFi approach.16 Additionally, 
+businesses may have multiple incentives to opt for these 
+alliances and collaborations, including the value that 
+incumbent FIs bring to the table in terms of managing 
+money movement, which is subject to complexity and 
+regulations. 
+Typically, enablers simplify the process of incorporating 
+FS into non-FS value propositions. They manage the 
+challenges associated with establishing a partnership 
+with the providers and developing APIs, which enable 
+embedders to swiftly integrate FS products and services 
+into their existing customer journeys within mere weeks 
+or months. This significantly reduces the time taken 
+to build such capabilities from scratch. Therefore, 
+partnerships between ecosystem players have become 
+the go-to mode for offering EmFi offerings, owing to their 
+inherent advantages for stakeholders. 
+3.2.1. Stickiness (embedders) 
+Integrating FS and non-FS helps embedders improve 
+user experience by providing personalised, contextual 
+and targeted recommendations on products and 
+services. A prolonged positive customer experience 
+through frictionless digital journeys leads to increased 
+trust in the embedded platforms. This increases user 
+lock-in on the platform, and hence translates to a higher 
+share of loyal customers. 
+3.2.2. Improved data analytics for better 
+consumer insights (providers) 
+EmFi provides opportunities for FS players to access 
+customer transactional data and identify consumption 
+behaviours which can be used to design personalised 
+FS products and optimise existing customer journeys 
+on the embedder platform – for example, using data 
+from e-commerce platforms to offer tailored BNPL 
+offers, targeted rewards, personalised credit limits, and 
+integrated savings and investment options. The bi-
+directional ecosystem integration helps FS players to 
+capitalise on this opportunity by implementing targeted 
+analytics strategies to personalise and contextualise 
+their product offerings. 
+3.2.3. Expansion of revenue streams 
+EmFi can provide several avenues for revenue to their 
+stakeholders involved in the ecosystem. Some of the 
+key revenue streams for the stakeholders are discussed 
+below. 
+Providers 
+Transaction fee: Each financial transaction made 
+through a provider’s API may be charged a transaction 
+fee. For example, any payment processed through the 
+embedder’s platform can be subject to a small fee, paid 
+to the payment service provider. 
+Interest/fee on loans and credit: Providers can 
+earn interest and fees on the loans extended to the 
+embedder’s customers for the lending and credit 
+services offered to them. 
+14 https://www.pwc.com/gx/en/financial-services/fintech/assets/fin-tech-banking-2016.pdf 
+15 https://www.innreg.com/blog/bank-fintech-partnerships-examples-and-evolution 
+16 https://assets.ctfassets.net/ss5kfr270og3/3aWnLyVDCcwuNOdIDs1aOC/baec2f07bd09549f40eb7858a710e50c/Embedded-Finance-FINAL.pdf 
+18 PwC | Embedded finance: A strategic outlook 
+
+ 
+Enablers 
+Licencing fee: By providing access to FS APIs to the 
+embedders, enablers can generate revenue. This can 
+either be charged as a one-time setup fee or in the form 
+of ongoing licencing fees. 
+Revenue sharing: In certain instances, enablers and 
+embedders may agree on revenue-sharing agreements, 
+so the enabler receives a portion of the generated 
+revenues from the FS offerings on the platform. 
+Embedders 
+Commission/referral fee: Embedders can earn 
+referral fee or commissions from the providers for every 
+customer they refer who utilises the FS offered by the 
+embedder’s platform. For example, an e-commerce 
+platform might receive a commission for each user who 
+uses the site to apply for a credit card or loan. 
+Premium services and upgrades: Customers of the 
+embedders’ platform can be offered premium FS or 
+value-added features for a fee. 
+Data monetisation: Embedders can analyse user data 
+and offer insights to providers or other businesses for a 
+fee. These insights can be valuable in improving financial 
+products and services. 
+It’s important to note that the revenue streams are 
+dependent on the nature of FS offered, the region, and 
+the agreements between the parties involved. New 
+revenue modes and opportunities may begin to emerge 
+for the different stakeholders, as EmFi continues to grow 
+and evolve. 
+3.2.4. Frictionless and personalised experiences 
+to consumers 
+In order to help customers choose the best product 
+or service at the point of contextual relevancy, 
+embedded FS may offer them frictionless, hyper-
+personalised experiences in the form of tailored nudges 
+and recommendations during their exploration and 
+purchase journeys. One example of this could be a 
+personal finance management application that partners 
+with various FIs to offer a wide range of banking and 
+FS, which are personalised in nature. This could be 
+done by analysing the customer transaction data from 
+partner platforms to identify spending behaviour and 
+offer propositions like real-time savings suggestions, 
+automated smart investments through partners – 
+including loose change investment options through 
+rule-based rounding up of transactions and micro loan 
+offerings through partner FIs that can use the existing 
+customer data for underwriting. 
+Embedded finance: A strategic outlook PwC | 19 
+
+ 
+4.1. Technology point of view – integrating 
+FS into non-FS customer journeys 
+The growth of embedded FS opens up new possibilities 
+alongside a set of considerations and challenges. 
+According to 33% of FS CEOs surveyed as part of 26th 
+Annual Global CEO Survey: India perspective in 2023, 
+one of the top risks anticipated over the next five years 
+is cyber risks.17 This concern is particularly relevant for 
+EmFi as the integration of FS into non-FS platforms 
+and applications introduces new avenues for cyber 
+threats and vulnerabilities. There are several technology 
+considerations when implementing EmFi solutions. 
+Some of the key considerations are discussed below: 
+API integration: API integration allows for multiple 
+systems to securely communicate and share data in real 
+time, which is essential to offer seamless information 
+exchange between FS providers and non-FS players. 
+This enables functionalities like payments, lending and 
+savings, which is a core tenet of EmFi offerings.  
+Security and compliance: Security is paramount when 
+handling sensitive financial data of consumers. To 
+protect customer data, robust security measures such 
+as encryption, two-factor authentication and regular 
+security audits could be implemented. Compliance with 
+pertinent financial regulations such as KYC and AML 
+requirements is also crucial. 
+Technology considerations and navigating 
+the regulatory landscape 
+Scalability: EmFi solutions may experience rapid 
+growth, and the underlying technology should be 
+scalable to handle increasing user demand and 
+transaction volumes. Technologies that follow cloud 
+native architecture and microservices architecture with 
+support for a hybrid cloud implementation can support 
+scalability effectively. 
+Omnichannel experience: Providing a consistent 
+and user-friendly experience across various customer-
+facing channels, such as mobile apps, website, social 
+medial channels and in-person interactions, is essential 
+for EmFi. Technologies and analytics approaches that 
+enable the consumer to access FS services seamlessly 
+and frictionlessly through each of these channels are 
+important. 
+Risk management: To identify and reduce risk of 
+fraud, EmFi platforms require robust risk management 
+systems. To analyse user behaviour and transaction 
+patterns for early fraud detection, machine learning 
+algorithms can be deployed. 
+Real-time data and analytics: EmFi platforms with 
+capabilities such as real-time data processing and 
+advanced data analytics would be required to provide 
+contextually relevant and personalised FS offerings and 
+insights to customers. Access to real-time financial data 
+enables dynamic decision making and improves user 
+engagement. 
+Customer support: In the FS domain, customer 
+trust and reliable support is essential. The overall 
+CX in EmFi can be elevated considerably through 
+the implementation of reliable customer support 
+mechanisms (e.g. vernacular chatbots) to address 
+queries, complaints and grievances promptly. 
+Overall, technology considerations for EmFi revolve 
+around scalability, providing an omni-channel 
+experience, customer support and improving data 
+processing capabilities. Companies could look into 
+these considerations to build successful EmFi offerings 
+and bridge the customer trust gap. 
+17 https://www.pwc.in/publications/ceo-survey/ceo-survey-2023.html 
+20 PwC | Embedded finance: A strategic outlook 
+
+4.2. Regulatory considerations for EmFi in the current FS landscape 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4: Summary of EmFi regulatory practices across multiple geographies 
+Brazil 
+United 
+States of 
+America 
+In May 2020, the central bank and the 
+CMN issued Joint Resolution No.1, 
+which has set out an implementation 
+plan for open banking systems. 
+• 
+In China, private companies strongly 
+emphasise data protection. 
+• 
+In 2020, PBOC published a financial 
+industry standard of APIs (security 
+level). 
+China 
+• 
+The EU is among the more mature regions when it 
+comes to EmFi regulations. 
+• 
+The rejig of PSD2 specifies that FinTech integration 
+providers would be required to obtain specific licences 
+and approvals to provide their services. 
+• 
+This coupled with the safeguards placed through the 
+GDPR, AML directive and implementation of KYC 
+frameworks has made customer data protection more 
+robust. 
+Regulations 
+• 
+Federal bodies monitor FinTech activity, but regulations differ 
+across states. 
+• 
+The CFPB published regulations to protect EmFi consumers. 
+• 
+The CCPA, dated 1 July 2023, provides consumers with more 
+control over their data 
+Nigeria 
+The CBN unveiled operational guidelines for open 
+banking in the country in February 2019, followed 
+by a regulatory framework aligned with these 
+guidelines in 2021. 
+across 
+regions 
+EU 
+Australia 
+India 
+In 2020, Australia launched the CDR and has 
+expressed interest in the adoption of open 
+banking. 
+• 
+In 2020, the RBI issued guidelines for ‘loans 
+sourced by banks and NBFCs over digital 
+lending platforms’ that ensure that the 
+responsibility of adhering to fair practises 
+falls on lenders while lending through digital 
+platforms. 
+• 
+In 2023, the DPDPB was passed in India, providing guidelines 
+for processing digital personal data in India, elucidating the 
+obligation of the data fiduciaries and the rights to individuals. 
+• 
+However, there are no separate legislatures in place for the 
+FinTech or EmFi space. 
+The growth and evolution of EmFi in recent years has made it pertinent to have certain regulatory considerations 
+to ensure the protection of consumer data, financial stability and provide a level playing field for all stakeholder 
+concerned. Regulators face unique challenges with the growth of innovations in the EmFi space. From India’s 
+standpoint, it is reassuring that the RBI, in its Payments Vision 2025 document18 has affirmed exploring guidelines 
+on payments involving BNPL services. Keeping the above in mind, here are some key regulatory considerations for 
+EmFi: 
+AA access: In the Indian context, only REs from four financial sector regulators (RBI, SEBI, IRDAI, PFRDA) are 
+allowed to access data from the AA network. This data is leveraged largely to make credit easily and formally 
+accessible to the customers. Since EmFi players – such as e-commerce entities, who are focused on providing 
+customer-first services – have a large market to cater to, these customers’ need for credit products, access to the 
+data from the AA network (with strict customer consent) may prove to be a welcome step in ensuring: 
+• 
+better analysis of a customer’s credit history (with access to consented customer data) before tailored EmFi 
+products are offered to them 
+• 
+smooth and increased disbursal of credit to end customers 
+• 
+seamless customer journey. 
+Regulators across the globe could also consider providing such data access through centralised databases to EmFi 
+players, offering credit-like products. 
+18 https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/PAYMENTSVISION2025844D11300C884DC4ACB8E56B7348F4D4.PDF 
+Embedded finance: A strategic outlook PwC | 21 
+
+Data protection and privacy: As EmFi requisites exchange of sensitive financial data between multiple stakeholders, 
+stringent privacy and data protection regulations are necessary. The DPDPB in India provides data owners with the 
+following rights/data principles: 
+• 
+Right to provide and withdraw consent on data usage 
+• 
+Right to access information about personal data 
+• 
+Right to correction of personal data 
+• 
+Right to erasure 
+• 
+Right of grievance addressal 
+Thus, regulators worldwide could impose similar measures to protect customer data, prevent data breaches and 
+ensure that customer provides their consent for sharing financial information. 
+Fraud and security: To prevent fraud, money laundering and cyberattacks in EmFi, regulators may consider 
+establishing relevant measures. One such consideration could be implementing real-time monitoring and reporting 
+mechanisms that can help in identifying and preventing illegal activities. 
+Risk management: Lack of proper risk-management capabilities may result in compromised consumer trust, 
+inoperable products, data leaks and breaches, and fraudulent activities. With increasing number of non-FS players 
+entering the FS space through EmFi, regulators may consider creating frameworks to evaluate unique risks 
+associated with EmFi and manage those risks accordingly. 
+Fair competition and access to market: In the EmFi market, regulators could ensure fair competition and prevent 
+anti-competitive practices. This includes considering open access to APIs and fostering an environment where all 
+participants have an equitable chance of success under relevant regulatory oversight. 
+Interoperability and standards: It is crucial to consider establishing interoperability and common regulatory 
+standards across multiple industries to enable seamless integration of FS into existing non-FS customer journeys. 
+To ensure a smooth and secure CX, regulators can play a role in fostering partnerships and establishing sector-wide 
+standards. 
+Cross-border regulations: EmFi can go beyond international boundaries, making cross-border regulatory 
+collaboration and cooperation essential. The DPDPB allows for cross-border transfer of data if the geography to 
+which the data is being transferred is unrestricted by the Government of India. To manage international transactions 
+and data flows, regulators can work together across jurisdictions and harmonise regulatory frameworks to reduce 
+overlap and promote innovation. 
+Consumer education and grievance redressal: With the advent of technology-backed FS products, consumer 
+protection has remained a primary goal of the regulators across geographies. To this end, in addition to considering 
+collaboration with industry participants to educate consumers about EmFi offerings (including its benefits, risks 
+and rights), regulators must ensure that EmFi players establish robust customer grievance redressal mechanisms in 
+place. Consumers who are well informed are better able to make wise financial decisions to protect themselves from 
+potential fraud. Parallelly, since EmFi involves multiple stakeholders coming together to provide multiple services 
+under one umbrella, a robust grievance redressal framework can help customers have a clear understanding of the 
+escalation matrix in case of any issues during the course of a transaction. 
+Innovation and sandboxes: Regulators can consider creating sandboxes to promote innovations in EmFi. These 
+regulated environments enable start-ups and FinTech companies to evaluate novel ideas and products in a 
+constrained setting while receiving regulatory oversight and assistance. 
+The integration of FS in non-FS customer journeys and transactions has enormous potential, but also necessitates 
+robust oversight from regulatory entities. To strike the right balance between inculcating innovation, ensuring 
+customer protection, and preserving the stability and integrity of the financial system, an adaptive, forward-thinking 
+approach to regulating EmFi is required. 
+22 PwC | Embedded finance: A strategic outlook 
+
+Moving towards a resilient, sustainable 
+and inclusive EmFi ecosystem 
+Embedded payments, embedded cards and embedded lending have demonstrated a diverse range of use cases 
+across multiple industries, consumers and platforms. However, there exist unexplored opportunities in embedded 
+insurance and embedded WealthTech. Projections suggest that embedded insurance could potentially constitute 
+16% of global insurance distribution in terms of gross written premiums by 2032.19 Similarly, embedded wealth 
+solutions are estimated to generate USD 100 billion in revenue in the form of fees globally.20 
+Figure 5: EmFi opportunities across sectors by the end of 2030 
+EmFi opportunities by 2030 (in USD billion) 
+3,500 
+1,500 
+1,200 
+500 
+400 
+Retail and e-commerce 
+Others 
+Healthcare 
+Education 
+Telecom 
+Source: Fintech News Switzerland 
+ 
+By 2030, retail and e-commerce are predicted to dominate 49%21 of the EmFi market, followed by sectors like 
+healthcare, education, telecom, real estate, hospitality, travel, media and entertainment, energy, and pharmaceuticals. 
+Within retail and e-commerce, the key opportunities lie in providing embedded product insurance, consumer 
+financing at the point of sale, working capital solutions and supply chain financing.22 
+Case in point: A Bengaluru-based FinTech offers lending-as-a-service offerings for SMEs. The platform works with 
+B2B marketplaces to help merchant partners with embedded working capital solutions. It has empowered over 
+50,000 retailers and SMEs across FMCG, electronics and general merchandise. 
+19 https://static1.squarespace.com/static/610ab08e1f9a3b01a739c67b/t/63775c9a1ad4e54f7c78f66e/1668766881783/
+Embedded+Insurance+2.0+-+Incumbent+Strategy+-+International+Peer+Group+Report+-+June+2022.pdf 
+20 https://www.additiv.com/insights/embedded-wealth-download/ 
+21 https://fintechnews.ch/fintech/embedded-finance-total-market-value-could-reach-us7-2t-by-2030/52074/ 
+22 https://www.rupifi.com/ 
+Embedded finance: A strategic outlook PwC | 23 
+
+ 
+24  PwC  |  Embedded finance: A strategic outlook
+EmFi can bridge the gap for underserved populations, benefiting SMEs, migrants, farmers and gig workers. 
+Microfinance institutions can extend lending and banking services to rural communities and low-income households 
+through EmFi. These microfinance institutions can partner with multiple players like agri supply chain platforms 
+(to provide loans for input purchases, crop insurance and fair pricing mechanisms), telecom and mobile money 
+operators (to offer mobile-based FS to individuals in remote areas), and energy and utilities platforms (to offer 
+financing solutions for clean energy products like solar home systems) significantly enhancing financial inclusion and 
+access for underserved populations. EmFi can help in reducing the credit gap of SMEs in India which is estimated to 
+be around USD 53023 billion as of 2023. 
+To tap into EmFi’s potential, technical and operational capabilities, standardisation of APIs for open banking and 
+BaaS, effective partnerships among ecosystem players, defining composite value propositions and being compliant 
+with regulations are crucial. 
+EmFi has begun to transform the FS landscape by seamlessly integrating financial offerings into non-FS platforms 
+and has the potential to transform multitudes of industries. Additionally, further enablement through investment in 
+robust technological infrastructure, collaboration among ecosystem players and standardised regulatory frameworks 
+can catalyse the growth of EmFi propositions. As the FS market continues to evolve, businesses that embrace EmFi 
+are poised to thrive in the digital economy, delivering greater value to customers and staying at the forefront of 
+financial innovation. 
+23 https://www.financialexpress.com/industry/sme/msme-fin-530-billion-massive-credit-gap-in-indias-msme-sector-out-of-819-billion-addressable-demand-
+report/3031372/ 
+24 PwC | Embedded finance: A strategic outlook 
+
+25  PwC  |  Embedded finance: A strategic outlook 
+Embedded finance: A strategic outlook PwC | 25 
+
+26  PwC  |  Embedded finance: A strategic outlook
+26 PwC | Embedded finance: A strategic outlook 
+
+27  PwC  |  Embedded finance: A strategic outlook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About PwC 
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 152 
+countries with over 328,000 people who are committed to delivering quality in assurance, advisory and tax services. 
+Find out more and tell us what matters to you by visiting us at www.pwc.com. 
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. 
+Please see www.pwc.com/structure for further details. 
+© 2023 PwC. All rights reserved. 
+Contact us 
+Vivek Belgavi 
+Vivek Patil 
+Partner, FinTech, and Alliances and 
+Partner, Financial Services 
+Ecosystems Leader 
+Advisory 
+vivek.belgavi@pwc.com 
+vivek.v.patil@pwc.com 
+Avneesh Singh Narang 
+Raghav Aggarwal 
+Director, FinTech and Alliances and 
+Associate Director, FinTech and 
+Ecosystems 
+Innovation Strategy 
+avneesh.narang@pwc.com 
+raghav.aggarwal@pwc.com 
+Authors 
+Editorial support 
+Avneesh Narang 
+Shirin Patil 
+Rashi Gupta 
+Dion D’Souza 
+Raghav Aggarwal 
+Rudra Pratap Tomar 
+Vignesh Venkataraman 
+Arham Jain 
+Design 
+Shipra Gupta 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pwc.in 
+Data Classification: DC0 (Public) 
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or 
+CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which 
+is a separate legal entity. 
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed 
+by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. 
+Any opinions or estimates contained in this document represent the judgment of PwCPL at this time and are subject to change without notice. 
+Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are 
+entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this 
+publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take. 
+© 2023 PricewaterhouseCoopers Private Limited. All rights reserved. 
+SG/August 2023-M&C 31126 

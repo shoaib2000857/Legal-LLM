@@ -1,0 +1,1661 @@
+kpmg.com/in
+October 2025
+KPMG. Make the Difference.
+India’s fintech evolution…
+...from growth to
+resilience
+Perspectives on the 
+sustainability of the 
+Indian fintech sector
+through the investor lens
+
+India’s fintech evolution… from growth to resilience
+2
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword
+The Indian fintech sector has been a defining force 
+in reshaping how financial services are accessed 
+and consumed. Over the past decade, fintechs
+have successfully addressed critical frictions 
+in payments, lending and financial inclusion, 
+delivering immense value to both businesses 
+and individuals. However, the journey ahead 
+demands a shift from addressing isolated 
+challenges; it calls for building integrated value 
+propositions that transcend silos. Embedded 
+finance offers precisely this opportunity, enabling 
+fintechs to weave financial services seamlessly 
+into everyday user experiences, creating an 
+enduring impact for the broader ecosystem.
+Artificial intelligence (AI) is rapidly becoming 
+central to this transformation, unlocking 
+unprecedented potential to scale intelligence 
+across operations. From enabling real-time fraud 
+prevention to powering hyper-personalisation, 
+AI holds the promise to address complex, 
+systemic challenges. However, this power must 
+be harnessed responsibly. As AI capabilities 
+expand, the need to balance innovation with 
+strong safeguards, ethical frameworks and 
+compliance standards becomes paramount. 
+Investors today recognise this balance as a marker 
+of long-term sustainability, placing governance 
+and resilience at the heart of their evaluation.
+Another critical imperative is talent. The future 
+of fintech will not only be shaped by capital or 
+technology but also by the depth of skills and 
+capabilities within the ecosystem. Developing 
+a workforce equipped to navigate advanced 
+technologies, regulatory complexity and 
+customer-centric innovation is essential for 
+sustaining momentum and credibility in the 
+years to come.
+The Indian fintech story is now entering its next 
+chapter, where resilience, adaptability and 
+responsible innovation become as critical as 
+speed and scale. For fintechs, investors and 
+regulatory bodies alike, the challenge is clear: 
+to build models that are viable, compliant and 
+future-ready, without losing the innovative 
+spark that has fuelled the sector thus far.
+I see this moment as the beginning of a stronger, 
+more resilient fintech story, one where innovation 
+thrives responsibly, investors remain confident 
+and India becomes a beacon for the global 
+financial ecosystem.
+Akhilesh Tuteja
+Partner and National Leader,
+Clients and Markets
+KPMG in India
+
+India’s fintech evolution… from growth to resilience
+3
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword
+India’s fintech sector is entering a defining 
+phase—one where resilience, trust and 
+sustainable growth, achieving profitable scale, are 
+becoming the cornerstones of long-term success. 
+The journey from rapid expansion to enduring 
+value creation reflects the maturity of an 
+ecosystem that is now ready to lead not just 
+nationally, but globally.
+This report, ‘India’s fintech evolution…from 
+growth to resilience’, offers a timely and insightful 
+view into how investors are recalibrating their 
+expectations. It draws on proprietary insights 
+from KPMG in India’s deep engagement with 
+private equity and venture capital leaders and 
+highlights the emerging priorities shaping capital 
+flows in 2025 and beyond.
+Three themes stand out. First, compliance is 
+becoming a competitive advantage. Fintechs
+that embed KYC, data rights, explainable AI and 
+incident response into their product architecture 
+are accelerating enterprise adoption and reducing 
+risk. Second, trust is emerging as a growth 
+enabler. The introduction of a standardised Trust 
+Score—covering security, reliability, governance 
+and financial resilience—is streamlining 
+procurement and unlocking fairer pricing. Third, 
+profitability is now the right-to-scale. Investors 
+are backing models with proven unit economics, 
+disciplined customer acquisition cost (CAC) and 
+differentiated outcomes.
+India’s Digital Public Infrastructure (DPI)—
+anchored by UPI, Aadhaar and Account 
+Aggregator—has laid the foundation for 
+frictionless origination. The next frontier is 
+tokenisation of real-world assets, which promises 
+liquidity, fractional access and new product lanes 
+across wealthtech and credit. Meanwhile, private 
+credit is emerging as a strategic lever for balance-
+sheet-heavy fintechs, offering scalable funding 
+pathways for those with governance maturity 
+and risk discipline.
+This report also introduces the Trust Score 1.0 
+Blueprint, a proprietary framework (indicative) 
+designed to certify fintechs on operational 
+reliability, model governance and regulatory 
+hygiene. It is a call to action for founders to 
+institutionalise trust and for investors to align 
+capital with credibility.
+I remain deeply optimistic. India’s fintechs are 
+not just solving for access—they are setting 
+global benchmarks in innovation, governance 
+and impact. The opportunity ahead is immense.
+To founders, investors and policymakers: 
+Innovation is one of the key building blocks for 
+Aatmanirbhar Bharat and the success of fintechs
+will be a key contributor. Let us build institutions 
+that are not only innovative, but enduring —
+anchored in trust, driven by outcomes and ready 
+to change the world.
+Sanjay Doshi
+Partner, Head – Transaction Services and 
+Head – Financial Services Advisory
+KPMG in India
+
+India’s fintech evolution… from growth to resilience
+4
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword
+India’s fintech sector stands at a critical inflection 
+point. Having successfully driven financial 
+inclusion and digital adoption over the past 
+decade, the sector is now being forced to 
+transition from rapid growth to responsible scale. 
+This evolution is not just about expanding reach, 
+but about deepening resilience. Fintechs must 
+now demonstrate operational maturity, regulatory 
+alignment, and the ability to build trust at scale. 
+Clients drive revenue and there needs to be a 
+progressive systemic thought process to get 
+clients to evaluate these fintechs as reliable long 
+term partners, rather than as the cheaper option 
+in the 'faster, better, cheaper' evaluation triangle. 
+The Trust Score 1.0 concept is an attempt to 
+support a transparent manner to assess reliability, 
+governance, and compliance readiness. A higher 
+'Trust Score' would signify resilient product 
+design, strong cyber posture, robust cloud based 
+IT architecture and a data management 
+framework that aligns to prevalent compliance 
+frameworks. 
+Regulation, often seen as a constraint, is 
+increasingly being recognized as a strategic 
+enabler. When embedded into product 
+architecture from the outset, it helps fintechs de-
+risk scaling, accelerate enterprise adoption and 
+build early credibility - all required to attract 
+institutional capital in segments such as lending, 
+payments, and wealth management where risk 
+exposure is high. Fintechs that treat governance 
+not as a checkbox but as a core design principle 
+are better positioned to navigate complexity and 
+unlock long term value.
+As the sector matures, the focus must shift from 
+innovation alone to innovation with integrity. 
+The future of fintech will be shaped by firms that 
+combine agility with accountability, and speed 
+with a high degree of alignment to global 
+regulations. For founders, investors and 
+policymakers, the challenge is to build institutions 
+that are not only disruptive but enduring. I remain 
+optimistic that India’s fintechs will continue to set 
+global benchmarks - anchored in trust, driven by 
+outcomes and ready to lead the next chapter of 
+financial transformation.
+"In fintech, trust is not built through promises but 
+through architecture. Regulation is not a hurdle; 
+it is the blueprint for scale.“
+I would like to thank Dr Abhijit Phukon, Joint 
+Secretary, Department of Financial Services, 
+Ministry of Finance, for his continued guidance 
+and support in strengthening India’s fintech 
+ecosystem, and  anchoring our fintech related 
+discussions to the 'Viksit Bharat' vision.
+Vishnu Pillai
+Partner, Financial Services Technology Leader, 
+Office Managing Partner – Kochi
+KPMG in India 
+
+India’s fintech evolution… from growth to resilience
+5
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Executive summary
+India’s fintech sector has seen meteoric growth 
+over the past decade and is now transitioning 
+from rapid expansion to sustainable resilience. 
+With a projected 31 per cent CAGR through 2029, 
+India continues to offer a strong growth narrative, 
+powered by deepening Digital Public Infrastructure 
+(DPI), widespread Unified Payments Interface (UPI) 
+adoption and expanding financial services access 
+in tier-II and III cities. Moreover, emerging 
+business models such as decentralised finance 
+(DeFi), embedded finance are helping India 
+leapfrog into the next wave of fintech innovation.
+India’s digital ecosystem scales new heights
+1 billion+
+Internet subscribers, 
+as of June 2025
+20 billion
+Monthly UPI 
+transactions in 
+August 2025
+14.5K+
+Number of fintech 
+companies
+31
+Number of 
+fintech 
+unicorns
+While Indian fintechs continue to show strong 
+fundamentals, private equity (PE)/venture capital 
+(VC) funding has become more selective since its 
+2021 peak, reflecting global trends and a shift 
+toward more cautious, quality-focused capital 
+deployment, especially at early stages. Capital is 
+increasingly being directed towards mature fintech 
+sub-sectors like lending and payments, which 
+together accounted for approximately 60 per cent 
+of total funding in H1 20251. These segments are 
+favoured by investors for their ability to deliver 
+more predictable and stable returns.
+This reflects a deeper, long-term evolution 
+in investor priorities and approach.
+~54%
+decline in deal volume 
+from 2021 to 20241
+H1 2021
+H1 2025
+Funding received by the fintech sector 
+USD3.1 bn
+USD1.5 bn
+Calibrated funding
+Shift towards resilient innovation, 
+with investors seeking ideas that 
+balance growth with profitability 
+and long-term viability
+Regulatory maturity
+While compliance focus supports 
+financial stability, fintechs need 
+clearer, model-specific regulatory 
+guidance to grow
+Data privacy concerns
+Prompting more robust 
+governance expectations 
+around system resilience 
+and cyber readiness
+Sources for the data indicated in the executive summary are provided in the subsequent sections
+1. VCCEdge, KPMG in India analysis
+From growth to governance: The new investor playbook
+Investor priorities have shifted from aggressive expansion to strategic resilience. Sustainable unit 
+economics, regulatory alignment and a clear path to profitability are now being considered among the 
+key benchmarks of success, replacing the once-dominant fast-paced growth mindset. This shift is driven 
+by multiple factors:
+
+India’s fintech evolution… from growth to resilience
+6
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+PE/VC firms are recalibrating their investment strategies, prioritising:
+Scalable growth metrics 
+Fintechs must optimise customer 
+acquisition cost (CAC) and deliver 
+measurable and high-impact outcomes
+Governance as a growth enabler 
+Fintechs with built-in governance 
+reduce risk and attract sustainable 
+investor interest
+Monetising the invisible 
+Fintechs should build interoperable, application 
+programming interface-driven (API) platforms 
+to scale and monetise middleware
+Fintechs with glocal, execution-driven 
+leadership are better positioned for 
+sustainable value creation and funding
+Talent and leadership quality
+Fintechs can boost credibility by adopting a trust score covering security, governance and reliability. 
+This aids due diligence, supports fair pricing and signals operational maturity to investors focused 
+on resilience and transparency.
+Opportunities shaping the next wave
+Digital lending
+With millennials and Gen-Z driving credit adoption, fintechs can develop digital-
+first lending experiences focused on embedded finance
+Regtech
+Rising cyber threats drive demand for regtech solutions that combine fraud 
+analytics, biometrics and blockchain
+Insurtech
+Mobile-first life insurance products developed for gig workers and youth, 
+can expand coverage and enhance customer experience
+Wealthtech
+Artificial intelligence (AI)-powered investing tailored to India’s digital investors 
+grows through scalable, trust-building hybrid advisory models
+Charting the future of fintech in India
+Fintechs must deliver value beyond AI, 
+anchored in clear intellectual property 
+and validated outcomes
+Tapping the vast, underpenetrated domestic 
+market will be key to sustainable scaling
+Tokenisation will unlock micro-investment 
+opportunities and enable real-time 
+portfolio management
+Private credit is poised to become a long-
+term funding engine for fintech expansion.
+
+India’s fintech evolution… from growth to resilience
+7
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Investor perspectives on the Indian 
+fintech landscape
+Saravanan Nattanmai, Partner, Premji Invest
+“India’s Digital Public Infrastructure has been 
+transformative. The next big unlock lies in expanding 
+wealth and asset management, private credit and 
+enabling tokenisation under clear policy frameworks.”
+Niren Shah, Managing Director and Head of NVP 
+India, Norwest Venture Partners
+“Capital is plentiful in FinTech, but true differentiation 
+defines the winners. Long-term success in FinTech 
+demands a focus on profitability-first approach. Within 
+FinTech in lending, unlock the power of 4Cs (Compliance; 
+Cost-to-AUM; Credit; Collections) to earn the right-to-play, 
+right-to-win, and right-to-scale.”
+Hemant Mundra, Managing Director, Warburg 
+Pincus India Private Limited
+“Valuation is an outcome. Build a core business with 
+a clear right-to-win, and leverage trust frameworks to 
+reduce friction and accelerate adoption.”
+Vinit Mehta, Managing Director, Motilal Oswal 
+Alternates
+“Regulation acts not only as a safeguard but as a catalyst 
+for innovation. Strong governance provides clear 
+boundaries and fosters creative freedom to achieve 
+accelerated, sustainable growth.”
+
+India’s fintech evolution… from growth to resilience
+8
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Table of
+1. India’s evolving fintech ecosystem
+10
+2. Global competitiveness of Indian fintechs
+11
+3. India’s fintech funding reset: Moving towards long-term value
+14
+4. PE/VC firms’ focus shift from scale to stability
+16
+5. What PE/VCs are prioritising in 2025?
+18
+6. Opportunities shaping the next wave
+21
+7. Future outlook
+24
+8. Trust Score 1.0 Blueprint
+26
+India’s fintech evolution… from growth to resilience
+8
+Contents
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+
+India’s fintech evolution… from growth to resilience
+9
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+1. India’s evolving fintech ecosystem
+India’s fintech sector has undergone a remarkable 
+transformation over the past decade, evolving 
+from a niche enabler of digital payments into
+a foundational pillar of the country’s digital 
+economy. The journey began with the digitisation 
+of banking services and accelerated with the 
+launch of the UPI in 2016, which revolutionised 
+real-time, interoperable transactions and set a 
+global benchmark for innovation. Building on this 
+foundation, the sector has expanded into diverse 
+financial services, including lending, insurance 
+and embedded finance, driving financial inclusion 
+and innovation across diverse demographics.
+Today, Indian fintechs are not just bridging the 
+access gap but are also shaping global best 
+practices in digital finance, playing a key role in 
+the nation’s digital economy. Recognising their 
+importance, the Department of Financial Services 
+(DFS) of India established the Inter-ministerial 
+Industry Committee on Fintech (IMICF) in 2025 to 
+develop a cohesive national strategy and address 
+regulatory priorities for long-term sectoral growth.
+India’s fintech market size (USD bn)1
+F stands for forecast
+110
+420
+2024
+2029F
+Signals a shift towards structural maturity 
+and resilience
+Presents an upward trajectory for long-
+term sustainability and global relevance
+As India’s fintech ecosystem matures, its growth is anchored by strong core drivers building scale and 
+resilience, while disruptive forces are expanding global relevance. Together, these dynamics position 
+the sector for deeper inclusion and sustained innovation.
+Core drivers
+Disruptive drivers
+UPI crossed 20 bn monthly transactions 
+in August 2025, signaling scale and 
+infrastructure maturity3
+Digital connectivity is powering fintech 
+reach with over 1 bn internet users
+(as of June 2025)2
+Tier-II and III cities fuelling fintech 
+growth, with 51 per cent of startups 
+emerging from them4
+Payments Vision 2025 and IndiaStack, 
+among other frameworks, are supporting 
+the growth in fintech sector
+Startups surge from 502 (2016)4 to 1.93 lakh+ 
+(2025)5, creating a ground for fintech 
+innovation and structured growth.
+DPI integrated identity, payments and 
+data layers to enable secure transactions 
+across India
+Indian fintechs are expanding into 
+Southeast Asia, Africa and the Middle 
+East, leveraging their tech stack
+UPI is evolving with offline payments and 
+voice-based transactions for feature phone 
+users, enhancing accessibility
+Embedded finance simplifies access to 
+financial products by integrating them 
+into non-financial platforms.
+Decentralised finance uses blockchain to 
+enable low-cost, peer-to-peer financial 
+transactions
+1. FinTech, AI and Digital Payments: Shaping the Future of Finance, NPCI, 29 August 
+2024
+2. The Indian Telecom Services Performance Indicators, April-June 2025, Telecom 
+Regulatory Authority of India (TRAI), 3 September 2025
+3. UPI product statistics, NPCI, accessed on 24 September 2025
+4. India’s Startup Revolution, PIB, 1 February 2025
+5. Startup India website, DPIIT, accessed on 24 September 2025
+
+India’s fintech evolution… from growth to resilience
+10
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+2. Global competitiveness of Indian 
+fintechs
+India has firmly positioned itself as one of the 
+fastest-growing fintech ecosystems globally. 
+Driven by a large, digitally savvy and mobile-first 
+population, progressive regulatory frameworks 
+and a vibrant startup landscape, the country 
+continues to strengthen its position among global 
+fintech leaders such as the U.S. and the U.K.
+A key contributor to this success is India’s 
+leadership in digital payments and financial 
+infrastructure, powered by its robust DPI. This 
+foundational stack, comprising Aadhaar, UPI 
+and the Account Aggregator (AA) framework, 
+has revolutionised the way financial services are 
+delivered. As of April 2025, Aadhaar had facilitated 
+over 150 bn authentication transactions1, while 
+UPI averaged 657 mn daily transactions as of 
+21 September 20252 and currently ranks among 
+the world’s leading retail fast payment systems 
+by transaction volume3.
+The adoption of AA is gaining momentum, 
+enabling secure, consent-driven data sharing 
+that supports faster underwriting and more 
+personalised credit experiences. Together, these 
+interoperable layers have significantly reduced 
+friction, spurred innovation and fostered a more 
+inclusive and dynamic digital finance ecosystem.
+Parameters
+India
+U.S.
+U.K.
+Australia
+China
+Singapore
+Overview of the fintech sector
+Number of 
+fintech firms4
+14,542
+44,595
+16,088
+4,530
+4,253
+3,471
+Unicorns4
+31
+197
+41
+3
+37
+11
+Unicorn 
+valuation, % of 
+GDP - Country 
+rank5
+8
+1
+1
+14
+12
+1
+Fundings 
+received in the 
+last 10 years 
+(USD bn)4
+40.8
+365
+105
+13.8
+46.3
+15.3
+Key drivers supporting the growth of the sector
+Smartphone 
+users (in mn)6
+701
+310
+57
+25
+859
+6
+Share of people 
+using mobile 
+payments (%)7
+59
+22
+33
+37
+66
+48
+Digital skills 
+index rank8
+12
+11
+33
+38
+16
+2
+3rd 
+4th
+4th
+4th
+2nd
+2nd
+3rd
+1. Aadhaar authentication crosses 150 billion transactions, powering India’s 
+digital economy and welfare services, IBEF, 19 May 2025
+2. Monthly Product Statistics, NPCI, accessed on 29 September 2025
+3. Growing Retail Digital Payments: The Value of Interoperability, International 
+Monetary Fund (IMF), 25 June 2025
+4. FinTech Sector, Tracxn, accessed on 29 September 2025
+5. Global Innovation Index 2024, World Intellectual Property Organization 
+(WIPO), 26 September 2024
+6. Number of smartphone users in 2024, by country, Statista, 25 June 2025
+7. Share of people using mobile payments in 53 countries & territories worldwide, 
+as of January 2025, Statista, 10 July 2025
+8. IMD World Digital Competitiveness Ranking 2024, IMD, November 2024
+
+India’s fintech evolution… from growth to resilience
+11
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+India and its global peers driving fintech 
+innovation forward
+India
+•
+Jan Dhan, Aadhaar and mobile (JAM) Trinity and UPI have enabled financial inclusion and 
+digital payments at scale1
+•
+The volume of digital payment transactions, including UPI, surged from 21 bn in FY18 to 228 
+bn in FY25, marking a 41 per cent CAGR2. This surge reflects strong government support for 
+fintech innovation through platforms that provide regulatory and infrastructure backing
+•
+The regulatory sandboxes introduced by SEBI, RBI, IFSCA and IRDAI, allowing fintechs to test 
+in controlled environments, with cohorts focused on retail and cross-border payments and 
+micro, small and medium enterprise (MSME) lending3.
+The U.S.
+•
+The centralised portal for federal grants through Small Business Administration (SBA), 
+offers access to project-specific grants for R&D and digital innovation4
+•
+The White House’s 2025 strategy prioritises AI innovation, open-source development and 
+adoption. The U.S. also outlined regulatory and legislative proposals in July 2025 for anti-
+money laundering (AML)/countering the financing of terrorism (CFT) compliance, DeFi and 
+blockchain oversight5
+•
+California’s consumer protection laws require fintechs to enhance transparency and 
+strengthen data protection. U.S. fintech innovation is focused on emerging areas, including 
+AI, blockchain, quantum computing and regtech6
+•
+Fintechs could leverage momentum from large tech participation in payments, lending and 
+blockchain, while strengthening differentiation to navigate emerging challenges7.
+The U.K.
+•
+The Regulatory Innovation Office (RIO), launched in 2025, aims to streamline digital regulation 
+and reduce compliance burdens for fintech firms8
+•
+The Centre for Finance, Innovation and Technology (CFIT) was introduced in 2023 to form 
+time-bound coalitions of experts from finance, technology, academia and policy to identify 
+and remove barriers to fintech growth9
+•
+The U.K.’s Digital Regulation Plan, launched in 2021, promotes a pro-competition regime for 
+digital markets, including fintech and supports innovation through coordinated oversight and 
+streamlined approvals10.
+1. JAM (Jan Dhan, Aadhar, Mobile) TRINITY and digital revolution: A Decade 
+of Financial Inclusion, Transparency and Corruption Free India, PIB, 
+20 December 2024
+2. Comprehensive reforms taken up to instill credit discipline in PSBs, PIB, 
+11 August 2025
+3. Inter-operable Regulatory Sandbox (IoRS), RBI, 17 September 2025
+4. U.S. Small Business Administration, accessed on 30 September 2025
+5. Winning the Race America’s AI Action Plan, The White House, 10 July 2025
+6. California Consumer Privacy Act (CCPA), State of California Department of Justice, 
+13 March 2024
+7. KPMG in India analysis
+8. Regulatory Innovation Office to help streamline regulation, helping the UK’s world-
+leading fintech sector, UK Government, 1 July 2025
+9. Landmark moment for UK fintech with the launch of CFIT, Centre for Finance, 
+Innovation and Technology (CFIT), 28 February 2023
+10.Digital regulation: overview of government activity, UK Government, 6 July 2021
+SEBI: Securities and Exchange Board of India; RBI: Reserve Bank of India; IFSCA: International Financial Services Centres Authority; IRDAI: Insurance Regulatory and 
+Development Authority
+
+India’s fintech evolution… from growth to resilience
+12
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Singapore
+•
+Singapore’s fintech sector operates under a layered regulatory framework, including the PSA, 
+SFA, FAA on their specific activities and the phased Financial Services and Markets Act 202211
+•
+Since 2015, MAS has announced three tranches of funding totalling over ~USD351 mn* under 
+the FSTI scheme12, with the latest phase focusing on advancing AI, analytics, cybersecurity 
+and ESG innovation. It also launched the fintech sandbox in 2016, which has expanded 
+through two additional iterations to enable experimentation and innovation13
+•
+The MAS established the Fintech And Innovation Group (FTIG) in 2015, to drive technology-
+led financial sector efficiency and risk management through progressive regulatory and 
+development strategies14
+•
+The Global Finance And Technology Network (GFTN) strengthens Singapore’s position as a 
+global fintech hub by fostering international collaboration15, while the RegTech Grant (2021) 
+provides financial assistance to fintechs to improve risk management and compliance 
+functions16.
+China
+•
+The Shanghai fintech action plan, launched in 2024, outlines measures to position the city 
+as a global fintech hub, including support for startups, digital yuan (e-CNY) applications and 
+infrastructure development17
+•
+The high-quality digital finance action plan, launched in 2024, aims to accelerate digital 
+transformation, strengthen data governance and integrate AI and big data into financial 
+services18
+•
+The Hong Kong Monetary Authority (HKMA) introduced the second round of the Fintech 
+Supervisory Sandbox 3.1 pilot in 2024 to support promising fintech projects with 
+development-stage funding and regulatory guidance19.
+PSA: Payment Services Act; SFA: Securities and Futures Act; FAA: Financial Advisers Act; MAS: Monetary Authority of Singapore; FSTI: Financial Sector Technology and 
+Innovation; ESG: Environmental, Social and Governance
+11.
+Financial Services and Markets Act 2022, Monetary Authority of Singapore, 
+10 May 2024
+12.
+MAS to commit S$150m for FSTI scheme over next 3 years; consults on 
+ending corporate cheques by 2025, Singapore Economic Development Board, 
+2 November 2022
+13.
+MAS Enhances FinTech Regulatory Sandbox with Sandbox Plus, Monetary 
+Authority of Singapore, 9 November 2021
+14.
+MAS sets up new FinTech & Innovation Group, Monetary Authority of 
+Singapore, 27 July 2015
+15.
+MAS Announces Establishment of Global Finance & Technology Network 
+for Next Phase of FinTech Growth, Monetary Authority of Singapore, 
+30 October 2024
+16.
+Regulatory Technology Grant, Monetary Authority of Singapore, accessed 
+on 30 September 2025
+17.
+Shanghai unveils action plan to be leading global fintech hub, Shanghai 
+Municipal People's Government, 19 September 2024
+18.
+Action Plan for Promoting High-Quality Development of Digital Finance is 
+Unveiled, People’s Bank of China, 21 November 2024
+19.
+Fintech Supervisory Sandbox (FSS), Hong Kong Monetary Authority, 
+accessed on 30 September 2025
+*The currency has been converted as per the conversion 
+rate of USD1 = SGD1.28, as of 24 September 2025
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+
+India’s fintech evolution… from growth to resilience
+13
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+3. India’s fintech funding reset: 
+Moving towards long-term value
+India’s fintech sector experienced a surge in deal 
+activity in 2021, propelled by accelerated digital 
+adoption, the rollout of robust DPI and heightened 
+demand for digital payment solutions in the post-
+pandemic landscape. However, deal activity has 
+steadily declined since, largely due to tightening 
+global liquidity, compressed valuations and 
+increased investor caution amid macroeconomic 
+volatility. Overall deal activity saw modest growth 
+in H1 2025. However, investor appetite for large-
+ticket transactions surged, with deals over USD50 
+mn rising to 12 in H1 2025, up from just 1 in H1 
+20241, signalling a pivot towards larger, more 
+strategic investments in fintech startups.
+3.1
+4.4
+2.3
+0.3
+1.5
+4.6
+1.1
+0.7
+0.9
+2021
+2022
+2023
+2024
+H1 2025
+H1
+H2
+Deal activity in fintech has remained subdued over the past 3 years1 (USD bn)
+329
+279
+159
+152
+65
+Deal volume
+The payments and lending segments have led the 
+deal activity during H1 2025 in the fintech sector, 
+maintaining a dominant share of funding. Strong 
+consumer demand for digital payments and credit 
+continues to fuel this momentum. India’s 
+expansive addressable market, combined with 
+monetisation potential and key enablers such as a 
+mature digital ecosystem, supportive regulatory 
+environment and widespread smartphone 
+adoption, has created fertile ground for scalable 
+fintech solutions. As observed in KPMG 
+International’s Pulse of Fintech H1 2025, this trend 
+also resonates in other emerging markets across 
+Southeast Asia, Latin America and Africa, driven 
+by mobile-first behaviour and rapid infrastructure 
+advancements. 
+662
+645
+395
+259
+147
+421
+308
+256
+60
+94
+1,716
+1,557
+1,819
+581
+352
+2,238
+1,072
+232
+60
+520
+1,454
+810
+93
+248
+99
+1,215
+1,137
+157
+23
+252
+2021
+2022
+2023
+2024
+H1 2025
+Banking tech
+Insurtech
+Lending
+Payments
+Wealth tech
+Others*
+Lending and payments subsectors are dominant drivers of fintech funding1 (USD mn)
+1. VCCEdge, KPMG in India analysis
+*Others include remittance, crowdfunding, trading platforms and accounting software, among others
+
+India’s fintech evolution… from growth to resilience
+14
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Investor focus shifts to late-stage startups with clear paths to sustainable growth
+Deal activity in India’s fintech sector has 
+undergone a notable realignment, with seed-stage 
+funding declining steadily since 2023. This 
+downturn in early-stage capital flows reflects 
+broader macroeconomic headwinds, including 
+elevated interest rates, persistent inflation and 
+geopolitical uncertainty. In contrast, PE/VC 
+investments rebounded in the first half of 2025, 
+with investor capital increasingly concentrated 
+around late-stage startups with validated business 
+models, leaving early-stage ventures with limited 
+access to funding.
+Year
+2021
+2022
+2023
+2024
+H1 2025
+Average deal value
+(USD mn)
+21.4
+20.0
+16.0
+10.0
+22.5
+Average deal value experienced a sharp rise in H1 20251
+407
+432
+323
+223
+122
+1,230
+362
+1,350
+33
+289
+6,017
+4,693
+1,237
+946
+1,053
+2021
+2022
+2023
+2024
+H1 2025
+Angel/seed
+Private equity
+Venture capital
+PE/VC investments have 
+recovered in H1 2025, 
+while seed/angel 
+funding saw 
+modest growth
+Investor appetite has shifted towards late-stage ventures, with renewed interest in H1 20251 
+(USD mn)
+Note: Deals covered pre/accelerator/incubator, angel, seed, early-stage VC, later-stage VC and others 
+1. VCCEdge, KPMG in India analysis
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+
+India’s fintech evolution… from growth to resilience
+15
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+4. PE/VC firms’ focus shift from scale 
+to stability
+The investment climate in India’s fintech sector 
+continues to evolve, influenced by a complex mix 
+of global economic challenges and domestic 
+factors. This has led investors to exercise greater 
+caution, placing increased importance on the 
+ability of startups to operate efficiently and 
+generate sustainable cash flows without relying 
+heavily on continuous capital injections.
+Fintechs are navigating tighter compliance around 
+data privacy, risk and customer protection, raising 
+governance demands. These requirements drive 
+significant costs across corporate governance, 
+domain-specific regulations and maintaining 
+secure technology standards, especially in 
+payment infrastructure. The Digital Personal Data 
+Protection Act (DPDPA) introduces additional 
+compliance considerations, prompting early 
+investments in secure infrastructure and consent 
+management systems.
+As consolidation gains momentum, investors 
+are focusing on scalable platforms with strong 
+governance and compliance readiness. Fintechs 
+that maintain transparency and internal controls 
+while scaling are better positioned for 
+partnerships, acquisitions and funding. To thrive 
+in this environment, fintechs must evolve from 
+growth-driven disruptors to resilient, compliance-
+ready institutions capable of delivering long-term 
+value.
+Key factors driving the investment landscape
+Calibrated funding 
+While capital remains accessible, the current 
+funding slowdown reflects a more selective 
+approach, favouring ideas with clearer profitability 
+trajectories. Investors are becoming more 
+selective, prioritising viable business models over 
+high-growth expansion plans. This shift stems 
+from multiple pressures converging across 
+markets. Limited exit opportunities are tempering 
+enthusiasm for late-stage bets. Portfolio 
+corrections from previous overvaluations are 
+prompting a sharper focus on fundamentals.
+Responding to this recalibrated environment, 
+fintech companies are contending with slower 
+funding cycles and higher thresholds for capital 
+access. Models reliant on scale-first approaches 
+without sustainable margins are drawing less 
+attention. With capital flowing more 
+conservatively, investors are focusing on 
+companies that have innovation, along with 
+commercial clarity, execution capability and 
+fiscal responsibility.
+This recalibration of expectations places greater value on 
+resilience and operational clarity over ambitious growth 
+projections. In response, companies are pivoting their 
+strategies to preserve runway and align with investor 
+priorities:
+•
+Enhancing cash efficiency: Focused efforts on 
+improving cost efficiency through streamlined 
+marketing strategies and revised vendor agreements
+•
+Driving revenue growth: Emphasis on enhancing 
+customer value via upselling, introducing new 
+offerings and exploring diversified income channels
+•
+Optimising cash flow: Startups are shaping clear 
+pathways to breakeven and sustainable cash flows, 
+with attention to unit economics and governance
+•
+Securing bridge round: Many firms are securing bridge 
+rounds from existing investors to support short-term 
+growth needs.
+Emerging high-growth innovation
+Regulatory compliance
+Sustainable cash 
+flows
+Capital 
+efficiency
+Investor-ready 
+fintech
+
+India’s fintech evolution… from growth to resilience
+16
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Data security and technology shifts
+Changing technological landscapes and rising 
+concerns over digital safety are reshaping investor 
+expectations in fintech. With financial services 
+becoming increasingly digitised, firms are placing 
+greater emphasis on platforms that can 
+seamlessly incorporate emerging technologies 
+while maintaining robust safeguards around 
+user data.
+Cloud-native architecture, AI-led infrastructure 
+and API-driven models are gaining traction, but 
+with them comes heightened scrutiny around 
+system resilience and cyber readiness. Investors 
+are becoming more selective due to growing risks 
+and regulatory demands, driven by:
+• High-profile cyber incidents, raising red flags 
+about operational resilience
+• Tighter regulatory oversight, increasing 
+accountability around digital compliance
+• Heightened user awareness, amplifying 
+reputational risks tied to data misuse.
+Regulatory maturity
+India’s evolving regulatory framework is shaping 
+up to bring order, transparency and consumer 
+protection to an increasingly complex fintech 
+ecosystem, reinforcing investor confidence in 
+financial stability and responsible innovation. 
+Investors recognise that with rapid digital 
+adoption and increasing transaction volumes, 
+robust guardrails are essential to prevent systemic 
+risks such as fraud and data breaches. 
+To support long-term growth and ease of doing 
+business, a continued focus on simplified and 
+customised regulatory guidance is essential, 
+especially in fast-moving fintech and startup 
+markets where compliance planning can be 
+complex.
+Key regulations include:
+• Standardised know-your-customer (KYC) 
+protocols and restrictions on default loss 
+guarantees to enhance systemic resilience
+• RBI’s advocacy for Self-Regulatory 
+Organisations (SROs) to ensure responsible 
+innovation and scalable governance
+• The enactment of the DPDPA and the data 
+localisation mandate adds new layers of 
+compliance.
+Macroeconomic and geopolitical concerns
+Shifting dynamics in the global economy and 
+evolving geopolitical factors are influencing the 
+investment landscape for fintech enterprises in 
+India. Investors are increasingly considering 
+external variables that may affect market stability, 
+capital flows and regulatory environment beyond 
+domestic controls. 
+Key factors being closely monitored include:
+• Changes in trade and partnerships shaped 
+by external market conditions
+• Fluctuating currency trends contributing 
+to elevated funding costs and pressure 
+on profitability
+• Operational cost adjustments and evolving 
+consumer behaviour influenced by global 
+inflationary patterns
+• Increasing compliance requirements arising 
+from policy developments in international 
+markets.
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+
+India’s fintech evolution… from growth to resilience
+17
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+5. What PE/VCs are prioritisingin 2025?
+Scalable growth metrics
+Investor priorities are shifting from scale to 
+building sustainable, measurable growth. To 
+attract investor confidence, fintechs should 
+demonstrate strong unit economics by optimising 
+CAC, adopting capital-light models and delivering 
+differentiated outcomes, such as enhanced 
+profitability, reduced fraud and higher customer 
+lifetime value. Additionally, pricing strategies 
+need to evolve towards value-based models, 
+charging for real impact like faster collections and 
+lower losses, rather than volume or access. The 
+emphasis is shifting towards fintech companies 
+that demonstrate:
+• Improved profitability ratios by streamlining 
+operations and optimising cost structures
+• Internal systems for tracking unit economics, 
+contribution margins and efficiency ratios, 
+making performance transparent
+• Moving focus from rapid user acquisition to 
+engaging and retaining high-value users with 
+strong lifetime value potential.
+Governance as a growth enabler
+Governance has emerged as a central pillar in 
+investor evaluation, reflecting enterprise maturity, 
+operational discipline and readiness for 
+sustainable scale. In fintech, where innovation can 
+be disruptive, strong compliance is essential to 
+safeguard financial system stability. Companies 
+that proactively embed KYC, data rights, 
+explainable models, collections governance and 
+incident response into their product architecture 
+reduce risks such as financial fraud and money 
+laundering and build long-term resilience and 
+trust. To align with this shift, the companies 
+could focus on:
+• Establishing adaptive risk and audit functions to 
+continuously monitor operational integrity and 
+regulatory adherence
+• Creating and continually enhancing robust 
+governance policies that align with privacy 
+regulations and instil trust in data handling
+• Integrating regulatory compliance checks at the 
+prototype stage to support de-risk scaling and 
+ensure readiness for evolving demands.
+Monetisingthe invisible
+Fintechs that automate support-layer 
+infrastructure, such as payment rails and backend 
+systems, are increasingly attracting investor 
+interest. Scalable automation across sub-
+segments, including lending, payments and other 
+verticals, is emerging as a key growth driver. 
+Rather than focusing on consumer-facing scale, 
+fintechs can monetise middleware by offering API-
+based platforms, anchored by decisioning 
+engines, collection platforms and fraud layers to 
+create scalable and defensible business models. 
+To stay investment-ready in this evolving 
+landscape, fintechs are expected to prioritise:
+• Reducing dependency on legacy systems by 
+adopting cloud-native middleware solutions 
+and ensuring disaster recovery capabilities
+• Real-time fraud monitoring layers using 
+behavioural analytics and anomaly detection
+• Developing of interoperable systems that 
+integrate easily across banks, non-banking 
+financial companies (NBFCs) and fintech 
+ecosystems.
+
+India’s fintech evolution… from growth to resilience
+18
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Talent and leadership quality
+In an increasingly selective funding environment, 
+people strategy is emerging as a critical 
+determinant of long-term value creation in the 
+fintech sector. Investors are looking beyond the 
+founder vision to assess the depth, diversity and 
+maturity of leadership across the organisation. 
+Leadership strength is now defined not only by 
+the ability to navigate uncertainty and attract top-
+tier talent but also by the capacity to build teams 
+with a glocal quotient, professionals who bring 
+global perspectives while remaining deeply 
+attuned to local market dynamics.
+While India’s fintech market is attractive, adopting 
+efficient solutions successfully applied in other 
+geographies could accelerate problem-solving 
+and innovation domestically. This blend of global 
+insight and local execution is increasingly viewed 
+as a strategic advantage in shaping resilient, 
+scalable and future-ready fintech enterprises. 
+To position themselves for sustainable capital 
+inflows, fintechs should prioritise:
+• Building experienced leadership teams with 
+demonstrated expertise across financial services 
+and technology
+• Strengthening organisational design by aligning 
+roles, incentives and accountability across 
+business functions 
+• Attracting and retaining domain specialists in 
+key areas such as compliance, product and data 
+science.
+Exit visibility: Initial public offering (IPO)-readiness, mergers and 
+acquisitions (M&A) potential
+For fintechs in India, the ability to present clear, 
+credible exit pathways has become a key 
+consideration during capital deployment. With 
+extended investment horizons and increased 
+expectations around capital returns, clear visibility 
+into value realisation has become a critical part of 
+investor evaluation.
+Beyond growth trajectories, investors are 
+assessing a company’s ability to translate scale 
+into tangible exit opportunities, including IPOs, an 
+acquisition or secondary liquidity. To strengthen 
+their investment appeal, fintechs should focus on:
+• Institutionalising IPO-readiness by adopting 
+public-market standards in governance, financial 
+reporting and internal controls 
+well ahead of a potential listing 
+• Enhancing M&A attractiveness through a 
+differentiated product portfolio, strong market 
+positioning and integration-ready operations
+• Structuring capitalisation tables to facilitate 
+secondary liquidity, enabling early investors to 
+exit without compromising ownership stability.
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+
+India’s fintech evolution… from growth to resilience
+19
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Investor lens on fintech growth
+Resilience is emerging as fintech’s competitive 
+edge. Embedding compliance from the outset 
+and elevating operational resilience to a board-
+level priority are no longer optional; they are 
+foundational. Firms that design for regulatory 
+alignment and robust governance earn investor 
+trust and position themselves for sustainable 
+growth. Today, resilience through cybersecurity, 
+incident response and business continuity 
+planning is considered a baseline expectation.
+To build credibility, fintech companies can adopt 
+an auditable trust score encompassing key 
+dimensions such as security, reliability, 
+governance, complaint ratios and loss experience. 
+This helps streamline vendor due diligence and 
+promote fair pricing and signals maturity to 
+investors. As the sector matures, investor 
+focus is shifting beyond pure innovation 
+towards operational discipline, transparency 
+and resilience.
+However, resilience alone is not enough. 
+For fintechs to remain truly productive and 
+competitive, they must solve problems in a faster, 
+better and more cost-efficient manner, with all 
+three attributes applied simultaneously rather 
+than selectively. This triad of efficiency is 
+becoming a litmus test for scalability and 
+relevance in a crowded market.
+Beyond resilience, trust and credibility, embedded 
+compliance and governance are emerging as 
+critical differentiators. Fintechs that integrate 
+governance at the design stage, covering board 
+independence, financial discipline and compliance 
+rigour, signal long-term viability and readiness for 
+institutional partnerships. 
+Together, these elements form a robust 
+framework for capital deployment in India’s 
+dynamic fintech landscape. Investors are 
+increasingly backing companies that treat 
+resilience, governance and compliance as core 
+assets that enable sustainable growth, fair pricing 
+and institutional trust.
+Market 
+readiness
+Operational 
+resilience
+Liquidity 
+pathways
+Scalable growth, 
+strong governance 
+and regulatory 
+compliance
+Exit strategies: IPO, 
+M&A and buyouts
+Operational and cost 
+efficiency and 
+leadership maturity
+
+India’s fintech evolution… from growth to resilience
+20
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+6. Opportunities shaping the next wave
+India’s fintech sector has advanced beyond the 
+maturity of digital payments, entering a new 
+phase marked by innovation across verticals, such 
+as digital lending, regtech, cross-border finance, 
+insurtech, embedded finance and wealthtech. 
+Fueled by rising consumer demand, regulatory 
+tailwinds and scalable technology, these 
+segments are redefining financial access, 
+personalisation and compliance in a digital-first 
+economy. 
+Digital lending
+• A significant portion of India’s population 
+remains underbanked; leveraging Aadhaar-
+based electronic-KYC (e-KYC) and alternative 
+credit scoring can unlock access to formal credit 
+for first-time borrowers in rural and semi-urban 
+regions
+• With millennials and Gen-Z driving credit 
+adoption, fintechs can craft seamless, digital-
+first lending experiences focused on speed, 
+convenience and embedded finance, including 
+buy now, pay later (BNPL) offerings. For 
+instance, the BNPL customer base for online 
+retail in India is expected to grow at a robust 
+CAGR of 43 per cent (2021-2026)1
+• Developing specialised lending solutions, such 
+as invoice financing, micro-loans and sector-
+specific credit products can address the 
+evolving needs of emerging consumer and 
+business segments.
+Regtech
+• AI-powered regtech can streamline complex 
+regulatory workflows, enabling automation of 
+compliance processes related to KYC, AML and 
+data privacy under RBI, SEBI and IRDAI norms 
+while significantly reducing manual effort
+• Rising cyber threats present an opportunity 
+for developing regtech solutions that integrate 
+fraud analytics, behavioural biometrics and 
+blockchain to strengthen digital 
+security and regulatory compliance
+• Financial institutions can benefit from cloud-
+based platforms that offer real-time monitoring 
+and automated alerts, helping them stay ahead 
+of frequent regulatory changes and reduce 
+compliance risk.
+Cross-border finance
+• Empowering small exporters, particularly 
+MSMEs that drove ~46 per cent of India’s total 
+exports in FY242, through embedded trade 
+finance, automated compliance and foreign 
+exchange (FX)-hedging can unlock liquidity 
+and enhance global competitiveness amid slow 
+settlements and complex documentation
+• Capturing India’s growing remittance market, 
+which saw a 14 per cent rise in FY253, is 
+possible through digital channels offering 
+instant transfers, multi-currency wallets, mobile 
+remittance solutions and low-cost corridors
+• Strengthening cross-border flows by 
+embedding AI-driven KYC, dynamic compliance 
+checks and automated risk monitoring can 
+mitigate AML and FX compliance risks while 
+improving operational efficiency.
+1. Number of buy now pay later (BNPL) users in retail in India in 2021, with projections for 2026, Statista, 2 July 2025
+2. Budget 2025-26: Fuelling MSME Expansion, PIB, 4 February 2025
+3. Remittances by Indians working abroad scale record high of $135 billion in FY25, newsonair.gov, 1 July 2025
+
+India’s fintech evolution… from growth to resilience
+21
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Insurtech
+• Flexible, bite-sized and group-based digital life 
+policies products tailored for gig workers and 
+younger demographics can gain traction as 
+employment models shift away from traditional 
+structures
+• Expanding coverage through mobile-first 
+platforms and embedded insurance via 
+partnerships with e-commerce players, NBFCs 
+and rural networks can address the 
+large uninsured population affected by 
+limited access and low awareness
+• Deploying AI/machine learning (ML) in claims 
+processing can transform customer experience 
+by enabling real-time fraud detection, faster 
+settlements and seamless digital claims 
+journeys.
+Embedded finance
+• Engaging retail investors through gaming, 
+content and commerce apps by integrating 
+systematic investment plans (SIPs), micro-
+investments and fractional equity can drive 
+participation and democratise wealth creation, 
+overcoming low engagement with standalone 
+platforms
+• Embedding working capital and invoice 
+financing into enterprise resource planning 
+(ERP) tools, point of sale (POS) systems and 
+digital marketplaces enables real-time 
+credit access for small and medium businesses 
+(SMBs), addressing challenges of fragmented 
+data and limited collateral
+• Integrating instant pay, earned-wage access and 
+micro-savings into gig and delivery platforms 
+can unlock financial inclusion and stability for 
+gig workers lacking timely payouts, savings 
+tools and credit history.
+Wealthtech
+• AI-powered advisory enables hyper-
+personalised investing tailored to India’s 
+digitally native investor base. Scaling advice-led 
+engagement through hybrid models blending 
+tech and human insight presents an opportunity 
+to deepen trust and expand reach across wealth 
+segments
+• Fractional ownership models in real estate, gold 
+and global assets reshape how retail investors 
+build wealth. Wealthtech platforms are 
+redefining exclusivity by making non-traditional 
+assets accessible to the masses
+• With a significant portion of household wealth 
+currently outside professional management, 
+solutions such as mutual funds and goal-based 
+investing provide a pathway to engage first-time 
+investors and support broader financial 
+inclusion.
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+
+India’s fintech evolution… from growth to resilience
+22
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Key learnings from leading fintechsaround the world
+Fintechs globally are redefining how digital-first 
+financial institutions can scale profitably by 
+aligning with regulations, embracing customer-
+centric design and leveraging technology for 
+operational efficiency. This approach reflects a 
+sustainable growth model, one that integrates 
+financial services seamlessly into digital 
+ecosystems and broadens access through 
+inclusive offerings, fostering a resilient financial 
+ecosystem that empowers individual and 
+businesses alike.
+Pathways to market leadership
+Full stack digital model
+Profitability with scale
+Trust as a growth lever
+Seamless digital infrastructure 
+drives operational efficiency 
+while ensuring compliance, 
+integrity and enabling scale
+Diversification across credit, 
+savings and investments 
+reinforces unit economics, 
+paving the way for 
+sustainable profitability
+Strong governance and risk 
+management practices 
+foster market trust, 
+facilitating access to capital 
+on favourable terms and 
+accelerating expansion
+Key takeaways for Indian fintechs
+Trust infrastructure for scale
+Robust governance and risk frameworks reduce procurement friction and capital costs, accelerating 
+scale through institutional trust
+Regulation as a design principle
+Viewing regulation as a core part of product architecture rather than a post-launch fix can ensure 
+smoother scaling and help build early trust with investors.
+Diversification for resilience
+Expanding beyond single-product focus to include lending and wealth solutions creates resilient 
+revenue streams and supports long-term profitability.
+Strategic leadership capability
+Identifying leadership gaps and appointing individuals with relevant expertise enhances strategic 
+decision-making and reinforces long-term organisational resilience.
+The evolution of fintech across the globe 
+highlights a powerful shift toward customer-
+centric, technology-driven financial 
+services. Leading innovators have succeeded by 
+simplifying access, removing traditional barriers 
+and designing intuitive, data-informed solutions. 
+Their ability to scale responsibly while 
+maintaining trust and credibility underscores the 
+critical role of innovation, agility and strong 
+governance in today’s financial landscape.
+
+India’s fintech evolution… from growth to resilience
+23
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+7. Future outlook
+As private equity and venture capital firms 
+recalibrate their investment strategies in response 
+to evolving market dynamics, India’s fintech 
+sector is transitioning from a phase of 
+hypergrowth to one of purposeful resilience. 
+The next wave of capital deployment will be more 
+selective, anchored in long-term value creation, 
+robust governance and sustainable business 
+models. India’s rapidly digitising economy 
+continues to offer fertile ground for fintechs to 
+drive both commercial success and inclusive 
+impact, particularly in underserved markets.
+Advancing global and investor readiness
+• India can draw actionable insights from global fintech hubs by adopting the U.S. 
+approach for regtech, the U.K.’s use of regulatory sandboxes and Singapore’s focus on 
+digital identity and sustainable finance to build investor-aligned innovation frameworks
+• Fintech companies in India should focus on authentic differentiation, referenceable 
+outcomes and repeatable deployment models to tap the vast and underpenetrated 
+domestic market, laying the foundation for disciplined global expansion and attracting 
+long-term capital.
+AI adoption with a competitive edge
+•
+According to KPMG International’s Pulse of Fintech H1 2025, generative AI and agentic AI 
+are gaining traction globally among fintech firms that are actively exploring their 
+applications. This trend can also be seen in the Asia Pacific (APAC) region and is expected 
+to continue in the near future
+•
+In parallel, AI is also being increasingly used by internal development teams of businesses 
+across global and emerging markets, intensifying competition. To remain competitive, 
+fintech firms need to offer distinctive value beyond AI capabilities, through clear 
+intellectual property, validated use cases and measurable outcomes.
+Tokenisationas the next frontier
+•
+Tokenisation is set to unlock new product avenues for fintechs, enabling fractional 
+investments, tokenised lending and dynamic secondary markets. This positions them at 
+the forefront of wealthtech and credit innovation
+•
+By leveraging tokenised assets, platforms can offer micro-investment products, real-time 
+portfolio management and seamless secondary market exits, making wealth solutions 
+more accessible, affordable and differentiated for a broader customer base.
+
+India’s fintech evolution… from growth to resilience
+24
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Scaling fintechswith private credit
+•
+Early-stage equity is available, but growth equity and private credit require proof of unit 
+economics, path to profitability and strong risk and governance framework
+•
+Private credit is increasingly viewed as a strategic enabler for fintechs operating balance-
+sheet-intensive models, particularly as their risk performance stabilises. It offers a scalable 
+funding pathway that can support long-term growth and operational expansion
+•
+India is witnessing a surge in private credit, driven by the funding requirements of NBFCs 
+and a cautious bank lending. Broader institutional participation and standardised
+frameworks can help unlock scale without compromising prudence.
+Looking ahead, innovation is expected to remain 
+the key differentiator. But innovation alone is not 
+enough; investors are prioritising execution, 
+governance and a clear path to profitability. 
+Founders must move beyond “growth at all 
+costs” to build institutions grounded in financial 
+discipline, transparency and regulatory alignment. 
+Capital will follow companies that demonstrate 
+leadership, operational maturity and measurable 
+impact. 
+Investors are not only looking for disruptive 
+ideas but also for credible execution and long-
+term value creation. In this evolving landscape, 
+investor-fintech collaboration will be central to 
+unlocking sustainable growth and shaping the 
+next era of financial innovation.
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+
+India’s fintech evolution… from growth to resilience
+25
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+8. Trust Score 1.0 Blueprint
+Objective
+Minimise onboarding challenges and pricing inconsistencies by transparently certifying operational 
+reliability, security, model governance and regulatory compliance in a way that is both auditable and 
+trustworthy.
+Approach
+Develop a Trust Score 1.0 that aligns with RBI information technology (IT) Directions, the DPDP Act and 
+AA consent protocols. This will help streamline procurement processes and lower governance risks.
+Procurement readiness index for fintechs
+Security and privacy
+• International Organisation for 
+Standardisation–Information 
+Security Management (ISO 
+27001)
+• Vulnerability assessment and 
+penetration testing (VAPT)
+• Breach history, encryption and 
+key management 
+• DPDP readiness
+Reliability & resilience 
+• Uptime
+• Recovery Time Objective (RTO)
+• Recovery Point Objective (RPO)
+• Disaster Recovery (DR) drills
+• Severity (SEV-1)
+• Mean time to recovery (MTTR)
+• Capacity management
+Model & data governance
+• Model documentation
+• Bias and drift checks
+• Explainability
+• AA/e-KYC consent flows
+Regulatory hygiene
+• KYC/AML controls
+• Partner bank audits
+• Grievance redress turnaround 
+time (TAT)
+• Complaint ratios
+Business outcomes
+Loss/fraud rates vs benchmarks; 
+conversion; persistency 
+• Runway (cash runway in 
+months)
+• Leverage (Debt-to-Equity ratio)
+• Auditor opinion (clean or 
+qualified)
+Profitability metrics:
+• Profit after tax (PAT) trend
+• Return on assets (RoA)
+• Return on equity (RoE)
+• Operating cash flow consistency
+Financial resilience
+
+India’s fintech evolution… from growth to resilience
+26
+Acknowledgements
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+We sincerely thank everyone involved in the publication of this report. 
+We acknowledge the efforts put in by the core team, from the initiation 
+to the publication of this report. 
+• Jamal Akhtar, Associate Director, Technology Enablement – Financial Services
+• Anmol Puri, Associate Director, Technology Enablement – Financial Services
+• Reshma Pai, Lead – Research, Clients and Markets
+• Omkar Sawant, Lead – Financial Services Sector, Clients and Markets
+• Insights Centre Research team, Clients and Markets
+• Aditya Menon, Associate Consultant, Technology Enablement – Financial Services
+Brand and Communications:
+• Nisha Fernandes, Associate Director, Clients and Markets
+• Nidhi Agarwal, Executive, Clients and Markets
+Design:
+• Arun Choudhary, Assistant Manager, Clients and Markets
+Special thanks to Hemant Jhajhria, Partner, Head of Consulting, KPMG in India, 
+for his valuable insights and support in shaping this publication.
+
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms 
+affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we 
+endeavor to provide accurate and timely information, there can be no guarantee that such information is accurate as of the date it is received or that it will 
+continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the 
+particular situation.
+The views and opinions expressed herein are those of the quoted third parties and do not necessarily represent the views and opinions of KPMG in India.
+KPMG Assurance and Consulting Services LLP, Lodha Excelus, Apollo Mills Compound, NM Joshi Marg, Mahalaxmi, Mumbai – 400 011 Phone: +91 22 3989 6000, 
+Fax: +91 22 3983 6000.
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+This document is for e-communication only. (TL_1025_AC)
+Follow us on: 
+kpmg.com/in/socialmedia
+KPMG in India contacts:
+Access our latest insights
+on KPMG Insights Edge
+kpmg.com/in
+Sanjay Doshi
+Partner and Head, Transaction Services 
+and Financial Services Advisory
+E: sanjaydoshi@kpmg.com
+Akhilesh Tuteja
+Partner and National Leader 
+Clients and Markets 
+E: atuteja@kpmg.com
+Vishnu Pillai
+Financial Services Technology Leader 
+and Office Managing Partner - Kochi 
+E: vishnupillai@kpmg.com
+Vikram Srinivas
+Partner, Deal Advisory and
+Office Managing Partner - Chennai
+E: vsrinivas@kpmg.com
+Abhijeet Lakule
+Partner, Deal Advisory 
+E: abhijeetlakule@kpmg.com
+Ankit Bheda
+Partner, Deal Advisory 
+E: ankitbheda@kpmg.com
+Vikas Agarwal
+Partner, Deal Advisory 
+E: vikasagarwal1@kpmg.com
+Vikram Srinivas
+Partner, Deal Advisory 
+E: vikramsrinivas@kpmg.com
+Hemant Jhajhria
+Partner, Head of Consulting
+E: hemantj@kpmg.com

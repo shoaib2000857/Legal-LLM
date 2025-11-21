@@ -1,0 +1,1123 @@
+Fintech in India
+
+This report is created and published by: 
+swissnex India l Consulate General of Switzerland
+#26 Rest House Crescent Road, Bangalore, India 560001
+Tel.: +91 80 4941 2000
+ 
+To download this report, visit: www.swissnexindia.org.
+To order copies of this report, send an email to: innovation@swissnexindia.org 
+ 
+Month of publishing: October 2016
+Designed and printed in India
+ 
+swissnex India connects Switzerland and India in the ﬁ elds of science, education, art and 
+innovation. An initiative of the Swiss State Secretariat for Education, Research and Innovation 
+(SERI) in association with the Swiss Federal Department of Foreign Aﬀ airs, swissnex India is 
+part of the Consulate General of Switzerland in Bangalore (www.swissnexindia.org). 
+in association with 
+MEDICIPRIM FINTECH PRIVATE LIMITED which is world’s leading comprehensive online 
+platform, dedicated to Fintech.
+The information and analyses contained in this document have been prepared by swissnex 
+India in association with MEDICIPRIM FINTECH PRIVATE LIMITED. swissnex India and its 
+partners assume no responsibility for errors and omissions related to the data, calculations or 
+analysis contained herein and in no event will swissnex India or its partners be liable for direct, 
+special, incidental or consequential damages (including, but not limited to, damages for loss 
+of business profi ts, business interruption and loss of business information) arising directly or 
+indirectly from the use of (or failure to use) this report. 
+in association with
+
+Table of Contents 
+	
+LIST OF ACRONYMS
+1	
+INTRODUCTION
+2	
+AN OVERVIEW OF FINTECH IN INDIA
+2.1	
+The Evolution of Fintech in India
+2.2	
+The Indian Fintech Ecosystem
+2.3	
+Government, Regulatory Bodies and Financial Infrastructure
+2.4	
+Accelerators and Incubators
+2.5	
+Human Resources
+3	
+WHAT MAKES FINTECH IN INDIA UNIQUE?
+3.1	
+Comparing India versus other Fintech hubs globally
+3.2	
+Payments
+3.3	
+Alternative Lending
+3.4	
+Innovation in the Indian Fintech market
+3.5	
+Challenges facing Indian Fintech industry
+4	
+CASE STUDIES
+4.1	
+Insurtech – the new kid on the block
+4.2	
+PayTM – from Fintech startup to India’s largest payment company
+4.3	
+Zerodha – India’s discount brokerage platform for the 21st century
+5	
+OPPORTUNITIES AND CHALLENGES
+6	
+SUMMARY AND CONCLUSION
+7	
+SOURCES
+	
+3
+4
+5
+5
+7
+9
+11
+12
+14
+14
+16
+18
+20
+22
+23
+23
+24
+26
+27
+30
+31
+
+
+3
+List of 
+Acronyms
+APAC: Asia-Pacific Region
+MICR: Magnetic Ink Character Recognition
+BC: Banking Correspondent
+UPI: Universal Payment Interface
+NPCI: National Payments Council of India
+KYC: Know your customer
+BBPS: Bharat Bill Payment System
+BBPCU: Bharat Bill Payment Central Unit
+RBI: Reserve Bank of India
+IIT: Indian Institute of Technology
+IIM: Indian Institute of Management
+PPI: Prepaid Payment Instrument
+NRI: Non-Resident Indian
+NSDL: National Securities Depository Limited
+eKYC: electronic Know your customer
+SEBI: Securities and Exchange Board of India
+IRDA: Insurance Regulatory and Development Authority
+TRAI: Telecom Regulatory Authority of India
+LIC: Life Insurance of India
+O2O: Online to Offline and Commerce
+
+4
+With a population of around 1.3 billion, India is a growing market for Fintech. A large percent-
+age of unbanked or underbanked population and the fact that it is a young nation witnessing 
+high growth in digital penetration, makes India an exciting global space for Fintech.
+With over half a billion dollars flowing into startups, Fintech in India has grown rapidly in the 
+last three years and the segment is expected to grow further. Banks and financial institutions 
+have taken note of this and are actively participating in the ecosystem. The government and 
+regulators have also taken several initiatives to boost the Fintech ecosystem and provide 
+startups with new opportunities to launch competitive products.
+The aim of this report on Fintech in India is to provide a comprehensive overview of the 
+Indian Fintech ecosystem. The first section of the report summarizes the Fintech ecosystem 
+in India including the investors, startups, accelerators and incubators, human capital, and 
+initiatives taken by banks and the government.
+The second segment discusses the uniqueness of the Indian Fintech ecosystem, compared 
+to other global Fintech hubs. It also provides a brief analysis of innovation, trends and key 
+growth drivers for payments and lending segments, which have seen rapid growth in India in 
+the last couple of years.
+In the next segment, the report provides details of two key Fintech companies – Paytm and 
+Zerodha – which have disrupted the traditional means of doing business and have been 
+prominent in their segments. It is followed by an analysis of an upcoming Fintech segment in 
+India: InsurTech.
+The report concludes with an overview of how Swiss entrepreneurs could benefit from the 
+Indian growth story, and major areas of making an impact. It also provides insights into 
+some of the major challenges Swiss Fintech startups could face when they enter the Indian 
+market.
+1. 
+Introduction
+
+5
+In line with the rest of the world, Fintech is a young industry in India. This section starts off 
+with explaining where Fintech came from and how far it has come. It further outlines the 
+ecosystem such as investors, startups and government agencies active in the Indian Fintech 
+space.
+2.1 The Evolution of Fintech in India
+The Indian government began liberalizing its banking industry post-1990 with the 
+introduction of technology-savvy banks. The government also took legislative action to 
+boost the banking system and pushed new technology such as MICR, electronic funds 
+transfer and other electronic payments that revolutionized the banking system and in turn 
+boosted the Indian economy. However, for two decades from 1991, the technological 
+innovation in financial services and banking were government-driven and witnessed slow 
+growth.
+Mimicking the global trend, the Indian banking and financial industry has witnessed the 
+penetration of startups or Fintech in the consumer-facing offerings from the mid-2000s. One 
+of the initial offerings, which came up at around 2005, was the banking correspondent (BC) 
+model, which was used to increase penetration of financial services to the rural household. 
+With agents having basic technology to perform financial transactions BCs offered a low-
+cost alternative to setting up branches for FIs to serve the rural population. FinoPayTech 
+and Eko India were the major startups that took advantage of this opportunity and built 
+their services around the BC model. 2010 saw an emergence of payment startups in mobile 
+wallets; e-bill payment and mobile recharge services. Major Fintech startups such as Oxigen, 
+MobiKwik, Paytm and Freecharge originated between 2005–10. From 2010, there have been 
+multiple Fintech startups that have mushroomed in different segments such as lending (100+ 
+startups), personal finance management (40+ startups) and investment management (90+ 
+startups). Fintech has gained even more prominence with VC firms displaying keen interest 
+with a 40% growth in investments or funding activity between 2014 and 2016. Banking 
+technology startups offering solutions that help banks to digitally and cost-effectively serve 
+their customers are still in a nascent stage and are expected to take off as the digital and 
+smart city initiatives of the Indian government are aimed at providing the physical and digital 
+infrastructure for the last-mile digital connectivity.
+““As we go from data-poor to data-rich, we are just getting 
+started in Fintech.”
+Mr. Nandan Nilekani, Former Chairman - Unique 
+Identification Authority of India
+2. 
+An Overview of 
+Fintech in India
+Source: LTP
+
+6
+The last three years (2014–16) have witnessed various developments in the Fintech segment 
+in India where apart from startups and investments, the established corporate sector 
+including banks, financial institutions and others as well as the government and regulatory 
+bodies have taken steps to develop, implement and propel innovative solutions.
+The regulatory bodies and banks have brought new solutions that will create interesting 
+opportunities for Fintech and the financial services sector as a whole. The most prominent 
+of these is the launch of UPI – Universal Payment Interface. To leverage the increasing usage 
+of smartphones and mobile apps, NPCI (National Payments Council of India, the umbrella 
+organization that sets the payment rails in India) launched UPI, a set of standard APIs with 
+an open architecture provided to the banks in order to facilitate account-to-account transfers 
+by customers by entering just one virtual ID (like name@bankname.com or mobilenumber@
+bankname.com). Leading startups like India’s largest marketplace e-commerce players 
+Flipkart and Snapdeal have partnered with Yes Bank and Axis Bank respectively to 
+incorporate UPI in their mobile payment offerings. Yes Bank has also partnered with 50 
+merchants in various segments such as lending, e-commerce, and mobile payments to 
+provide full usage of UPI via their Yes Pay Wallet. This enables business for efficient P2P 
+transactions, and also eliminates the waiting time or failed transactions associated with 
+online payment and gateways. 
+Another visible trend in Fintech ecosystem is the growing number of partnerships between 
+banks and Fintech startups. For instance, HDFC Bank and the Fintech startup ‘Tone Tag’ 
+have partnered to provide phone-based proximity services and Yes Bank partnered with 
+Ultracash Technologies to enable sound-based proximity payments. 
+Banks have also launched solutions with the help of their in-house teams aimed at improving 
+the digital financial infrastructure. Some of the initiatives include:
+•	
+ICICI bank launched a contactless mobile payment system which could enhance NFC 
+payments in India
+•	
+Axis Bank presented the ‘Invoice to Payment’ feature that provide end-to-end digital 
+invoicing and payment solutions
+•	
+DBS introduced the first mobile bank that allows customers to open accounts digitally 
+with their PAN card and Aadhaar card
+•	
+Union Bank launched the *99# mobile application in partnership with NPCI that allows 
+basic services like balance inquiry, fund transfers and mini statements to its customers 
+even when there is no internet
+These new solutions will enable Fintech startups to leverage the infrastructure created 
+by banks to enable their solutions or enhance existing offerings with superior product 
+experience.
+
+7
+2.2 The Indian Fintech Ecosystem
+A major role in kick-starting the evolution of Fintech in India was played by startups 
+offering digital mobile recharges. For a very long time, Indian consumers used coupons 
+purchased from retail outlets, largely by cash for prepaid mobile phone recharges. This 
+evolved to digital recharges, which in turn evolved into digital wallets and usage of wallets 
+for various other commerce activities. The fact that these new offerings have strongly 
+impacted consumer behaviour has not only attracted attention from more technology savvy 
+individuals, but also a lot of investments. An analysis of Indian Fintech startups that have 
+been founded post-2007 shows that investments in these firms has grown from USD 25 
+million in 2013 to USD 109.1 million in 2014 and reached USD 364.6 million in 2015. 
+Interestingly, the investment in Fintech startups is not limited to mobile wallets. India 
+currently has over 600 Fintech startups in the space of lending, payments, InsurTech, 
+blockchain and RegTech. This number is expected to grow further with initiatives such as 
+focused accelerator programs by local and regional governments and banks, and funding 
+support by leading corporates and VCs.
+Segment-focused VC firms or segment-focused arms of VC firms have only just begun 
+skimming the Fintech potential in India. This is in contrast to developed markets like USA 
+where one can find Fintech-focused VC firms like Ribbit Capital, QED Investors, Nyca 
+Partners and more. However, not having segment-focused VC firms does not imply a 
+shortfall in investment for Indian Fintech startups – VC firms in India have invested across 
+segments including Fintech. For example, Sequoia Capital and Matrix Partners have 
+invested in cab aggregators, Fintech startups and e-commerce. Both these investors expect 
+higher returns with the huge cross-industry growth potential. The rise of cab aggregator 
+services has resulted in the growth of the number of cabs in India, which has led to an 
+increased demand for auto financing options in lending. The growing digital penetration is 
+driving e-commerce, and the usage of wallets for enabling commerce transactions has led 
+to an increased demand for payment offerings. This kind of cross-industry growth has been 
+driving VC firms to invest across segments.
+In early 2016, Goldman Sachs announced early-stage conversations with Indian Fintech 
+startups to potentially invest up to USD 10 million. Apart from international financial 
+institutions such as Goldman Sachs, Barclays and Citi, other banks such as Indian’s largest 
+national bank State Bank of India have set up innovation hubs or accelerator programs 
+to attract startups. Well-known global investors like Sequoia, SAIF, Matrix Partners, IDG 
+Ventures and others have made few big bets in the Fintech space such as MobiKwik, Citrus 
+Payments and Bankbazaar.com.
+
+8
+Among the various other interesting Fintech startups that have procured funding, one 
+such startup, Capital Float, provides loans to SMEs by assessing their history through 
+partnerships with e-commerce players. Capital Float has raised three rounds of financing 
+on consecutive years between 2014 and 2016. The major driver for its growth has been 
+mutual growth between e-commerce and lending requirement for SMEs. The company has 
+enabled merchants on e-commerce platforms to finance their growth that in turn benefits the 
+e-commerce players, that would eventually build stronger partnerships with Capital Float. 
+Another company, which has been getting traction from investors, is Bankbazaar.com, an 
+application-based end-to-end financial service provider. The company aggregates financial 
+products from banks and compares them to suit the needs of the customer. The company 
+also helps in collecting the documents required for KYC and submits it to banks, which 
+Source: LTP
+
+9
+makes the application process easier for the customers and banks. They generate revenues 
+by earning a commission on applications for banking products.
+Additionally noticeable is the Fintech startup Citrus Pay, which has launched ‘Sellfie’ which 
+enables individuals and small businesses to promote, sell and collect payments on social 
+networks and instant messengers, propelling social commerce. Finally, to cater to the large 
+number of customers without a credit card – only 10 million people in India have a credit 
+card – ZestMoney has launched an on-demand instant credit service. This boosts the buying 
+capability of the young population, which has no access to credit cards.
+Hence, both investors and startups in India have been actively involved in the emergence 
+of a vibrant Indian Fintech ecosystem. They have, however, moved into a space that has 
+traditionally been heavily influenced by the Indian Government and Regulatory Bodies as 
+well as the Financial Infrastructure. The impact of these regulatory frameworks is outlined in 
+the next section. 
+2.3 Government, Regulatory Bodies and 
+Financial Infrastructure
+The government and the regulatory bodies have recognized the changes that are taking 
+place in the Indian Fintech space and have constantly kept pace with the rapidly changing 
+environment in terms of technology and customer expectation.
+The Indian government has launched a funding support initiative called ‘Startup in India’ 
+which has a dedicated fund of USD 1.5 billion to support Indian startups. Similar to VC 
+funding, this fund is expected to be disbursed across various segments, not limited to 
+but including Fintech. Furthermore, the Indian government has launched various tax and 
+surcharge reliefs such as income tax exemption for startups for the first three years, setting 
+up National Credit Guarantee Trust Company to provide credit guarantee mechanisms 
+via debt funding for startups, and exempting capital gain tax for investments in unlisted 
+companies for longer than 24 months.
+India offers a strong infrastructure for Fintech startups from around the world, which are 
+planning to start their operations or are planning to expand to the Indian subcontinent. A few 
+of the key parameters that portray the opportunities present are as follows.
+Financial Inclusion and Enablement: The launch of ‘Jan Dhan Yojana’ scheme, 
+aimed at providing a bank account for every individual and increase banking 
+penetration, was launched in 2014 and has added more than 240 million bank 
+accounts in the past three years. Fintech startups with their asset-light model 
+can build on this infrastructure by providing easy-to-use and efficient transaction 
+
+10
+services (P2P, C2B or B2C) across financial services segments like micropayments, 
+lending, insurance, mutual funds and others. 
+A growing digital population: With around 370 million Internet users in India, the 
+Internet penetration still lies at less than 40%. This is expected to grow in the near 
+future continuing the 2x growth witnessed in 2015 in rural population coupled with 
+government initiatives such as ‘Digital India’ aimed at penetrating digital services. 
+The growth is expected to increase the penetration of current Fintech startups as 
+well as provide a new market for potential new solutions and new players.
+Promoting non-cash transactions: In order to reduce the amount of paper cash 
+being used in day-to-day transactions, the government has taken certain proactive 
+steps like tax rebates for merchants accepting more than 50% as electronic 
+payment.
+Biometric identification database: Aadhaar, the government’s initiative to create 
+a central identification database, now holds the information of over 1 billion Indian 
+citizens. This is being leveraged for eKYC and financial benefit transfer schemes. 
+It also helps firms to reduce the time and effort required for first-time customer 
+verification. DBS, a global bank, has launched their mobile-only banking platform 
+called Digibank, which leverages Aadhaar for customer verification.
+On the regulators’ side, India’s central banking institution and regulator Reserve Bank of 
+India (RBI) has put in place new guidelines in 2014 relaxing the rule for requirement of 
+customers to undergo a KYC process for transactions up to INR 10,000 per month through 
+prepaid instruments. This guideline allows consumers to download a wallet of choice and 
+use them for transactional services such as booking tickets, P2P remittance and paying bills 
+without the need for documentation or photographs.
+Source: LTP
+
+11
+With an approximate 70% of the bill payments from top 20 cities amounting to around USD 
+100 billion estimated to be paid by cash, the RBI has launched the Bharat Bill Payment 
+System (BBPS). BBPS will enhance the current bill payment infrastructure, which is biller-
+specific in terms of mode of payment and channels supported to provide customers with 
+‘anytime, anywhere’ payment options. BBPS will function as a tiered structure for operating 
+the bill payment system in the country. India’s umbrella organization for payments, National 
+Payments Corporation of India (NPCI), will function as the authorized Bharat Bill Payment 
+Central Unit (BBPCU), which will be responsible for setting business standards, rules and 
+procedures for technical and business requirements for all the participants. NPCI, as the 
+BBPCU, will also undertake clearing and settlement activities related to transactions routed 
+through BBPS. As on date, 62 entities have received in-principle approval from RBI to 
+function as Operating Units, out of which 52 are banking and 10 are non-banking entities. 
+ItzCash, Paytm, Oxigen, PayU are some of the Fintech startups that are part of this project. 
+Another popular Fintech initiative is the launch of UPI, a modern payment infrastructure that 
+is expected to be launched by 18+ banks and Fintech startup partners. Apart from these 
+initiatives, the RBI in June 2016 has also set up a multi-disciplinary committee to study the 
+Fintech business in India. The committee is expected to study the new models of innovation, 
+provide a framework and guidance for Fintech startups, and also develop infrastructure to 
+promote innovation. 
+Fintech startups, banks and the government’s recent activities have hence paved the way for 
+institutionalised startup activities. This has led to the emergence of specialized accelerators 
+and incubators that are covered in the next section. 
+2.4 Accelerators and Incubators
+India is considered as one of the top five countries in terms of number of startups. This is 
+set to further increase with digital and smart city initiatives taken by the government of India 
+that are focused on building a connected technology infrastructure in the country. Such an 
+infrastructure would ease the process of customer onboarding and connectivity for Fintech 
+startups. At the time of compiling this report, 13+ Fintech incubators and accelerators exist 
+in India. Some Fintech-specific accelerators/incubators are outlined below.
+PayPal, which has been at the heart of Fintech innovation, launched Start Tank incubator 
+in 2013. The incubator provides an obligation-free environment to startups to use their 
+facility. A few Fintech startups that have taken part in their incubation program are CashFree, 
+D-Rewards, Notifie and ftcash.
+Rainmatter and K-start, both incubators, not only provide mentorship and technological 
+benefits to startups, but also provide funding opportunities (US $100–500k) for scaling the 
+startup operations.
+
+12
+A new trend can be witnessed in India, where banks have started partnering with 
+accelerators and Incubators to show their support to the Fintech startups. As such, 
+YES bank has partnered with India’s largest incubator T-Hub to provide Fintech startups 
+products, payment gateways and open APIs. Similarly, Axis Bank has launched Thought 
+Factory to help accelerate the development of innovative technology solutions for the 
+banking sector. One of India’s leading startup accelerator ‎Zone Startups located at the iconic 
+Bombay Stock Exchange building, runs majority of corporate Fintech programs such as 
+Barclays’ Rise accelerator program, Thomson Reuters’s Fintech Innovation Challenge, and 
+Axis Bank’s startup accelerator program. 
+With an economically favorable environment for Fintech startups and both private and 
+public players actively supporting them, one main element influencing the strength of the 
+ecosystem is the availability of talent. As the next section outlines, there is an abundance of 
+Indian technical and business talent ripe to be included in startup activities. 
+2.5 Human Resources
+India offers a large fresh talent pool for Fintech companies from engineering background 
+that has an estimated average of 850,000 graduate and post-graduate students from various 
+fields of engineering in India. Engineers from institutions such as the Indian Institute of 
+Technology (IIT) and other world-class institutes constitute approximately 3.8% of the total 
+Engineering graduates that are available for Fintech companies to hire. India is also the 
+largest English-speaking nation after the USA. Though majority of these fresh graduates may 
+not be immediately deployable to jobs – an on-the-job technical training investment for fresh 
+graduate hires is a normal industry practice in India.
+For MBA graduate hiring, India has some of the world’s best business schools, that rank in 
+top 100 such as ISB Hyderabad, IIM Ahmedabad, IIM Bangalore and IIM Calcutta. On an 
+estimated average, there are about 220,000 MBA graduating in India every year.
+Apart from the vast fresh talent, India also has approximately 2.5 million professionals in 
+financial services for lateral hiring. For many years, India has been a destination for major 
+financial services to outsource their processes. Apart from outsourcing, leading global 
+financial services firms have set their captive centres in India. The outsourcing and captive 
+arms of financial services were present in India for more than two decades and this has 
+led to the development of mature models of outsourcing. Starting from voice process 
+outsourcing, businesses have graduated to developing process-critical solutions such as 
+infrastructure services and automation across financial services via outsourcing and captive 
+centres. This has made a skillful and knowledgeable workforce widely available. Banks have 
+been changing their model of the global extended team to service delivery model in India 
+which has resulted in setting up various captive centres and centres of excellence. Danske 
+
+13
+Bank opened its captive centre in Bangalore in 2015, Deutsche Bank has set its captive in 
+Bangalore, Pune, Mumbai and Jaipur and Credit Suisse has set up its Centre of Excellence 
+in Pune.
+Hence, the emergence of Fintech in India has been supported by entrepreneurial activities of 
+early Fintech startups, the initiatives taken by banks, the government and incubators as well 
+as the abundance of innovative talent. The report will now discuss how this emerging Fintech 
+market in India is different from similar spaces around the world and the elements that make 
+it special and appealing for Swiss startups. 
+“The cost of technology and talent is not high in India so we 
+have an unbeatable advantage.”
+Mr. Mohandas Pai, Chairman, Manipal Global Education 
+Services and Aarin Capital
+Source: LTP
+
+14
+3.
+What makes 
+Fintech in 
+India unique?
+ 
+As was outlined in the previous section of this report, Fintech has been thriving in India for 
+the last few years. However unlike more developed markets in Europe and North America, 
+India’s recent emergence as an economic powerhouse renders comparisons to these 
+markets more difficult. This section aims at outlining what makes Fintech in India unique by 
+firstly drawing the comparison to other global Fintech hubs. It will then proceed to discuss 
+the most active segments in Indian Fintech – payments and lending – and finally offer an 
+overview of the main innovations and challenges present in the current market. 
+Fintech in India is unique because it is young, growing rapidly, and is fuelled by a large 
+market base. With internet penetration and mobile usage expected to increase rapidly from 
+53% in 2014 to 64% by 2018, India provides an attractive market for technology startups. 
+The financial services market in India is largely untapped – 40% of the population is currently 
+not connected to banks and more than 80% of the payments in India are still made by cash. 
+This untapped Indian Fintech market provides a robust opportunity to significantly increase 
+demand in almost every category – consumer lending, insurance, trade finance, digital 
+payments and many more. In each of these areas, new Fintech solutions can help the market 
+to grow significantly. 
+However, some areas are more strongly represented in the Indian Fintech market. The next 
+few pages are dedicated to highlighting these focus areas. 
+3.1 Comparing India versus other Fintech hubs globally
+Source: LTP
+
+15
+With the United States, Hong Kong, Singapore and the United Kingdom blooming as global 
+hubs for Fintech, India has only recently emerged as a key player. However, India holds a 
+lot of promise as it provides the right mix of technical skills, government support, regulatory 
+policies and the business environment for startups to flourish. For example, UPI in India is 
+unlike anything available in the United States or the United Kingdom. 
+Some of the key characteristics of the Indian market that make it exciting and interesting for 
+Fintech startups are: 
+•	
+India is the only Fintech hub that provides ample opportunity to target large unbanked 
+population. Coupled with the growing young population who readily accept new 
+technologies, India makes an attractive destination for Fintech startups.
+•	
+The difficult exercise to change consumer behaviour towards accepting Fintech 
+solutions is already underway.
+•	
+The broad level of technical education provides India with a strong talent pipeline of a 
+comparatively cost efficient and easy-to-hire tech workforce.
+•	
+India has the second biggest startup ecosystem in APAC after China measured in deal 
+size and number of deals. 
+Overall, India is confidently moving up the Fintech ladder and provides plenty of 
+opportunities for Fintech startups to enter the diversified market and be successful provided 
+a careful solution-customer match and a strong go-to-market strategy is in place. The two 
+broad segments where Fintech is most active in India are payments and lending. Out of 
+the more than 600 Fintech startups currently active in India, around 40% are payments and 
+lending startups. The next few pages will hence dedicate special attention to these two 
+Fintech segments. 
+
+16
+“Indian startups can go global. In case of insurance, 
+the regulations globally are not vastly diff erent; the 
+market dynamics however are distinct, infl uenced by the 
+demographics and evolutionary state of the industry. If 
+startups can fi ne tune their product off erings for market 
+adoption, they can eye global expansion.”
+Mr. Amit Kalra, Senior Vice President, Head Strategic 
+Initiatives and Analytics unit at Swiss Re, Bangalore
+3.2 Payments
+The payment space is the most competitive segment and provides a strong growth potential: 
+In the last 3–4 years, India has witnessed robust activities in payments. As such, the number 
+of prepaid instruments transactions in 2015 to 2016 is almost twice of mobile banking 
+transactions. The competitive payment space in India ranges from telecom companies, 
+banks, wallet companies, e-commerce and technology fi rms and is highly likely to include 
+payment banks in the future. 
+Source: LTP
+Source: LTP
+
+17
+Between 2009 and 2010, RBI issued 26 prepaid payment instrument (PPI) licenses. Two 
+types of PPI exist in India now: Mobile Wallets and Prepaid Cards. 
+•	
+Mobile Wallets are app-based stored-value accounts, funded through credit/debit cards 
+or via net banking. Paytm, Freecharge, MobiKwik, and Citrus (acquired by PayU) are 
+some of the prominent Fintech firms operating in this space. Currently, these wallets 
+are majorly used for mobile recharges, bill payments and online commerce. They are 
+backed by VC funding and are spending heavily on customer acquisition through 
+marketing initiatives. They are also expanding their services through tie-ups with cab 
+services, retail stores, educational institutions and fuel stations to increase reach and 
+usage of their wallet services. The wallet companies are also reaching the unbanked 
+and underbanked through innovative solutions such as MobiKwik cash pick up service 
+and Paytm tie-up with ICICI Bank for cash loading. Wallets are growing in popularity 
+and several companies have applied for licenses with the total number of PPI licenses 
+growing to 46 in 2016.
+•	
+Prepaid cards on the other hand have been promoted by startups including Oxigen, 
+ItzCash, Suvidhaa and others, which provide solutions with an agent-assisted offering 
+to consumers who are not digitally well equipped. The primary usage of prepaid cards 
+is for expense management, remittances and railway booking. Other technology 
+firms and startups have also penetrated the PPI competitive space by acquisitions to 
+provide in-house wallet or payment solutions. Examples include Snapdeal acquiring 
+Freecharge, Flipkart’s acquisition of FxMart to offer Flipkart money and Amazon 
+acquired Emvantage. 
+Apart from PPIs, another exciting development in the payments space is the so-called 
+Payment Banks - new, stripped-down versions of banks conceptualized by the RBI. These 
+banks are expected to reach their customer via digital channels and provide transaction 
+services for the migrant labour market in India. The scope of activities these entities are 
+permitted to undertake include acceptance of demand deposits up to USD 1,700  (INR 
+100,000) per customer, issuance of debit cards, offering payment and remittance services, 
+acting as a business correspondent to other banks, distribution of mutual funds, insurance 
+and more. They cannot undertake any lending activities, issue credit cards, accept NRI 
+deposits or be a virtual bank. Payment Banks face the challenge of their inability to earn 
+lending revenues and high rates of interest on floats due to the regulation of investing 
+deposits in government securities.
+As it would be economically inefficient for banks to open branches in every village, Payment 
+Banks are expected to provide a digital alternative for the large unbanked population. This 
+is expected to drive India’s journey into a cashless economy and is being compared to the 
+success of Vodafone’s M-Pesa in Kenya where an estimated 70% of the population uses 
+M-Pesa for domestic remittances and low-value purchases. Payment banks could also play 
+
+18
+a crucial role in implementing government benefit transfer schemes.
+In 2015, RBI provided in-principal approval to 11 entities to set up Payment Banks. Entities 
+that received these licenses are Airtel, Vodafone, Reliance Jio, Uninor, Idea, Mahindra 
+Finance, Cholamandalam, Paytm, NSDL, FinoPayTech and India Post. Cholamandalam, 
+Uninor and Mahindra have already returned their in-principle license to RBI.
+However, companies with the long-term vision, existing infrastructure and capital in place 
+are looking at this solution as a major strategic bet and have laid down the roadmap for their 
+operations. Paytm plans to start its operations by end of 2016 and India Post has received 
+51 applications from all over the globe for partnerships in setting up their payments bank 
+and has stated that they would start operations by early 2017.
+In summary, there are a large number of Fintech startups focused on payments. The above 
+examples illustrate that they are rapidly evolving given changing use cases, customer 
+propositions and business models. The support of a favourable regulatory environment 
+combined with the young demographic willing to try and test new technologies, the Indian 
+payments industry is a great place for Fintech startups to explore.
+3.3 Alternative Lending
+Another strong element in Fintech space in India is Alternative Lending. The major block of 
+lending in India is still held in the form of community finance where family and community 
+members, as well as offline lenders, dominate the space. Some experts feel that community 
+finance is as big as the traditional bank consumer lending. The average annual market rate 
+for such offline and unsecured loans is approximately 30%, which is almost 2–2.5 times the 
+rate of an average personal loan charged by banks. Community lending has been thriving 
+due to it being largely unregulated and a commonly accepted scheme of functioning among 
+the unbanked and underbanked. However, with increasing financial inclusion and digital 
+penetration, there have been an increasing number of startups that are looking at targeting 
+this lending mechanism. Eight alternative lending startups feature among India’s 50 most 
+well funded Fintech startups.
+“Lending is a key area. Credit Suisse believes there is a US $ 
+600 billion opportunity within [the] lending space.”
+Mr. Nandan Nilekani, Former Chairman - Unique 
+Identification Authority of India
+Source: LTP
+
+19
+Unsecured consumer lending as of today has largely been confined to the metros. There 
+have been innovative technology-savvy solutions that have been targeted towards the 
+urban crowd who are looking at alternative credit due to two reasons, for ease of access 
+to funds where the technological process does not require huge documentation and large 
+wait times which have been common requirements for bank lending and the other reason is 
+lack of credit scoring where the growing young population of the country has largely been 
+away from loans and hence, lacks any existing credit record. As a result, this segment does 
+not have credit scores from Credit Information Bureau India Limited, which collects and 
+maintains records of an individual’s payments pertaining to loans and credit cards.
+More recently, P2P (peer to peer) and segment-based lending have been gaining 
+prominence. Fintech startups have developed solutions that provide superior customer 
+experience and faster processing times for lending. P2P lending platforms act as an 
+aggregator for lenders and borrowers to enable creating a match between both the parties. 
+Faircent and i-lend are two of the prominent players in the P2P lending space. 
+Some of the startups have been involved in the activity of targeting microfinance with the 
+goal of creating a social impact and providing easier access to credit to small entrepreneurs. 
+For example, players like crowdfunding platforms Milaap and Rang De have used the social 
+chord in order to develop their platform as well to have an impact on farmers and rural 
+population.
+Segment-based lending, on the other hand, includes players like EarlySalary that focuses 
+on younger working population for providing loans. They give out loans from USD 150 to US 
+$1500 (INR 10,000 up to INR 100,000) based on the borrower’s salary for a tenure of 7 to 30 
+days. Such segment-focused startups are at an early stage and could be a very attractive 
+segment for new Fintech solutions. 
+However, as discussed earlier, a major chunk of these solutions are currently being targeted 
+at the urban audience, leaving behind the rural and unbanked sector where the maximum 
+potential lies. One major reason for such ignorance of Indian rural users has been the 
+difficulty in collecting data around the unorganized Indian rural segment. There is a growing 
+interest in solutions that can incorporate these unorganized data pointers, largely qualitative, 
+to provide a comprehensive understanding of the tier-II and tier-III market. Traditional Non-
+Banking Financial Companies such as IFMR Holdings and agent-based new age financing 
+players such as Equitas Holdings and Ujjivan Financial Services, that caters to unbanked 
+urban poor, have made big strides in this space. These players have built strong algorithms 
+that have been improved iteratively with the addition of multiple data pointers gathered not 
+only from technology but also from on-field agents. 
+The traditional business lending segment is yet to witness major disruptions in the Indian 
+context. The huge financing requirements and decades of trust and relationship between 
+
+20
+financial institutions and business have been tough to crack. However, the SME sector and 
+the emerging digital business sector have started to take the alternative lending approach. 
+Solutions such as receivables financing, equipment finance and to a certain extent mortgage 
+finance have seen traction among the startups.
+In spite of the pivotal role it plays in the country’s economy, the SME sector suffers on 
+account of inadequate financial access with an estimated USD 50 billion gap in SME credit. 
+Fintech startups are allowing SMEs to focus on building their business by taking care of the 
+gaps in SMEs capital requirements. The credit risk analysis is done digitally so that loans 
+are provided in less than 48 hours. Startups in SME financing like IndiaLends, Lendingkart 
+and Faircent have gained a lot of attention from the investor community. Invoice financing 
+startups such as KredX is into invoice discounting to solve the problems of working capital 
+of micro, small and medium enterprises by releasing the cash tied up in customer invoices 
+that would otherwise be paid in 30 to 90 days. Another example is Instakash, a mobile data 
+analytics company applying AI and machine learning to create financial products, focused 
+on consumers and SMBs, to simplify financial access for the next-generation users. They 
+are leveraging the overall growth of new-age startups and have developed dedicated loan 
+products to meet those demands and have specific car loan products to finance Uber, Ola 
+and other taxi-hailing service drivers.
+Bank technology solutions startups aim to partner with banks to enhance loan origination 
+and servicing capabilities. These include startups which provide digital onboarding, 
+underwriting technology and loan servicing capabilities. This segment has seen widespread 
+development in markets like the US and the UK but is yet to take off in the Indian market, 
+providing a major opportunity for Fintech startups. 
+Overall, Swiss startups looking to enter the alternative lending market in India can take a 
+cue from above examples and incorporate a mix of online and offline models to cater to the 
+services of this still largely unpenetrated market. Startups can build solutions to provide an 
+easy-to-use, low-cost, and better alternative lending for the borrowers and an alternative 
+investment vehicle for retail and institutional investors. 
+3.4 Innovation in the Indian Fintech market
+Two key innovation drivers, Aadhar and UPI have huge potential to push the Indian Fintech 
+ecosystem ahead.
+Firstly, one of the most innovative initiatives to come out of India is Aadhaar, which acts 
+as the core for India Stack initiative. ‘India Stack’ is a term used to explain a set of public 
+APIs targeted at customer verification, digitizing identity, payments and secure personal 
+digital content. It is led by iSPIRT, a non-profit industry body working with various volunteer 
+
+21
+technology leaders, regulators and government agencies. 
+The very base of India stack is Aadhaar – the national digital ID program. Aadhaar extends 
+to a billion Indians a powerful biometric database that can be accessed by any service 
+provider. This is a huge milestone for India as until recently millions of Indians had no 
+formal government identification. The data collected by Aadhaar forms the very foundation 
+for electronic customer verification (eKYC), replacing the laborious physical verification 
+previously required for financial transactions. This also cuts the time and cost of processing 
+transactions by 50–80% depending on the product and service. Aadhaar is a gigantic step 
+taking India forward and changing the economics of providing financial services to masses. 
+The reason for Aadhaar’s success has been the support that it has gathered over the years 
+from various entities. Major Indian regulators such as RBI, SEBI (securities), IRDA (insurance) 
+and TRAI (telecom) have widely accepted the Aadhaar-based eKYC. 
+“India Stack led by Nandan and iSPIRT is the going to be 
+biggest disruptor in the financial services space.”
+Mr. Mohandas Pai, Chairman, Manipal Global Education 
+Services and Aarin Capital
+The second innovative initiative is Unified Payments Interface (UPI) with the aim to transform 
+payments. It is an open API that banks can deploy to allow phone-to-phone payment 
+transfers directly from bank accounts. The future of UPI is compelling – it will allow 1 
+billion plus mobile phones which will be used for everything from P2P transfers, local store 
+payments, migrant labourer payments and other user cases. If we look closely at the impact 
+that UPI will have on Fintech players, it is a blessing in disguise for payment agnostic 
+players. Furthermore, it is expected to have a negative impact on players that have built non-
+interoperable and siloed products for example digital wallets, net banking network providers 
+and card network providers. Overall, the success of UPI depends on its mass adoption and 
+it is highly dependent on companies, developers, merchants and even customers to make 
+sure that it achieves its full potential.
+Source: LTP
+
+22
+3.5 Challenges facing Indian Fintech industry
+With all these positive developments in Fintech, India needs to address some important 
+challenges.
+Firstly, the absence of broad-based financial transaction infrastructure, which has been 
+a major challenge as several Indians in rural parts of India do not have bank accounts, 
+credit score and home ownership details. This has played a vital role in the lack of financial 
+services penetration. For example, loans or lending in India is tedious and time-consuming 
+as regulations demand physical documents for identification proof, pay slips, notary copies 
+of all documents, verification of signatures, in-person verification, and physical inspection 
+of property. Due to the lack of relevant financial data, the risk of lending to millions of 
+undocumented and unverifiable Indians is very high even though they satisfy the income 
+sufficiency test. 
+“Fintech startups must know how to sell their technology and 
+make it seamless.”
+Mr. Mohandas Pai, Chairman, Manipal Global Education 
+Services and Aarin Capital
+Secondly, as the native digital and financially literate population is low, the current set of 
+financial products and services do not cater to the vast majority of Indians and are only 
+designed for the top 40 million of the population. There are about 400 million Indians who 
+earn between USD 3,000 to USD 15,000 a year and their needs have not been addressed 
+yet. Bala Srinivasa, Partner at Kalaari Capital feels that this is an opportunity for Fintech 
+startups in India and incumbents to capitalize and to reimagine the needs of the rest of the 
+population.
+Finally, there is a dire need for innovation in developing segment-specific vertical products 
+unique to India. India has already seen a glimpse of it including small ticket of unsecured 
+loans, prepaid plans for single medical procedures, instant point-of-sale credit, pay-per-day 
+insurance, micro-investment products and others. Currently, startups have not gone in-depth 
+to understand the segment and create solutions that are usable, affordable and profitable. 
+For instance, solutions such as credit schemes focused on woman entrepreneurs, social 
+financing and crowd financing are areas that are yet to see any large-scale disruptions. 
+Addressing these challenges by not only building on the innovations already initiated by 
+Indian Fintech startups, but also by building disruptive solutions, can provide an unique 
+opportunity for startups to profit from the large Indian Fintech market. 
+Source: LTP
+
+23
+4.
+Case Studies
+This section offers a glimpse of selective domains that stand out in the Indian Fintech 
+market. It discusses InsurTech and is then followed by two case studies of companies that 
+have done particularly well in India. 
+4.1 Insurtech – the new kid on the block
+Apart from traditional segments such as payments, lending and fund management, India 
+offers a good potential in many other segments. One such segment is insurance where 
+InsurTech startups can have deeper impact and possibilities to disrupt the market.
+India is attractive from an InsurTech perspective due to the size of its significantly 
+underinsured population. According to the global reinsurer SwissRe, the Indian insurance 
+penetration stands at 3.4% in 2015 compared to a global average of 6.2%. Insurance 
+penetration refers to premiums as a percentage of GDP. The insurance sector in India was 
+liberalized in 1999, which marked the end of the monopoly of LIC (Life Insurance of India, the 
+largest public sector insurance provider), and the number of companies increased from two 
+prior to 1999 to 53 in 2016. Approximately half of these 53 companies provide life insurance 
+and the other half deal in non-life insurance matters.
+As the second-most populous country in the world, India constitutes for approximately 2% 
+of the life insurance and 0.66% of the non-life insurance premium paid globally. Premium 
+income has witnessed a growth of 22.5% in 2015–16 (April 2015 to March 2016) and 
+reached INR 1.38 trillion. The increase in savings of households and the growth of the 
+economy is expected to increase premiums and investment into insurance policies.
+Apart from the market potential, the government has been taking initiatives such as 
+increased FDI limit to 49%, increased tax incentives for health insurance schemes, schemes 
+to provide insurance for the unorganized sector workers that can be seen as favorable 
+factors for increased penetration in the next few years. Government schemes launched in 
+the last two years include the Pradhan Mantri Suraksha Bima Yojana, which is a personal 
+accident insurance scheme and the Pradhan Mantri Jeevan Jyoti Bima Yojana, which is 
+the government’s life insurance scheme. The two major schemes launched in the past two 
+years offer basic insurance at minimal rates and can be easily availed of through various 
+government agencies and private sector outlets.
+Fintech startups can play a major role in both enabling established insurance firms and in 
+designing new types of insurance products. In terms of infrastructure, digital distribution 
+is expected to save life insurance companies 10–20% in costs while it is expected to save 
+20–30% for non-life insurance companies. Also, the online channel is expected to drive 
+50% of life insurance and 75% of non-life insurance of the USD 165 billion of new insurance 
+sales in 2020. Currently, the sales and distributions are largely paper-driven and startups 
+that provide or build this infrastructure can partner with insurance firms to provide digital 
+
+24
+distribution channel. Apart from digital distribution, algorithms could be created for data 
+capture and cross sales, enhanced customer engagement and conversion, and enhanced 
+underwriting technology, which could be provided for insurance firms to better price and 
+segment their offerings.
+In terms of product, with non-life insurance penetration at 0.8%, very few products exist for 
+traditional segments such as crop insurance, micro-insurance, motor insurance and health 
+insurance sectors. Startups with strong underwriting capabilities can develop unique models 
+for the Indian market and develop/design products that cater to the specific needs of the 
+segment. Also, in non-life insurance, the emergence of IoT coupled with the smart city and 
+connected devices initiatives of the government can lead to new underwriting models in the 
+insurance industry.
+Currently, PolicyBazaar and Coverfox are the two main InsurTech companies that have been 
+notably doing well in India. The companies have formulated a unique aggregator model for 
+both life and non-life insurance and have gained traction from VCs due to the potential for 
+digital sales in the insurance sector. They are ensuring to educate customers not only on 
+policies and their availability but also on the kind of insurance a particular customer needs, 
+thus creating awareness for products in the consumer’s mind.
+
+25
+Payments and wallets are a highly competitive segment in India with a large number of 
+global and local players. However, with 80% of the transaction still being done by cash, cost 
+eff ective digital payment solutions specifi cally in the micro-transaction services segment, 
+have a good potential for growth. To fi ght the large established Fintech players, access to 
+capital would be a major requirement for new solutions enabling plain wallet services. With 
+simple value added services, startups can expect higher customer loyalty and traction. 
+PayTM – from Fintech startup to India’s 
+largest payment company
+Paytm, India’s largest payment company, was launched in 2010 as a mobile 
+recharge service provider and has evolved gradually to an e-commerce 
+marketplace in 2014. The company then increased its services by providing 
+bus tickets in 2015 and introduced movie tickets and fl ight tickets in 2016 
+through its portal.
+After providing various value-added services for telecom operators, Vijay 
+Shekar Sharma launched Paytm in 2010 as an online prepaid mobile recharge 
+portal. As they were one of the fi rst to provide this service, they increased 
+the customer base rapidly and soon expanded Paytm as a semi-closed 
+wallet in 2013–14. They then moved into multiple business ventures – movie 
+tickets, wallet integration to other commerce applications (online & mobile), 
+e-commerce and others. Riding on the trend of rapid mobile penetration in 
+India and also the fact that the user will spend more time online, Paytm has 
+created over 100 million wallets carrying out over 75 million transactions per 
+month.
+Paytm aims to be the fi rst profi table e-commerce venture in India by refi ning 
+its O2O (online-to-offl  ine and offl  ine-to-online) business strategy. O2O refers 
+to consumers being able to search and buy across channels. For example, a 
+consumer would be able to search for a particular product online but purchase 
+the same at the closest offl  ine outlet and vice versa. It has acquired hyperlocal 
+service marketplace Near.in and invested in delivery enabling startups Jugnoo, 
+an online aggregator of auto-rickshaw services and Little, a platform that helps 
+consumers fi nd deals at nearby outlets to enhance their O2O model.
+Apart from O2O, Paytm has a strong focus on data science and uses them to 
+identify Stock Keeping Units which help in increasing the margins and also in 
+fi ghting card fraud.
+With its payment bank license granted from the RBI, Paytm will be able to 
+open checking/savings bank accounts. It plans to use this as a platform to 
+further enable micro transactions via its wallet and also as a revenue source by 
+cross-selling fi nancial products. Paytm has received a total funding of around 
+USD 740 million with Alibaba being its leading investor, owning close to a 25% 
+stake.
+
+26
+Zerodha – India’s discount brokerage 
+platform for the 21st century
+Launched in 2010, Zerodha is India’s fi rst provider of electronic discount 
+brokerage platform and is known for pioneering the zero-brokerage concept in 
+India. It currently caters to around 120,000 clients with average daily turnovers 
+of USD 1.5–1.8 billion in equities and USD 150 million in commodities. It has 
+generated revenue of USD 25 million and a profi t of 10 million in 2015.
+The company has disrupted the traditional model of brokerage in India 
+where it charges a fi xed fee per executed transaction rather than charging a 
+percentage of the total traded. This has helped Zerodha in targeting clients 
+that execute large volumes of trade in futures and options and exempted them 
+in paying high-broking charges. This has led to a vast growth in the number 
+of customers they serve. Apart from the low fees, the company has also 
+built diff erent off erings for diff erent trading segments. It has a total of seven 
+off erings, each catering to futures, equity, options, commodity and currency 
+segments.
+The company plans to grow its customer base to 1 million by 2017. In order 
+to reach this target, Zerodha recently launched its platform in 11 regional 
+languages and has a strong strategy including product launches, new service 
+off erings and customer education.
+The company has taken steps to educate the customer in understanding 
+their trading habits and how to evolve to be a better trader by launching tools 
+such as Q, Quant and Open Trade. These tools not only help customers in 
+understanding their trading habits but also help them in picking trade updates 
+from profi table traders based on their trading style and help them in gaining 
+customer loyalty. The educational initiatives undertaken by the company 
+include an active fi nance blog which explains the key terms of trading and 
+also educates consumers on how to make trading and long-term bets and free 
+expert training videos on YouTube. 
+Rainmatter, a Fintech Incubator is another key initiative by Zerodha which 
+helps to bring innovative solutions to the market. Rainmatter provides startups 
+with APIs, research, and mentoring and fi nancial support. Zerodha invested 
+USD 375,000 in April 2015 in Tradelab, a stockbroking and analytical software. 
+This solution was later provided as an integrated off ering in one of Zerodha’s 
+product, ‘Pi’.
+Investments management is a high growth segment for startups. With a lower number of 
+startup solutions, multiple subsegments could be targeted and could off er Fintech solution 
+providers the fi rst mover advantage. However, customer education is a key requirement for 
+acceptance of these solutions in India. 
+
+27
+According to the data of MEDICI research, an estimated 90% of the Fintech startups in 
+Switzerland are from investments platform, payments, InsurTech, virtual currency and 
+blockchain, security and analytics, and personal finance management segments. These 
+segments also hold promise in the Indian Fintech space. 
+Increasing financial inclusion and regulators opening up licenses for innovative solutions 
+are expected to drive India’s Fintech market. A few major areas that are ripe for disruptive 
+solutions in the Indian context are InsurTech, analytics, artificial intelligence, and investments 
+platform. 
+“Swiss Fintech have an opportunity in India, if they have 
+deep domain expertise. Fintech opportunity is big and next 
+10 years would be interesting. Asset management/Wealth 
+Management and Insurance are great areas.”
+Mr. Nandan Nilekani, Former Chairman - Unique 
+Identification Authority of India
+As described above, lending is a growing segment in India. However, the major challenges 
+financial institutions and startups face are in underwriting the risk for unorganized data. Any 
+established analytics platform, which can provide such services, would be a great success 
+in the Indian context. Also, fraud and security are a major focus area for banks as well as 
+Fintech startups, especially in transaction and payment services. With the launch of modern 
+payment instruments such as UPI and the increasing usage of wallets and cards, there is 
+also the issue of fraudulent transactions that needs to be tackled. Hence, major entities 
+invest heavily in this space. Swiss startups in data management, security, and fraud analytics 
+space could consider providing their solutions and establishing their presence in the Indian 
+market. 
+InsurTech startups that can provide digital services are expected to gain interest from 
+investors, insurance firms and consumers. According to Amit Kalra, Senior Vice President 
+Head of Strategic Initiatives at SwissRe, which is running the first InsurTech accelerator 
+in India “insurance is a 4.6-trillion-dollar-industry and has been largely conventional- the 
+current startups are working just on the surface and has a strong potential to be disrupted 
+by innovative ideas, business models and technology led solutions.”
+With a high-growth economy, growing savings and higher financial literacy and awareness of 
+investments, the scope for investment management services is huge. Established firms are 
+looking for solution providers who can work with them to not only enhance but also expand 
+5.
+Opportunities 
+and 
+Challenges 
+Source: LTP
+
+28
+their offerings. According to Nithin Kamath, Founder and CEO of Zerodha which runs Fintech 
+incubator Rainmatter technologies, “in India when you hear about financial technology, 
+it’s mostly wallets and online payments. We’re more interested in startups that focus on 
+money management [and] trading in markets.” Rainmatter is specifically scouting for foreign 
+startups. This provides an opportunity for Swiss startups eager to explore the Indian market 
+for their international expansion.
+“Swiss startups have a fair chance in the Indian InsurTech 
+space. Any idea/solution with technology as a core has 
+no borders. Swiss startups can surely apply to our global 
+InsurTech accelerator programme in Bangalore.” 
+“We have global VCs in India and I am sure they would 
+be open to fund Swiss start-ups which establish their 
+proposition in the Indian market. With right validation in both 
+developed and emerging markets, they will have strong future 
+prospects.”
+Mr. Amit Kalra, Senior Vice President, Head Strategic 
+Initiatives and Analytics unit at Swiss Re, Bangalore
+Swiss startups could also use the support of home grown global banks like UBS. UBS offers 
+its small-business customers, bexio (a startup), that focuses on cloud-based accounting 
+software. Andreas Kubli, Head of Multichannel and Digitization in UBS Switzerland, feels that 
+the partnership model with bexio will become a “blueprint” to replicate in other countries. 
+Credit Suisse, another Swiss multinational financial services holding company, is an active 
+promoter of Fintech startup hubs and incubators globally. It plays a mentor-like role in 
+evaluating Fintech startups in Switzerland across segments such as artificial intelligence, 
+crowdfunding and robotics, and provides mentorship from their staff. Swiss startups, which 
+are planning to enter India, can become a mentee under the guidance of Credit Suisse India.
+Apart from Swiss banks, Fintech startups can also look at several Indian banks such as 
+HDFC bank, State Bank of India, Federal bank, RBL, ICICI bank among others who have 
+either allocated funds or created special divisions to engage with the Fintech startup 
+ecosystem.
+Swiss startups are likely to face the same set of challenges that Indian startups are going 
+through, namely raising capital, acquiring customers and monetisation. Raising capital 
+is a competitive exercise, as there are a huge number of new startups fighting in a tight 
+funding environment. Customer acquisition is another hurdle where the vast majority of the 
+Source: LTP
+
+29
+addressable market in India is offline and the cost involved in bringing them online is quite 
+high. Monetisation or being profitable is also an issue that startups face. This is partly due to 
+the fact that multiple startups in India have grown by the freebies route, where they initially 
+provide the service for free or at a huge discount and are yet to enter the profitability phase. 
+The other challenge that Swiss startups could face is the ‘me-too’ solution providers, where 
+new startups providing similar solutions are fast to emerge and also localize their offerings to 
+the market needs. 
+To make a mark in Indian Fintech, Swiss startups must adopt a hybrid model which is a 
+combination of online and offline strategy to acquire customers. As the market matures and 
+services such as eKYC, digital verifications and digital payments become more common, 
+Swiss startups could rapidly shift to a complete online model in India.
+
+30
+Innovation in financial services has been growing across the value chain – from product 
+development, packaging, and delivery, to services. Technological advancement coupled with 
+commoditization trends has led to the development of a new crop of nimble firms providing 
+services in each segment of financial institutions offerings. Fintech startups are redrawing 
+the traditional approach to banking services. However, the ability of these startups to match 
+and – in many cases – surpass the offerings and trust the consumer has built with a bank will 
+be a KPI in the long term. 
+The increasing economic power coupled with the sheer number of end-users in the APAC 
+region make an attractive case for Fintech. India, the fastest-growing economy of the world 
+is also home to the second-largest number of Fintech startups in APAC with China leading 
+the pack. The growth in Fintech solutions has seen huge uptick in the last couple of years. 
+This is further expected to grow with the renewed interest from banks and regulatory bodies. 
+Banks have started to actively participate in the Fintech boom by looking for partnerships 
+and investments with startups while the government and regulators are drawing new 
+frameworks and policies that incentivize innovation and entrepreneurship.
+Swiss startups have ample opportunities to extend their offerings and establish their 
+presence in India. Below are few key pointers to consider:
+•	
+India provides a vast user base to startups as the population is rapidly adopting digital 
+technology and hence, the scope for digital services is set to increase.
+•	
+India, being the home for outsourcing and captive services for decades, offers a huge 
+number of fresh talent and installed talent which Swiss startups can capitalize on.
+•	
+Indian banks and majority of the large global firms have opened their Fintech innovation 
+hubs and accelerator programs in India. This is further set to increase as this trend has 
+started only in 2016.
+•	
+Government and regulatory bodies have developed a strong financial infrastructure that 
+is being leveraged for Fintech innovation. Also, there have been multiple policies and 
+initiatives aimed at promoting financial inclusion and innovative banking services.
+The challenges discussed in the report remain. The need for consumer education, building 
+trust, and getting the right licenses would be the major building blocks to starting up in India.
+Overall, India offers a huge market for Fintech that is ripe for disruption. With rising financial 
+awareness, any startup that comes to India would need to strike the right balance between 
+their product and the market, invest in customer education, develop innovative business 
+models and build Fintech in India.
+6.
+Summary and 
+Conclusion
+
+31
+Live Mint, (2016). Flipkart’s PhonePe ties up with Yes Bank to launch UPI-based app. 
+http://www.livemint.com/Companies/zsJlcKjrJrEeCQK3t8wWbP/Flipkarts-PhonePe-
+launches-UPIbased-app.html
+Business Standard (2016). Freecharge partners Axis Bank for UPI support.
+http://www.business-standard.com/article/companies/freecharge-partners-axis-bank-for-
+upi-support-116071700414_1.html
+Yes Bank (2016). Yes Bank launches first-of-its-kind UPI proposition with 50 companies. 
+https://www.yesbank.in/media/press-releases/fy-2016-17/yes-bank-launches-first-of-its-
+kind-upi-proposition-with-50-companies
+Let’s Talk Payments (2016). Indian banks: How They Are Partnering With the Startup 
+Community, Part I. 
+https://letstalkpayments.com/indian-banks-how-they-are-partnering-with-the-startup-
+community-part-i/
+ICICI Bank (2016). ICICI Bank launches India’s first contactless mobile payment 
+solution. 
+https://www.icicibank.com/aboutus/article.page?identifier=news-icici-bank-launches-indias-
+first-contactless-mobile-payment-solution-20161503181731426
+Let’s Talk Payments (2016). A Glimpse into the Future of Banking: India’s First Bank in 
+an App. 
+https://letstalkpayments.com/a-glimpse-into-the-future-of-banking-indias-first-bank-in-an-
+app/
+Let’s Talk Payments (2016). India Fintech Roundup. 
+https://letstalkpayments.com/india-Fintech-roundup/
+Let’s Talk Payments (2016). Indian Fintech Company Citrus Launches Sellfie, an 
+Integrated Contextual Commerce Platform. 
+https://letstalkpayments.com/indian-Fintech-company-citrus-launches-sellfie-the-worlds-
+first-integrated-contextual-commerce-platform/
+Yourstory (2016). No credit card? Bengaluru-based Fintech startup ZestMoney has the 
+answer. 
+https://yourstory.com/2016/07/zestmoney/
+Economic Times (2016). Goldman Sachs looks to invest in early-stage Fintech startups 
+in India. 
+http://economictimes.indiatimes.com/small-biz/startups/goldman-sachs-looks-to-invest-in-
+early-stage-Fintech-startups-in-india/articleshow/51828086.cms
+7.
+Sources
+
+32
+Financial Express (2016).  Modi powers up ‘Startup India’ campaign, unveils Rs 10,000 
+crore fund. 
+http://www.financialexpress.com/economy/startup-india-live-pm-narendra-modi-set-to-
+launch-rs-2000-cr-mission-shortly/195933/
+Business Standard (2016). Direct payment transfers going to be rule in future, says 
+Jaitley. 
+http://www.business-standard.com/article/news-ani/direct-payment-transfers-going-to-be-
+rule-in-future-says-jaitley-116100200189_1.html
+The Centre for Internet & Society (2015). India’s Internet growth and Challenges. 
+http://cis-india.org/internet-governance/blog/indias-internet-growth-challenges
+Live Mint (2016). Internet usage picks up in rural India. 
+http://www.livemint.com/Consumer/QgM23BLpCo4ovHxA0jpOGM/Rural-India-getting-
+online-faster-BCG-report.html
+NDTV (2016). Aadhaar Enrolment Crosses 1 Billion Mark. 
+http://www.ndtv.com/india-news/aadhaar-enrollment-crosses-1-billion-mark-ravi-shankar-
+prasad-1338621
+RBI (2014). Master Circular – Policy Guidelines on Issuance and Operation of Pre-paid 
+Payment Instruments in India. 
+https://rbi.org.in/scripts/NotificationUser.aspx?Id=8993&Mode=0
+NPCI (2015). Bharat Bill Payment System (BBPS) » About Us & Background. 
+http://www.npci.org.in/BBPS-about-us.aspx
+The Hindu (2014). Deutsche Bank opens new back office in Pune. 
+http://www.thehindubusinessline.com/companies/deutsche-bank-opens-new-back-office-
+in-pune/article5785482.ece
+The Indian Brand Equity Foundation (2016). Insurance Sector in India. 
+http://www.ibef.org/industry/insurance-sector-india.aspx
+BCG (2016). Insurance-at-Digital-20x-2020. 
+http://image-src.bcg.com/BCG_COM/Insurance-at-Digital-20x-2020-Mar-2014-India_tcm21-
+28795.pdf
+Business Standard (2015). Insurance penetration at 10-year low.
+http://www.business-standard.com/article/finance/insurance-penetration-at-a-near-10-year-
+low-115062401243_1.html
+
+33
+Gadgets 360 (2015). Paytm Claims to Be India’s First 100 Million User Product. 
+http://gadgets.ndtv.com/internet/news/paytm-claims-to-be-indias-first-100-million-user-
+product-727380
+Economic Times (2015). Alibaba in advanced talks to increase stake in Paytm to 40%; 
+deal may value Indian e-tailer at Rs 23,600 crore. 
+http://economictimes.indiatimes.com/articleshow/47872035.cms?utm_
+source=contentofinterest&utm_medium=text&utm_campaign=cppst
+Business Standard (2016). Online brokerage Zerodha eyes Singapore foray. 
+http://www.business-standard.com/article/companies/online-brokerage-zerodha-eyes-
+singapore-foray-116081300873_1.html
+Yourstory (2015). Bootstrapped and growing at 100% YoY, Zerodha aims to transform 
+the growing Fintech market. 
+https://yourstory.com/2015/11/zerodha-2/
+The Boston Consulting Group (2016). Digital Payments 2020. 
+http://image-src.bcg.com/BCG_COM/BCG-Google%20Digital%20Payments%202020-
+July%202016_tcm21-39245.pdf
+KPMG (2016). Fintech in India. 
+https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/Fintech-new.pdf
+PwC (2015). Fintech APAC Landscape Development. 
+http://www.pwc.com/sg/en/publications/assets/Fintech-startupbootcamp-apac-2015.pdf
+Kalaari Capital (2016). Fintech India. 
+http://www.kalaari.com/magazine/kalaari-2016-Fintech-survey-findings/
+India Briefing (2016). Opportunities in India’s Emerging Fintech Sector. 
+http://www.india-briefing.com/news/opportunities-india-emerging-Fintech-sector-12477.
+html/
+LinkedIn (2016). Bala Srinivasa, The Parallel Universe of Indian Fintech. 
+https://www.linkedin.com/pulse/parallel-universe-indian-Fintech-bala-srinivasa?trk=hp-feed-
+article-title-comment
+The Economist Intelligence Unit (2016). Swiss banks try to raise homegrown Fintech 
+startups to global stage. 
+https://www.eiuperspectives.economist.com/financial-services/swiss-banks-try-raise-
+homegrown-Fintech-startups-global-stage
+
+34
+Fintech Switzerland (2016). Top 30 Fintech Startups in Switzerland. 
+http://Fintechnews.ch/top-30-Fintech-startups-in-switzerland-2/
+The Hindu Business Line (2016). Zerodha sets sights on foreign start-ups. 
+http://www.thehindubusinessline.com/markets/stock-markets/zerodha-sets-sights-on-
+foreign-startups/article8714844.ece
+The Economic Time (2016). Meet the alternative lending startups. 
+http://economictimes.indiatimes.com/small-biz/money/meet-the-alternative-lending-
+startups/articleshow/53244587.cms
+Reserve Bank of India (2016). Consultation Paper on Peer to Peer Lending. 
+https://rbidocs.rbi.org.in/rdocs/content/pdfs/CPERR280416.pdf
+Cryptocoins news (2016). Research: Swiss Fintech Startups Lag behind other Countries. 
+https://www.cryptocoinsnews.com/swiss-Fintech-lagging/
+
+

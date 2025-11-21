@@ -1,0 +1,5831 @@
+UNLOCKING INDIAN
+ENTERPRISE FINTECH
+MARKET
+
+The digital revolution of Financial Services in India began with the transformation of the population-scale
+retail opportunity. While Payments systems in the country evolved as a linear function from cash to cards to
+net banking, the transformation to UPI-based payments was more rapid and widespread. As of Dec 2023,
+UPI-led payments touched 12 Bn in volume and over Rs. 18 Trillion in value. On top of a massive base, this
+was a 54% YoY growth in volume and a 42% growth in value. 
+While Payments was the first bastion to be impacted by digitalization in Financial Services, Credit for the
+retail segment followed soon after. Fintech startups have spearheaded this innovation by leveraging
+consumers' digital footprints to enable credit for the previously under/unserved segments. As the retail
+Fintech industry gained ground, bolstered by significant interest from the investor community, the
+Enterprise Fintech space also evolved at a rapid pace. 
+Enterprises, such as banks, insurance companies and asset managers, by the very nature of their scale and
+complexities, took a measured approach to evaluating and adopting digital solutions. The initial focus was on
+upgrading front-end customer-facing interfaces, while the middleware and back-end systems remained less
+impacted. However, the onslaught of digital adoption and positive transformations resulting from partnering
+with Enterprise Fintechs have propelled the need for digitalization of core and complex internal systems.
+Stringent oversight by the regulators is further strengthening the shift towards robust technology primed for
+driving scale. Incipient transformations are on the way in CBS, Switches, and the like for banking,
+underwriting and digital loan processing for credit, distribution and servicing of insurance, as well as
+sophisticated and customized wealth management suites for the asset management industry. 
+Regulators have been torchbearers of technology-led innovation, from providing gentle nudges to
+spearheading digital initiatives such as the launch of CBDC and UPI lite. This innovation is expected to
+achieve scale rapidly by leveraging the transformative Digital Public Infrastructure such as the India Stack
+and ONDC. We expect that these Enterprise Fintechs will not only be capital efficient but also be geography
+agnostic and achieve success internationally.
+We at Chiratae Ventures are big believers in innovation through digitalization and the massive opportunity
+that it represents for Enterprise Fintechs. Looking ahead, we are very excited about investing in and
+supporting Fintechs in upgrading the traditional technology stacks of the industry and partnering with
+Founders who will lead this bastion of change. 
+Foreword
+Sudhir Sethi
+Founder and Chairman
+Chiratae Ventures
+
+Sameer Singh Jaini
+Founder and CEO
+The Digital Fifth
+Fintechs are the game-changers that are revolutionizing the BFSI sector by introducing agile processes,
+flexible products, world-class customer service, enhanced customer interactions, accelerated time to market,
+and efficient multi-tier distribution systems. No other industry can match the level of innovation and
+disruption that fintechs have brought to the table.
+India's Fintech sector has experienced an unprecedented surge in funding, with a staggering $19 billion
+raised over the past five years. The key drivers of this growth can be attributed to several core factors.
+These include robust Digital Public Infrastructure, which comprises India Stack, GST, TReDS, and GeM;
+regulatory support through initiatives like Digital Lending, PA & PG, KYC, and Co-lending Guidelines;
+innovative NPCI products, and Government initiatives such as Jan-Dhan, ONDC, and Bima Sugam.
+Additionally, the data governance frameworks, including the Digital Personal Data Protection Act (DPDP),
+Data Empowerment and Protection Architecture (DEPA), and Open Government Data, have been pivotal in
+driving this growth.
+The industry has predominantly focused on the success stories of B2C Fintechs that have achieved unicorn
+status and gone public. However, the equally impressive tale of Enterprise Fintechs has been largely
+overlooked. Enterprise Fintechs comprise both front-end and back-end technology platforms enabling the
+BFSI sector. They streamline operations, improve customer engagement, automate workflows and enhance
+efficiency for enterprises/banks/NBFCs.
+The present report aims to delve into the current state of Enterprise fintech platforms, identify growth
+catalysts, address pain points, propose innovative solutions, chart a future roadmap, and examine funding
+opportunities. This report serves as a comprehensive guide for individuals seeking to contribute to India's
+Enterprise Fintech narrative. It caters to a broad spectrum of stakeholders, including investors,
+entrepreneurs, industry leaders, technology providers, and technology adopters.
+Foreword
+
+Founder & CEO
+Sameer Singh Jaini
+The Digital Fifth
+Business Consultant
+Rushabhdev Shah
+The Digital Fifth
+Associate Consultant
+Pratap Rajkumar
+The Digital Fifth
+Associate Consultant
+Vanshika Agrawal
+The Digital Fifth
+Associate Consultant
+Pezan Dolasha
+The Digital Fifth
+Mentors
+Vice President
+Mandeep Kaur Julka
+Chiratae Ventures
+Founder & Vice Chairman
+TCM Sundaram
+Chiratae Ventures
+Shashank Shekhar
+The Digital Fifth
+Co-Founder & Head Of
+Consulting
+Authors
+
+Chiratae Ventures: A scaled home-grown venture firm
+Chiratae Ventures is a 17-year old Indian technology venture capital fund
+advisor, having advised funds that collectively (across six funds) have $1.18 Bn
+AUM, 130+ investments, 50 exits, 9 Unicorns, 3 IPOs and a track record of
+having returned capital to LPs in each of the last 12 years. The funds advised by
+Chiratae Ventures have investments across sectors such as FinTech,
+ConsumerTech, SaaS, and HealthTech and have been early backers of
+companies such as Bizongo, Fibe, FirstCry, Flipkart, Lenskart, Myntra, Pixis,
+PolicyBazaar and Uniphore, amongst many others.
+BACKING THE AUDACIOUS ENTREPRENEUR
+SELECT PORTFOLIO
+SELECT FINTECH PORTFOLIO
+
+About The Digital Fifth
+The Digital Fifth is Asia's 1st Fintech & Digital Finance Consulting & Advisory firm.
+We offer Digital Finance consulting, catering our
+solutions to the BFSI segments such as Banks,
+NBFCs, Fintechs, Wealthtechs, Regtechs, and
+Insurance organizations. We have a practitioner’s
+approach to solve our customer’s challenges
+backed by our deep experience in building and
+scaling digital businesses.
+The fintech space is evolving rapidly, and we
+are committed to empowering this growth as
+active enablers within the ecosystem.
+Amongst the Largest
+Player in Asia
+Organiser of Bharat Fintech Summit, one
+of the largest & most influential Fintech
+event in India.
+1st in India to provide practical and
+pioneering training programs in Fintech
+and Digital Finance.
+Advisory Services
+Benchmarking services for digital maturity models and platforms.
+Digital strategy and roadmap development for Financial Institutions.
+Designing digital journeys for Financial products.
+Program management to drive digital transformation initiatives.
+Developing Neo Bank/Digital Bank Strategies
+API management and technology consulting services for seamless
+integration.
+Advisory services for embedded finance, including business building
+and go-to-market strategies.
+Technology architecture and CTO consulting services for informed
+decision-making
+Digital Research & Content Management
+The goal is to equip clients for effective decision-making.
+Specialization in detailed market segmentation
+Expertise in staying ahead with advanced technology research
+Continuous monitoring of emerging tech trends
+Utilization of research findings for strategic planning
+Ensuring that market revitalization contributes positively to
+your brand's visibility and influence
+Focusing on content generation to captivate the target
+audience
+Providing support in forming and nurturing business
+partnerships
+Assessment of the technology stack and SWOT analysis.
+Identifying and addressing potential technology pitfalls.
+Analysing the performance, scalability, security and future potential of
+technology assets and overall business. 
+Technical Architecture Review & Design
+Technical Due Diligence
+Development of information and cyber security policy
+framework 
+Technology risk management service 
+Technical governance and compliance
+Compliance Advisory on Data privacy & Protection Services
+Security & Compliance Services
+EVALUATE
+EXPLORE
+ENVISION
+CORE APPROACH
+
+BANKINGTECH
+2
+Bankingtech Overview ..................................................................................
+22
+India's Changing Banking Dynamics ...........................................................
+23
+Bankingtech Opportunities ..........................................................................
+24
+Evolution of the Bankingtech Industry  .....................................................
+25
+2A
+26
+Core Banking Solutions  ....................................................................
+2B
+27
+Digital Banking Platforms & CRM ...................................................
+2C
+28
+Trade Finance & Treasury Management System  ........................
+29
+2D
+BaaS & Account Aggregator / TSP .................................................
+SME Neobanking .................................................................................
+2E
+30
+LENDINGTECH
+3
+Lendingtech Overview ..................................................................................
+32
+33
+34
+India's Changing Lending Dynamics ............................................................
+Lendingtech Opportunities ............................................................................
+Evolution of the Lendingtech Industry  .....................................................
+35
+3A
+36
+3B
+37
+3C
+38
+LOS / LMS ............................................................................................
+Business Rule Engine & Collections Platforms  ............................
+Lending as a Service (Including Co-lending) ..................................
+SME Lending ........................................................................................
+3D
+39
+PAYTECH
+4
+Paytech Overview ..........................................................................................
+41
+India's Changing Payment Dynamics ...........................................................
+42
+Paytech Opportunities ....................................................................................
+43
+Evolution of the Paytech Industry ..............................................................
+44
+4A
+45
+Payment Gateway, POS & PaaS ......................................................
+4B
+46
+Cross-border Platforms .....................................................................
+4C
+47
+Switch & Card Management System ..............................................
+48
+4D
+Rewards Platform ................................................................................
+Business Payments (Escrow & Cash Management) ....................
+4E
+49
+REGTECH
+5
+Regtech Overview ..................................................................................
+51
+52
+53
+India's Changing Regtech Dynamics ............................................................
+Market Opportunity of Regtech ...................................................................
+Evolution of the Regtech Industry  .............................................................
+54
+5A
+55
+5B
+56
+5C
+57
+Identity Management .........................................................................
+AML & FRM ..........................................................................................
+Governance, Risk & Compliance (GRC) & Reporting ................
+Cybersecurity .......................................................................................
+5D
+58
+ENTERPRISE INSURTECH
+7
+Enterprise Insurtech Overview ....................................................................
+67
+68
+69
+India's Changing Insurance Dynamics  ........................................................
+Market Opportunity of Enterprise Insurtech.............................................
+Evolution of the Enterprise Insurtech Industry   .....................................
+70
+7A
+71
+7B
+72
+7C
+73
+Insurance as a Service ........................................................................
+Policy Administration & Underwriting  ..........................................
+Claims Management ...........................................................................
+ENTERPRISE WEALTHTECH 
+6
+Enterprise Wealthtech Overview  ..............................................................
+60
+61
+62
+India's Changing Wealth Dynamics .............................................................
+Market Opportunity of Enterprise Wealthtech .......................................
+Evolution of Enterprise Wealthtech Market ............................................
+63
+6A
+64
+6B
+65
+Wealth Management Platform  .......................................................
+Wealth-as-a-Service ...........................................................................
+INTRODUCTION 
+1
+1
+Executive Summary  ...........................................................................
+Key Insights ..........................................................................................
+2
+Changing Technology Landscape - Themes ..................................
+4
+Future Outlook: Focus Areas & Driving Factors ..........................
+1B
+Indian Enterprise Fintech Overview................................................
+Opportunities for Inorganic Growth  ..............................................
+Fintech as a Growth Accelerator .....................................................
+Enterprise Fintechs as Enablers .......................................................
+6
+8
+10
+11
+Introduction & Definition  ............................................................................
+1A
+Regulator as a Backbone of Fintech Development .....................
+NPCI's Drive to Promote Fintechs’ Adoption ...............................
+Digital Public Infrastructure Powering Financial Services .........
+12
+13
+16
+Table of Contents
+Increasing investor confidence and funding  ................................
+3
+7
+9
+Indian Enterprise Fintech Funding is Picking Up Pace ...............
+Key Regulatory Policies   ...................................................................
+14
+Market Disruption: Credit Lines on UPI ........ ...............................
+17
+18
+Open Network for Digital Commerce (ONDC) ............................
+19
+Trade Receivables Discounting System (TReDS) ........................
+20
+
+FINTECHS
+Less
+Penetrated
+Dominated by
+legacy
+companies
+Lower CAC
+Frequent
+M&A’s
+Growing
+market
+opportunity
+Ecosystem for
+multiple
+players to
+thrive
+Growing
+investor
+interest
+This report aims to unlock the massive opportunity that Fintechs are expected to tap into in the
+Enterprise and B2B segments (SME Lending and SME Neobanking)
+01 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+Introduction & Definition
+Banking
+Regtech
+Lending
+Wealthtech
+Payments
+Insurtech
+SME Lending
+SME Neobanking
++
+Enterprise Fintechs comprise both front-end and back-
+end software systems across the BFSI sector. They
+streamline operations, improve customer engagement,
+automate workflows and enhance efficiency for
+enterprises/banks/NBFC etc
+SME Neobanks are Fintechs that utilize open banking
+infrastructure to provide banking services to SMEs.
+Likewise, SME Lending players provide credit services to
+SMEs.
+UNIQUE OPPORTUNITY PRESENTED
+B2B
+Enterprise
+B2C
+ENTERPRISE FINTECHS
+
+1A
+EXECUTIVE
+SUMMARY
+01
+02
+03
+04
+05
+06
+Bankingtech
+Lendingtech
+Paytech
+Regtech
+Enterprise
+Wealthtech
+Enterprise
+Insurtech
+
+Open Banking & Embedded Finance
+With the increasing growth of Embedded Finance
+platforms, the consumption of services is becoming
+seamless and hassle-free. 
+Emerging partnership-led business models are driving
+FIs to invest in API-enabled infrastructure as well as
+revamp their back-end technology stacks.
+Customers are Going Digital
+Smartphones, low-cost internet, digital commerce and
+UPI have made customers digital savvy. 
+Digitisation is underway in the retail business for saving
+accounts, credit cards and personal loans.
+Digital transformation has just begun for the MSME and
+corporate segments. 
+Banks have learnt Digital from Fintechs
+Inspired by Fintechs, the BFSI industry has been rapidly
+transforming with continued investment in digital
+infrastructure. Investment in technology across financial
+segments is expected to witness high growth over the
+next 5 years.
+Banks and NBFCs will evolve to become fully digital for
+the Retail and MSME segments in the next 10 years. 
+Economic Factors
+The demand for lower costs, scale, innovation and agility
+has been driving banks and other FIs to continue to
+search for technology investment, including cloud
+adoption.
+Instead of banks viewing technology as a cost centre,
+the thought process has started to realign and it is now
+being seen as a driver to manage P&L as well as reduce
+the cost-to-income ratio. 
+Government & Regulatory Influence
+Major innovation in the Indian BFSI industry has been
+propelled by the set up of revolutionary public
+infrastructure like the India Stack, Account Aggregator,
+as well as KYC and DBU regulations.
+Digital Personal Data Protection Act (DPDP) of 2023
+will push FIs and their partners to reorient their
+architecture and business for better data governance.
+Key Insights
+FI - Financial Institution | DBU- Digital Banking Units
+Emergence of Middle Tier - XaaS
+Decoupling of the Engagement layer (i.e. shifting to
+Embedded Finance players) & banking layer is creating
+an opportunity for Anything As A Service i.e. XaaS.
+Banking (BaaS), Lending (LaaS) and Payments (PaaS),  
+have emerged as key areas of investment for VCs.
+03 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+Changing Technology Landscape - Themes
+Banking
+Services
+M2P is a full-stack solution provider with offerings ranging across
+Lending, Payments, Banking and Regtech for FIs and Embedded
+Finance players. 
+Founders
+Madhusudanan R
+Muthukumar A
+Prabhu R
+2014
+Founded Year
+Chennai
+Location
+USD 114M
+Total Funding
+USD 27.2M
+Revenue(FY 22)
+Full Stack
+Segment
+5
+M & A
+Innovations
+Integrated neobanking services
+Integrated AI, ML and Data Analytics platform 
+New-age Core Banking Stack
+CASE STUDY: 
+Large banks have started investing heavily in technology and
+are focusing on scaling their digital business. Success
+templates are being replicated by small and mid sized banks.
+Fintechs and Embedded Finance players are driving customer
+engagement in partnership with banks.
+The digital push is gradually expanding to complex business
+banking, including Trade Finance and Treasury. 
+The legacy replacement cycle has started in the Core Banking
+area, with a few banks also experimenting with Dual-Core
+Architecture.
+Regulatory frameworks around digital lending have continued
+to evolve and are positively influencing technology spend by
+lenders. 
+Digital lenders are ramping up disbursements on a Q-to-Q
+basis, with segments showing independent profitability.
+Lenders are experimenting with innovations like Pre-Approved
+Loans, B2B BNPL, Supply Chain Finance, Secured Credit, etc.
+The business has transitioned from a License-based revenue
+model to a Percentage of AUM-based revenue model. 
+Lending
+Services
+Lentra offers seamless lending integration, customizable solutions and
+compliance assurance for secure and efficient loan processing with
+streamlined applications and rapid disbursements.
+Founders
+Ankur Handa
+Dasharathi V
+Rangarajan V
+2018
+Founded Year
+Pune
+Location
+USD 104M
+Total Funding
+USD 19.9M
+Revenue (FY23)
+Full Stack
+Segment
+1
+M & A
+India has finally moved to a less cash economy and will aim to
+eliminate it over the next decade. 
+Regulatory initiatives drove payments innovation: NEFT,
+RTGS for non-banks, PIDF subsidy, 24x7 business payments,
+NETC, 
+PA/PG 
+licensing 
+framework, 
+MDR 
+waiver,
+Tokenization, and Sandbox for digital experimentation.
+NPCI drove Digital Payments with multiple solutions: UPI,
+IMPS, RuPay, UPI on Credit, BBPS, eNACH and NIPL for
+international payments.
+Payments
+Services
+PayGlocal provides end-to-end payment processing, risk management and a
+global stack for accepting payments, enabling merchants to accept
+payments from global customers.
+Founders
+Rohit Sukhija
+Prachi Dharani
+Yogesh Lokhande
+2021
+Founded Year
+Bangalore
+Location
+USD 17M
+Total Funding
+USD 0.6M
+Revenue (FY’22)
+Cross-border
+Segment
+2
+M & A
+Innovations
+Various payment acceptance methods 
+Ready-to-use infrastructure with full encryption 
+Integration with multiple currencies with control on data and risk management
+CASE STUDY: 
+CASE STUDY: 
+PaaS - Payment as a service | AUM - Asset under management | PIDF - Payments Infrastructure Development Fund | NIPL - NPCI International Payments Limited | MDR - Merchant Discount Rate
+04 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+1
+1
+1
+ Source :   Data points from Tracxn
+1
+Innovations
+Full-stack lending solution for all FIs
+Ready-to-use 3rd party API connectors to various data sources
+New-age LOS platform and a no-code Business Rule Engine (BRE  )
+x
+
+Services
+Market-leading digital infrastructure provider revolutionizing the onboarding
+experience. 
+Founders
+Arpit Ratan
+Ankit Ratan
+Ankur Pandey
+2015
+Founded Year
+Bangalore
+Location
+USD 40M
+Total Funding
+USD 8.4M
+Revenue (FY23)
+KYC/AML
+Segment
+Vineeth Narasimhan
+Asheesh Chanda
+Changing Technology Landscape - Themes
+Regtech
+99 M
+Customers Onboarded
+(Jan’24)
+Innovations
+Marketplace with APIs for Digital Onboarding, Lending, Identity
+Verification, etc.
+Ensure KYC/AML adherence in banks through AI-powered identity
+verification technologies
+Factors like the Government's Digital India initiative, India
+Stack APIs and the regulator's focus on consumer protection
+have driven demand for Regtech solutions, ensuring
+compliance, data security and seamless transactions across
+the Fintech ecosystem.
+RBI's KYC Direction requires strict due diligence to prevent
+identity theft, fraud, money laundering and terrorist
+financing.
+FIs are working intensively with Regtechs to build compliance
+as well as reduce fraud.
+India's Wealth Management sector is experiencing growth with
+increasing asset classes, new entrants and tech investments.
+India has shifted to an investment mindset, with a declining
+focus on traditional physical assets. 
+Millennials are driving digital wealth management with Robo-
+advisors and discount brokers.
+Digitisation of wealth management democratises investment
+access offering diverse options and personalised services
+across customer segments.
+Wealthtech
+Services
+Tech-enabled solution provider offering diverse product categories like MF,
+Pre-IPO and Private Assets, institutional funds, etc. for Wealth Management.
+Founders
+2016
+Founded Year
+Singapore
+Location
+USD 19.1M
+Total Funding
+USD 3.6 M
+Revenue (FY‘21)
+WaaS
+Segment
+1
+M & A
+Innovations
+360-degree digital infrastructure focused on scaling up partner's Wealth
+Management experience 
+Personalized services varying from portfolio building to active
+monitoring
+Insurtech
+Services
+Customizable end-to-end Insurance as a Service platform to enable
+insurance distribution by partners.
+Founders
+Mayank Gupta
+Surjendu Kuila
+Neeraj Jain
+2019
+Founded Year
+Noida
+Location
+USD 100M
+Total Funding
+USD 23.9M
+Revenue(FY’23)
+IaaS
+Segment
+Innovations
+End-to-end solution for partners, including digital onboarding, propensity
+model, comparison, regulatory reporting, reconciliation module, claims and
+renewals. 
+CASE STUDY: 
+CASE STUDY: 
+CASE STUDY: 
+ AML - Anti Money Laundering | IoT - Internet of Things | SaaS - Software as a Service         
+India is the 9th largest Life Insurance market globally and is
+expected to reach USD 200 B by 2027.
+The Insurance Amendment Act 2021 raised the FDI limit to
+74% and deregulated ownership.
+Technological advancements (IoT, telematics, surveyors)
+boost trust in insurance, reduce fraud, realign workloads and
+improve decision-making in claims and underwriting.
+1
+05 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+ Source :
+Swiss Re Institute Report 
+1
+2
+2
+2
+Data points from Tracxn
+2
+USD 121 M
+Gross Premium (2022)
+
+Item 2
+80%
+Item 1
+20%
+Item 2
+80%
+Item 1
+20%
+Item 2
+80%
+Item 1
+20%
+Transition to cloud
+hosted micro
+services based
+architecture
+Revenue model
+moving from fixed
+price licensing
+model to AUM
+linked revenue
+model 
+Item 2
+80%
+Item 1
+20%
+Technology
+investments are
+becoming business
+decisions
+Item 2
+80%
+Item 1
+20%
+Fintechs will widen
+their outreach in
+the global arena
+FACTORS
+Future Outlook: Focus Areas & Driving Factors
+Retail & MSME
+credit to become
+fully digital over
+the next 10 years
+FACTORS
+FOCUS AREAS 
+Banking - A majority of banks will either
+replace or upgrade their Core Banking Systems
+(CBS), or opt for dual-core architecture. 
+Entities 
+with 
+new 
+banking 
+licenses 
+and
+untapped segments of Cooperative Banks will
+demand agile CBS, thus bringing about the
+emergence of new players in the CBS segment.
+Lending - Lenders will digitize lending across all
+products and segments, including Secured
+Lending. 
+Embedded finance will ensure the growth of  
+Lending-as-a-Service.  LOS/LMS segment will
+get decoupled from CBS and be positioned
+independently.  
+Payments - The customer engagement layer for
+payments will see demand for an agile Payment
+as a Service (PaaS) platform to orchestrate
+transactions with multiple bank payment
+infrastructures.
+Legacy payment switch platforms will face stiff
+competition from new-age players building
+universal payment switches.
+Enterprise Wealthtech - Enterprise solutions
+will drive better investment decisions and
+portfolios using enhanced availability of data. 
+Embedded wealth players will drive the usage
+of Wealth as a Service (WaaS) platforms with
+continuous growth in asset classes.
+Regtech - The continued increase in regulatory
+supervision, 
+including 
+the 
+recent 
+DPDP
+regulation, 
+and 
+the 
+expected 
+licensing
+frameworks for Fintechs will drive investments
+in Regtech solutions.
+KYC, AML and Fraud Management would
+remain the primary areas of focus. 
+Enterprise Insurtech - The Government’s focus
+on increasing market penetration, with a
+mission to provide insurance for all by 2047, is
+driving the Enterprise Insurtech market. 
+Insurance as a Service players with innovative
+plug-and-play stacks are in focus and gaining
+traction.
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+AML - Anti Money Laundering | CBS - Core Banking Solution | DPDP - Digital Personal Data Protection Act, 2023
+06 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+1B
+INDIAN
+ENTERPRISE
+FINTECH
+OVERVIEW
+GROWTH DRIVERS
+Increasing investor
+confidence and
+funding
+NPCI's drive to
+promote Fintech
+adoption
+Regulator as a
+backbone of Fintech
+development
+Opportunities for
+inorganic growth
+Fintechs as a growth
+accelerator & 
+Enterprise Fintechs as
+an enabler 
+Digital Public
+Infrastructure
+powering financial
+services.
+
+2018
+2019
+2020
+2021
+2022
+2023
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+B2C
+Enterprise
+Indian Fintech Funding: 2018-2023
+Figures in USD Million 
+Data as of 31st Dec 2023
+1. Increasing investor confidence and funding
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+1892
+2715
+1480
+6948
+5127
+2435
+22
+11
+11
+17
+11
+11
+11
+11
+11
+3
+4
+4
+INVESTOR
+TOTAL NO.  OF
+INVESTMENTS
+INDIAN INVESTEE STARTUPS IN THE FINTECH SPACE
+Top Fintech Investors: 2022 - 2023
+The Fintech ecosystem is amongst the highest-funded sectors in
+the country.
+At Chiratae, we are excited about areas such as Cross-border
+PaaS, Cash Management, Financial Services in ONDC,
+Collections, Lending as a Service and Loan Origination
+System/Loan Management System.
+Source: Tracxn and The Digital Fifth Analysis
+08 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+Note: All top investors have not been mentioned.
+ONDC - Open Network for Digital Commerce
+
+2018
+2019
+2020
+2021
+2022
+2023
+0
+500
+1,000
+1,500
+2,000
+2,500 Enterprise Fintech Funding: 2018-2023
+Source: The Digital Fifth analysis & Tracxn
+363
+508
+592
+2026
+1794
+576
+73
+Startups
+$2.5B
+Funding
+BANGALORE
+55
+$575M
+OTHERS
+Startups
+Funding
+Lending
+Banking
+Payments
+Regtech
+Insurtech
+Wealthtech
+0
+200
+400
+600
+800
+1,000
+1,200
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+2021
+2022
+2023
+There is interest in new infrastructure
+business models such as BaaS, PaaS,
+LaaS, WaaS and IaaS.
+New-age Payment Switch platforms,
+Credit Card Systems, LOS, LMS and
+Collection platforms have received
+significant funding.
+MSME Lending and POS/PG leaders
+continue to attract interest.
+Key Observations
+Enterprise Fintech Funding
+across segments: 2021 to 2023
+238
+249
+125
+59
+106
+233
+1019
+559
+37
+30
+49
+19
+17
+5
+96
+93
+34
+0
+Top 3 Funded - 2021
+Top 3 Funded - 2022
+Top 3 Funded - 2023
+1.1 Indian Enterprise Fintech Funding is Picking Up Pace
+All figures in USD Million | Data as of 31st Dec 2023
+Enterprise Fintech Funding Across India: 2018 - 2023
+11%
+Bangalore 
+retains 
+the 
+numero 
+uno
+position with USD 2.5 B of funding from
+2018 to October 2023
+73
+Startups
+$783M
+Funding
+MUMBAI
+15
+Startups
+$663M
+Funding
+CHENNAI
+61
+Startups
+$1.2B
+Funding
+Delhi & NCR
+22%
+13%
+44%
+09 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+Source: The Digital Fifth analysis & Tracxn
+
+2. Opportunities for Inorganic Growth
+Enterprise Fintech has demonstrated active deal-making in the past, and this is only expected to increase as incumbent players demand updated stacks and scaled Fintechs look to
+grow beyond borders.
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+Acquisition in Enterprise Fintech 
+Paytech
+Paytech
+Rewards
+Paytech
+Paytech
+Paytech
+Paytech
+Paytech
+Paytech
+Bankingtech
+Paytech
+Lending
+Compliance
+Software
+ACQUIRER
+ACQUIREE
+SEGMENT
+Razorpay has
+acquired Curlec,
+which marks its
+foray into the global
+market. It has
+focused on
+expanding offerings
+into Offline
+Payments i.e. POS,
+NFC etc.
+Players such as Pine
+Labs, Cashfree
+Payments,
+Lendingkart and
+others are moving
+towards capturing
+the entire value
+chain. 
+Acquisition in Enterprise Bankingtech
+ACQUIRER
+ACQUIREE
+SEGMENT
+LOS/LMS
+CBS
+Regtech
+Analytics
+Regtech
+Open Finance
+Platform
+LOS / LMS
+Regtech
+Collections
+BRE
+LMS
+Omnifin
+M2P, which started
+as a Payments-
+focused company,
+has now acquired
+diversified entities
+to become a full-
+stack enterprise
+player.
+Perfios has acquired
+startups in
+Analytics, LOS/LMS
+and Regtech to
+widen lending
+capabilities. 
+Yubi has acquired
+leaders in related
+areas to deepen
+expertise across the
+entire lending
+lifecycle.
+10 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+EMBEDDED FINANCE
+SME
+RETAIL
+NEOBANKING
+LENDING
+SME
+RETAIL
+CO-BRANDED CARDS
+BNPL
+3. Fintech as a Growth Accelerator
+Creating Opportunity for Multiple Fintech Business Models 
+Banks are partnering with Fintechs to expand their reach and deepen customer engagement.
+Partnerships brewing in 2022 & 2023
+DBS 
+Bank 
+and
+CredAble partnered for
+Trade Financing.
+HDFC Bank partnered
+with Paytm to build
+solutions 
+across
+Payment 
+Gateway,
+POS 
+machines 
+and
+Credit products.
+ICICI Bank tied up with
+Niyo to issue Prepaid
+cards to workers of
+MSME segment.
+Axis Bank partnered
+with 
+BharatPe 
+to
+expand its Merchant
+Acquiring business.
+Punjab National Bank
+entered into a Co-
+lending 
+arrangement
+with Lendingkart.
+Fintechs offer incumbents the opportunity
+to devise tailored solutions to enhance
+existing business offerings and unlock
+new potential.
+2022 and 2023 witnessed partnerships between banks and Fintechs for multiple areas such
+as Co-lending arrangements, extending credit to MSMEs, acquiring merchants and various
+other initiatives.
+11 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+3.1 Enterprise Fintechs as Enablers
+Banks are enhancing customer servicing and value through increased integration with Enterprise Fintechs. 
+AXIS CORE
+SERVICES
+KYC Service
+Customer Digital Identity
+Authentication service
+LOS
+LMS
+BRE
+Collections
+PARTNER ENGAGEMENT
+LAYER
+Fostering
+Enterprise Partnerships
+Fostering Partnerships
+Supports small ticket, small tenor limit/loans, and
+multiple interest rate/fee structures 
+Supports digital journeys requiring no manual
+intervention
+Custom-built BRE which can run multiple policies 
+Modular and loosely coupled 
+100% on AWS
+Features
+Axis Bank’s in-house modern tech stack is fostering Fintechs partnerships across the
+ecosystem. 
+JARVIS: In-house Lending Software
+Federal Bank has followed a platform approach and collaborated with PaaS players
+such as M2P and Hyperface to streamline Fintech onboarding and facilitate more
+Fintech partnerships in one go.
+Enterprise Fintechs Powering the Bank
+PaaS
+CBS
+Co-lending
+Transaction banking platform for
+Corporate and SME customers
+Fed-e-Biz
+Cross-border
+BBPS system
+Utility Bill Payment solutions
+for Non-Resident customers 
+FedMi
+Microlending
+LOS/LMS
+Fostering Partnerships
+12 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+4. Regulator as a Backbone of Fintech Development
+PA & PG
+Bank
+Co-operative
+Bank
+Clearing House
+Prepaid Payment
+Instrument Issuer
+NBFC
+Stock 
+Exchanges
+Stockbroker
+Sub-broker
+Portfolio
+Manager
+Investment
+Advisor
+Asset Management
+Company
+Merchant
+Banker
+BFSI
+Securities and Exchange
+Board of India
+Reserve Bank
+of India
+Insurance Regulatory and
+Development Authority
+of India
+Key Market Initiatives
+RBI
+Regulations
+Account
+Aggregator 
+Open Credit
+Enablement Network
+India Stack
+Open Network for
+Digital Commerce
+ TReDS
+Insurance &
+Reinsurance Company
+Corporate
+Agent
+ Insurance
+Repository
+Insurance
+Broker
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+Open Finance
+Increased adoption of India
+Stack in Digital Lending and
+Payment journeys
+UPI to lead open payments
+Adoption of Open Data
+framework, i.e. AA, has
+increased with 38M accounts
+being linked (as of Dec ‘23)
+Open frameworks of OCEN,
+ONDC to drive open credit 
+Digital Initiatives
+Ease of onboarding through
+V-CIP
+Branch-level digitalisation
+and adoption of Digital
+Banking Unit 
+Scale up of Digital Finance 
+Compliance
+Increased compliance with
+more regulatory frameworks
+around PA & PG licensing,
+Digital Lending guidelines,
+NBFC scale-based
+classification, and CFSS 
+Bringing a larger spectrum of
+entities under the regulatory
+oversight of PA & PG, LSP,
+Urban Cooperative Banks,
+and Credit Information
+Companies (i.e. Bureaus) 
+Inclusion
+Initiatives for financial
+inclusion - Jan Dhan Yojana
+and JAM Trinity 
+Zero MDR framework and
+disbursal of subsidies through
+AEPS 
+Support for government
+initiatives such as MUDRA
+loans, Atal Pension Yojana,
+and BIMA Yojana 
+IRDAI Regulations
+Issuance of e-insurance
+New add-ons in Motor Issuance
+SEBI
+Regulations
+KYC for
+Mutual Funds
+Digital Personal
+Data Protection Act
+Digital Banking Units
+Credit and Debit Cards
+ Digital Lending
+PA Cross Border
+PA & PG
+KYC
+AA - Account Aggregator | V-CIP - Video Based Customer Identification process | CFSS - Core Financial Services Solution | LSP - Loan Service Providers
+1
+13 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+ Source :
+Sahamati
+1
+
+4.1 Key Regulatory Policies
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+POLICY & OBJECTIVE
+IMPLICATION & IMPACT
+Regulations 
+limit 
+co-branding 
+partners 
+from
+accessing data. The issuer of cards is responsible for
+their co-branding partner, thus increasing control,
+data security and safety. 
+Banks would need to develop digital strategies &
+set an organisational structure for DBUs. 
+Eg: ICICI bank has segregated its DBU from Retail
+Banking.
+Regulating 
+E-commerce 
+payments 
+provides
+increased security for transactions within the
+industry.
+Create the need for increased information-sharing
+among industry players, thus enhancing efforts
+against illicit activities.
+Regulated entities and Fintech partnerships are
+required to collaborate on KYC & AML compliance. 
+Digital 
+Lending 
+processes 
+becoming 
+more
+streamlined, transparent, and efficient will result in
+increased confidence and trust among customers. 
+OPPORTUNITIES
+Growing appetite for Co-branding cards, linked with clear guidelines, is resulting in the
+demand for Enterprise-grade Card solutions and Switch platforms.
+With regulatory approval for wearables, many new players are expected to enter the
+market, requiring technology providers to provide a robust technology stack.
+Opportunity to build digital platforms and supporting stacks like CBS, LOS and LMS to
+support DBU operations.  
+Opportunity to develop smart equipment for the front-end of DBUs. 
+With regulatory support to establish DBUs in partnership arrangements, Neobanking
+players are likely to emerge with support from BaaS platforms.
+Potentially large opportunity to deploy technology solutions to address compliance in
+PA / PG for risk management, security, governance and reporting.
+Opportunity for white-labeled solution providers to build a technology stack for new
+licensees.
+Opportunity to build advanced KYC solutions including Facial Recognition tech, Secure
+Customer Interaction channels and AI/ML-based Monitoring tools.
+With guidelines on AML compliance becoming more rigid, AML and Data Management
+platforms will see an increase in demand.
+Opportunity for LaaS entities to provide comprehensive plug-and-play Digital Lending
+solutions, including Onboarding, Tracking, Risk Measurement and Analytics,
+Governance and Consent Management.
+Increasing need for new-gen lending stacks to support Digital Lending through partner
+ecosystems.
+Credit & Debit cards
+(Card Management guidelines)
+Digital Banking Units
+(Promote Digital Banking and
+establish digital infrastructure)
+PA & PG
+(Regulate and provide tech
+based recommendations)
+KYC
+(Prevent Money Laundering and
+other illegal activities)
+Digital Lending
+(Regulate and promote
+growth of Digital Lending)
+14 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+4.2 Key Regulatory Policies
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+Item 1
+25%
+Item 2
+25%
+25%
+25%
+POLICY & OBJECTIVE
+Opportunity for startups to provide comprehensive plug-and-play solutions, including
+digital onboarding, claims and policy processing, underwriting, etc.
+With regulatory support for establishing digital policies in partnership arrangements,
+positive developments can be expected from internet-first insurance manufacturers.
+Insurtechs will now be able to provide insurance to
+customers directly. 
+Potential for incumbents to collaborate with
+Fintechs to establish a digital journey. 
+e-Insurance Issuance
+(Promote Digital Insurance and
+increase insurance penetration)
+Companies will provide insurance and cover as per
+the behaviour of the driver.
+Potential to build full-stack solutions with telematics as a backbone, enhancing
+underwriting for the insurer, offering flexibility to the buyer (pay-per-use), and
+strengthening the ecosystem with better claims management.
+New Add-ons in
+Motor Insurance
+(Pay-As-You-Drive, Pay-How-
+You-Drive)
+Developing robust Consent Management systems
+and updating terms, policies and forms.
+Collaborations with third-party vendors require
+revision of contracts to align with DPDP standards.
+Scope to build comprehensive Consent Management solutions that provide Early
+Warning Signals, Data Breach Monitoring and Reporting tools, Encryption, Multi-factor
+Authentication, Access Controls and Security Audit services.
+With consent-based personal data usage, there is opportunity to offer stacks for
+customized product offerings. 
+Digital Personal Data
+Protection Act
+(Regulating the processing of
+personal data by organizations) 
+The Rs. 2.5 lakh transaction limit for both import
+and 
+export 
+transactions 
+under 
+the 
+PA-CB
+regulations 
+may 
+impact 
+larger 
+cross-border
+transactions, 
+potentially 
+affecting 
+businesses
+engaged in high-value international trade.
+Regtechs can innovate in streamlining due diligence for cross-border transactions over
+Rs 2.5 lakh in imports. Utilizing AI-driven risk assessment and blockchain can provide
+businesses with efficient, transparent, and secure documentation solutions, effectively
+addressing regulatory challenges.
+PA- Cross Border
+(Governing cross-border
+transactions) 
+Stricter 
+compliance 
+requirements, 
+improved
+disclosure norms and the need for enhanced
+technological infrastructure to meet regulatory
+obligations.
+Opportunities for Fintechs to offer innovative solutions for Compliance Automation,
+Data Management and Analytics.
+MF - Execution Only
+Platforms 
+(Increase transparency and
+enhance governance standards
+for mutual fund companies.) 
+IMPLICATION & IMPACT
+OPPORTUNITIES
+15 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+Credit
+ATM & POS
+2012
+2014
+2017
+2021
+2022
+2023
+2010
+EMV & Contactless
+2011
+2013
+2016
+2019
+UPI on Rupay
+Credit Card
+Since the inception of the groundbreaking UPI initiative,
+NPCI has maintained an unwavering commitment to
+innovation 
+and 
+scale. 
+Their 
+various 
+initiatives 
+have
+consistently propelled the payments and inclusion ecosystem
+forward. 
+Notably, NPCI has introduced 6 new initiatives recently
+including Credit Line on UPI infrastructure, a development
+poised to revolutionize the lending landscape.
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+5. NPCI's Drive to Promote Fintechs’ Adoption
+“Credit Line
+on UPI”
+“UPI Lite
+X”
+“Hello UPI”
+“UPI at
+ATM”
+“Bill Pay
+Connect”
+“UPI Tap &
+Pay”
+Provide pre-approved
+lines to individuals
+through payments
+platforms
+ Nationalised number
+for bill payments and
+conversational bill
+payment through
+chat
+Conversational UPI
+payments
+Offline UPI
+payments from on-
+device UPI wallet
+NFC enabled QR
+codes through UPI
+Lite
+Withdrawal of cash
+from ATM through
+UPI account without
+the need of a card
+16 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+Instrument Independent:
+No Cards
+Revolving Credit with
+multiple debits & credits
+Cost effective to all the
+parties involved
+Faster Disbursals by
+banks
+FEATURES
+E commerce platform
+Customer
+Issuer Bank 
+UPI
+UPI
+Credit Line
+New UPI ID will be created
+mapped to the overdraft account
+with 2fa with OTP and Aadhaar
+Credit Line is ready to use
+Credit decision and
+limit will be set in BRE
+Payment Switch
+Debit Card
+Credit Card
+Interner Banking
+Wallet
+UPI
+BNPL
+Clicks ‘UPI’ as the
+preferred payment option
+Subscriber visits any
+e-commerce platform
+Redirected to
+default UPI app
+New overdraft account will
+be opened.
+ramkumar-1@okbank
+KYC & AML & FRM
+checks are done
+NTB
+Customer
+Credit
+Bureau
+ETB
+Customer
+LMS/Core
+Banking
+BRE
+POTENTIAL ARCHITECTURE
+OPPORTUNITIES PRESENTED
+CUSTOMER INTERFACE
+Banks need to build journeys for the
+onboarding of customers for
+credit lines.
+SCOPE OF PSP 
+PSPs to enable in-principle sanction
+conversions to UPI credit lines, requiring
+real-time data collection and verification.
+ROBUST DATA
+MANAGEMENT
+Robust data management is needed for risk
+mitigation in rising unsecured portfolios
+due to credit lines.
+TRACKING LIMIT UTILIZATION
+AND RECONCILIATION
+Banks would require dynamic systems (LMS /
+Core) for real-time updation of credit
+utilization with reconciliation capabilities to
+share revenues.
+REVISIT BANKING SYSTEMS
+Banks will be required to open their
+systems for credit line applications
+originating from any UPI network partner.
+IMPROVISE BRE
+BRE solution providers must adapt to offer
+cost-effective underwriting for credit lines
+with limited data and real-time decisioning.
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+5.1 Market Disruption: Credit Lines on UPI
+17 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+6. Digital Public Infrastructure Powering Financial Services
+Co-Founder
+Sahamati
+B.G. Mahesh
+Account Aggregator network has been designed to unlock the potential of data capital for individuals and enterprises. It provides control and easy access to their
+financial information across accounts, through a single channel in an aggregated form.
+With 14 operational account Aggregators, cross-sectoral Financial Information Providers such as banks, insurance, mutual funds, GST on one side and over 35
+million accounts linked on the AA platforms on the other, the eco-system is now ready for the next growth phase. We expect to see many innovative products
+riding on the authentic, detailed information provided by these FIPs in the coming years, thus unlocking the power of data capital for individuals.
+Aadhaar is a unique
+identification number
+which serves as proof of
+identity and address
+across India.
+Reduces the TAT in digital
+journeys 
+and 
+creates
+opportunities for better
+customer engagement.
+Establishes the foundation
+for 
+Digital 
+Public
+Infrastructure, enabling E-
+KYC, Digital Lending, etc.
+1.38B
+1
+Issued
+Authentication
+103B
+1
+Aadhaar
+Acting as an intermediary
+between Financial Information
+Users (FIU) and Financial
+Information Providers (FIP), AAs
+facilitate consent-based sharing
+of data.
+Fintechs are expected to
+build in spaces such as AA,
+Data Governance TSP and
+Certifier TSP.
+Account Aggregator (AA)
+data 
+enables 
+Digital
+Lending 
+and 
+Personal
+Finance Management use
+cases.
+38M
+4
+Accounts linked
+as on Dec ’23 
+ Consent
+Requests Fulfilled
+ as on Dec’23
+40M
+4
+Account
+Aggregator
+It is an indirect tax
+imposed on the supply of
+goods and services.
+GST 
+has 
+streamlined
+compliance 
+and 
+created
+opportunities for innovative
+business models, such as GST
+Suvidha Providers.
+GST has enabled better
+and easier underwriting of
+MSMEs, 
+thus 
+bringing
+accountability 
+to 
+the
+system.
+U﻿SD 1648 B
+5
+GST revenue
+collected for
+Dec’23
+GST
+An online platform for
+public procurement in
+India
+Opportunities 
+exist 
+for
+Embedded 
+Finance 
+and
+Supply 
+Chain 
+Finance
+within this platform.
+Offers a diverse pool of
+registered 
+sellers 
+with
+complete transparency and
+digital servicing capabilities.
+11,926
+3
+Product
+Categories as
+on Dec’23
+Order Value 
+as on Dec’23
+6468B
+3
+Government E-
+Marketplace (GEM)
+E-Sign, an online electronic
+signature service linked with
+Aadhaar and DigiLocker, is a
+cloud-based document
+storage and issuance system.
+E-Sign 
+enables 
+easy
+authentication 
+and
+paperless 
+transaction
+processing. 
+DigiLocker simplifies the
+complexities of document
+management and serves as
+a key component in Digital
+Lending.
+341M
+2
+Total e-Sign
+issued as of
+FY’22
+Registered
+users on
+DigiLocker as of
+FY'23
+157M
+2
+E-sign, DigiLocker
+Framework democratizing
+credit access by
+integrating Lending
+institutions and Loan
+Service Providers.
+OCEN can facilitate easier
+access to credit for SMEs
+through SME platforms. 
+With DLG guidelines and
+OCEN in place, there is
+scope for more players to
+emerge as LSPs.
+Open Credit
+Enablement Network
+(OCEN)
+18 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+ Source :
+UIDAI
+1
+Meity
+2
+GEM.gov.in
+3
+Sahamati
+4
+Press Information Bureau
+5
+
+ADOPTION
+Presence in cities
+527
+1
+1
+Sellers/Service Providers
+in the network
+2.9 L+
+6.1 Open Network for Digital Commerce (ONDC)
+Expected to enhance e-commerce by connecting
+buyers, sellers, and service providers.
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+ONDC TSP
+ONDC TSPs provide tech
+stacks 
+for 
+the 
+seamless
+onboarding of merchants and
+are gradually picking up pace. 
+By integrating with ONDC,
+banks have the opportunity to:
+transform 
+their 
+digital
+platforms 
+into 
+fully
+functional super apps 
+act as Network Participant
+Account Providers (NPAP)
+to facilitate settlements
+for buyers and sellers
+NPAP
+INTEGRATORS
+Opportunity 
+for 
+Reward
+platforms to integrate with
+ONDC 
+and 
+build 
+rewards
+incorporating 
+all 
+network
+participants in one go.
+Players have the opportunity
+to emerge as Reconciliation
+Service Providers (RSP) and
+offer a range of solutions such
+as:
+Collector and Collection
+function
+Reconciliation function 
+Preparer 
+of 
+Settlement
+Advice function 
+PAYMENTS
+E-GIFT CARDS
+RSP
+LENDING
+Opportunity for lenders to provide all types of
+Personal loans.
+Opportunity for SME Financing players to leverage
+the new ONDC data and enter areas like Supply Chain
+Financing, Working Capital Loans and Revenue-based
+Financing. 
+WEALTH
+New-age Wealth firms have the scope to integrate
+with MF Utility in ONDC and provide sachet versions
+of Goal-based Investment products. 
+Embedded as well as standalone Insurance offerings
+can be offered. 
+INSURANCE
+Senior Vice President
+ONDC
+Hrushikesh Mehta
+ONDC is set to unlock a multitude of opportunities - for direct to consumer companies, financial product manufacturers and
+technology service providers. Inventory aggregation of financial products across a wide variety of product manufacturers
+becomes the benefit for consumer facing applications. Demand aggregation and access to new customers is the benefit to
+product manufacturers. For technology providers, it opens up a multitude of opportunities like building consumer facing white-
+labelled plug-and-play solutions, helping product manufacturers digitize and providing data analytics and modelling services.
+19 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+ Source :
+ONDC.org as on 26th Jan 2024
+1
+
+3 entities have
+received 
+the
+TReDS license
+Financiers place
+the bid
+FINANCERS
+Checks and accepts
+the invoice
+BUYER
+Uploads invoice on
+the TReDS platform
+SUPPLIER
+TReDS
+HOW IT WORKS
+Trade Receivables Discounting System (TReDS)
+ADOPTION
+No of Sellers registered
+in Nov’23
+69445
+1
+1
+No of buyers registered
+in Nov’23
+4302
+A digital platform for MSMEs to auction their trade receivables to
+financiers, such as banks, through competitive online bidding.
+BENEFITS
+Effortless ERP integration
+Significantly reduces data processing time 
+Swift Disbursements 
+Access to funds within 24 hours 
+Automated Reconciliation 
+Entire digital platform allows for seamless settlement and
+reconciliation 
+Multiple Financiers
+MSMEs are not restricted to a single bank and have the
+option to choose the lowest bidder 
+Non-Recourse Borrowing
+The buyer’s account is debited automatically through a pre-
+approved NACH mandate
+Supplier
+accepts the
+bid of their
+choice. 
+and
+receives the
+money
+20 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+ Source :
+RBI
+1
+
+2
+BANKINGTECH
+Segment has the potential to seize an
+opportunity worth USD 3 B by 2030
+The legacy stack replacement cycle is
+underway across multiple areas such
+as Core Banking and Digital Banking
+Digital 
+push 
+is 
+expanding 
+to
+encompass Business Banking, Trade
+Finance and Treasury
+Growing potential for newer areas
+like BaaS and Neobanking
+
+Funding (USD M)
+2018
+2019
+2020
+2021
+2022
+2023
+0
+50
+100
+150
+200
+250
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+Digital Banking platforms enable omnichannel capabilities across
+channels to offer banking products and services along with customer
+acquisition support as well as cross-sell and upsell.
+DIGITAL BANKING PLATFORM
+These platforms enable the automation of Treasury operations and
+ensure efficient cash flow and liquidity by enabling money market and
+fixed instrument transactions. 
+TREASURY
+BaaS (Banking as a Service) platforms offer banking services in
+partnership with banks to third parties via a cloud-based stack using
+APIs.
+BAAS
+Account Aggregators act as intermediaries between FIUs and FIPs to
+enable consent-based data sharing. TSPs help in integrating and
+providing the necessary technology stack.
+AA/TSP
+Customer Relationship Management (CRM) platforms enable businesses
+to manage end-to-end customer lifecycle and relationships, track
+interactions and streamline sales and marketing processes.
+Trade Finance platforms are specialised systems designed to streamline,
+manage operations and drive products such as Letters of Credit, Export-
+Import Financing, etc.
+Core Banking System (CBS) orchestrates essential banking operations
+such as account management, general ledger maintenance, interest
+calculation and transaction processing. 
+CBS
+CRM
+Data is as of Dec'23
+4
+54
+15
+60
+233
+Source: Tracxn &The Digital Fifth Analysis
+107
+TOP FUNDED STARTUPS
+STARTUP
+FUNDED AMOUNT
+SEGMENT
+USD 384M
+AA/TSP
+USD 61M
+Trade Finance
+USD 23M
+CRM
+USD 18M
+BaaS
+USD 4M
+BaaS
+Bankingtech Overview
+TRADE FINANCE
+FIP - Financial Information Provider | FIU - Financial Information User | TSP - Technology Service Provider
+FUNDING ANALYSIS
+Funding 
+in 
+Bankingtech 
+has
+consistently grown across both,
+existing 
+and 
+new 
+startups.
+Traction has primarily been seen
+in Trade Finance, Supply Chain
+Finance 
+and 
+BaaS 
+due 
+to
+increase in demand for their
+offerings. 
+TOP MERGERS & ACQUISITIONS
+ACQUIRER
+SEGMENT
+ACQUIREE
+SEGMENT
+Payment Gateway
+PaaS
+Supply Chain
+BaaS
+CBS
+Compliance Software
+Data as on Dec'23 | Source: Tracxn and The Digital Fifth Analysis
+22 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+India's Changing Banking Dynamics
+01 | INDIAN ENTERPRISE FINTECH REPORT 2023 
+CBS - Core Banking System | CRM - Customer Resource Management System | FIU - Financial Information Users | FIP - Financial Information Providers 
+Technology spent by banks reached USD 489 M in FY’22 from USD 328 M in FY’18. Banks are increasingly directing their investments towards Customer and Fintech Engagement
+layers such as API management and digital banking infrastructure.
+A notable trend in the banking sector is the collaboration between banks of all sizes and Fintech companies, resulting in mutually beneficial partnerships. Notable examples include
+CSB Bank partnering with OneCard to offer co-branded credit cards, Federal Bank with Jupiter for Neobanking services, SBM Bank with Lazypay for BNPL solutions and PNB with
+Lendingkart for Co-lending.
+Total deposits in the Indian banking system have increased at a CAGR of 7.81%, from USD 1436B in FY’18 to USD 2256B in FY’23 on the back of steady economic growth. 
+DIGITAL BANKING PROGRESSION
+REGULATORY & GOVERNMENT SUPPORT
+RBI guidelines allowing banks to use Video-Based Customer Identification process (V-CIP)
+have completely changed the dynamics of customer acquisitions, with most banks expediting
+customer onboarding digitally, especially in retail segments. 
+Sahamati has defined standards across Data, Analytics and User Experience, leading to the
+emergence of TSPs focused on implementing them across AAs, FIPs and FIUs to fast-track
+the growth of the AA ecosystem.
+RBI’s support on mergers between Fintech startups & banks (such as Slice with North East
+Small Finance Bank) will have a profound impact on the way technology is used within banks. 
+As Digital Banking becomes a part of core strategic initiatives within the Indian banking
+industry, the demarcation between business and digital strategy is disappearing. 
+Fueled by the rise of Fintechs and growing collaboration opportunities, banks have begun to
+make substantial investments in scaling their API stacks and infrastructure. 
+Banks have strategically invested in enhancing their technology stack for digital customer
+acquisition initiatives, leading to a surge in demand for CRM platforms to enable the efficient
+management of leads from various channels. 
+The emergence of Neobanking, Embedded Finance and BaaS models led to a rise in the
+adoption of Open Banking. This has prompted banks to upgrade their back-end core
+infrastructure, and specifically the Core Banking System to be API-ready. 
+Digital Banks are becoming increasingly flexible and customer-centric, continually adding
+more offerings to compete with Neobanks across product and service catalogues. A notable
+example of this is INDIE by IndusInd Bank. 
+Executive Director
+RBL Bank
+Rajeev Ahuja
+In the present day, technology has become a significant portion of the
+expenses for mid-sized banks and NBFCs. They are compelled to
+allocate substantial capital towards technology to remain competitive.
+Therefore, in addition to embracing technology, these financial
+institutions need to differentiate themselves and carve out a distinct
+niche like supply chain, MSME credit etc. Their goal should be to offer a
+comprehensive range of services tailored to their chosen segment to
+maintain their sustainability.
+23 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+GROWING FINTECH PARTNERSHIPS
+Banks, including Small Finance Banks, recognize the
+significant opportunity in scaling their business
+through partnerships and fostering collaborations with
+Fintech startups.
+In response to the increase in Fintech partnerships
+across banking products, banks will upgrade or
+replace their core back-end stacks for API-enabled
+architecture 
+and 
+upscale 
+their 
+Open 
+Banking
+capabilities.
+OPPORTUNITY AMONG MID & SMALL SIZE BANKS
+Small and mid-sized banks have outdated core stacks
+that have limited scalability, modularity as well as
+flexibility to respond to changes introduced by the
+regulator or caused by the market.
+As such banks widen their service portfolio and adopt
+a digital agenda, they will need modular stacks to
+support their growing businesses. Startups could
+focus on building new-age solutions for this segment.
+Acquisition 
+engine
+Growth 
+engine
+Service
+engine
+iMobile Pay
+CHANGING DYNAMICS OF DIGITAL BANKING
+Several leading banks have transitioned their Digital
+Banking platforms from a servicing engine to a growth
+engine. This transition has largely been limited to
+retail barring a few large banks.
+All banks are expected to follow this trend, which will
+lead to a rapid increase in Digital Banking platform
+capabilities. This expansion will not only include the
+retail 
+segment, 
+but 
+also 
+encompass 
+business
+customers. 
+MOVEMENT TO OPEN SOURCE & CLOUD
+The rising need for agility and scalability is driving
+banks to fast-track the adoption of cloud technology
+and leverage open-source stacks effectively.
+The shift from proprietary platforms to open source
+will optimise costs and reduce reliance on such
+platforms. With the RBI relaxing cloud adoption
+guidelines, banks are expected to invest in expanding
+workloads on the cloud, driving demand for enablers
+operating in this segment. 
+INCREASE IN DIGITAL ADOPTION
+With the increase in digital adoption by customers,
+banks have been experiencing scale and performance
+stress on their core banking and associated stacks for
+payments and lending.
+Banks are likely to explore and adopt dual-core
+architecture by deploying a mix of on-premise and
+cloud-based core banking stacks. Dual-core may not
+be limited to the Core Banking System but can also
+extend to payments, API infrastructure, etc.
+DATA CENTRAL TO DIGITAL
+Banks are investing heavily in analytics stacks to build
+data models across use cases such as lending, risk
+management, and cross-selling/upselling. This shift
+prompts 
+collaboration 
+with 
+new-age 
+solution
+providers to maximise the utility of data.
+As data in banks continues to expand, they are
+realigning to bring data and analytics to the core of
+their digital strategy. This shift, from nudging to
+personalization, aims to elevate customer experiences
+and boost the lifetime value of customers.
+Data Stack 3.0
+Bankingtech Opportunities
+EYEING A USD 3 B MARKET BY 2030
+24 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+Evolution of Bankingtech Industry
+2010 & Before
+Core Banking
+Platforms
+Digital Banking
+Platforms
+CRM
+Trade finance &
+Treasury Platforms
+BaaS
+AA/TSP
+The period was dominated by the emergence of
+CBS to support the centralisation of banking
+operations. 
+Digital solutions were extensions of banking
+platforms offered by incumbent CBS players. 
+Trade and Treasury platforms were introduced
+during this period, but adoption remained limited to
+large players.
+CRM showed early signs of adoption, but was
+limited to a few banks. 
+2011 - 2015
+2016 - 2020
+2021 - 2023
+New Core Banking solutions emerged during this
+period but failed to gain traction. 
+Digital Banking witnessed an upward movement,
+with banks continuing to launch mobile banking
+apps during this time. 
+Banks saw an increase in the deployment of
+Treasury platforms which led to the entry of new
+players in the segment. 
+Corporate Internet Banking and Cash Management
+saw traction among banks.
+Open Banking picked up momentum, with banks
+expanding APIs leading to partnerships with
+Fintechs and the emergence of BaaS platforms. 
+CRM adoption began to gain traction amongst
+banks. 
+Demand for core solutions increased due to rise in
+the distribution of licenses to Small Finance Banks
+and Payments Banks, with FIS bringing the Bank-in-
+a-Box concept.
+COVID-19 led to an increase in digitization,
+resulting in the upgradation and enhancement of
+platforms and investment in technology. 
+The adoption of dual core-based and cloud-based
+tech stacks is showing early signs of traction. 
+This period has seen the rise of Open Banking,
+BaaS and Embedded Finance. 
+Rise in AA and the emergence TSPs, a completely
+new business segment.
+Note: This is not an exhaustive list and many players have multiple lines of business in various segments other than the ones mentioned.
+25 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+NEW PLAYERS PENETRATING LEGACY SEGMENT
+2014
+2023
+0
+500
+1,000
+1,500
+2,000
+100X
+CURRENT SCENARIO
+Due to their ability to manage complex banking
+operations well, incumbents have continued to
+dominate 
+the 
+market. 
+Large 
+banks 
+have 
+been
+apprehensive in making major changes to their Core
+Banking stacks. 
+The majority of Small Finance Banks and PSUs are
+marching down the path of digital transformation,
+resulting in them opting for API-driven modular stacks.
+This is an opportunity for Bankingtech startups.
+In addition to the demand for APIs, Banks have focused
+on security and compliance as other key factors driving
+their choice of Core Banking solutions. 
+Digital Transactions
+USD 15M
+USD 1550M
+Digital transactions experienced a 100-fold increase
+from 2014 to 2023, with further growth anticipated in
+the coming years. This indicates that banks will actively
+transition to scalable and adaptable platforms.
+Banks will increase the deployment of
+dual-core platforms to enable building
+market-focused products to manage 
+increasing demands for scalability, flexibility and high
+performance. 
+With the RBI laying down guidelines for
+cloud usage, banks may explore moving
+parts or full CBS workloads on the cloud,
+which could open up demands for cloud-based CBS
+adoption. 
+The Government and RBI have been
+pushing for digitisation of Cooperative
+Banks. Due to their size and the nature of 
+their operations, the market will need cloud-based,
+easy-to-implement new-age CBS stacks. 
+With the RBI and other Central Banks
+pushing for digital currency adoption
+through CBDC, there could be demand for
+CBS 
+platforms 
+to 
+facilitate 
+CBDC-backed
+transactions as well as support interoperability
+between fiat and digital currencies.
+FUTURE OUTLOOK
+& OPPORTUNITIES
+Core Banking Solutions
+2A
+CBDC - Central Bank Digital Currency 
+The rapid growth in payments demands banks to scale
+up and invest in technology for superior customer
+service. with an increase in volume and velocity, the
+focus will be on enhancing Core Banking Systems and
+expanding into different industry areas. While
+challenges like compliance, audits, governance, and
+cost considerations hinder progress, a collaborative co-
+working system between banks and fintechs is
+emerging. Investors will look to capture growth both
+horizontally and vertically, with a push for innovative
+lending products and digital-first solutions.
+CEO & Co-Founder
+M2P Fintech
+Madhusudanan R
+26 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+Banks are transitioning their Digital Banking platforms,
+including Mobile Banking platforms (across both retail
+and business segments), from a servicing engine to a
+growth engine to acquire and service customers
+efficiently.
+There is growing emphasis on enhancing Digital
+Banking for rural segments. Notable examples include
+Bharat Banking by Axis Bank & Swadesh Banking by
+AU SFB. 
+Banks are upgrading CRM capabilities to include lead
+management, and are aiming to offer a comprehensive
+360-degree view of customers for effective cross-
+selling and upselling.
+Banks are increasingly integrating CRM with Digital
+Banking to manage the entire fulfilment process, from
+leads to onboarding. 
+385M
+April'22
+March'23
+0
+100
+200
+300
+400
+More banks, including Small Finance Banks, are
+enhancing their Digital Banking capabilities.
+Thus, the demand for omnichannel-based 
+digital banking platforms is expected to grow. 
+As 
+banks 
+expect 
+to 
+add 
+non-banking
+functionalities like Accounting and Taxation to
+their Digital Banking platforms, there is a 
+growing opportunity to build for streamlining and
+simplifying implementation with plug-and-play solutions.
+There is a growing need for comprehensive
+CRM systems for the seamless assimilation and
+servicing of customers being onboarded by
+third-party interfaces like Embedded Finance partners,
+Co-lending partners, etc.
+Banks are exploring integrating or embedding
+CRM with contact centre solutions and digital
+marketing interfaces. These solutions are 
+expected to possess analytics and generative AI
+capabilities to intelligently scan customer interactions
+from multiple sources.
+Founder & CEO 
+Onestack
+Amit Kapoor
+The cooperative banking segment is one of the large
+and technologically ignored segments, while the
+customer base for cooperative banks is expanding, the
+Banking technology used by them today is bulky and
+outdated, thus suffering from issues of safety, security
+and integration challenges with other platforms. Thus,
+technology limitation in this segment creates a huge
+opportunity for Banking tech providers to capture in
+the future specifically in the areas of core and digital
+platforms.
+Digital Banking Platforms & CRM
+2B
+SYSTEMS CATERING TO CHANGING EXPECTATIONS
+Growth in Mobile Banking 
+Active Customer base in FY'23
+Source: RBI & The Digital Fifth Analysis
+43%
+270M
+Digital Transactions
+FUTURE OUTLOOK & OPPORTUNITIES
+HIGHEST FUNDED PLAYER
+The cloud-based CRM platform
+received USD 23 M in funding. 
+CURRENT SCENARIO
+27 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+SEGMENTS AWAITING HUGE DISRUPTION
+Treasury Management platforms face limitations in
+integrating with Core Banking and Market platforms,
+often marred by manual interventions. Additionally,
+they offer limited digital interfaces for customer
+interaction.
+Trade Finance & Treasury Management System
+2C
+FUTURE OUTLOOK
+& OPPORTUNITIES
+Digital Trade platforms, integrated with
+Corporate Banking or ERPs, are poised for
+wider adoption, facilitating Online FX 
+Management, Payments and Trade Documentation
+Exchange.
+Blockchain holds significant potential to
+drive innovation in Trade Finance by
+streamlining document management 
+through innovative solutions.
+With increased demand for better forex
+management and APIs-based services,
+Treasury solutions require to be 
+transformed 
+to 
+cloud-based 
+micro-services
+architecture. 
+CURRENT SCENARIO
+Trade Finance functions today are largely manual,
+relying heavily on relationship managers for the
+onboarding process which involves multiple interaction
+points across the value chain.
+Some key trends that will impact the industry are
+government initiatives promoting e-bill of lading, e-
+invoicing, entry of digital intermediaries and the
+APIfication of forex. 
+The Treasury solution space has primarily been
+dominated by existing players and is yet to witness a
+transformation similar to what has been observed in
+Core Banking and Lending systems.
+Every business in a supply chain should have access to
+timely, affordable and formal finance. Traditional lenders
+stay away from lending to MSMEs due to the inability of
+small businesses to prove their creditworthiness and the
+cost of servicing them. There is a huge untapped
+underlying MSME-to-MSME trade worth over INR 42
+trillion. FIs with smaller than INR 5000 Cr loan books,
+need to specialize in serving one target segment, doing
+away with a one-size-fits-all strategy. Vayana for its more
+than 20 FI partners has reduced CAC and enabled
+customization to offer convenient and affordable supply
+chain finance solutions.
+Founder & CEO
+Vayana Network
+Ramaswamy Iyer
+HIGHEST FUNDED PLAYERS
+Trade Finance
+USD 61 M
+Treasury
+USD 2 M
+Banks are attempting to digitise treasury
+operations 
+by 
+developing 
+APIs 
+and
+establishing customer interfaces for both 
+web and mobile platforms. This shift may generate
+demand for Fintechs to build on top of the core
+treasury stack.
+28 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+Fintechs operating in Trade Finance have built digital
+platforms to optimize every stage of the trade process,
+spanning across pre-trade to post-trade operations.
+
+With Open Banking adoption and Embedded Finance
+on the rise, Fintechs and Non-Financial companies are
+working with BaaS providers to embed financial
+services in their portfolio, leading to growth of BaaS
+platforms in the country. 
+Technology Service Providers (TSPs) have emerged as a
+key component in the AA ecosystem, working closely
+with the FIPs and FIUs to deliver AA-enabled products
+and services. 
+Demand for AAs and AA-TSPs is on the rise, with multi-
+segment players trying to embed banking data into
+their platforms to use it as a customer engagement
+tool. 
+14
+No. of Account
+Aggregators in the
+ecosystem
+60
+No. of TSPs in the
+Account Aggregators
+ecosystem
+Recognizing that collaboration with Fintechs enhances customer
+experience, many Banks are opting to work with these entities. The
+preferred approach is to integrate with Fintechs via a strong Technology
+Service Provider (TSP). This approach enhances agility, provides the
+ability to manage multiple partnerships in parallel and most importantly,
+provides a strong basis for regulatory compliance. In all areas from
+payment, cards, co-lending, and microfinance, to personal loans banks
+are looking for TSPs and there is a huge opportunity in this B2B space.
+Despite progress, there are still some areas like SME lending and
+systems like treasury that are not solved yet.
+Executive Director
+Federal Bank
+Shalini Warrier
+Due to the cumbersome nature of
+integration and maintenance of Fintech
+relationships, banks are exploring the 
+BaaS route to expand their Fintech partnerships.
+BaaS & Account Aggregator/TSP
+So far the innovations are limited to optimizing existing systems in the
+current banking landscape, but to drive real innovation ecosystem
+players must have a collaborative mindset and be ready to work with
+each other to come up with modular and microservices-based systems
+built from the ground up to support product innovations.
+Founder 
+Upswing
+Anupam Bagchi
+CURRENT SCENARIO
+HIGHEST FUNDED PLAYERS
+BaaS
+USD 4.7 M
+AA/TSP
+USD 384 M
+FUTURE OUTLOOK
+& OPPORTUNITIES
+As SEBI and IRDA push for participants
+to onboard onto AA, there could be an
+increased demand for verticalized 
+AA services based on AMC & Insurance data.
+There 
+could 
+be 
+a 
+significant
+opportunity for TSPs to build for
+Financial Services stacks based on the 
+detailed standardization and roadmaps offered on
+ONDC.
+2D
+BREWING BUSINESS MODELS GAINING HIGHER ADOPTION
+Data as on Nov’23 
+Source: Sahamati
+29 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+SME Neobanking
+SME Neobanking is yet to achieve its potential as
+current platforms are focused on specific needs rather
+than offering a full-stack experience spanning Taxation
+to Cash Flows to Collections as well as assistance in
+Working Capital needs.
+As banks look to upgrade their SME banking platforms,
+many SME Neobanks have started offering their
+platforms as white-label solutions. 
+With NITI Aayog publishing a paper on
+the need for Digital Banks for the
+SME/MSME segment, a regulatory 
+framework for Neobanks could evolve in the near
+future, opening up doors for white-label Neobanking
+solutions. 
+This segment is expected to face
+intense 
+competition 
+from 
+banks
+building their own Neobanks, which 
+would require these Fintechs to create better value
+propositions and target niche segments. Some
+notable examples are ICICI Instabiz and Axis Neo. 
+SME NEOBANKING
+Banks have partnered with SME Neobanking platforms
+to offer Current Account, Transactional Banking and
+Reconciliation services to SME customers of Fintechs. 
++
+2E
+WHILE LARGE NEOBANKS TURN PROFITABLE, OTHERS MAY PIVOT
+ERP PLATFORM
+SME Neobanks are SaaS-based integrated platforms
+which provide banking and accounting services to SME
+and MSME segments, catering to their day-to-day
+business needs. 
+Adoption of Neobanking platforms by
+MSMEs are expected to increase over
+the next few years as platforms add 
+more financial products, especially Lending and
+Corporate 
+Cards, 
+to 
+address 
+their 
+Working
+Capital/Trade Finance needs as well as support for
+Taxation and Compliance.
+FUTURE OUTLOOK
+& OPPORTUNITIES
+CURRENT SCENARIO
+HIGHEST FUNDED
+PLAYERS
+The SME Neobanking platform has
+raised USD 187 M till date. 
+ 30 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+3
+LENDINGTECH
+Segment has received ~ USD 650M of
+investment in the last 5 years
+Potential for Global Deployment
+Increasing Digital Lending 
+Regulatory Tailwinds
+Increased 
+demand 
+for 
+full-stack
+platform 
+with 
+LOS, 
+LMS, 
+BRE,
+Collections and LaaS capabilities.
+
+Lendingtech Overview
+Data is as of Dec'23
+5
+Source: Tracxn &The Digital Fifth Analysis
+Funding (USD M)
+2018
+2019
+2020
+2021
+2022
+2023
+0
+50
+100
+150
+200
+250
+24
+12
+238
+249
+125
+SEGMENT
+Loan Origination Systems (LOS) streamline the loan origination process
+by facilitating the workflow from the initial loan application to ingesting
+data for underwriting purposes and verifying necessary documents.
+LOS
+Loan Management Systems (LMS) manage the loan lifecycle post-
+approval, encompassing activities from the disbursement of funds to
+the repayment phase, ensuring efficient loan account management and
+tracking.
+LMS
+Business Rule Engine (BRE) automates the entire Credit Risk
+Assessment process by analyzing data from diverse sources to generate
+risk scores. It determines the creditworthiness of the borrower and
+provides a framework for risk-based pricing.
+BUSINESS RULE ENGINE
+Lending as a Service platforms offer a plug-and-play technology stack,
+enabling non-financial institutions as well as lenders to provide lending
+services seamlessly across various sectors, thus enhancing efficiency.
+LENDING-AS-A-SERVICE
+Debt Collection platforms streamline collections and recovery
+processes, allowing lenders to prioritize efficiency, improve customer
+experience and mitigate risk.
+DEBT COLLECTIONS PLATFORMS
+Chief Digital Officer
+Shriram Capital
+Ajay Thomas John
+The lending technology sector is in a state of transformation, marked by a shift towards
+collaborative and technology-driven solutions. The emergence of lending-as-a-service
+platforms, advancements in business rule engines, and the integration of conversational
+AI reflect the industry's dedication to utilising technology for an improved lending
+experience. Looking ahead, there are promising prospects in supply chain financing,
+regulatory adjustments, and enhanced data management, all aimed at optimising
+lending operations and delivering customer-focused solutions.
+FUNDING ANALYSIS
+The 
+pandemic 
+triggered 
+the
+digitization of the credit journeys  
+of key banks and NBFCs from
+Origination to Collection. This was
+accompanied 
+by 
+substantial
+funding to industry leaders in LOS,
+LMS, Collections and LaaS. As
+Digital 
+Lending 
+goes 
+through
+secular growth, all players are
+expected to invest heavily in
+lending technology.
+in margins and the entry of experienced founders will further enhance the potential of Enterprise-
+tech solutions for Secured Credit as well as for MSME and Corporate segments.
+The international expansion of
+established players, improvement 
+TOP MERGERS & ACQUISITIONS
+Co-lending
+Enterprise-tech
+LMS
+PaaS
+AA/TSP
+ACQUIRER
+SEGMENT
+ACQUIREE
+LOS/LMS
+LOS/LMS
+Collections
+BRE
+TOP FUNDED STARTUPS
+USD 317M
+Co-lending
+USD 78M
+Collections
+USD 32M
+LOS/LMS
+USD 31M
+LaaS
+USD 104M
+LOS/LMS
+STARTUP
+FUNDED AMOUNT
+SEGMENT
+Omnifin
+32 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Data as on Dec'23 | Source: Tracxn and The Digital Fifth Analysis
+
+Digital Lending as % of
+Total Lending Market in India
+2018
+2019
+2020
+2021
+2022
+0%
+5%
+10%
+15%
+20%
+MSME
+6%
+Banks and NBFCs are gaining traction on Digital Lending and investing heavily in
+technology stack as they see increased profitability:
+Axis Bank - 60% of total disbursements were Digital in Q1 FY’24 
+Aditya Birla Capital - 3X growth in Personal & Consumer Credit (FY'23 Vs FY'22)
+Digital lenders are accelerating their disbursements and swiftly moving toward profitability: 
+Paytm - $4.3B Disbursed in FY’23 with a commission of 2.5% to 3.5% on loan value 
+Kinara Capital - 96% increase in AUM from Mar’22 to Mar’23 
+Players are moving aggressively towards deep integrations with lending partners:
+PolicyBazaar - 76% increase in loan disbursals in FY'23 with exclusive products with
+lenders 
+Axis Bank & Fibe - Launched India’s first numberless credit card 
+Improvement in operational efficiency of the institutional lenders resulting in reduced TATs
+and errors by partnering with Fintechs for loan processing.
+E-commerce players lead the embedded finance market with their Pay Later and Credit
+Card products driven by deep integrations with lenders.
+Issuance of licenses: The regulator has issued NBFC licenses to many Fintechs and may
+also issue an estimated 10+ banking licenses over the next 7 years. 
+Digital Lending Guidelines: The regulator has already set the guidelines for Digital
+Lending, FLDG as well as Co-lending, thereby making guardrails clearer for the market.
+NBFC Core Platforms & Digital Push: In 2022, the RBI made the implementation of ‘Core
+Financial Services Solution’ mandatory for large NBFCs, which has led to an increased
+demand for LMS implementation in NBFCs. 
+ Widespread rollout of ONDC, OCEN & AA
+The success of ONDC and OCEN will enable the access of credit to all segments.
+As the Account Aggregator ecosystem grows, lenders will utilize the data for
+providing credit as well as managing portfolio risk.
+National Financial Information Registry (NFIR): The establishment of this registry will
+fast-track KYC and Underwriting processes for customers.
+GST / E-Invoicing: Access to GST data has opened up credit avenues for MSMEs. The
+mandatory e-invoicing limit has been lowered to INR 5 crore turnover. This will help
+MSMEs in availing credit against validated invoices.
+Risk Weightage: An increase in the risk weightage of consumer loans by banks and NBFC
+to 125% and an increase in the weightage of credit card receivables (Banks- 150% &
+NBFC- 125%) is a step taken by the regulator to strengthen credit standards.
+GOVERNMENT INITIATIVES & REGULATORY SUPPORT
+8%
+10%
+12%
+15%
+Data as on 2022
+Sectoral View of
+Indian Lending Market
+India's Changing Lending Dynamics
+Source: Source: CRIF
+Disbursements by institutional lenders grew from USD 1,302B in FY'18 to USD 1,841B in FY'22, with MSME and
+Retail disbursements increasing by 56% and 77%, respectively.
+MARKET DYNAMICS
+ 33 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Digital Lending in India has grown well in the past five years at a growth rate of CAGR 29%, from USD 75B in 2018
+to USD 270B in 2022. 
+Source: Source: RBI, The Digital Fifth Analysis, CRIF Report 
+Microfinance
+Retail
+Corporate
+19%
+30%
+49%
+2%
+2
+1
+CRIF Report and The Digital Fifth Analysis
+ Source :
+RBI and The Digital Fifth Analysis 
+1
+2
+3 Company reports
+3
+3
+3
+3
+4 ICRA rating
+3
+4
+
+68% 
+in Average
+Ticket Size from
+FY'18 to FY '23
+SHIFT IN LENDING FRAMEWORK
+Lendingtech players have capitalized on this shift by
+horizontally expanding across the tiers of the
+framework, offering scalable tech stacks for seamless
+integration.
+NTC SEGMENT IS OPENING UP
+Fintechs have opened up the NTC segment, including
+women, youth, rural population and MSMEs, by
+offering sachet-sized loans by utilizing alternate data.
+This segment has performed comparably well, thus
+encouraging traditional players to targeting this
+segment as well. 
+There is an increased opportunity for Underwriting
+platforms to utilize alternative data to offer credit to
+the NTC segment. With the availability of data from
+Account Aggregators, ONDC, GST, E-Invoicing,
+Supply Chains and other sources, the services of
+Underwriting platforms would be significant.
+SHIFTING LANDSCAPE OF PERSONAL LOANS
+Personal 
+loans 
+are 
+moving 
+towards 
+smaller
+consumption-based loans.
+Lendingtech platforms have a unique opportunity to
+capture this market of smaller ticket retail credit. The
+projected surge in transactions demands greater
+digitization 
+and 
+lower 
+costs 
+with 
+robust
+infrastructure.
+SCALING CO-LENDING & SURGING SECURITIZATION
+There is a demand for Co-lending and Securitization
+platforms to provide integration between lenders to
+manage the origination and lifecycle of such products. 
+ACCELERATED MSME LOAN DEMAND
+MSME loan demand has surged 1.7X from 2021 to
+2023, propelled by innovative lending models and
+improved 
+Credit 
+Assessment 
+led 
+by 
+digital
+infrastructure and GST data integration.
+Lendingtech is anticipated to develop tailored product
+offerings for vertical-specific MSMEs by aligning with
+supply chain networks and streamlining processes via
+ERP integration. Additionally, there is a push from
+lenders to reduce manual interventions, aiming to
+foster 
+growth 
+while 
+simultaneously 
+lowering
+operating costs.
+UPI'S INTEGRATION WITH CREDIT LINES
+Banks will be required to invest in LOS, LMS and BRE
+platforms to scale the issuance of Credit Lines. This
+may impact the utilization of UPI on Savings and
+Credit Cards.
+Credit on UPI is expected to witness mass adoption
+over the next 3 years, driven by simplified customer
+experience, interoperability and the omnipresence of
+UPI QR.
+Lendingtech Opportunities
+EYEING A USD 2.7 B MARKET BY 2030
+Traditionally, lending occurred solely through the
+channels of banks and NBFCs. A notable shift towards
+layers of lenders has been seen, with the addition of
+specialized 
+tiers 
+to 
+manage 
+lending 
+processes
+comprehensively at each stage.
+NTC - New to Credit
+USD 57B
+59%
+DISBURSEMENT
+AMOUNT
+USD 91B
+Co-lending is scaling and has crossed USD 3B.
+Securitization volumes have surged to reach USD
+8.8B. These products require deep integrations
+between FIs from Origination to NPA Management.
+34 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Banks /
+NBFCs
+Co-lending
+Platform
+Fintechs
+LaaS
+ Source :
+"How India Lends FY'22" A Report by CRIF
+1
+MSME Pulse Report by SIDBI & CIBIL and RBI
+2
+1
+2
+
+Evolution of Lendingtech Ecosystem
+2010 & Before
+LOS/LMS
+BRE
+Collection
+Platforms
+LaaS
+(including Co-Lending)
+2011 - 2015
+2016 - 2020
+2021 - 2023
+This period was marked by the initial adoption
+of LOS in India, spurred by the uptake of
+internet and mobile technologies, leading to
+the growth of Digital Lending practices
+specifically through assisted channels.
+There was a gradual progress observed in the
+collection 
+processes 
+within 
+the 
+lending
+landscape 
+led 
+by 
+App-based 
+Collection
+platforms for agents.
+This period witnessed a notable increase in the
+number of players across BRE, LOS/LMS, and
+Collections, despite the market operating
+under limited revenue and funding support.
+Co-lending platforms emerged as a significant
+area in the lending space.
+Rapid acceleration in Digital Lending is visible,
+highlighted by substantial investments made
+by banks, NBFCs and Fintechs in Lendingtech
+solutions.
+LaaS 
+platforms 
+are 
+gaining 
+momentum,
+facilitating multi-tier credit facilities.
+Collections platforms are attracting significant
+attention due to their efficiency in loan
+recovery processes.
+Lenders used manual processes, employing
+paper-based methods and Excel sheets to
+underwrite and onboard customers through
+branches.
+Minimal usage of LOS platforms was observed.
+LMS was used to offer standard products to
+customers. This period saw the emergence of a
+large number of LMS players.
+35 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Note: This is not an exhaustive list and many players have multiple lines of business in various segments other than the ones mentioned.
+
+FUTURE OUTLOOK & OPPORTUNITIES
+CURRENT SCENARIO
+LOS / LMS
+3A
+UNDERPINNING THE CREDIT TRANSFORMATION OF THE COUNTRY
+Banks and NBFCs will go fully digital for the Retail and
+MSME credits in the next 10 years. There is therefore a
+massive opportunity to build for this secular digitalization
+ of the Indian lending sector.
+Lenders will look to accelerate the digitization of secured
+lending, which has remained largely manual, expensive
+and inefficient. 
+Lending and CBS is expected to get decoupled, with banks
+migrating to specialist lending platforms
+Implementation of a CFSS, mandated by the regulator,
+holds the potential to expedite growth and revenue
+generation for LMS.
+Market will witness building of full-stack solutions
+through inorganic growth, such as Perfios acquiring
+FintechLabs & Karza and M2P acquiring Finflux. This 
+approach allows them to offer end-to-end solutions to clients,
+encompassing LOS, LMS, BRE, and Collections.
+Business models have seen a transition from a license-
+based revenue model to a % of AUM-based revenue
+model. Over the next decade, it is expected that there 
+would be significant adoption of variable models as technology
+moves from support function to business function.
+HIGHEST FUNDED PLAYER
+The lending platform has raised
+USD 104M till date
+Lenders are shifting from monolithic legacy
+platforms to cloud-native microservices
+platforms. They are willing to share revenues
+with Fintechs.
+The evolving multi-tier lending ecosystem
+and complex lending products underscore
+the necessity for highly customizable and
+integration ready LOS/LMS platforms. 
+Low Code No Code (LCNC) platforms are
+building their own LOS platforms as the
+agility requirements of customers and
+regulators are on the rise.
+Prominent players have started expanding
+into MENA & SEA regions and getting early
+wins.
+Secured lending is showing early signs of
+innovations with startups building the stack
+and lenders looking to digitise secured
+lending.
+In the dynamic Indian lending landscape, it is evident that
+there is a shift towards lending systems that bring
+flexibility, scalability and resiliency to operations. The right
+technology can be a crucial differentiator for financial
+institutions to launch innovative loan products, strengthen
+operational agility and at the same time quickly adapt to
+regulatory changes. Highly composable, with an ability to
+perform at scale, lending systems can help financial
+institutions be future-ready, build competitive advantage
+and drive business growth.
+Director & CEO, 
+Pennant Technologies
+Rama Krishna Raju
+36 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Lending products are innovating beyond
+standard EMI paym﻿ents to flexibility in
+disbursement, 
+repayment 
+schedule 
+and
+repayment amount.
+
+Business Rule Engine & Collections Platforms
+3B
+OPPORTUNITY FOR STARTUPS TO ENTER THE MARKET
+CURRENT SCENARIO
+Lenders have started working with BRE startups
+as they intend to look beyond conventional
+underwriting frameworks.
+The integration of diverse data sources has
+become fundamental for underwriting engines as
+they serve as foundational elements for credit
+assessment.
+Embedded Finance and Fintechs have started
+incorporating BRE into their systems to improve
+the decision-making process and route to
+relevant partners.
+The pandemic made it imperative to handle
+collections digitally and via multiple payment
+instruments, thus driving lenders to enhance and
+expand their Collections platforms.
+Collections
+Business Rule Engine
+Chief Information Officer
+South Indian Bank
+Sony A
+The dynamic landscape within India's lending tech sector is
+witnessing a notable shift towards an advanced technological
+integration, specifically focusing on the Business Rule Engines
+(BREs). The prime emphasis lies on the credit segment, where the
+pivotal 
+question 
+arises 
+concerning 
+real-time 
+underwriting
+capabilities. There's a significant consideration regarding whether
+the underwriting model will rely on traditional methods or cutting-
+edge technological capabilities to adapt to the evolving financial
+landscape. This transformation aims to enhance efficiency,
+particularly in the assessment and management of credit, thereby
+shaping the future of lending technology in the country.
+Business Rule Engine
+Demand is expected to grow for BRE across all layers, i.e.
+banks, NBFCs, Fintechs and Embedded Finance players, for
+adaptable, scalable and real-time decisioning to fuel expansion.
+While the general appetite for BREs is expected to grow,
+growth is anticipated in segment-focused BREs to cater to  the
+specific requirements of large segments such as Retail, MSME, 
+and Corporate, ensuring more precise and targeted functionalities. 
+BRE platforms will have opportunities worldwide, as shown by
+Scienaptic. These flexible platforms can easily be customized
+to local requirements and do not require prolonged country
+level workflow and product development, as is the case with LOS / LMS
+platforms.
+Collections
+Collections 
+platforms 
+may 
+incorporate 
+Early 
+Warning
+functionality, enabling lenders to identify potential loan
+defaults or delays that further lead to NPAs. Discrepancies in 
+the recorded collection transactions and actually received funds present
+additional opportunities for Collections platforms.
+There is an expectation of higher defaults in Unsecured Credit,
+as called out by the regulator. This will propel additional
+investment in collection platforms.
+HIGHEST FUNDED PLAYER
+BRE
+USD 9M
+Collections
+USD 78M
+FUTURE OUTLOOK & OPPORTUNITIES
+There is a growing demand for comprehensive
+collections 
+platforms 
+that 
+encompass 
+AI
+capabilities along with physical teams to cover
+the entire spectrum of collection efforts.
+37 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+Co-Founder & CEO 
+FinBox
+Rajat Deshpande
+As we look to the future, the lending landscape is poised
+for innovation and growth. Anticipated changes in LMS
+and BRE technologies, the rise of Low-Code/No-Code
+platforms, and the shift towards data-first strategies
+hold immense potential. Channel-agnostic, omnichannel
+experiences, along with international expansion, are the
+key to success. We're on the brink of a data-driven
+evolution in the lending industry.
+Banks and NBFCs are gradually embracing
+Co-lending 
+platforms 
+to 
+enhance 
+loan
+origination processes and efficiently manage
+the available capital.
+LaaS platforms are focusing on removing
+friction at all levels across technology as well
+as capital. This is opening up the business
+model to transform either into a TSP, a TSP
++ Capital Provider or anything in between.
+HIGHEST FUNDED PLAYER
+The Co-lending platform has
+raised USD 317M till date
+LaaS 
+providers 
+enable 
+Fintech 
+and
+Embedded Finance players to provide credit
+by offering plug-and-play tech stacks.
+Lending as a Service (Including Co-lending)
+3C
+They offer banks and NBFCs additional
+revenue-building opportunities by extending
+lending beyond their digital channels to
+partner channels.
+LaaS providers are shifting their focus towards
+Secured Lending products, an unexplored domain
+within Digital Finance. This is a completely new area 
+of exploration for these service providers, and is driven by the
+demands of large lenders. Home Loans may be the first segment
+to be digitized.
+Given deep revenue pools and increasing acceptance
+for LaaS, full-stack players are expected to offer LOS, 
+LMS, BRE, Collections, Co-lending, and Securitization services.
+Existing LOS and LMS platforms are venturing into
+developing Co-lending and LaaS stacks to diversify
+services, generate additional revenue streams, and 
+stay competitive in the evolving lending landscape.
+38 | INDIAN ENTERPRISE FINTECH REPORT 2024
+FUTURE OUTLOOK & OPPORTUNITIES
+LEADER IN THE SEGMENT IN TERMS OF FUNDING
+CURRENT SCENARIO
+
+2018
+2019
+2020
+2021
+2022
+0
+20
+40
+60
+80
+100
+SME Lending
+3D
+CATALYZING GROWTH: THE EVOLVING LANDSCAPE OF MSME LENDING
+CURRENT SCENARIO
+Digital Lenders are offering collateral-free
+loans with flexible repayments and end-to-
+end digital processing for MSMEs which are
+not targeted by established lenders.
+Product innovations like Revenue-based
+Finance by GetVantage and Supply Chain
+finance by Vayana offer new opportunities
+for credit to MSMEs.
+Industry leaders have been seen entering
+the Enterprise Fintech arena by offering
+their stack as Lending as a Service.
+Greater availability of data from GST, e-Invoicing, AA,
+etc. will help in the income assessment of MSMEs,
+thereby positively impacting credit.
+MSME lenders will replicate the success of Consumer
+Lending and offer digital credit through their own
+channels as well as partnerships. 
+The NBFC has raised USD 195M
+till date
+56.6% 
+increase 
+in
+disbursement to MSMEs by
+Institutional lenders, from
+USD 58.07B in 2018 to
+USD 90.94B in 2022
+Disbursement to MSMEs 
+Source: RBI
+All figures are in USD B
+58
+57
+62
+70
+91
+On the supply side, MSME lenders are expected to
+partner with larger lenders for Co-lending and
+Securitization opportunities.
+ONDC offers a large opportunity for lenders as small
+sellers and service providers would be the biggest
+beneficiaries of heightened e-commerce transactions. 
+Co-Founder 
+FlexiLoans
+Deepak Jain
+India's SME lending sector is on the brink of transformation, holding
+a billion-dollar market potential. Digital lenders, fueled by
+innovation and regulatory adaptability, are set to rival traditional
+lenders. This shift, coupled with the move from cash to digital
+payments in smaller towns, promises substantial growth & evolution.
+Founder 
+GetVantage //
+GetGrowth Capital 
+Bhavik Vasa
+HIGHEST FUNDED PLAYER
+39 | INDIAN ENTERPRISE FINTECH REPORT 2024
+FUTURE OUTLOOK & OPPORTUNITIES
+Capital-As-A-Service 
+unleashes 
+a 
+dual 
+force 
+-empowering
+innovation through boundless opportunity and catalyzing impact by
+democratizing access to financial fuel for the emerging brands of
+India. 
+
+Cross Border
+PaaS
+Rewards 
+PG/POS
+4
+PAYTECH
+This space has received USD 2B
+investment in the last 6 years
+Immense scope for internationalisation
+and interoperability
+Funding focus has shifted to Cross
+Border, PaaS and Rewards
+Full-stack platforms are being built to
+provide plug-and-play capabilities 
+
+Data is as of Dec'23
+Source: Tracxn &The Digital Fifth Analysis
+SEGMENT
+Funding (USD M)
+2018
+2019
+2020
+2021
+2022
+2023
+0
+200
+400
+600
+800
+1,000
+1,200
+22
+159
+244
+1019
+559
+37
+Paytech Overview
+Card Management platforms enable the creation and management of
+prepaid, debit and credit cards.
+ CARD MANAGEMENT
+Payment as a Service (PaaS) platforms, in partnership with banks, enable
+Fintechs and Embedded Finance players to offer plug-and-play payment
+solutions via an API stack. These services include Card Management,
+Domestic Payments, Payment Gateways and Cross-border Payments.
+PAAS
+Cash Management platforms streamline Payments, Collections and
+Reconciliation for corporates and financial institutions.
+ CASH MANAGEMENT
+Reward platforms enable partners to offer rewards for loyalty, referrals,
+or performance with various incentives like discounts, points, vouchers,
+etc. which end customers can avail with ease.
+REWARDS
+Switch platforms enable Payment Networks to route and authorize
+payments to banks. These payment methods include Card, UPI, RTGS,
+NEFT, UPI, IMPS, BBPS, etc.
+SWITCH PLATFORM
+Payment Gateways process and authorize payments between sellers
+and buyers using infrastructure offered by Payment Networks and
+banks.
+PAYMENT GATEWAY / POS
+Escrow Payment platforms enable banks and trustees to secure the
+collection and disbursal of transactions between buyers and sellers,
+thereby reducing transaction risk.
+ESCROW PLATFORM
+Cross-border 
+Payment 
+platforms 
+provide 
+international 
+money
+movement infrastructure to banks, forex and trade entities for
+Remittances and Trade transactions. 
+CROSS BORDER PAYMENT
+FUNDING ANALYSIS
+There is a marked shift in funding
+towards 
+Cash 
+Management,
+Escrow, 
+Rewards 
+and 
+PaaS
+platforms, whereas earlier, PG/POS
+players received a majority of the
+funding. This reduction is linked to
+regulatory 
+constraints, 
+wherein
+only 31 licenses out of the existing
+have been approved, while 72
+existing/new licenses have been
+rejected or returned.
+startups scale. In addition, significant potential also exists in the internationalization of Indian
+Enterprise Fintech startups to cater their offerings to the world. 
+Newer segments are expected to
+attract their share of capital as
+TOP MERGERS & ACQUISITIONS
+POS
+POS
+ACQUIRER
+SEGMENT
+ACQUIREE
+POS
+POS
+Rewards
+Rewards
+TOP FUNDED STARTUPS
+USD 1600M
+POS
+USD 350M
+PaaS
+USD 129M
+PaaS
+USD 128M
+PG
+USD 817M
+PG
+STARTUP
+FUNDED AMOUNT
+SEGMENT
+PG
+ 41 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+Data as on Dec'23 | Source: Tracxn and The Digital Fifth Analysis
+ Source :
+Data on PG from RBI
+1
+1
+
+2021
+2022
+2023
+0
+20
+40
+60
+80
+100
+120
+NETC - National Electronic Toll Collection | AePS - Aadhaar Enabled Payment System | MDR - Merchant Discount Rate.  
+GROWTH IN PAYMENTS
+Digital Payments have witnessed a remarkable surge, with the volume experiencing a growth (CAGR) of 61% between FY'21
+to FY'23. Volume till Dec’23 has already reached 91% of last FY volume. This has been fuelled by the pandemic as well as
+the emergence of population-scale payment systems. Paper-based instruments have dwindled to 0.6% (in volume) of total
+payments.
+MARKET DYNAMICS
+The RBI has implemented a licensing model for PA/PG and PA-Cross Border. Master Directions
+on Digital Payments Security Controls, Harmonization of TAT and Co-branded Credit cards have
+been issued.
+The RBI created a Regulatory Sandbox setup for digital players to develop and test product
+innovations in a controlled live environment. So far, two payment-focused cohorts have been
+launched which have led to innovations like UPI 123Pay (for offline payments) and set the path
+for transformation in cross-border payments. RBI has also introduced CBDC to facilitate the
+adoption and usage of Digital Payments to reduce the usage of cash. 
+The regulator launched ‘RBI Kehta Hai’ (Translation: RBI Says) to increase awareness about
+Digital Payment modes as well as to educate customers on how to use them safely. 
+The RBI has launched the ‘Digital Payments Index’ to capture the extent of digitalisation of
+payments across the country, covering demand and supply side factors, payment performance
+and customer-centricity.
+Chief Operating Officer
+NPCI
+Praveena Rai
+UPI has emerged as a global leader in Digital Payments, showcasing remarkable growth (CAGR) with a 94% increase in
+volume and an 84% rise in value. This surge can be attributed to not only interoperability and the convenience it provides,
+but also to zero MDR on low-value transactions.
+Digital Payments
+REGULATORY & GOVERNMENT SUPPORT
+The payments industry in India is experiencing a pivotal shift towards
+tech-driven solutions. Emphasizing B2B engagement, advancing AI
+applications in credit services, and advocating for modern tech stacks
+among service providers reflect our commitment to revolutionising the
+ecosystem. Striking a balance between innovation and trust, we're
+steering towards hybrid tech approaches, propelling us towards a more
+personalized and efficient payment landscape.
+NEFT & RTGS: Demonstrated a consistent growth of 31% and 23% CAGR, respectively.
+These methods are predominantly used by enterprises for processing high-value transactions. 
+PPI: 2022 saw growth of 42% in usage of PPI but it went flat to 3% in 2023 owing to the
+stiffening of KYC regulations, banning of credit on prepaid, and movement to UPI.
+NETC: Growth in transaction volume and value by 58% and 69% CAGR respectively is led by
+factors such as mandating of FASTag, embedding FASTag in vehicles during manufacturing,
+varied use cases like parking tickets and development of road infrastructure.
+Debit Card: Usage of Debit cards has declined by 8% YoY, with the convenience of UPI QR
+based payments, which has eliminated the need to carry a card.
+Credit Card: Issuance of Credit cards has seen a 16% CAGR led by co-branded cards like
+Amazon & ICICI Bank, Flipkart & Axis Bank, as well as by new issuers like DBS Bank, AU SFB,
+Federal Bank and South Indian Bank. The usage has increased by 29% CAGR, fueled by
+higher customer uptake, attractive rewards, and cashbacks.
+AePS: Transaction values have witnessed a growth of 14% CAGR, with a volume of 94.1M
+transactions to date. AePS has played the role of UPI for rural India, with the government
+utilising Aadhaar-linked accounts to implement schemes and disburse subsidies.
+61%
+44B
+2021
+2022
+2023
+0
+20
+40
+60
+80
+100
+UPI Transactions
+USD 22B
+USD 46 B
+USD 84 B
+72B
+114B
+94%
+India's Changing Payment Dynamics
+Source: NPCI, RBI & The Digital Fifth Analysis
+1
+1
+1
+Figures are of Volume
+42 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+ Source :
+RBI, Meity & The Digital Fifth Analysis
+1
+
+e
+e
+RISE IN DIGITAL PAYMENTS
+In response to rising growth and innovation in Digital
+Payments, banks are expected to enhance their
+legacy switch stacks with dynamic infrastructure. To
+manage workloads from varied payment methods
+through a Dual-core Switch Stack, banks are exploring
+both aggregation and division strategies.
+NEED TO STREAMLINE B2B PAYMENTS
+With a focus on B2B payments and a growing number
+of MSMEs in India, there is a need for technology
+stacks that simplify and streamline B2B payment
+processes.
+There is a vast opportunity to build enterprise-grade
+solutions to simplify B2B payments that can
+seamlessly integrate with business systems. Platforms
+should have the capability to handle end-to-end
+requirements such as streamlining payouts, handling
+collections and managing cashflow within a single
+platform. 
+CROSS BORDER AND ESCROW PLATFORMS
+Cross-border payments and Escrow Management
+remain untapped due to complex regulations and
+inherent challenges of financial risk associated with
+those transactions. 
+API-led payment facilitators will see increased
+demand to ease integration with Cross-border
+transaction interfaces for better risk management,
+improved costs and turnaround time.
+GROWTH OF CBDC
+As 13 banks are currently operational with CBDC and
+additional banks are anticipated to participate in the
+future, the adoption of Digital Rupee is predicted to
+rise.
+As additional pilot programs emerge and various use
+cases develop around CBDC, the market is likely to
+seek interoperable and security technology solutions
+to provide numerous use cases, offering channel-
+agnostic interfaces.
+PAIN POINTS IN RECONCILIATION
+The complexity of reconciliation is growing due to the
+availability of more payment methods and facilitators,
+making it challenging to manage settlements, refunds,
+cancellations, and liquidity.
+Given the necessity for enhanced reconciliation
+among payment participants, both incumbent and
+new 
+players 
+are 
+expected 
+to 
+employ 
+agile
+Reconciliation 
+platforms, 
+driven 
+by 
+rule-based
+analytics.
+EMERGENCE OF PAAS
+To tackle these areas, the market will continue to
+seek PaaS solutions to provide pre-built components,
+and ready-to-use, plug-and-play payment solutions.
+There is a growing demand to accelerate the
+deployment of rapid payment products, led by the rise
+in embedded payments and emerging payment
+business models.
+Paytech Opportunities
+EYEING A USD 670 M MARKET BY 2030
+Digital Payments have continued to witness massive
+growth primarily led by UPI, which demands scalable
+and resilient switching infrastructure.
+43 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+ Source :
+iba.org.in
+1
+1
+
+Evolution of Paytech Market
+2010 & Before
+Switch & Card
+Management
+Platforms
+Cross Border
+Payments
+PG/POS
+Rewards
+PaaS
+Electronic payments made inroads in the
+country with ATMs, NEFT and RTGS. 
+Foreign players entered Switch and Card
+Management which were mostly operated
+through private data centre setups in multi-
+tenant structures or on-premise deployments
+for banks. 
+Banks started deploying Cash Management
+platforms. 
+Payment 
+Gateway/POS 
+platforms 
+were
+launched. 
+2011 - 2015
+2016 - 2020
+2021 - 2023
+NPCI launched IMPS, following which Switch
+platforms launched IMPS switches for banks. 
+E-commerce started gaining traction with the
+growth of Flipkart and Amazon, leading to
+increased demand for White Label PGs. 
+Cross-border payments also showed early
+traction during this period and banks started
+deploying technology stacks.
+UPI and AePS were launched during this
+period. Banks invested heavily in UPI Switch
+infrastructure.
+Analytics-based reconciliation took centre
+stage with multiple payment methods being
+introduced and an increase in the volume of
+digital payments. 
+PG players pivoted as full-scale PaaS players.
+With growth in Credit cards and an increase in
+the adoption of co-branded cards, a new breed
+of Switch and Card platforms emerged.
+Rewards Management also started gaining
+wider interest in the industry. 
+Escrow Payment tech players emerged to
+show acceptance among banks and players.
+Forex As a Service emerged as a new business
+proposition. 
+Business Payments
+(Escrow & Cash Management)
+44 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+Note: This is not an exhaustive list and many players have multiple lines of business in various segments other than the ones mentioned.
+
+Demands for PGs increased the growth of e-
+commerce, 
+while 
+POS 
+continued 
+to
+transform offline businesses.
+Many PG platforms have evolved as white-
+label 
+platforms, 
+providing 
+technology
+solutions 
+to 
+other 
+payment 
+service
+providers.
+PGs 
+are 
+adopting 
+full-stack 
+solutions,
+including CMS, PaaS and Cross-border
+services. This trend is reflected in the
+acquisition of Ezetap by Razorpay and the
+launch of Pine Labs' Plural.
+With the regulator tightening the issuance of
+licenses, entities that have or will receive
+one will observe a surge in their business. 
+PaaS players provide a comprehensive
+solution, 
+including 
+SaaS 
+and 
+IaaS
+components, offering startups a convenient
+toolkit to enter the Payments market rapidly.
+Banks will opt for their own PGs to boost their online
+payment services, which could lead to an increased
+demand for white-label platforms.
+ONDC expansion is likely to drive the need for
+customized PA/PG/PaaS solutions, especially in e-
+commerce and MSME sectors.
+mid-sized businesses, consequently driving an increased demand for
+the OPGSP platform.
+The recently released guidelines on PA - Cross border are
+expected to attract players into this segment. This move
+aims to facilitate import-export payments for small and 
+With the growing digitalization of enterprise payments,
+demand for solutions such as Collection, Reconciliation
+and more is expected to increase. Therefore, there is an 
+opportunity to build in these domains which previously would have
+had limited potential. 
+There is a growing internationalization of Indian
+Enterprise Fintech solutions, especially for POS/PG/PaaS
+solutions.
+37
+Existing PG
+New PG
+Granted
+In-Process
+Rejected
+0
+10
+20
+30
+40
+50
+Payment Gateway, POS & PaaS
+4A
+PAYMENT SYSTEM PROVIDERS TO ENTER A PHASE OF MATURITY
+HIGHEST FUNDED PLAYERS
+FUTURE OUTLOOK & OPPORTUNITIES
+The tightening of rules and regulations for PA/PG license
+is fostering market maturity, thus prompting heightened
+scrutiny and monitoring.
+24
+8
+13
+25
+43
+PA / PG License Distribution
+USD 1600M
+POS
+USD 129M
+PaaS
+USD 817M
+PG
+CURRENT SCENARIO
+POS - Point of Sale / OPGSP - Online Payment Gateway Service Provider | SaaS - Software as a Service | IaaS - Infrastructure as a Service
+Source: RBI 
+45 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+India's Cross-border system largely relies on
+RBI-licensed AD-I Category Banks which
+serve as both mediators and facilitators.
+AD-II and FFMC players are now delving
+into a broad spectrum of products and
+services 
+through 
+bundled 
+Cross-border
+transactions, frequently collaborating with
+AD-I Banks and MTOs.
+Leveraging technology, FXaaS capitalizes on
+the 
+expanding 
+remittance 
+market 
+and
+foreign trade, addressing consumer concerns
+related to latency, transparency as well ease
+of transaction.
+Retail investors are leveraging Fintech-
+driven Investment platforms to actively
+participate in Cross-border trading and
+investment activities
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+RBI has raised online Payment Gateway limits for cross-
+border transactions in the latest PA-CB guidelines
+signifies a promising market opportunity amidst 
+technological advancements and growing demand.
+The anticipated growth in demand for international
+education may create an opportunity for new entrants
+with advanced technology capabilities in both university 
+and student interfaces to simplify cross-border payments for
+student fees and expenses. 
+With e-commerce import-export in India projected to
+exceed USD 100B+ by 2030, payment facilitators may see
+an opportunity to support e-commerce platforms like
+Etsy, Shopify and IndiaMart for seamless cross-border transactions.
+Partnering with AD-I banks, FXaaS increased demand for
+providing Forex-related APIs to support Remittance,
+Forex Cards, EXIM transactions, education payments and
+other related services. 
+Driven by the escalating demand for the digitization of
+Invoice Discounting and various Trade Finance solutions
+in this sector, Payment facilitators are poised to explore 
+Forex Supply Chain Financing further in the near future. 
+HIGHEST FUNDED PLAYERS
+MARKET SCENARIO
+Data as of 2022-23
+Source: Press Information Bureau, GoI
+USD 100B
+12% YoY
+Inward 
+USD 27B
+38% YoY
+Outward
+USD 892B
+17.38 % YoY
+Import
+USD 770B
+13.75% YoY
+Export
+USD 71B
+19.3% YoY
+Total FDI inflows received in FY
+2023, which includes equity
+inflows, reinvested earnings, and
+other capital sources. 
+REMITTANCE
+TRADE
+INVESTMENT
+USD 17M
+USD 16.2M
+Cross Border Payments
+Cross Border Platforms
+4B
+INNOVATIONS IN CROSS BORDER ARE REVOLUTIONISING THE SEGMENT
+OEIF - Online Export Import Facilitator | FXaaS - Forex As A Service | OPGSP - Online Payment Gateway Service Providers | FFMC - Full Flegded Money Changer | AD - Authorized Dealer | MTOs - Money Transfer Operators
+1
+46 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+ Source :
+Press Information Bureau & Indian brand equity foundation
+1
+
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+Switch & Card Management System
+4C
+FORESEEING INNOVATION TO DRIVE GROWTH IN THE SEGMENT
+International entities have predominantly led
+the Card Switch platforms utilised in banks.
+A 
+majority 
+of 
+Switch 
+platforms 
+are
+interconnected 
+with 
+Card 
+Management
+platforms. Newer players are decoupling
+these solutions to drive innovation.
+The market is witnessing demand for
+microservices-based agile Card Management
+platforms to provide customisation, quick
+launch, and co-branded cards. 
+There is an increasing trend towards
+bundling value-added services such as
+Reconciliation and Settlements for providing
+a new-age full-stack experience. 
+Cloud-based Switch platforms and Card
+Management 
+solutions 
+are 
+increasingly
+being sought by the market for their
+flexibility, scalability and customizability.
+Banks are expected to diversify away from their current
+reliance on a single-switch model. The growing scale of
+digital payments is likely to push this demand higher.
+As the RBI plans to globalise domestic payment systems,
+there could be a need for technology enablers to facilitate
+seamless transactions between homegrown and global 
+payment methods. 
+Lenders are increasingly looking at catering to the demand
+for credit cards, especially by the NTC category, in
+partnership with Fintechs. This is expected to increase the 
+opportunity to build customized and sophisticated co-branded Card
+Management Systems.
+IOT-based payments will increase the demand for
+tokenization in transactions, thus requiring more Token
+Service Providers to integrate with Card Management 
+players in order to facilitate safer card payments.
+Co-Founder & COO
+Hyperface
+Aishwarya Jaishankar
+Customers demand personalized, enriched banking experiences and
+experimentation in their payment journey. Banks, facing challenges with
+legacy systems and pricing models, must adapt to meet these evolving
+expectations. The growing demand for middleware and API enrichment,
+coupled with the use of AI, is reshaping the banking and payments
+landscape. Collaborative innovation between fintech and banks is
+essential to address these evolving use cases and deliver data-driven
+solutions effectively.
+ CARD INFRASTRUCTURE 
+12M
+ FY23
+Newly Issued
+ 85.3M
+17% CAGR (FY21-23)
+Total
+NO. OF CREDIT CARDS ISSUED
+44M
+ FY23
+Newly Issued
+ 961M
+3% CAGR (FY21-23)
+Total
+NO. OF DEBIT CARDS ISSUED
+Source: RBI 
+47 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+HIGHEST FUNDED PLAYERS
+Card Management
+USD 10M
+Switch
+USD 26M
+
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+Rewards Platform
+4D
+MARKET LEANING TOWARDS INCENTIVISATION
+Founder & CEO
+Twid
+Amit Koshal
+Banks are opting to collaborate with
+Rewards platforms to provide rewards tied
+to card usage. For instance, IDFC Bank has
+partnered with PoshVine to offer reward
+points to its credit card customers. 
+Rewards platforms are attempting to solve
+issues 
+pertaining 
+to 
+personalization,
+efficiency, 
+transparency, 
+scalability,
+recognition scope, tax issues, effectiveness
+tracking and reward delays.
+Rewards platforms are building technology
+to consolidate reward points across banks
+and retailers to enable them to use it at POS
+terminals using cards. 
+As the adoption of rewards increases,
+Payment facilitators are attempting to tap
+into this opportunity and plug rewards in as
+a part of their offerings. 
+Increasing 
+frauds 
+around 
+the 
+rewards
+ecosystem are creating a need for fraud
+management.
+With the increasing digitalization of commercial activity,
+there is a strong case to build interoperable Rewards
+platforms offering platform-agnostic utilization to drive
+customer loyalty and engagement.
+Platforms are positioning themselves as providers of
+Loyalty as a Service, diversifying incentives based on
+redemption through gold and cryptocurrency. This 
+necessitates a technology stack to facilitate incentive delivery.
+As the market expands, functionalities such as Fraud
+Detection and superior Customer Communication can be
+strong differentiators for the adoption of rewards
+platforms.
+Rewards platforms will aim to increase their value
+proposition by enhancing analytical capabilities and
+meticulously tracking customer behaviour, optimizing the
+utilization of rewards, refining customer profiles, enhancing
+interactions and aligning redemption. 
+HIGHEST FUNDED PLAYER
+The Rewards platform has raised
+USD 17M till date. 
+In the past, people worldwide lacked the know-how to
+utilize their hard-earned rewards. With the push
+towards digital payments, the adoption of technology
+will create a potential market for better scale-up. The
+key is to create a sense of self-ownership for rewards,
+fostering utilization and engagement. With a focus on
+building user awareness, India's rewards market will see
+more technology adoption to expand, offering more
+fungible and ubiquitous points for redemption.
+Rewarding users for byte-sized transactions coupled
+with their willingness to transact more for additional
+rewards are fueling the growth of the rewards market.
+48 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+Business Payments (Escrow & Cash Management)
+4E
+REAL TIME PAYMENTS WILL DRIVE INNOVATIONS IN THE SEGMENT
+Co-Founder & CEO
+TransBnk
+Vaibhav Tambe
+HIGHEST FUNDED PLAYER
+The Escrow platform has raised
+USD 14M till date. 
+Escrow will play as an entry point for new payment
+tech players to enter into banks to provide robust
+business banking services. Escrow and Digital
+banking will be combined to form a comprehensive
+corporate banking stack. RBI's push for real and
+digital accounts disrupts escrow pooling, while
+innovations like BBPS, UPI autopay, and maturing
+NACH drive sector growth. The democratization of
+corporate stacks across banks, coupled with
+infrastructure 
+development, 
+transforms 
+the
+technology layer in the sector. 
+Escrow setup, which used to be a fully
+manual activity, is now being solved by new-
+age Escrow platforms that offer end-to-end
+digital setup processes.
+Modern Escrow platforms present a broad
+spectrum of services beyond handling
+transactions. These include services for
+Document Exchange and Shares Exchange.
+In tandem with the growth in digital
+payments, CMS providers are becoming
+more configurable, automated and ERP
+integration-enabled. 
+As 
+market 
+expectations 
+lean 
+toward
+integrating Corporate Banking services with
+Escrow 
+services, 
+existing 
+players 
+may
+enhance 
+current 
+systems, 
+while 
+new
+entrants 
+will 
+focus 
+on 
+seizing 
+the
+opportunity 
+to 
+introduce 
+innovative
+solutions that cater to both needs.
+Growth in cross-border trade, coupled with a regulatory
+drive towards digitalization and formalization of the
+economy is expected to drive demand for CMS and
+Escrow solutions customized for international complexities. 
+There is a demand for new-age Cash Management
+platforms that can handle the entire value chain, including
+Supplier Payments, Collections and Receivables 
+Management, 
+Salary 
+Payments, 
+Liquidity 
+Management 
+and
+Reconciliation in a convenient and user-friendly manner.
+Cash Management and Escrow platforms equipped with
+Fraud Detection and AML capabilities are essential to
+ensure a secure and trustworthy cash flow experience
+for users.
+49 | INDIAN ENTERPRISE FINTECH REPORT 2024 
+
+5
+REGTECH
+In FY’23, banking fraud cases leapt
+by 2x with the number of cases
+concentrated in card or internet-
+related frauds.
+The Regtech sector is expected to
+experience growth, with numerous
+emerging players securing funding.
+Regulatory legislations, such as the
+DPDP, will necessitate advanced
+Regtech systems
+
+Funding (USD M)
+2018
+2019
+2020
+2021
+2022
+2023
+0
+10
+20
+30
+40
+50
+60
+Data is as of Dec'23
+Source: Tracxn &The Digital Fifth Analysis
+Regtech Overview
+FUNDING ANALYSIS
+The Regtech sector witnessed
+major funding in the Identity
+Management segment. Funding
+was majorly captured by a few
+players like Signzy, IDfy and
+Digio.
+The RBI’s decision to extend the
+regulatory net as well as growth
+in Data and AI are creating
+opportunities 
+for 
+Regtech
+solutions 
+to 
+innovate 
+and
+disrupt. 
+Regulatory Reporting solutions enable the timely preparation of
+regulatory reports based on financial and operational data for
+submission to regulators, ensuring compliance and financial stability.
+REGULATORY REPORTING
+GRC platforms provide an integrated framework for managing
+governance, risk and compliance, thus promoting better decision-
+making and operational efficiency.
+GOVERNANCE, RISK & COMPLIANCE
+RISK MANAGEMENT
+Risk Management solutions safeguard organisations from fraudulent
+activities, manage credit risks and ensure regulatory compliance. 
+Cybersecurity solutions use advanced technologies to guard financial
+assets and data, protect against cyber attacks, and comply with data
+security & privacy regulations.
+CYBERSECURITY
+TOP FUNDED STARTUPS
+USD 40M
+Identity Management
+USD 12M
+Identity Management
+USD 21M
+Identity Management
+STARTUP
+FUNDED AMOUNT
+SEGMENT
+SEGMENT
+TOP MERGERS & ACQUISITIONS
+ACQUIRER
+SEGMENT
+ACQUIREE
+Identity Management
+Regtech
+Regtech
+Bankingtech
+Full Stack
+Co-lending
+5
+13
+59
+30
+50
+20
+51 | INDIAN ENTERPRISE FINTECH REPORT 2024
+KYC solutions automate client identification processes to enhance
+security and prevent identity theft and financial fraud.
+IDENTITY MANAGEMENT
+AML solutions leverage data for monitoring transactions and reporting
+money laundering, while Fraud Risk Management employs analytics and
+machine learning for fraud detection and prevention.
+Data as on Dec'23 | Source: Tracxn and The Digital Fifth Analysis
+AML & FRM
+
+REGULATORY & GOVERNMENT SUPPORT
+Total Number & Value of
+Frauds in Banks 
+2019
+2020
+2021
+2022
+2023
+0
+5
+10
+15
+20
+2021-22
+2022-23
+0
+50
+100
+150
+200
+250
+Enforcement actions by FIs
+Co-operative Bank
+Private Bank
+Public Bank
+8B
+20B
+14B
+6B
+3B
+India's Changing Regtech Dynamics
+ AML- Anti Money Laundering | DPDP Act - Digital Personal Data Protection Act | OCEN - Open Credit Enablement Network | FIU - Financial Intelligence Unit
+Source: RBI & The Digital Fifth Analysis
+In India, banking fraud cases leapt by 2x from 6761 in FY’19 to 13,576 in FY23 with the number of cases concentrated in card
+or internet-related frauds. The defrauded sum on the other hand plummeted by ~80%, from USD 8B to USD 3B, thus
+signalling a surge in lower-value frauds.
+Enforcement Actions:
+Enforcement actions by the RBI increased significantly from 189 in FY22 to 211 in FY23, with the total penalty volume
+declining from USD 7.95M to USD 4.9M. 
+The increase in instances of penalties imposed on regulated entities during FY’23 was led by cooperative banks constituting
+~83%. For both PSBs and PVBs, the number and total penalty amount declined during the year. The average penalty per
+instance was the highest for PVBs.
+India Stack APIs are a key component of the Digital India
+initiative and have bolstered the demand for Regtech
+solutions. Novel players like Difenz & Tookitaki are stepping
+up to offer Fraud Risk Management tools and Real-time AML
+Monitoring systems, respectively.
+The RBI's emphasis on transparency and fair practices is
+triggering the demand for data-driven Regtech solutions.
+Players like Crediwatch and Ziagram are rising to the occasion
+with data-led solutions to drive compliance with the KYC and
+AML regulations.
+The RBI's new frameworks are catalyzing the demand for
+Regtech solutions. Companies like Fintellix and Signzy are
+leading the way in Identity Management, while Jocata
+provides 
+AML 
+transaction 
+monitoring 
+and 
+Data
+Privacy/Security solutions, enabling collaboration between
+Regtech players and Financial Institutions for regulatory
+compliance and data protection.
+REGULATORY TECHNOLOGY PROGRESSION
+The growth of Insurtech and Discount Broking platforms intensifies the need for
+Regulatory Reporting, Trading Anomaly Detection, Fraudulent Claim Identification, Data
+Privacy and Document Verification.
+The growth of Digital Lending and Neobanks expands the scope of Regtech solutions to
+streamline compliance, manage operational risks and safeguard data security in the
+dynamic Digital Finance landscape.
+The expansion of NBFCs and inclusion of Urban Co-operative Banks under the RBI's
+regulatory ambit will lead to rising demand for Regtech solutions to ensure exhaustive
+compliance across the diverse financial entities. 
+The rise of e-commerce and associated digital frauds and data breaches amplify the need
+for Regtech solutions to maintain compliance with Consumer Protection rules and prevent
+fraudulent activities.
+With the DPDP Act 2023 emphasizing 'Privacy by Design' and 'Right to Be Forgotten', the
+demand for Regtech solutions from players like Seqrite specializing in Data Management,
+Automatic Reporting and Secure Data Erasure is surging in India's Digital Finance sector.
+6761
+cases
+8589
+cases
+7263
+cases
+9053
+cases
+13573
+cases
+52 | INDIAN ENTERPRISE FINTECH REPORT 2024
+All Figures are in USD
+145
+176
+13
+16
+7
+7
+ Source :
+RBI & The Digital Fifth Analysis
+1
+1
+1
+
+Market opportunity of Regtech
+INTRODUCTION OF THE DPDP ACT
+To comply with the act, technology solutions are
+required for data discovery and to act as an end-to-
+end tool for managing the consent framework,
+enabling financial institutions to manage personal
+data seamlessly across backend applications through
+a single interface.
+VENDOR RISK MANAGEMENT IN FOCUS
+RBI's 
+guidelines 
+are 
+transforming 
+the 
+financial
+landscape with banks and Fintechs increasingly
+embracing third-party vendors. The focus is shifting
+towards exhaustive Vendor Risk Management and
+operational resilience. 
+This shift amplifies the need for solutions like VRM
+platforms for precise third-party risk assessment, GRC
+platforms for seamless compliance, and resilience
+tools to fortify systems against disruptions.
+LEVERAGING AI FOR REGTECH SOLUTIONS
+As banks and financial institutions get data rich, they
+are building controls by analyzing and correlating
+information across different platforms, shaping a new
+way of compliance and risk management. 
+Amid the surge in AI, banks are actively exploring the
+adoption of Regtech solutions, leveraging AI models
+to 
+enhance 
+various 
+aspects, 
+including 
+risk
+management, 
+fraud 
+prevention, 
+automation,
+screening, and regulatory compliance.
+ADF REPORTING > CIMS
+RBI's transition from the legacy-based ADF reporting
+format to the more advanced CIMS indicates a
+modernized regulatory reporting shift with an aim to
+enhance data handling, integration capabilities and
+data integrity.
+This will drive the demand for CIMS Integration tools
+for system interface, Metadata Indexing for data
+searches, 
+Security 
+Management 
+Systems 
+for
+protection, Data Visualization and Analytics tools for
+insights and User Management Modules for user
+administration.
+RBI’S EXPANDING REGULATORY NET
+Growing regulatory oversight across the ecosystem is
+compelling not just banks, but Fintechs, LSPs, and
+other players to bolster their governance and
+compliance 
+frameworks, 
+leading 
+to 
+increased
+investment in Regtech solutions. 
+DIGITAL PAYMENTS SECURITY CONTROLS
+The RBI's focus on enhancing security controls for
+payments and digital infrastructure, from banks to
+Fintechs, is anticipated to drive demand for advanced
+security solutions addressing compliance and security
+requirements.
+The widespread adoption of Digital Payments, driven
+by UPI, has prompted the regulator to provide
+comprehensive Digital Payments Security Controls.
+Concurrently, the rise in cyber threats and fraud
+incidents demands the need for heightened security
+measures.
+The introduction of the DPDP 2023 Act mandates a
+strong governance framework for Data Collection and
+Consent Management, rigorous Data Protection
+Standards encompassing privacy and security and
+regulations for Cross-border Data Transfers.
+The RBI has been extending its regulatory net beyond
+banks to encompass Payment Gateways, Aggregators,
+and Digital Lending players. Additionally, there is an
+increased focus on governance around Bank-Fintech
+partnerships.
+53 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+Evolution of Regtech market
+2010 & Before
+Identity
+Management
+AML & Fraud Risk
+Management
+Cybersecurity
+Risk Management
+GRC
+This period was characterized by manual
+operations across all segments of Regtech.
+KYC and AML relied heavily on physical
+document verification. Fraud Detection was
+primarily reactive, relying on manual processes
+and consumer reports. Risk management was
+based on traditional risk models. 
+2011 - 2015
+2016 - 2020
+2021 - 2023
+Early stages of digital adoption were seen in
+KYC, AML, and risk management processes.
+Data analytics started being used in AML and
+fraud detection. Early stages of automation
+were seen in regulatory reporting and GRC
+management. Technology began to be used for
+risk modelling and analysis. 
+This period saw significant growth in the
+Regtech industry due to increased digital
+transactions 
+following 
+Demonetization,
+changes in policies such as the introduction of
+GST 
+and 
+collaboration 
+between 
+Fintech
+startups 
+and 
+established 
+FIs. 
+The
+establishment of a Regulatory Sandbox by the
+RBI in 2019 encouraged innovation, thus
+building confidence in the sector. 
+Emerging technologies were consolidated and
+used for Real-time Transaction Monitoring,
+Anomaly 
+Detection 
+and 
+Decision-making
+across all segments. 
+Predictive analytics and AI were used for Real-
+time Fraud Detection as well as advanced Risk
+Predictions and Mitigation.
+Regulatory
+Reporting
+54 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Note: This is not an exhaustive list and many players have multiple lines of business in various segments other than the ones mentioned.
+
+The increasing use cases of OCR, NLP and
+biometric authentication in Regtech open up
+new avenues. 
+As 
+regulatory 
+oversight 
+broadens 
+to
+encompass more entities, the demand for
+KYC solutions providers is expected to 
+increase. 
+As digitisation expands to MSME/SME from
+the Corporate segment, there's a growing
+need for enhanced identity verification to 
+streamline the somewhat manual or semi-digital KYC
+processes.
+Founder & CEO
+Think360.AI
+Amit Das
+Analytics will be employed by entities in different areas such
+that banks will enhance their operational efficiency with
+analytics, while fintech companies will concentrate on
+optimizing customer interactions and refining user journeys. It
+can also be used to create smart solutions like Intelligent
+routing and scheduling in KYC to ensure optimal customer
+experience and agent utilization.
+As digital services expand globally, Indian
+players like Perfios, Signzy and IDfy have
+begun to venture into Southeast Asia and the 
+Middle East, exemplifying wider geographical growth
+potential. 
+DRIVING INNOVATION IN THE VERIFICATION OF IDENTITIES
+CURRENT SCENARIO
+Aadhaar-based eKYC initiatives are catalyzing market
+growth and potential consolidation of KYC solutions.
+Startups are facilitating efficient KYC checks during
+onboarding by offering API-based systems that easily
+integrate into financial institutions' applications.
+KYC 
+providers 
+are 
+enhancing 
+their 
+capabilities 
+by
+incorporating features such as Liveness Checks, Location-
+based Verification and Facial Recognition into their systems
+through the extensive utilization of analytics.
+As banks and lenders persist in advancing digital customer
+acquisition and service, the expectation is for KYC
+providers to deliver a comprehensive suite of services to
+accommodate the needs of an even broader range of
+customers.
+Between 2019 and 2023, the RBI issued 12 KYC Master
+Directions and amendments, showcasing its commitment to
+customer protection while fostering an inclusive Digital
+Payment ecosystem.
+FUTURE OUTLOOK
+& OPPORTUNITIES
+Identity Management
+5A
+New-generation solutions are transformational for Regtech,
+allowing banks to build compliance journeys themselves
+without being limited by developer bandwidth. This unlocks
+speed, control, and scale for banks - the real bottleneck today
+is the need for scarce developer resources. Going forward, the
+highest application of Generative AI, apart from healthcare,
+will be in the Regtech segment to streamline onboarding &
+compliance processes.
+Co-Founder & Business Head
+Signzy 
+Arpit Ratan
+1.37B
+Aadhaar Cards issued
+Source: UIDAI 
+Data as of Dec’23
+17B
+E-KYC transactions
+Source: UIDAI
+Data as of Dec’23
+21M
+Udyog Aadhaar Registration
+Source: Ministry of MSME 
+Data as of Nov’23
+14M
+Active GST Taxpayers
+Source: Gst.gov.in 
+Data as of June’23
+430M
+PAN Cards linked to Aadhaar
+Source: PIB 
+Data as of Jan’22
+OCR - Optical Character Recognition | NLP - Natural Language Processing
+55 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+BEYOND PROTECTION: AML & FRM IN THE FINTECH ERA
+AML & FRM
+5B
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+As the complexities of AML increase, supervised ML
+algorithms are set to enable more efficient and
+tailored monitoring of business relationships.
+Vertical solutions focused on Real Estate, Precious
+Metals and Digital Assets will gain traction due to
+increased regulatory focus on these sectors.
+Data-led 
+intelligence-based 
+fraud 
+solutions 
+are
+expected to emerge to mitigate human vulnerabilities
+and combat fraud.
+Co-Founder & CEO 
+FinBox
+Abhishek Bali
+As regulatory measures in India widen, the demand for
+Regtech solutions is growing. The real potential lies in
+creating globally applicable RegTech products for
+smaller entities, not just large corporations. Many
+current 
+Regtech 
+applications 
+lack 
+cloud-native
+capabilities and scalability, hindering global expansion
+and adaptation to different regulations. Reputational
+risk due to non-compliance or association with shell
+entities is a major concern. Regulatory agencies often
+target large enterprises due to the significant effect of
+fines.
+AML / FRM PLAYERS
+PEP - Politically Exposed Person | NLP - Natural Language Processing | STR - Suspicious Transaction Reporting | COTS - Commercial Off The Shelf
+As regulatory scrutiny intensifies on AML
+compliance, banks and regulated entities are
+expanding their use of technology beyond basic
+Transaction Monitoring Systems to Data Assets
+provided by Regtech players. 
+Banks and regulated entities continue to grapple
+with challenges related to AML compliance and
+digital fraud, as evidenced by a sustained increase
+in AML-related fines and fraud incidents.
+The RBI’s recent Master Directions require banks
+to have Risk Systems for PEPs, Fund Checks,
+Account Approvals, Mule Detection, Suspect
+Transaction Reporting, Due Diligence for FATF
+Non-Compliance and adherence to FCRA rules.
+Solutions for predictive analytics and network
+analysis to enhance risk identification, uncover
+suspicious links and scrutinize unstructured data
+are required to strengthen AML/FRM strategies. 
+56 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Regtech, leveraging India's AML framework and
+employing NLP and Big Data, along with FRM
+providers' multi-factor, layered authentication
+and custom algorithms, offer a comprehensive
+solution for timely fraud detection.
+
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+NAVIGATING REGULATORY COMPLEXITY
+Governance, Risk & Compliance (GRC) & Reporting
+5C
+Banks have largely been using Risk Management solutions for
+individual purposes such as financial or liquidity risks.
+Cloud-based GRC solutions are gaining traction. They cater to industry-
+specific regulatory and risk needs such as financial risks and India's
+emerging data norms.
+Advanced analytical tools in GRC suites offer real-time risk and
+compliance data analysis as well as adaptability to regulatory changes
+Managed GRC services provide an all-inclusive solution, handling third-
+party risks and security breaches, leading to a growing appeal to
+businesses.
+The transition from ADF to CIMS by banks has led to an increased
+demand for real-time regulatory reporting.
+Ensuring data accuracy and quality is paramount as financial
+institutions increasingly prioritize Data Governance practices and Data
+Lineage to trace and validate the sources used in reports.
+NLP - Natural Language Processing 
+ERM technology stacks will be integrated into Risk Management solutions to
+evaluate risk positions, spot compliance gaps, manage incidents and policies as
+well as automate internal audit procedures.
+Due to the growing demand for enhanced reporting from regulators and the data
+extraction complexity resulting from Banks-Fintechs partnerships, Regtechs are
+anticipated to provide cloud-based Reporting-as-a-Service for improved reporting.
+Cyber Risk Quantification models will be leveraged to identify potential threats
+and evaluate risk-related metrics by creating unique InfoSec programs for risk
+remediation and security services. 
+With the rise in risk events and threat vectors, solutions based on NLP and Big
+Data Analytics are expected to grow and reshape Risk Management by offering
+precise assessments and proactive strategies. 
+57 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+Demand for AI-based solutions is rising with
+entities like Darktrace and Sequretek offering
+solutions 
+for 
+Real-time 
+Threat 
+Response,
+Enterprise 
+Security 
+and 
+Digital 
+Risk
+Quantification.
+Financial 
+institutions 
+are 
+shifting 
+towards
+outcome-focused, subscription-based managed
+services like Cloud SOCs, aiming for streamlined
+vendor management, cost reduction, and versatile
+platform solutions
+From January 2020 to March 2021, DDoS
+attacks surged by 55%, growing more complex
+with 54% using multiple attack vectors. 
+In 2022, India, which constitutes 13.7% of total
+global cyberattacks, saw attacks on government
+agencies doubled compared to the year 2021.
+Strategic partnerships are set to grow alongside the
+increasing number of Cybersecurity platforms which
+frequently combine products from various diverse vendors,
+integrating them into a unified offering. 
+Banks and FIs, to align with DPDP Act compliance,
+anticipate emerging tools for streamlined data discovery,
+storage, and retrieval across diverse banking systems,
+easing data lifecycle management complexities.
+The usage of enhanced security technologies like WAF, AM,
+EPP and SWG, which enable a more secure work
+environment, is expected to rise.
+The implementation of Zero Trust Architecture and Access
+Networks, which is preferred over traditional VPNs for
+secure access, is expected to increase.
+SECURING THE DIGITAL FRONTIER
+Cybersecurity
+5D
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+CYBERSECURITY PLAYERS
+Web Application Firewalls (WAF) | Access Management (AM) | Endpoint Protection Platform (EPP) | Secure Web Gateway (SWG) 
+Unauthorized Network Scanning/Probing
+Vulnerable Services
+Virus/ Malicious Code
+Website based threats
+Others
+Source: CERT-In Annual Report & The Digital Fifth Analysis
+Breakup of Security Incidents
+handled by CERT - In
+The cybersecurity landscape is shifting from
+legacy to modern tech, with entities like Pingsafe
+and ShieldSquare offering Cloud Security and API
+Protection solutions to secure complex digital
+structures and tackle newfound cyber threats. 
+58 | INDIAN ENTERPRISE FINTECH REPORT 2024
+F5.com
+1
+Source: 
+1
+CloudSEK
+2
+2
+
+6
+Segment received ~ USD 180M
+investment in the last 6 years
+Enterprise Wealthtech has potential for
+further growth
+Enabling end-to-end implementation
+and execution
+Demand for hybrid wealth
+solutions
+ENTERPRISE
+WEALTHTECH
+
+WEALTH MANAGEMENT PLATFORM
+Portfolio
+Management
+Trading
+Platform
+Robo
+Advisory
+MF
+Platform
+Wealth as a Service (WaaS) platforms offer a range of services as well
+as a technology stack that can be easily integrated to enable banks,
+Fintechs and third-party platforms to conveniently provide various
+wealth management products consisting of crucial elements like Robo-
+advisory, Mutual Fund Execution and Portfolio Planning. 
+WEALTH AS A SERVICE
+Data is as of Dec'23
+Source: Tracxn &The Digital Fifth Analysis
+SEGMENT
+Funding (USD M)
+2018
+2019
+2020
+2021
+2022
+2023
+0
+20
+40
+60
+80
+100
+9
+26
+21
+93
+34
+0
+60 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Enterprise Wealthtech Overview
+Wealth Management platforms offer end-to-end services such as
+Portfolio 
+Management, 
+Trade 
+Execution, 
+Onboarding 
+and
+Administration of MF and Demat accounts to financial institutions,
+advisory firms and wealth managers.  This category also includes
+individual components for specific services. 
+FUNDING ANALYSIS
+Enterprise 
+Wealthtech 
+received
+considerable 
+attention 
+from
+investors between 2020 and 2022
+to support product innovation and
+distribution. Considerable funding
+has gone to the WaaS players,
+while the Wealth Management
+sector experienced turbulence in
+funding. 
+In the overall Wealthtech space, 2023 witnessed USD 70M injected into B2C Wealthtech firms,
+indicating investor confidence in the overall segment as a whole.
+TOP MERGERS & ACQUISITIONS
+ACQUIRER
+SEGMENT
+ACQUIREE
+WMP
+WMP
+WaaS
+TOP FUNDED STARTUPS
+USD 71M
+WaaS
+USD 42M
+WMP
+USD 19M
+WaaS
+USD 4.5M
+WMP
+USD 44M
+WaaS
+STARTUP
+FUNDED AMOUNT
+SEGMENT
+Insurance
+Wealth
+Wealth
+Accessible investment platforms,
+aimed at beginner investors, which
+are 
+low-entry, 
+intuitive 
+and
+educational 
+HIGH
+LOW
+HIGH
+LOW
+HIGH
+LOW
+VOLUMES 
+MARKET 
+PENETRATION
+TECH
+SUPPORT
+MASS
+MASS
+AFFLUENT
+HNI/ UHNI
+Personalized 
+Financial 
+Planning
+offering AI-driven advice and goal-
+oriented strategies
+Bespoke 
+Wealth 
+Management
+services 
+and 
+Alternative
+Investments 
+with 
+sophisticated
+analytics 
+ENTERPRISE WEALTHTECH
+OPPORTUNITIES
+HIGH
+LOW
+HIGH
+LOW
+HIGH
+LOW
+HIGH
+LOW
+HIGH
+LOW
+HIGH
+LOW
+Data as on Dec'23 | Source: Tracxn and The Digital Fifth Analysis
+
+GOVERNMENT INITIATIVES & REGULATORY SUPPORT
+India
+China
+USA
+0
+20
+40
+60
+80
+100
+120
+140
+AUM to GDP Ratio
+Discount Broking has changed the dynamics of the industry and led the shift from
+brokerage-based income to fee-based income. 
+AIFs have gained momentum as investors chase higher returns and diversified portfolios.
+There has been a 476% increase in commitments- from USD 63B in FY'18 to USD 363B in
+FY'23. 
+With the younger population opting for equities, there has been considerable rise in both
+the quantity of Demat accounts within NSDL as well as the total worth of assets held.
+57% in volume of Demat accounts from 17M (FY'18) to 26.7M (FY'22)
+79% in value held in these Demat accounts from USD 2096B (FY'18) to USD 3756B
+(FY'21)
+The Wealthtech sector has witnessed players pivoting from B2C to the Enterprise segment
+or operating with dual capacity.
+Lack of revenue pool in Mutual Fund Distribution: Direct Mutual Funds hold a significant
+share in the retail market. However, several smaller players have shut down due to
+inadequate monetization avenues
+MARKET DYNAMICS
+61 | INDIAN ENTERPRISE FINTECH REPORT 2024
+India’s Changing Wealth Dynamics
+Source: Digital Fifth Analysis 
+India’s mindset towards investing and saving is undergoing a transition driven by growth in disposable incomes, growing
+knowledge regarding financial products as well as increasingly accessible ways to invest in FDs and gold to market-linked
+investments, primarily. 
+The AUM of the Mutual Fund (MF) industry surged from USD 263B in FY’18 to USD 487B in FY’23, marking an impressive 80%
+increase over the span of five years. 
+The HNI and UHNI segments grew by 64% and 84% respectively between 2016 to 2021, leading to increased demand for
+Wealth Management services.
+1
+2
+3
+PIB, Government of India
+1
+The Knight Frank Sizing Model 2022
+2
+SEBI & The Digital Fifth Analysis 
+3
+New-age players are looking to build platforms to make Wealth Management affordable
+and accessible to retail investors at large. 
+Introduction to Bonds: The regulator is increasing support for
+Online Bond platforms and has also issued licenses.
+SEBI has created guidelines for securities market participants
+to join Account Aggregator, allowing consolidated financial
+asset views with client consent. It will eliminate the challenge
+of Wealthtech players of having to use different resources to
+build a financial portfolio. 
+KYC regulations have been aligned for digital onboarding. 
+The regulator has introduced T+1 settlement from January
+2023 and is further planning for instant settlement.
+SEBI's 
+Sandbox 
+for 
+innovation 
+enables 
+controlled
+experimentation 
+of 
+cutting-edge 
+Wealthtech 
+solutions,
+fostering innovation and growth in the Securities market.
+SEBI has launched the "Saa₹thi" app to offer investor
+education on the Securities Market, KYC, Trading, Mutual
+Funds, etc. 
+AUM of Mutual Funds
+Value in USD B
+2018
+2019
+2020
+2021
+2022
+0
+100
+200
+300
+400
+500
+Source: SEBI & The Digital Fifth Analysis 
+294
+264
+275
+388
+464
+15%
+22%
+122%
+Source:
+
+62 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Market Opportunity for Enterprise Wealthtech
+SURGE IN DEMAND FOR ALTERNATIVE INVESTMENTS
+Considering investors' continued growing interest in
+AIFs and the limited capabilities within existing
+platforms, enterprise Wealthtech firms building a
+supporting technology stack are expected to grow to
+manage the entire value chain of various AIF products.
+TRANSFORMATIVE SHIFT TOWARDS
+CROSS-BORDER INVESTING 
+This shift reflects the growing interest among Indian
+investors to explore and engage in international
+markets for portfolio diversification, risk management
+and capitalizing on global opportunities.
+Enterprise Wealthtech firms have an opportunity to
+create 
+user-friendly 
+cross-border 
+investment
+platforms for Indian investors by navigating diverse
+market requirements and adapting to regulatory
+frameworks. 
+RISE OF TAILORED WEALTH MANAGEMENT
+There's 
+an 
+increasing 
+demand 
+for 
+customized
+investment strategies facilitated by digital platforms,
+reflecting 
+the 
+preference 
+for 
+tailored 
+Wealth
+Management services among clients.
+Enterprise Wealthtech has potential for tailored
+investment advice and meeting diverse investor needs
+with personalized portfolio recommendations.
+CUSTOMIZED ANALYTICS FOR
+STREAMLINED REPORTING
+Enterprise Wealthtech can tap into this opportunity
+by creating a data-driven layer atop disconnected
+platforms, 
+unlocking 
+integration 
+and 
+fostering
+innovation.
+DEMOCRATISATION OF WEALTH SOLUTIONS
+Democratization of assets is anticipated to open
+access to these asset classes. Enterprise Wealthtech
+platforms 
+design 
+products 
+through 
+asset
+fractionalisation, pooling of funds and facilitating
+price discovery to make these investments more
+accessible.
+The majority are unable to invest in certain asset
+products such as Private Equity funds, Hedge funds,
+PMS, etc. due to their complexity, substantial
+investment requirements and a heavy reliance on
+advisors.
+Increasing demand for alternative funds, including
+Hedge Funds, Gold ETFs, REITs, InvITs necessitates
+adaptability 
+in 
+Wealth 
+Management 
+platforms.
+Investors seeking diversification drive this shift.
+Creating customized reports to offer in-depth insights
+into portfolios has been a major challenge for many
+Wealth Management firms. This is mainly due to the
+presence of disconnected platforms that cater to
+different asset classes.
+
+Evolution of Enterprise Wealthtech Market
+Before 2010, Wealth Management was done
+manually through face-to-face interactions
+with high-net-worth clients. 
+Basic 
+software 
+existed 
+for 
+portfolio
+management, but it was cumbersome and
+lacked user-friendly interfaces. 
+Automation 
+and 
+data 
+analysis 
+were
+rudimentary, offering limited insights.
+2010 & Before
+2011 - 2015
+2016 - 2020
+2021 - 2023
+Wealth
+Management 
+Platform
+WaaS
+In 
+this 
+era, 
+robo-advisors 
+disrupted
+Wealthtech, using algorithms for automated
+investment advice accessible to a wider
+clientele. 
+Wealth Management platforms improved user
+interfaces, elevating the digital experience. 
+WaaS expanded, integrating tools like financial
+planning and retirement calculators.
+Wealthtech embraced AI and machine learning
+for personalized investment advice. 
+Hybrid models combined Robo-advisors with
+human 
+advisors, 
+offering 
+tailored
+recommendations. 
+This allowed clients to access both automated
+and personalized advice based on their
+preferences.
+Wealth Management platforms evolved to
+holistic 
+financial 
+wellness 
+hubs, 
+offering
+diverse services like tax optimization, will
+planning, etc. 
+Companies are integrating advanced analytics
+and AI layers into existing solutions to offer
+customised investment strategies aligned with
+clients' goals and risk preferences
+63 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Note: This is not an exhaustive list and many players have multiple lines of business in various segments other than the ones mentioned.
+Though Trading platforms constitute a significant segment, are not included in this report due to the presence of limited players. 
+Note: 
+
+EVOLVING LANDSCAPE AND EXPANDING INTO MASS AFFLUENT
+Wealth Management Platform
+6A
+64 | INDIAN ENTERPRISE FINTECH REPORT 2024
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+Co-Founder 
+Fisdom
+Subramanya SV
+As we explore the landscape of wealth management
+platforms in India, there is a paradigm shift towards an
+integrated and digitized future. The growing demand for
+advisory services and the evolution of regulatory
+technology presents a significant market opportunity.
+Banks are well-positioned to provide comprehensive
+portfolio management solutions, fostering holistic
+financial well-being for their customers. The road ahead
+is about overcoming challenges to offer an all-
+encompassing financial ecosystem that simplifies access
+and ensures compliance.
+Traditional providers have primarily offered
+monolithic architecture-based core Mutual Fund
+platforms for their backend operations, coupled
+with integration layers connecting to RTAs and
+AMCs.
+Full-service Wealth firms have used multiple
+technology stacks to support various asset
+classes but have faced limitations in delivering
+integrated Portfolio Management services to
+customers.
+The growing trend of DIY and Robo-advisory
+services has gained considerable popularity,
+particularly within millienials.
+Recognizing the limitations of individual stacks
+offering either back-end or front-end solutions,
+many of these players ev﻿olved to provide
+comprehensive full-stack end-to-end Wealth
+Management solutions.
+With the adoption of India Stack, new-age
+Wealth firms have streamlined digital onboarding
+for both Mutual Funds and Equities, reducing the
+turnaround time from 3-7 days to just 10
+minutes.
+Equities and MFs reached the masses through
+tech interventions, but PMS and AIFs have largely
+remained limited to HNI/UHNI due to tech
+constraints and dependencies on third parties like
+custodians.
+HIGHEST FUNDED PLAYER
+The Wealth Management platform
+has raised USD 42M till Dec’23 
+With a growing number of available asset classes,
+Enterprise Wealthtech platforms are expected to offer
+solutions supporting onboarding and servicing, including 
+portfolio analytics for all asset products.
+As SEBI pushes for T+0 settlement, Wealth firms are
+expected to reassess and upgrade their core stack for
+both back-end and front-end operations.
+NSDL/CDSL and AMCs joining the Account Aggregator
+ecosystems create opportunities for Wealthtech firms and
+new solution providers to enhance data-driven customer 
+engagement and portfolio insights. 
+Wealth platforms are expected to develop technology
+capabilities to support new asset classes like PMS and
+AIFs while offering ancillary services such as Succession
+Planning.
+SEGMENT’S CURRENT SERVICES
+Portfolio
+Management 
+Analytics
+Discount Broking
+Foreign 
+Investment
+Social Trading
+Alternative 
+Investments
+Trading
+Succession Planning
+Micro Investment
+Asset Management
+Private Wealth
+Mutual Fund
+
+Founder & CEO
+Kristal.Ai
+Asheesh Chanda
+As we look ahead, the wealth management landscape in
+India is evolving towards a more hybrid model,
+combining 
+human 
+interactions 
+with 
+technology.
+Innovations like generative AI hold the promise of
+enhancing efficiency and personalization. Adoption and
+expansion of technology will help reach a wider
+customer base. The emergence of wealth-as-a-service
+platforms and wealth operating systems marks an
+evolutionary future for wealth management in the
+country. 
+HIGHEST FUNDED PLAYER
+The Wealth as a Service platform
+has raised USD 71M till Dec’23.
+As Embedded Finance gains traction, coupled with the
+growth of ONDC, non-financial players are likely to
+integrate WaaS and offer Wealth Management solutions 
+as a part of developing their full-stack platforms. 
+RIAs and independent Financial Advisors are expected to
+increasingly demand WaaS offerings, driven by a growing
+need for sophisticated portfolio analytics and 
+comprehensive financial planning resources.
+WaaS will shift focus from Portfolio Management to
+comprehensive Financial Planning solutions, addressing
+diverse client needs including Retirement Planning, Estate 
+Planning, Succession Planning and Tax Optimization.
+As Indians explore cross-border investments, WaaS
+providers simplify investment processes in international
+markets.
+FIs partner with WaaS providers to co-create
+innovative financial solutions, leveraging the
+technological 
+expertise 
+and 
+API-driven
+architecture of these platforms for streamlined
+Wealth Management.
+RESHAPING THE INDUSTRY FOR A LOCALIZED, PROFITABLE FUTURE
+Wealth-as-a-Service
+6B
+65 | INDIAN ENTERPRISE FINTECH REPORT 2024
+CURRENT SCENARIO
+FUTURE OUTLOOK & OPPORTUNITIES
+Several B2C Wealthtech firms have shifted focus
+to 
+construct 
+operational 
+WaaS 
+platforms,
+enabling banks to swiftly launch Wealth services
+for their customers.
+ARCHITECTURE
+WaaS providers have expanded their service
+portfolio beyond traditional offerings to include
+bonds and international markets. 
+By utilizing the offerings of WaaS platforms,
+enterprises can streamline Wealth Management
+processes, seamlessly integrating compliance
+measures into their service structures.
+WAAS
+AMC
+Exchange
+Custodians
+AIF
+MF
+Banks / Wealth Firms + Embedded Finance Players
+
+7
+The segment has received ~ USD 150M
+investment in the last 6 years
+Potential to provide “Insurance for All” by
+2047
+Government initiatives and health
+stack driving the market
+Growing demand for Embedded and
+Byte-sized Insurance
+ENTERPRISE
+INSURTECH
+
+Policy Administration platforms manage the entire lifecycle of the
+insurance policy, from creating and maintaining policies to pricing,
+managing renewals and administering claims.
+POLICY  ADMINISTRATION
+Underwriting platforms help insurers evaluate and set the prices of
+policies for their customers. They enable them to measure the risk
+accurately while saving money and time.
+UNDERWRITING
+Data is as of Dec'23
+Source: Tracxn &The Digital Fifth Analysis
+Funding (USD M)
+2018
+2019
+2020
+2021
+2022
+2023
+0
+20
+40
+60
+80
+100
+20
+9
+5
+96
+18
+5
+SEGMENT
+Enterprise Insurtech Overview
+Insurance-as-a-Service (IaaS) platforms offers plug-and-play services to
+Fintechs and Embedded Finance players in partnership with insurance
+firms. These services include Sales, Compliance, Policy Management
+and Claims Processing.
+IAAS
+Claims Management systems automate the process of filing, processing
+and settling insurance claims. They also help in organising claim details,
+assessing claims, handling documentation, preventing fraud and
+ensuring timely payouts.
+CLAIMS MANAGEMENT
+FUNDING ANALYSIS
+As the Enterprise Insurtech sector
+grows, the focus of funding is
+slowly shifting towards Insurance
+Infrastructure which needs major
+overhaul. 
+Policy Administration, Claims Management and Underwriting are poised to gain attention too as
+insurance companies are keen to improve their sales and operational efficiencies.
+TOP FUNDED STARTUPS
+USD 96M
+IaaS
+USD 9.4M
+IaaS
+USD 9 M
+Claims Management
+USD 6.7M
+IaaS
+USD 26.8M
+IaaS
+STARTUP
+FUNDED AMOUNT
+SEGMENT
+Insurance-as-a-Service 
+(IaaS)
+platforms have received significant
+investments. Notable examples of
+this are Zopper and Coverstack.
+TOP MERGERS & ACQUISITIONS
+ACQUIRER
+SEGMENT
+ACQUIREE
+IaaS
+Underwriting
+IaaS
+Insurance Marketplace
+SNAPSHOT - INSURANCE-IN-A-BOX
+EXTERNAL APIS
+Sales & Underwriting
+INSURANCE PLATFORMS
+Claims
+Policy Management
+Billing & Collection
+API INTEGRATION LAYER
+Solutions
+CORE COMPONENTS
+Authentication
+Security
+Compliance
+67 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Data as on Dec'23 | Source: Tracxn and The Digital Fifth Analysis
+
+India's Changing Insurance Dynamics
+Penetration of Indian Insurance
+(Premium as % of GDP)
+2018
+2020
+2022
+0
+1
+2
+3
+4
+5
+Source: IRDAI Annual Report 2021-22
+India ranked as the 10th largest Insurance market globally in 2021, and is expected to rise to the 6th position by
+2032. The total insurance premiums are expected to grow by an average of 14% annually over the next decade.
+Insurance density (per capita premium) in India has substantially grown from USD 78 in 2020-21 to USD 91 in
+2021-22. Insurance penetration (percentage of premium to GDP ratio) in India has grown to 4.2% in 2020-21. The
+growth of Insurance sector was partly due to the pandemic, which raised risk awareness and led to a surge in  
+demand.
+Life
+Non-Life
+2.76
+3.2
+2.82
+0.93
+0.94
+1
+3.69
+3.76
+4.2
+Insurance Density of India
+(Premium Per Capita in USD)
+2018
+2020
+2022
+0
+20
+40
+60
+80
+100
+Life
+Non-Life
+55
+69
+59
+18
+19
+22
+73
+78
+91
+MARKET DYNAMICS
+REGULATORY INITIATIVES
+Bima Sugam, set to be launched in June 2024, is an online platform to streamline insurance
+processes in India. It will integrate various insurance services, from policy purchase to claim
+settlement, allowing users to compare and purchase policies easily. The platform is designed
+to increase insurance accessibility and transparency.
+Bima Vahak is an initiative by the Insurance Regulatory and Development Authority of India
+(IRDAI) designed to increase insurance penetration, especially in rural areas of India. It
+involves appointing individuals and companies as Bima Vahaks who act similar to business
+correspondents in banking to sell and service insurance products. 
+IRDAI has increased the maximum FDI allowed in Indian Insurance Companies from 49% to
+74% and removed restrictions on the ownership and control of the company. 
+Regulators have introduced “use and file procedure” which allows an insurer to launch a
+product first and then file its details with the regulator. This move will help insurers in
+innovating faster and iterating rapidly.
+The Regulatory Sandbox initiative aims to build compliant, responsible and sustainable
+innovation within the insurance industry. This program provides a structured setting for
+insurers, Enterprise Insurtech platforms and intermediaries to validate new products and
+services.
+In 2021, India achieved the ninth position globally in the Life Insurance industry, holding a
+market share of 3.23%. The country saw a significant 14.16% increase in life insurance
+premiums, largely due to increased awareness of life insurance during a health crisis.
+Health premiums in India grew by 24.5% in the first half of 2023 compared to 2022, making
+the industry second only to life insurance.
+The Motor Insurance market is facing unique trends: while vehicle sales are booming,
+insurance growth is slower due to strong market competition. Nevertheless, digital insurers
+like Digit and Acko are quickly making strides in this challenging environment.
+The proportion of digital insurance sales facilitated by web aggregators has been on the rise,
+now constituting 30% of the total Digital Insurance Market.
+GOVERNMENT INITIATIVES
+Pradhan Mantri Fasal Bima Yojana (PMFBY) has led to significant growth in the premium
+income for crop insurance. Between 2018 and Nov 2023, 437M applications were received
+under the scheme and claims of about USD 16.86 B have been paid to farmers.
+Ayushman Bharat Pradhan Mantri Jan Arogya Yojana SEHAT scheme is the world’s largest
+health insurance/assurance scheme and provides a coverage of Rs 5 lakhs (USD 6,074) per
+year for each family. They can avail secondary and tertiary care at any hospital in India that is
+a part of this scheme.
+The Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) provides a risk coverage of Rs. 2
+lakhs (USD 2,429) in case of the insured person’s death, irrespective of the cause. 
+1
+2
+1
+3
+4
+5
+Source: 
+India’s Insurance Market Report, Swiss Re Institute
+1
+IRDAI Annual Report - 21-22
+2
+GIC Statistics
+3
+Invest India - Insurance Segment
+4
+Rajya Sabha Speech by Mr. Narendra Singh Tomar
+5
+2
+68 | INDIAN ENTERPRISE FINTECH REPORT 2024
+68 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+Market Opportunity of Enterprise Insurtech
+INTRODUCTION OF COMPOSITE LICENSE
+With the issuance of composite licenses, insurers
+would need platforms to handle these products
+cohesively. This will provide a huge opportunity for
+Enterprise Insurtechs to replace legacy platforms and
+build surrounding platforms.
+INCREASED HEALTH AWARENESS
+Increasing focus on fitness and self-care is driving
+innovation in health insurance products and services.
+Insurers 
+will 
+emphasise 
+the 
+introduction 
+of
+individualised 
+insurance 
+plans. 
+This 
+would 
+be
+implemented through the integration of telemedicine
+services, incentives for promoting wellness, and the
+utilization of AI for claims processing.
+NATIONAL HEALTH STACK (NHS)
+NHS is revolutionizing healthcare through digital
+infrastructure, unified health data, telemedicine,
+claims processing and insurance.
+NHS will use open standards and avoid platform lock-
+in. Players will have to bring APIs to help providers
+get consent from consumers for data sharing, which
+will eventually act as an AA for insurance.
+EMERGENCE OF EMBEDDED INSURANCE
+Embedded Insurance is evolving rapidly as non-
+traditional players integrate insurance services into
+their value chains, reshaping the industry.
+Embedded Insurance is poised to unlock substantial
+prospects for IaaS providers, but it will also entail the
+overhaul of outdated legacy platforms used for Policy
+Management, Claims Processing and Underwriting.
+BIMA SUGAM
+Bima Sugam, a unified marketplace, will be a part of
+India 
+Stack, 
+requiring 
+Insurtechs 
+to 
+develop
+technology to integrate with this portal. It will help
+enhance 
+issuance 
+and 
+claims 
+processing 
+and
+streamline the insurance journey as well.
+IRDAI PLANS TO ISSUE 15+ NEW LICENSES
+IRDAI aims to provide 15+ additional license
+approvals 
+to 
+new 
+insurance 
+companies 
+soon,
+indicating a positive outlook for the Enterprise
+Insurtech sector.
+IRDAI approved the applications of two life insurance
+companies - Acko Life Insurance Ltd. and Credit
+Access Life and Insurance Ltd. - and one general
+insurer - Kshema General Insurance Ltd. earlier in
+2023.
+An amendment to the composite license would allow
+insurance companies to offer multiple insurance
+products (Life, General and Health) under a single
+license.
+The BIMA SUGAM portal will make insurance more
+accessible and convenient, similar to how UPI
+simplified payments. 
+69 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+2010 & Before
+2011 - 2015
+2016 - 2020
+2021 - 2023
+Insurance-as-a-
+Service (IaaS)
+Policy
+Administration
+Claims
+Management
+Underwriting
+Evolution of the Enterprise Insurtech Industry
+Indian Enterprise Insurtech market was limited
+to a few players that offered traditional
+products and services.
+The market witnessed the emergence of
+Enterprise Insurtech startups supported by
+limited funding.
+With the growing popularity of Digital Insurance
+in India, there was a surge in the use of
+platforms for issuing policies and settling claims.
+This trend led to an influx of multiple startups
+across various segments of the market.
+Though IaaS has experienced notable adoption
+and financial backing, there remains a need for
+investors to pump money into this segment to
+boost growth of the Insurtech segment as a
+whole.
+LIMTED TRACTION
+70 | INDIAN ENTERPRISE FINTECH REPORT 2024
+Note: This is not an exhaustive list and many players have multiple lines of business in various segments other than the ones mentioned.
+
+Chief Technology Officer
+Zopper
+Bragadish Sureshkumar
+Innovations in the insurance sector, powered by AI, ML,
+and 
+Insurtech 
+startups, 
+hold 
+the 
+potential 
+to
+revolutionize 
+the 
+industry. 
+Our 
+commitment 
+to
+embracing these advancements positions us to simplify
+insurance, elevate customer experiences, and introduce
+game-changing products that adapt to the evolving
+market – a transformative journey for the insurance
+landscape.
+HIGHEST FUNDED PLAYERS
+Insurance as a Service
+7A
+Insurers and brokers will shift their focus from
+operational 
+efficiency 
+to 
+a 
+customer-centric
+ecosystem that offers products based on data 
+analytics and behavioural insights with IaaS driving customer
+engagement.
+IaaS providers are set to deliver comprehensive
+solutions for Embedded Finance players covering the
+entire spectrum from Sales and Service Provision 
+to Claims Management and Policy Renewal.
+With the introduction of composite licenses, players
+will need an IaaS platform capable of offering an array
+of products (Life, Health, Motor, etc.) in a unified 
+manner, allowing for the implementation of bundled sales
+strategies tailored to specific customer requirements.
+IaaS platforms will innovate to cater to the needs of
+emerging customer segments such as gig workers
+(independent contractors or freelancers), micro-SMEs
+and low-income groups who require flexible, affordable, and
+customized insurance solutions.
+FUTURE OUTLOOK & OPPORTUNITIES
+DRIVING EMBEDDED INSURANCE PLAY IN THE COUNTRY
+CURRENT SCENARIO
+Insurance companies are embracing a plug-
+and-play insurance model. They can now
+integrate smoothly with customer-oriented
+platforms like e-commerce entities. This lets
+them add insurance directly into the
+customer’s shopping experience, improving
+ease of access and convenience.
+IaaS has been the leading recipient of
+funding in the Enterprise Insurtech sector,
+attracting 
+nearly 
+90% 
+of 
+the 
+total
+investment.
+As Regulatory Sandboxes foster innovation
+and insurance companies respond to the
+sophisticated needs of their customers,
+niche offerings like Pay-per-use are gaining
+momentum. This trend necessitates the use
+of IaaS services to effectively engage with
+the consumers.
+Well-funded players are now beginning to
+explore international markets, leveraging
+their capital and expertise to expand their
+global footprint. 
+IaaS
+USD 96M
+USD 26.8M
+71 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+Co-founder & COO
+Actyv.ai 
+Ramkumar Thirumurthi
+The insurance sector will see growth with byte-size
+insurance available for the short term primarily driven by
+technology enablement, insurance will grow with cross-
+selling and mandating insurance in India for various use
+cases. Insurance companies are revamping and will
+continue to expand their technology capabilities to
+penetrate the insurance market deeper in India and
+improve the overall value chain.
+Policy Administration & Underwriting
+7B
+FUTURE OUTLOOK & OPPORTUNITIES
+ANALYTICS PLAYERS DIVERSIFYING INTO THE INSURTECH SECTOR
+CURRENT SCENARIO
+Policy Administration
+Underwriting
+Most insurers have a technology debt due to
+their outdated systems. The need to modernise
+coupled with the need to integrate with
+Embedded Finance players is driving insurers to
+modernise their core platforms.
+Traditional insurers still depend on manual
+underwriting, a time-consuming process. The
+industry is now digitizing this with the
+introduction of analyzers and rule engines, thus
+streamlining 
+and 
+accelerating 
+underwriting
+processes.
+The trend for Policy Administration Systems is
+moving towards personalizing policies and
+pricing to align with specific user behaviours
+and 
+preferences. 
+Generative 
+AI 
+will 
+be
+leveraged to digest and interpret large datasets.
+Generative AI is boosting the Underwriting
+sector. Some industry players are using new
+tools based on GenAI, such as Pi-ingest by
+Pibit.ai. 
+Policy Administration
+Underwriting
+Insurers must decide whether to change or add new
+technologies to their systems. They will probably use two
+systems (one for new products and another for old ones) 
+to manage their policies. This means they would be required to
+connect new technologies with their old system.
+This segment might grow sluggishly due slower digital
+adoption in policy administration by insurers
+Insurers have a tough time meeting the growing demand
+for cyber insurance. They also have to undertake fast and
+accurate Cyber Risk Assessments, which are not easy. 
+This opens up a big opportunity for Underwriting players to change
+the industry.
+Insurers can use alternate data sourced from telematics
+and IoT devices to underwrite more accurately and
+efficiently. However, this has not been adopted in a 
+widespread manner due to a few legal and technical barriers to using
+this alternate data, leaving scope for innovation. 
+EMERGING TECHNOLOGIES
+Advanced
+Analytics
+Optical Character
+Recognition
+Robotic Process
+Automation
+Natural Language
+Processing
+Internet of
+Things
+Application
+Programming
+Interface
+Blockchain
+72 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+Director
+Probus Insurance 
+Rakesh Goyal
+Claims Management
+7C
+FUTURE OUTLOOK & OPPORTUNITIES
+FOCUS SHIFTS TOWARDS EFFICIENCY & CUSTOMER SATISFACTION
+CURRENT SCENARIO
+Many insurers are still stuck with older
+systems that make the claims process slow
+and complex, thus leading to long TATs and
+unsatisfactory customer experience.
+Brokers and Web Aggregators have also
+started providing Claim Assessment and
+processing from their platforms. This creates
+a demand for Claims Processing Software
+that can be deployed quickly. Plum’s e-
+reimburse tool (for reimbursement of claims)
+reduces the claims processing TAT from 7
+days to 1 hour.
+B2C entities providing simplified claims
+resolution experience are gaining traction,
+and therefore attracting investors' interests
+too. For example, ClaimBuddy is a service
+that helps customers with their health
+insurance claims.
+National Health Authority (NHA) is introducing the
+National Health Claims Exchange (NHCX), a digital
+infrastructure for claims processing. This initiative 
+aims to standardize the claims processing system, necessitating
+insurers and hospitals to integrate a technology stack compatible
+with the processes defined by NHCX. Startups can build to meet
+the upcoming need for integration of health providers and
+insurers with NHCX. 
+There is an opportunity to build Claims-as-a-Service
+(CaaS) platforms for insurers to offer a full-stack
+claims service offering which would include a 
+Customer Engagement layer, Data, Verification, Settlement and
+Fraud Detection.
+In the future, insurance companies are likely to shift
+their 
+focus 
+towards 
+designing 
+products, 
+while
+operations and claims management may be handled by
+other 
+entities, 
+such 
+as 
+insurance 
+brokers 
+or
+independent third-party companies. This transition
+could lead to significant cost savings and improved
+customer service, as technology-driven insurance
+players become more like quasi-insurance companies,
+effectively managing various aspects of the insurance
+business, including operations, claims tracking, and
+distribution.
+HIGHEST FUNDED PLAYERS
+Claims Management
+USD 9 M
+USD 6.1M
+73 | INDIAN ENTERPRISE FINTECH REPORT 2024
+
+Disclaimer
+This document has been prepared for public information. For material used in this document, The Digital Fifth & Chiratae
+Ventures has relied upon external sources as well as in-house developed information. Reasonable care has been taken to
+prepare this document. However, The Digital Fifth & Chiratae Ventures does not accept any legal liability for the accuracy,
+completeness, and/or usefulness of any information in this document. All opinion expressed in this document by The Digital
+Fifth & Chiratae Ventures constitutes its judgement in relation to the matters that are subject to such material as at the date of
+publication, all of which are subject to change without notice.  The Digital Fifth & Chiratae Ventures is not obliged to update
+this document in any form. Readers are responsible for assessing the relevance and accuracy of the content of this document.
+The opinion or expression made by The Digital Fifth & Chiratae Ventures in this document, should not in any manner, be
+construed as a solicitation or endorsement of any offer for purchase or sale of any financial transaction, commodities, or
+products of any financial instrument referred therein.
+This document does not purport to represent the views of the companies mentioned in the document. Reference herein to any
+specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise, does not necessarily
+constitute or imply its endorsement, recommendation, or favoring by The Digital Fifth & Chiratae Ventures.
+No part of this material may be duplicated or copied in whole or in part in any form and distributed without the prior written
+consent of The Digital Fifth & Chiratae Ventures.
+
+CONTACT US
+SREEKANT RUDRABHATLA
+98671 67676
+SREEKANT@THEDIGITALFIFTH.COM
+MANDEEP JULKA
+MANDEEP@CHIRATAE.COM 
